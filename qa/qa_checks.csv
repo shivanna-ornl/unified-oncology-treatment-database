@@ -1,0 +1,18 @@
+check,observed_issues,expected_issues,status,requirement
+drug_synonym_id_multiple_anchors,0,0,PASS,A synonym ID identifies one anchor drug.
+drug_surface_multiple_anchors,0,0,PASS,A normalized drug synonym identifies one compatible anchor.
+drug_synonym_blank_or_sentinel,0,0,PASS,Blank and literal-null drug synonyms are excluded.
+drug_exact_rxnorm_target_conflict,0,0,PASS,An exact RxNorm ingredient agrees with its public IN/MIN anchor.
+canonical_drug_not_in_or_min,0,0,PASS,Public canonical drugs are only IN or MIN concepts.
+drug_synonym_orphan_anchor,0,0,PASS,Every drug synonym target exists.
+anchor_drug_source_orphan,0,0,PASS,Anchor-drug provenance foreign keys resolve.
+drug_synonym_source_orphan,0,0,PASS,Drug-synonym provenance foreign keys resolve.
+regimen_synonym_id_multiple_anchors,0,0,PASS,A regimen synonym ID identifies one regimen.
+regimen_surface_multiple_anchors,0,0,PASS,A normalized regimen synonym identifies one regimen.
+regimen_synonym_blank_or_sentinel,0,0,PASS,Blank and literal-null regimen synonyms are excluded.
+regimen_synonym_orphan,0,0,PASS,Regimen-synonym foreign keys resolve.
+regimen_source_exact_duplicates,0,0,PASS,Regimen_Source contains no exact duplicate rows.
+regimen_source_orphan,0,0,PASS,Regimen provenance foreign keys resolve.
+regimen_drug_orphan,0,0,PASS,Every regimen-drug and provenance foreign key resolves.
+conditions_regimen_or_source_orphan,0,0,PASS,Condition associations reference valid regimens and sources.
+clinical_trial_source_orphan,0,0,PASS,Clinical-trial provenance references a valid source.

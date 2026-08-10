@@ -1,0 +1,5479 @@
+anchor_drug_id,canonical_rxcui,canonical_drug_name,canonical_tty
+1,2169961,(4-(trifluoromethoxy)phenyl)urea,IN
+2,1360626,"(all-z)-4,7,10,13,16-docosapentaenoic acid",IN
+3,1798386,"1,1'-oxybis(2-propanol)",IN
+4,1487139,"1,1,2,2-tetrafluoroethane",IN
+5,1362577,"1,2,6-hexanetriol",IN
+6,1367191,"1,2-dibromo-3-chloropropane",IN
+7,2119816,"1,2-dilinoleoyl-sn-glycero-3-phosphocholine",IN
+8,1426933,"1,2-distearoyllecithin",IN
+9,1549115,"1,2-docosahexanoyl-sn-glycero-3-phosphoserine",IN
+10,1362584,"1,2-hexanediol",IN
+11,1549117,"1,2-icosapentoyl-sn-glycero-3-phosphoserine",IN
+12,1363571,"1,2-octanediol",IN
+13,2385341,"1,3-bis((1-methylethyl)amino)propan-2-ol",IN
+14,2548035,"1,3-butadiene",IN
+15,1310542,"1,3-butylene glycol",IN
+16,1363030,"1,3-propanediol",IN
+17,319868,"1,4-benzoquinone",IN
+18,1307571,"1,4-sorbitan",IN
+19,1591920,1-(c14-c18 esteroyl)-2-docosahexanoyl-sn-glycero-3-phosphocholine,IN
+20,1591921,1-(c14-c18 esteroyl)-2-docosahexanoyl-sn-glycero-3-phosphoethanolamine,IN
+21,2469243,1-chloro-2-methyl-1-propene,IN
+22,1426374,1-glyceryl monooleate,IN
+23,1305552,1-methyl-2-pyrrolidinone,IN
+24,2287736,1-o-tetradecylglycerol,IN
+25,12166,1-octacosanol,IN
+26,1487826,1-octanol,IN
+27,1440971,1-palmitoyl-2-oleoyl-sn-glycero-3-(phospho-rac-(1-glycerol)),IN
+28,1362872,1-propanol,IN
+29,5542,17-alpha-hydroxyprogesterone,IN
+30,2642189,2'-deoxyadenosine,IN
+31,2642210,2'-deoxyguanosine,IN
+32,1733688,2'-fucosyllactose,IN
+33,1306112,"2,2'-dithiobisbenzothiazole",IN
+34,1368138,"2,2-bis(4-glycidyloxyphenyl)propane",IN
+35,2267021,"2,2-bis(4-hydroxy-3-tert-butylphenyl)propane",IN
+36,2288812,"2,3-dichloro-5,6-dicyanobenzoquinone",IN
+37,1546352,"2,3-dimercapto-1-propanesulfonic acid",IN
+38,2049985,2-(cyclohexylamino)ethanesulfonic acid,IN
+39,1428832,2-(l-menthoxy)ethanol,IN
+40,2360130,2-(n-morpholino)ethanesulfonic acid,IN
+41,1665683,2-amino-5-nitrothiazole,IN
+42,1740241,2-aminophenol,IN
+43,2286250,"2-chloro-4,5-dimethylphenol",IN
+44,1733674,2-deoxyglucose,IN
+45,1314365,2-ethoxyethanol,IN
+46,1546353,2-ethylhexyl 4-phenylbenzophenone-2'-carboxylate,IN
+47,1313732,2-ethylhexyl benzoate,IN
+48,1362692,2-hydroxyethyl methacrylate,IN
+49,1358845,2-mercaptobenzothiazole,IN
+50,1546354,2-mercaptoethanesulfonic acid,IN
+51,1367166,2-methyl-4-isothiazolin-3-one,IN
+52,2372437,2-nitropropane,IN
+53,2533837,2-octyl cyanoacrylate,IN
+54,1362739,2-tert-butylhydroquinone,IN
+55,1603521,"3,3'-diindolylmethane",IN
+56,14448,3-iodobenzylguanidine,IN
+57,1484499,3-n-butylphthalide,IN
+58,74,4-aminobenzoic acid,IN
+59,7832,4-aminohippuric acid,IN
+60,1435279,4-aminophenol,IN
+61,1485787,4-coumaric acid,IN
+62,15027,4-dimethylaminophenol,IN
+63,1649527,4-hydroxybenzoic acid,IN
+64,2692023,4-methyl-5-thiazoleethanol,IN
+65,1362740,4-phenylenediamine,IN
+66,94,5-hydroxytryptophan,IN
+67,1313305,"5-hydroxytryptophan, dl-",IN
+68,15842,5-methoxypsoralen,IN
+69,15850,5-methyl-8-hydroxyquinoline,IN
+70,1313966,5-methyltetrahydrofolic acid,IN
+71,99,6-aminocaproic acid,IN
+72,1990418,7-aminodesacetoxycephalosporanic acid,IN
+73,1722234,8-epi-cyanocobalamin,IN
+74,190521,abacavir,IN
+75,1546887,abacavir / dolutegravir / lamivudine,MIN
+76,614534,abacavir / lamivudine,MIN
+77,284620,abacavir / lamivudine / zidovudine,MIN
+78,1921069,abaloparatide,IN
+79,2475532,abametapir,IN
+80,301739,abarelix,IN
+81,614391,abatacept,IN
+82,83929,abciximab,IN
+83,1946825,abemaciclib,IN
+84,1311600,abetimus,IN
+85,1100072,abiraterone,IN
+86,2645240,abiraterone / niraparib,MIN
+87,2591476,abrocitinib,IN
+88,1986808,acalabrutinib,IN
+89,82819,acamprosate,IN
+90,16681,acarbose,IN
+91,149,acebutolol,IN
+92,16688,acecarbromal,IN
+93,2721766,aceclidine,IN
+94,16689,aceclofenac,IN
+95,1426379,aceglutamide,IN
+96,1426875,acemannan,IN
+97,16695,acemetacin,IN
+98,2613559,aceneuramate,IN
+99,154,acenocoumarol,IN
+100,155,acepromazine,IN
+101,161203,aceprometazine,IN
+102,1310546,acesulfame,IN
+103,1311137,acetaldehyde,IN
+104,2475952,acetamide,IN
+105,161,acetaminophen,IN
+106,466584,acetaminophen / aspirin / caffeine,MIN
+107,214130,acetaminophen / butalbital / caffeine,MIN
+108,1007119,acetaminophen / chlorpheniramine / dextromethorphan / phenylpropanolamine,MIN
+109,817579,acetaminophen / codeine,MIN
+110,214183,acetaminophen / oxycodone,MIN
+111,214156,acetaminophen / pamabrom / pyrilamine,MIN
+112,352362,acetaminophen / tramadol,MIN
+113,164,acetate,IN
+114,167,acetazolamide,IN
+115,236300,acetiamine,IN
+116,168,acetic acid,IN
+117,1370450,acetic anhydride,IN
+118,173,acetohexamide,IN
+119,16728,acetohydroxamic acid,IN
+120,178,acetone,IN
+121,16735,acetophenazine,IN
+122,2467143,acetophenone,IN
+123,16784,acetoxolone,IN
+124,1490796,acetyl coenzyme a,IN
+125,1314329,acetyl hexapeptide-8,IN
+126,193,acetylcarnitine,IN
+127,194,acetylcholine,IN
+128,197,acetylcysteine,IN
+129,132871,acetyldigitoxin,IN
+130,200,acetylene,IN
+131,1362881,acetyltributyl citrate,IN
+132,15978,acexamic acid,IN
+133,16817,acipimox,IN
+134,16818,acitretin,IN
+135,239,aclarubicin,IN
+136,1303098,aclidinium,IN
+137,2205093,aclidinium / formoterol,MIN
+138,2716801,acoltremon,IN
+139,1441664,aconitine,IN
+140,2698312,acoramidis,IN
+141,1310280,acorus calamus extract,IN
+142,1309395,acorus calamus root extract,IN
+143,905070,acremonium strictum allergenic extract,IN
+144,249,acriflavine,IN
+145,89729,acrisorcin,IN
+146,19959,acrivastine,IN
+147,1368125,acrylamide,IN
+148,1364500,acrylate,IN
+149,133050,activated attapulgite,IN
+150,272,activated charcoal,IN
+151,1551571,acv tripeptide,IN
+152,281,acyclovir,IN
+153,2625882,adagrasib,IN
+154,327361,adalimumab,IN
+155,2670285,"adamts13, recombinant",IN
+156,60223,adapalene,IN
+157,16521,adefovir,IN
+158,290,adenine,IN
+159,296,adenosine,IN
+160,318,adenosine triphosphate,IN
+161,1099933,adenovirus type 4 vaccine live,IN
+162,1099937,adenovirus type 7 vaccine live,IN
+163,333,adiphenine,IN
+164,17050,adipic acid,IN
+165,45938,adrafinil,IN
+166,17073,adrenalone,IN
+167,2557217,aducanumab,IN
+168,2262250,afamelanotide,IN
+169,2690256,afamitresgene autoleucel,IN
+170,1430438,afatinib,IN
+171,2731469,aficamten,IN
+172,1232150,aflibercept,IN
+173,1442093,afoxolaner,IN
+174,2691830,agalsidase alfa,IN
+175,338817,agalsidase beta,IN
+176,1441428,agaric acid,IN
+177,2108820,agathosma betulina leaf oil,IN
+178,2665622,agatolimod,IN
+179,885183,agkistrodon piscivorus antivenin,IN
+180,1008507,agkistrodon piscivorus antivenin / crotalus adamanteus antivenin / crotalus atrox antivenin / crotalus scutulatus antivenin,MIN
+181,1310102,agrostis gigantea top extract,IN
+182,411,air,IN
+183,423,ajmaline,IN
+184,426,alanine,IN
+185,1359422,alanylglutamine,IN
+186,141440,alatrofloxacin,IN
+187,430,albendazole,IN
+188,1534763,albiglutide,IN
+189,828529,"albumin human, usp",IN
+190,317176,"albumin,aggregated",IN
+191,317177,"albumin,iodinated i-125 serum",IN
+192,314301,"albumin,iodinated i-131 serum",IN
+193,435,albuterol,IN
+194,214199,albuterol / ipratropium,MIN
+195,1000082,alcaftadine,IN
+196,108088,alclometasone,IN
+197,1305554,alcloxa,IN
+198,460,alcuronium,IN
+199,70223,aldesleukin,IN
+200,23161,aldioxa,IN
+201,1312358,aldosterone,IN
+202,1727455,alectinib,IN
+203,299635,alefacept,IN
+204,117055,alemtuzumab,IN
+205,46041,alendronate,IN
+206,1007560,alendronate / cholecalciferol,MIN
+207,644634,alexitol,IN
+208,12062,alfacalcidol,IN
+209,852634,alfalfa pollen extract,IN
+210,1926478,alfatradiol,IN
+211,1544577,alfaxalone,IN
+212,480,alfentanil,IN
+213,17300,alfuzosin,IN
+214,966692,algal fungi allergenic extract,IN
+215,595,algestone,IN
+216,1370451,alginate,IN
+217,17305,alginic acid,IN
+218,46049,alglucerase,IN
+219,629565,alglucosidase alfa,IN
+220,236219,alibendol,IN
+221,1659152,alirocumab,IN
+222,325646,aliskiren,IN
+223,81864,alitretinoin,IN
+224,17311,alizapride,IN
+225,852106,alkali blite pollen extract,IN
+226,1367187,all-trans-retinol,IN
+227,508,allantoin,IN
+228,2729790,allicin,IN
+229,516,allobarbital,IN
+230,2626471,allogeneic cultured keratinocytes and dermal fibroblasts in murine collagen,IN
+231,2626460,allogeneic processed thymus tissue,IN
+232,2700761,allogenic bone-marrow-derived mesenchymal stem cells,IN
+233,17354,alloin,IN
+234,519,allopurinol,IN
+235,897304,allscale pollen extract,IN
+236,17376,allyl sulfide,IN
+237,525,allylestrenol,IN
+238,1318494,allylthiourea,IN
+239,17387,alminoprofen,IN
+240,528,almitrine,IN
+241,279645,almotriptan,IN
+242,1441543,alnus glutinosa bark extract,IN
+243,1309503,aloe ferox leaf preparation,IN
+244,1309199,aloe vera flower extract,IN
+245,1306128,aloe vera leaf extract,IN
+246,1739980,aloe vera leaf polysaccharides,IN
+247,1368001,alogliptin,IN
+248,17392,aloglutamol,IN
+249,85248,alosetron,IN
+250,17393,aloxiprin,IN
+251,2169285,alpelisib,IN
+252,535,alpha 1-antitrypsin,IN
+253,237099,alpha tocopherol,IN
+254,560,alpha-amylase,IN
+255,1363429,alpha-arbutin,IN
+256,259351,alpha-d-galactosidase enzyme,IN
+257,1800492,alpha-d-glucopyranose,IN
+258,17511,alpha-ketoglutaric acid,IN
+259,2362183,alpha-pinene,IN
+260,1371307,alpha-terpineol,IN
+261,1995482,alpha-tocopheryloxyacetate,IN
+262,1376149,alpha-tocopherylquinone,IN
+263,594,alphaprodine,IN
+264,1307832,alpinia officinarum leaf extract,IN
+265,596,alprazolam,IN
+266,597,alprenolol,IN
+267,598,alprostadil,IN
+268,599,alseroxylon,IN
+269,8410,alteplase,IN
+270,17599,althiazide,IN
+271,1314612,altrenogest,IN
+272,5296,altretamine,IN
+273,221456,"alum, potassium",IN
+274,1311504,aluminum,IN
+275,17609,aluminum acetate,IN
+276,1546162,aluminum cation,IN
+277,46241,aluminum chloride,IN
+278,17610,aluminum chlorohydrate,IN
+279,1313224,aluminum chlorohydrex propylene glycol,IN
+280,612,aluminum hydroxide,IN
+281,1029441,aluminum hydroxide / magnesium carbonate,MIN
+282,17614,aluminum magnesium silicate,IN
+283,615,aluminum oxide,IN
+284,17618,aluminum phosphate,IN
+285,54989,aluminum potassium sulfate,IN
+286,543375,aluminum sesquichlorohydrate,IN
+287,1362917,aluminum silicate,IN
+288,46243,aluminum stearate,IN
+289,235461,aluminum subacetate,IN
+290,17621,aluminum sulfate,IN
+291,705058,aluminum sulfate / calcium acetate,MIN
+292,1306096,aluminum zirconium octachlorohydrex gly,IN
+293,1306097,aluminum zirconium pentachlorohydrate,IN
+294,1305899,aluminum zirconium pentachlorohydrex gly,IN
+295,1305896,aluminum zirconium tetrachlorohydrex gly,IN
+296,1370425,aluminum zirconium trichlorohydrex gly,IN
+297,17627,alverine,IN
+298,480639,alvimopan,IN
+299,620,amantadine,IN
+300,1363561,amaranthus hybridus pollen extract,IN
+301,623,ambenonium,IN
+302,1311393,amber,IN
+303,358274,ambrisentan,IN
+304,625,ambroxol,IN
+305,17652,amcinonide,IN
+306,626,amdinocillin,IN
+307,627,amdinocillin pivoxil,IN
+308,995754,american basswood pollen extract,IN
+309,905258,american cockroach allergenic extract,IN
+310,852054,american elm pollen extract,IN
+311,2106338,amifampridine,IN
+312,4126,amifostine,IN
+313,641,amikacin,IN
+314,644,amiloride,IN
+315,812786,amiloride / hydrochlorothiazide / timolol,MIN
+316,1426854,amiloxate,IN
+317,645,aminacrine,IN
+318,46276,aminaphthone,IN
+319,1311153,amino methacrylate copolymer,IN
+320,143980,aminobenzoate,IN
+321,677,aminoglutethimide,IN
+322,155002,aminolevulinate,IN
+323,683,aminolevulinic acid,IN
+324,1440266,aminometradine,IN
+325,1006397,aminopentamide,IN
+326,689,aminophylline,IN
+327,2462496,aminopromazine,IN
+328,1440268,aminopropazine fumarate,IN
+329,1440264,aminopterin,IN
+330,695,aminopyrine,IN
+331,17747,aminoquinuride,IN
+332,7833,aminosalicylic acid,IN
+333,703,amiodarone,IN
+334,46303,amisulpride,IN
+335,17763,amitraz,IN
+336,704,amitriptyline,IN
+337,2549199,amivantamab,IN
+338,46307,amlexanox,IN
+339,17767,amlodipine,IN
+340,214223,amlodipine / benazepril,MIN
+341,1009015,amlodipine / olmesartan,MIN
+342,1299884,ammonia,IN
+343,1424665,ammonio methacrylate copolymer type a,IN
+344,1312540,ammonium benzoate,IN
+345,1313309,ammonium bromide,IN
+346,1310190,ammonium carbonate,IN
+347,712,ammonium chloride,IN
+348,236220,ammonium salicylate,IN
+349,1441545,ammonium valerate,IN
+350,719,amobarbital,IN
+351,720,amodiaquine,IN
+352,1440270,amonafide,IN
+353,1440271,amoproxan,IN
+354,17804,amorolfine,IN
+355,2667256,amosulalol,IN
+356,722,amoxapine,IN
+357,723,amoxicillin,IN
+358,725,amphetamine,IN
+359,822929,amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate,MIN
+360,732,amphotericin b,IN
+361,733,ampicillin,IN
+362,228656,amprenavir,IN
+363,1006654,amprolium,IN
+364,739,amsacrine,IN
+365,1371051,amygdalin,IN
+366,1370452,amyl acetate,IN
+367,1311606,amyl cinnamal,IN
+368,742,amyl nitrite,IN
+369,236248,amylmetacresol,IN
+370,40660,amylocaine,IN
+371,1368128,amylopectin,IN
+372,1358956,anacardium occidentale fruit extract,IN
+373,2626723,anacaulase,IN
+374,596724,anagrelide,IN
+375,72435,anakinra,IN
+376,84857,anastrozole,IN
+377,140502,ancestim,IN
+378,772,ancrod,IN
+379,2045114,andexanet alfa,IN
+380,784,androstenedione,IN
+381,17881,anethole,IN
+382,820,anethole trithione,IN
+383,1309828,angelica archangelica root extract,IN
+384,1306167,angelica dahurica root extract,IN
+385,1307866,angelica sinensis root extract,IN
+386,1999003,angiotensin ii,IN
+387,2669473,anhydrovitamin a,IN
+388,341018,anidulafungin,IN
+389,2565265,anifrolumab,IN
+390,17933,anileridine,IN
+391,1441546,aniline,IN
+392,17939,aniracetam,IN
+393,90926,anise oil,IN
+394,17941,anisindione,IN
+395,89780,anisotropine,IN
+396,40028,anistreplase,IN
+397,898404,annual bluegrass pollen extract,IN
+398,2472152,ansuvimab,IN
+399,865,antazoline,IN
+400,873,anthralin,IN
+401,314504,anti-inhibitor coagulant complex,IN
+402,2631084,"antihemophilic factor (recombinant), fc-vwf-xten fusion protein",IN
+403,1311407,antimony,IN
+404,1546283,antimony cation (5+),IN
+405,1337969,antimony pentasulfide,IN
+406,981,antimony potassium tartrate,IN
+407,1423913,antimony triiodide,IN
+408,1316091,antimony trisulfide,IN
+409,1001,antipyrine,IN
+410,1009,antithrombin iii,IN
+411,1999574,apalutamide,IN
+412,1029,apazone,IN
+413,1368130,apigenin,IN
+414,1364430,apixaban,IN
+415,1043,apomorphine,IN
+416,360262,apple cider vinegar,IN
+417,1485785,apple fruit oil,IN
+418,283540,apple pectin,IN
+419,14845,apraclonidine,IN
+420,1492727,apremilast,IN
+421,358255,aprepitant,IN
+422,1318515,apricot kernel oil,IN
+423,1054,aprindine,IN
+424,2634355,aprinocarsen,IN
+425,17381,aprobarbital,IN
+426,2679059,aprocitentan,IN
+427,1056,aprotinin,IN
+428,905301,arabic gum allergenic extract,IN
+429,891502,arabica coffee bean allergenic extract,IN
+430,1716332,arachidate,IN
+431,1368625,arachidonate,IN
+432,26397,arbekacin,IN
+433,61609,arbutamine,IN
+434,1367175,arbutin,IN
+435,87866,ardeparin,IN
+436,304962,arformoterol,IN
+437,1305642,argan oil,IN
+438,15202,argatroban,IN
+439,1091,arginine,IN
+440,114464,arginine glutamate,IN
+441,1482633,arginine pyroglutamate,IN
+442,2694283,arimoclomol,IN
+443,89013,aripiprazole,IN
+444,1673265,aripiprazole lauroxil,IN
+445,852496,arizona ash pollen extract,IN
+446,852814,arizona cypress pollen extract,IN
+447,641465,armodafinil,IN
+448,283674,arnica flowers extract,IN
+449,285208,arnica montana extract,IN
+450,1306166,arnica montana flower extract,IN
+451,852170,arroyo willow pollen extract,IN
+452,18330,arsenic trioxide,IN
+453,1546382,arsenite ion,IN
+454,18343,artemether,IN
+455,1656306,artemisia annua leaf extract,IN
+456,1341384,artemisia vulgaris root extract,IN
+457,2367409,artemisinin,IN
+458,18346,artesunate,IN
+459,1321355,arthrospira platensis,IN
+460,592464,articaine,IN
+461,284622,articaine / epinephrine,MIN
+462,2584304,asciminib,IN
+463,1311127,ascophyllum nodosum extract,IN
+464,1370460,ascorbate,IN
+465,1151,ascorbic acid,IN
+466,1087405,ascorbic acid / biotin / copper sulfate / docusate / folic acid / iron carbonyl / vitamin b12 / vitamin e,MIN
+467,1007544,ascorbic acid / polyethylene glycol 3350 / potassium chloride / sodium ascorbate / sodium chloride / sodium sulfate,MIN
+468,1306933,ascorbyl glucoside,IN
+469,1370605,ascorbyl phosphate,IN
+470,784649,asenapine,IN
+471,1720259,asfotase alfa,IN
+472,1551574,asiatic acid,IN
+473,18405,asiaticoside,IN
+474,1156,asparaginase,IN
+475,1157,asparagine,IN
+476,1311524,aspartame,IN
+477,1169,aspartic acid,IN
+478,852339,aspen pollen extract,IN
+479,1329940,aspergillus flavus var. oryzae,IN
+480,1182,aspergillus fumigatus,IN
+481,1191,aspirin,IN
+482,214250,aspirin / caffeine,MIN
+483,466549,aspirin / caffeine / orphenadrine,MIN
+484,215451,aspirin / oxycodone hydrochloride / oxycodone terephthalate,MIN
+485,18451,astaxanthin,IN
+486,42328,astemizole,IN
+487,2532931,astragalus propinquus root polysaccharides,IN
+488,1652103,asunaprevir,IN
+489,2747209,atacicept,IN
+490,343047,atazanavir,IN
+491,1601653,atazanavir / cobicistat,MIN
+492,1202,atenolol,IN
+493,151195,atenolol / chlorthalidone,MIN
+494,1792776,atezolizumab,IN
+495,2677916,atidarsagene autotemcel,IN
+496,2737481,atinvicitinib,IN
+497,18475,atipamezole,IN
+498,2174524,atlantic halibut preparation,IN
+499,2571813,atogepant,IN
+500,2461338,atoltivimab,IN
+501,2461538,atoltivimab / maftivimab / odesivimab,MIN
+502,38400,atomoxetine,IN
+503,83367,atorvastatin,IN
+504,59639,atosiban,IN
+505,60212,atovaquone,IN
+506,284623,atovaquone / proguanil,MIN
+507,1305643,atractylodes japonica root oil,IN
+508,1307719,atractylodes lancea root extract,IN
+509,1218,atracurium,IN
+510,2710449,atrasentan,IN
+511,1223,atropine,IN
+512,214261,atropine / difenoxin,MIN
+513,594040,atropine / diphenoxylate,MIN
+514,214262,atropine / edrophonium,MIN
+515,465370,atropine / pralidoxime,MIN
+516,18516,attapulgite,IN
+517,1227,auranofin,IN
+518,4980,aurothioglucose,IN
+519,42547,aurothiomalate,IN
+520,852229,australian pine pollen extract,IN
+521,900750,austrian pine pollen extract,IN
+522,2645108,avacincaptad pegol,IN
+523,2572100,avacopan,IN
+524,2565814,avalglucosidase alfa,IN
+525,1291301,avanafil,IN
+526,2272107,avapritinib,IN
+527,2045726,avatrombopag,IN
+528,1875534,avelumab,IN
+529,1309702,avena sativa flowering top extract,IN
+530,1603834,avibactam,IN
+531,1603839,avibactam / ceftazidime,MIN
+532,1661561,avilamycin,IN
+533,2591797,aviscumine,IN
+534,45045,avobenzone,IN
+535,1311611,avocado oil,IN
+536,1427086,avotermin,IN
+537,2714515,avutometinib,IN
+538,2691526,axatilimab,IN
+539,1987398,axicabtagene ciloleucel,IN
+540,1242999,axitinib,IN
+541,1251,azacitidine,IN
+542,1307952,azadirachta indica flower extract,IN
+543,1307640,azadirachta indica leaf extract,IN
+544,2601502,azaperone,IN
+545,18600,azatadine,IN
+546,214265,azatadine / pseudoephedrine,MIN
+547,1256,azathioprine,IN
+548,18603,azelastine,IN
+549,1291859,azelastine / fluticasone,MIN
+550,618278,azelate,IN
+551,1114112,azficel-t,IN
+552,18609,azidocillin,IN
+553,1091643,azilsartan,IN
+554,1235143,azilsartan / chlorthalidone,MIN
+555,402580,azintamide,IN
+556,18631,azithromycin,IN
+557,1266,azlocillin,IN
+558,18651,azosemide,IN
+559,1272,aztreonam,IN
+560,18687,bacampicillin,IN
+561,2359256,bacillus amyloliquefaciens,IN
+562,1368371,bacillus anthracis strain v770-np1-r antigens,IN
+563,2600050,bacillus clausii,IN
+564,1311119,bacillus subtilis,IN
+565,1291,bacitracin,IN
+566,1363718,bacitracin methylene disalicylate,IN
+567,1292,baclofen,IN
+568,1807125,bacopa monniera whole extract,IN
+569,852673,bahia grass pollen extract,IN
+570,1592893,baicalein,IN
+571,1368134,bakuchiol,IN
+572,995747,bald cypress pollen extract,IN
+573,1297525,bald-faced hornet venom protein,IN
+574,2197842,baloxavir,IN
+575,2099995,baloxavir marboxil,IN
+576,18747,balsalazide,IN
+577,1998858,balsam peru oil,IN
+578,1014762,balsam poplar pollen extract,IN
+579,1367176,bambermycins,IN
+580,1372003,bamboo extract,IN
+581,1314332,bambusa vulgaris top extract,IN
+582,18751,bambuterol,IN
+583,1321,bamethan,IN
+584,18752,bamifylline,IN
+585,18753,bamipine,IN
+586,2463114,bamlanivimab,IN
+587,46795,barbexaclone,IN
+588,1325,barbital,IN
+589,2047232,baricitinib,IN
+590,1311067,barium,IN
+591,1331,barium sulfate,IN
+592,1006510,barley malt allergenic extract,IN
+593,1306883,barley malt syrup,IN
+594,196102,basiliximab,IN
+595,1306190,batilol,IN
+596,2743398,baxdrostat,IN
+597,1010879,bay leaf allergenic extract,IN
+598,1441386,bazedoxifene,IN
+599,1441391,"bazedoxifene / estrogens, conjugated (usp)",MIN
+600,76469,"bcg, live, connaught strain",IN
+601,221050,"bcg, live, tice strain",IN
+602,2592360,bebtelovimab,IN
+603,115238,becaplermin,IN
+604,18846,beclamide,IN
+605,1347,beclomethasone,IN
+606,2747290,beclomethasone / formoterol / glycopyrronium,MIN
+607,1364504,bedaquiline,IN
+608,253157,bee pollen,IN
+609,852419,beech pollen extract,IN
+610,972689,beef liver allergenic extract,IN
+611,1356,beeswax,IN
+612,1368204,behenate,IN
+613,1307569,beheneth-10,IN
+614,2387844,belantamab,IN
+615,2387834,belantamab mafodotin,IN
+616,1112973,belatacept,IN
+617,1092437,belimumab,IN
+618,1543543,belinostat,IN
+619,1306193,bellis perennis flower extract,IN
+620,2564025,belumosudil,IN
+621,2567226,belzutifan,IN
+622,280611,bemiparin,IN
+623,1306115,bemotrizinol,IN
+624,2282403,bempedoic acid,IN
+625,2283229,bempedoic acid / ezetimibe,MIN
+626,1361,benactyzine,IN
+627,18867,benazepril,IN
+628,214287,benazepril / hydrochlorothiazide,MIN
+629,1367,bencyclane,IN
+630,134547,bendamustine,IN
+631,1369,bendroflumethiazide,IN
+632,18880,benfluorex,IN
+633,1372,benorilate,IN
+634,18889,benoxinate,IN
+635,690060,benoxinate / fluorescein,MIN
+636,1373,benperidol,IN
+637,18891,benphothiamine,IN
+638,236749,benproperine,IN
+639,1989100,benralizumab,IN
+640,1374,benserazide,IN
+641,18896,bentiromide,IN
+642,1375,bentonite,IN
+643,134568,bentoquatam,IN
+644,1378,benzalkonium,IN
+645,690077,benzalkonium / lidocaine,MIN
+646,18923,benzarone,IN
+647,1385,benzbromarone,IN
+648,2637735,benzenesulfinic acid,IN
+649,1390,benzethonium,IN
+650,2690627,benzgalantamine,IN
+651,2001352,benzhydrocodone,IN
+652,1362885,benzimidazole,IN
+653,18994,benznidazole,IN
+654,70589,benzoate,IN
+655,1008811,benzoate / phenylacetate,MIN
+656,1399,benzocaine,IN
+657,214301,benzocaine / trimethobenzamide,MIN
+658,1406,benzoin resin,IN
+659,18993,benzonatate,IN
+660,18997,benzophenone,IN
+661,314521,benzoxiquine,IN
+662,236962,benzoxonium,IN
+663,1418,benzoyl peroxide,IN
+664,1422,benzphetamine,IN
+665,117896,benzquercin,IN
+666,19041,benzquinamide,IN
+667,19008,benzthiazide,IN
+668,1424,benztropine,IN
+669,1425,benzydamine,IN
+670,1426,benzyl alcohol,IN
+671,19044,benzyl benzoate,IN
+672,1311516,benzyl chloride,IN
+673,2374339,benzylamine,IN
+674,19075,benzylparaben,IN
+675,19079,benzylpenicilloyl polylysine,IN
+676,19084,benzylthiouracil,IN
+677,863035,bepotastine,IN
+678,1436,bepridil,IN
+679,46967,beractant,IN
+680,2723752,berahyaluronidase alfa,IN
+681,1437,berberine,IN
+682,2710434,berdazimer,IN
+683,2637758,beremagene geperpavec,IN
+684,1305651,bergamot oil,IN
+685,851906,bermuda grass pollen extract,IN
+686,2467540,berotralstat,IN
+687,1310252,beryllium,IN
+688,819911,besifloxacin,IN
+689,19143,beta carotene,IN
+690,61,beta-alanine,IN
+691,1476,beta-escin,IN
+692,1923811,beta-pinene,IN
+693,1362685,betadex,IN
+694,1511,betahistine,IN
+695,1512,betaine,IN
+696,1514,betamethasone,IN
+697,690419,betamethasone / calcipotriene,MIN
+698,1596454,betamethasone / clotrimazole / gentamicin,MIN
+699,1368136,betasizofiran,IN
+700,1520,betaxolol,IN
+701,19257,bethanechol,IN
+702,1523,bethanidine,IN
+703,2610349,betibeglogene autotemcel,IN
+704,1927851,betrixaban,IN
+705,1310070,betula pendula tar oil,IN
+706,2467840,betulin,IN
+707,253337,bevacizumab,IN
+708,2627044,bexagliflozin,IN
+709,233272,bexarotene,IN
+710,1525,bezafibrate,IN
+711,1855048,bezlotoxumab,IN
+712,83008,bicalutamide,IN
+713,1306100,bicisate,IN
+714,236268,biclotymol,IN
+715,1999660,bictegravir,IN
+716,1996259,bictegravir / emtricitabine / tenofovir alafenamide,MIN
+717,47111,bifemelane,IN
+718,2475177,bifenthrin,IN
+719,285148,bifidobacterium bifidum,IN
+720,2110011,bifidobacterium breve,IN
+721,100213,bifidobacterium infantis,IN
+722,19295,bifonazole,IN
+723,1918319,biguanide,IN
+724,283810,bimatoprost,IN
+725,2668041,bimekizumab,IN
+726,2049122,binimetinib,IN
+727,19338,bioallethrin,IN
+728,1588,biotin,IN
+729,1589,biperiden,IN
+730,2675583,birch triterpenes,IN
+731,1370777,bird pepper extract,IN
+732,19461,bisabolol,IN
+733,1596,bisacodyl,IN
+734,19464,bisdequalinium,IN
+735,1811860,bisdisulizole,IN
+736,40762,bismuth aluminate,IN
+737,19469,bismuth carbonate,IN
+738,1546284,bismuth cation,IN
+739,324003,bismuth dipropylacetate,IN
+740,19472,bismuth oxide,IN
+741,19475,bismuth subcarbonate,IN
+742,47181,bismuth subcitrate,IN
+743,1007769,bismuth subcitrate / metronidazole / tetracycline,MIN
+744,19476,bismuth subgallate,IN
+745,19477,bismuth subnitrate,IN
+746,19478,bismuth subsalicylate,IN
+747,47180,bismuth tribromophenate,IN
+748,1310510,bisoctrizole,IN
+749,19484,bisoprolol,IN
+750,214317,bisoprolol / hydrochlorothiazide,MIN
+751,1433347,bisphenol a,IN
+752,19499,bitolterol,IN
+753,1014739,bitter dock pollen extract,IN
+754,899645,bitternut hickory pollen extract,IN
+755,60819,bivalirudin,IN
+756,852376,black cottonwood pollen extract,IN
+757,995738,black imported fire ant allergenic extract,IN
+758,867325,black locust pollen extract,IN
+759,852260,black oak pollen extract,IN
+760,852569,black walnut pollen extract,IN
+761,1372002,blackberry flavor,IN
+762,1622,bleomycin,IN
+763,1597258,blinatumomab,IN
+764,899611,blue beech pollen extract,IN
+765,1315126,blue crab preparation,IN
+766,900704,blue spruce pollen extract,IN
+767,899382,blueberry allergenic extract,IN
+768,1102129,boceprevir,IN
+769,2289408,boldenone,IN
+770,19605,bopindolol,IN
+771,68905,borage oil,IN
+772,1424875,borate ion,IN
+773,1608803,bordetella pertussis,IN
+774,1700,boric acid,IN
+775,19610,bornaprine,IN
+776,1368202,borneol,IN
+777,2530132,"borneol, (+)-",IN
+778,1491978,bornyl acetate,IN
+779,1705,boron,IN
+780,358258,bortezomib,IN
+781,1737793,bos taurus gallstone preparation,IN
+782,1735163,boscalid,IN
+783,75207,bosentan,IN
+784,498193,bosentan monohydrate,IN
+785,1307619,bosutinib,IN
+786,852233,bottlebrush pollen extract,IN
+787,1722718,botulinum neurotoxin a immune fab2 / botulinum neurotoxin b immune fab2 / botulinum neurotoxin c immune fab2 / botulinum neurotoxin d immune fab2 / botulinum neurotoxin e immune fab2 / botulinum neurotoxin f immune fab2 / botulinum neurotoxin g immune fab2,MIN
+788,1712,botulinum toxin type a,IN
+789,2167673,botulinum toxin type b,IN
+790,544488,botulism immune globulin iv human,IN
+791,851740,box elder maple pollen extract,IN
+792,2176312,bremelanotide,IN
+793,2721880,brensocatib,IN
+794,1147320,brentuximab vedotin,IN
+795,19685,bretylium,IN
+796,2121777,brexanolone,IN
+797,1658314,brexpiprazole,IN
+798,2387277,brexucabtagene autoleucel,IN
+799,1921217,brigatinib,IN
+800,1998867,brilliant blue g,IN
+801,19698,brilliant green,IN
+802,134615,brimonidine,IN
+803,2599518,brincidofovir,IN
+804,194881,brinzolamide,IN
+805,1739745,brivaracetam,IN
+806,59161,brivudine,IN
+807,903913,broad leaved paperbark pollen extract,IN
+808,1232637,broadleaf cattail pollen extract,IN
+809,1668220,broccoli sprout extract,IN
+810,1872251,brodalumab,IN
+811,19727,brodimoprim,IN
+812,2204915,brolucizumab,IN
+813,1749,bromazepam,IN
+814,1752,bromelains,IN
+815,19737,bromfenac,IN
+816,1753,bromhexine,IN
+817,1760,bromocriptine,IN
+818,19759,bromodiphenhydramine,IN
+819,214323,bromodiphenhydramine / codeine,MIN
+820,19768,bromopride,IN
+821,1546386,bromotheophylline,IN
+822,19777,bromperidol,IN
+823,1767,brompheniramine,IN
+824,1114345,bronopol,IN
+825,1094193,broomweed pollen extract,IN
+826,19790,brotizolam,IN
+827,19791,brovanexine,IN
+828,1306946,brown iron oxide,IN
+829,1311040,brown rice preparation,IN
+830,2693987,bruceantin,IN
+831,2181419,brucine,IN
+832,59636,buclizine,IN
+833,19831,budesonide,IN
+834,19832,budipine,IN
+835,1796,bufexamac,IN
+836,19836,buflomedil,IN
+837,2743603,bulevirtide,IN
+838,19847,bumadizone,IN
+839,1808,bumetanide,IN
+840,19850,bunazosin,IN
+841,1815,bupivacaine,IN
+842,1817,bupranolol,IN
+843,1819,buprenorphine,IN
+844,42347,bupropion,IN
+845,1551467,bupropion / naltrexone,MIN
+846,900991,bur oak pollen extract,IN
+847,852593,burning bush pollen extract,IN
+848,2043855,burosumab,IN
+849,852526,burrobrush pollen extract,IN
+850,852551,burweed marshelder pollen extract,IN
+851,1825,buserelin,IN
+852,1827,buspirone,IN
+853,1828,busulfan,IN
+854,477631,butabarbital,IN
+855,1829,butacaine,IN
+856,819929,butafosfan,IN
+857,180806,butalamine,IN
+858,19860,butalbital,IN
+859,19861,butamben,IN
+860,19862,butamirate,IN
+861,1310550,butane,IN
+862,1370573,butedronate,IN
+863,47461,butenafine,IN
+864,235942,butetamate,IN
+865,19882,buthiazide,IN
+866,19880,butibufen,IN
+867,2390760,butidrine,IN
+868,19874,butobarbital,IN
+869,19884,butoconazole,IN
+870,1841,butorphanol,IN
+871,19895,butriptyline,IN
+872,259260,button mushroom extract,IN
+873,1310579,butyl alcohol,IN
+874,19900,butyl chloride,IN
+875,1363628,butyl stearate,IN
+876,1362900,butylated hydroxyanisole,IN
+877,1848,butylated hydroxytoluene,IN
+878,1306937,butylparaben,IN
+879,1085787,butylscopolamine,IN
+880,596718,butyrate,IN
+881,19943,buzepide metiodide,IN
+882,1599832,c1 esterase inhibitor,IN
+883,1609072,c11-12 isoparaffin,IN
+884,996051,cabazitaxel,IN
+885,47579,cabergoline,IN
+886,2475077,cabotegravir,IN
+887,1363268,cabozantinib,IN
+888,20012,cadexomer iodine,IN
+889,1362694,cadmium,IN
+890,1368145,cadmium sulfate,IN
+891,1368199,cadmium sulfide,IN
+892,47589,cafedrine,IN
+893,1311397,caffeic acid,IN
+894,1886,caffeine,IN
+895,1309211,cajuput oil,IN
+896,804304,calamine / pramoxine,MIN
+897,2121416,calaspargase pegol,IN
+898,1889,calcifediol,IN
+899,29365,calcipotriene,IN
+900,1311287,calcitonin,IN
+901,1894,calcitriol,IN
+902,1895,calcium,IN
+903,214342,calcium acetate,IN
+904,47610,calcium alginate,IN
+905,142407,calcium ascorbate,IN
+906,287637,calcium aspartate,IN
+907,1902,calcium carbimide,IN
+908,1897,calcium carbonate,IN
+909,1901,calcium chloride,IN
+910,47613,calcium citrate,IN
+911,1905,calcium fluoride,IN
+912,25806,calcium glubionate,IN
+913,1907,calcium glucarate,IN
+914,47618,calcium gluceptate,IN
+915,1908,calcium gluconate,IN
+916,1909,calcium glycerophosphate,IN
+917,1910,calcium hydroxide,IN
+918,1424671,calcium hypophosphite,IN
+919,47622,calcium lactate,IN
+920,235784,calcium lactobionate,IN
+921,47624,calcium levulinate,IN
+922,28728,calcium oxide,IN
+923,2393796,calcium oxybate / magnesium oxybate / potassium oxybate / sodium oxybate,MIN
+924,1919,calcium phosphate,IN
+925,20063,calcium polycarbophil,IN
+926,1362901,calcium pyrophosphate,IN
+927,236693,calcium saccharate,IN
+928,1311526,calcium silicate,IN
+929,1925,calcium sulfate,IN
+930,90521,calcium sulfide,IN
+931,273888,calcium threonate,IN
+932,285222,calendula officinalis extract,IN
+933,1309289,calendula officinalis flower extract,IN
+934,1428027,calendula officinalis whole extract,IN
+935,232539,calfactant,IN
+936,1014721,california black oak pollen extract,IN
+937,852561,california black walnut pollen extract,IN
+938,852585,california juniper pollen extract,IN
+939,892734,california mugwort pollen extract,IN
+940,852802,california scrub oak pollen extract,IN
+941,1424676,calteridol,IN
+942,1951,cambendazole,IN
+943,1306161,camellia japonica seed oil,IN
+944,2395761,camphene,IN
+945,1952,camphor,IN
+946,1007618,camphor / capsaicin / menthol,MIN
+947,2101501,camphor / capsicum oleoresin / menthol / methyl salicylate,MIN
+948,1306163,camphor leaf oil,IN
+949,2264361,"camphoric acid, (+)-",IN
+950,995743,canada goldenrod pollen extract,IN
+951,1014731,canadian bluegrass pollen extract,IN
+952,1373458,canagliflozin,IN
+953,853491,canakinumab,IN
+954,894961,canary feather extract,IN
+955,852697,canary grass pollen extract,IN
+956,214354,candesartan,IN
+957,284628,candesartan / hydrochlorothiazide,MIN
+958,1963,candida albicans,IN
+959,1656052,cangrelor,IN
+960,854025,canis lupus familiaris hair extract,IN
+961,2585216,cannabichromene,IN
+962,2045371,cannabidiol,IN
+963,2464938,cannabigerol,IN
+964,1976,cannabinol,IN
+965,1484855,cannabis sativa subsp. flowering top extract,IN
+966,618970,canrenoate,IN
+967,81971,canrenoic acid,IN
+968,1982,canrenone,IN
+969,1984,cantharidin,IN
+970,42348,canthaxanthin,IN
+971,851942,canyon ragweed pollen extract,IN
+972,194000,capecitabine,IN
+973,2669967,capivasertib,IN
+974,2110605,caplacizumab,IN
+975,2362165,capmatinib,IN
+976,78903,capreomycin,IN
+977,136300,capromab pendetide,IN
+978,1986787,capromorelin,IN
+979,2584845,caprylamidopropyl betaine,IN
+980,1307145,caprylhydroxamic acid,IN
+981,1992,capsaicin,IN
+982,1314843,capsicum annuum whole extract,IN
+983,319780,capsicum extract,IN
+984,235787,capsicum oleoresin,IN
+985,1998,captopril,IN
+986,20191,caramiphen,IN
+987,20192,carazolol,IN
+988,1999,carbachol,IN
+989,1314339,carbadox,IN
+990,2002,carbamazepine,IN
+991,47686,carbamide peroxide,IN
+992,1546387,carbamoylcholine,IN
+993,20206,carbarson,IN
+994,9724,carbaryl,IN
+995,2011,carbazochrome,IN
+996,2015,carbenicillin,IN
+997,2017,carbenoxolone,IN
+998,20217,carbetapentane,IN
+999,605496,carbetapentane / guaifenesin,MIN
+1000,2019,carbidopa,IN
+1001,103990,carbidopa / levodopa,MIN
+1002,2020,carbimazole,IN
+1003,20220,carbinoxamine,IN
+1004,2023,carbocysteine,IN
+1005,235535,carbomer,IN
+1006,1732380,carbomer homopolymer type b (allyl pentaerythritol or allyl sucrose crosslinked),IN
+1007,1305738,carbomer homopolymer type c,IN
+1008,1362909,carbomer-940,IN
+1009,1363568,carbomer-974p,IN
+1010,2032,carbon black,IN
+1011,2034,carbon dioxide,IN
+1012,2037,carbon monoxide,IN
+1013,2383337,carbon tetrachloride,IN
+1014,1544139,carbonate ion,IN
+1015,40048,carboplatin,IN
+1016,2051,carboprost,IN
+1017,2062,carboxymethylcellulose,IN
+1018,20298,carboxypolymethylene,IN
+1019,2067,carbromal,IN
+1020,2068,carbutamide,IN
+1021,1314587,cardamom extract,IN
+1022,350520,carduus marianus preparation,IN
+1023,851926,careless weed pollen extract,IN
+1024,1302966,carfilzomib,IN
+1025,401713,carglumic acid,IN
+1026,1667655,cariprazine,IN
+1027,2101,carisoprodol,IN
+1028,2105,carmustine,IN
+1029,2106,carnitine,IN
+1030,1362697,carnosine,IN
+1031,20342,carpipramine,IN
+1032,20343,carprofen,IN
+1033,2116,carteolol,IN
+1034,1376213,carthamus tinctorius flower bud extract,IN
+1035,1998840,carvacrol,IN
+1036,20352,carvedilol,IN
+1037,1368148,caryophyllene,IN
+1038,20355,carzenide,IN
+1039,66869,cascara sagrada,IN
+1040,862460,casein allergenic extract,IN
+1041,892526,cashew nut allergenic extract,IN
+1042,2480096,casimersen,IN
+1043,2465242,casirivimab,IN
+1044,140108,caspofungin,IN
+1045,1307589,cassia fistula fruit extract,IN
+1046,2129,castor oil,IN
+1047,886638,cat flea allergenic extract,IN
+1048,248123,cat hair extract,IN
+1049,851949,cat skin extract,IN
+1050,1367177,catechin,IN
+1051,32022,cathine,IN
+1052,1425214,caviar preparation,IN
+1053,1006340,cayenne pepper allergenic extract,IN
+1054,1014191,cedar elm pollen extract,IN
+1055,1309217,cedar leaf oil,IN
+1056,2384449,cedazuridine,IN
+1057,2384456,cedazuridine / decitabine,MIN
+1058,2176,cefaclor,IN
+1059,2177,cefadroxil,IN
+1060,2178,cefamandole,IN
+1061,2179,cefatrizine,IN
+1062,2180,cefazolin,IN
+1063,25037,cefdinir,IN
+1064,83682,cefditoren,IN
+1065,20481,cefepime,IN
+1066,20482,cefetamet,IN
+1067,2265702,cefiderocol,IN
+1068,25033,cefixime,IN
+1069,2182,cefmetazole,IN
+1070,20485,cefodizime,IN
+1071,2183,cefonicid,IN
+1072,2184,cefoperazone,IN
+1073,20486,ceforanide,IN
+1074,2186,cefotaxime,IN
+1075,2187,cefotetan,IN
+1076,2188,cefotiam,IN
+1077,1591901,cefovecin,IN
+1078,2189,cefoxitin,IN
+1079,27130,cefpirome,IN
+1080,20489,cefpodoxime,IN
+1081,19552,cefprozil,IN
+1082,2190,cefsulodin,IN
+1083,1040005,ceftaroline,IN
+1084,1040004,ceftaroline fosamil,IN
+1085,2191,ceftazidime,IN
+1086,20492,ceftibuten,IN
+1087,1311521,ceftiofur,IN
+1088,2192,ceftizoxime,IN
+1089,2691333,ceftobiprole,IN
+1090,1597609,ceftolozane,IN
+1091,1597614,ceftolozane / tazobactam,MIN
+1092,2193,ceftriaxone,IN
+1093,2194,cefuroxime,IN
+1094,140587,celecoxib,IN
+1095,20498,celiprolol,IN
+1096,2221,cellulose,IN
+1097,2058826,cemiplimab,IN
+1098,2104332,cenegermin,IN
+1099,2265690,cenobamate,IN
+1100,1310164,centella asiatica extract,IN
+1101,1119986,centruroides (scorpion) immune f(ab')2 (equine),IN
+1102,2231,cephalexin,IN
+1103,2233,cephaloridine,IN
+1104,2236,cephalothin,IN
+1105,2238,cephapirin,IN
+1106,2239,cephradine,IN
+1107,1426448,ceramide 2,IN
+1108,1362741,ceramide 3,IN
+1109,1314307,ceramide 6 ii,IN
+1110,1673068,ceric oxide,IN
+1111,1535457,ceritinib,IN
+1112,314546,cerium oxalate,IN
+1113,596723,cerivastatin,IN
+1114,1922437,cerliponase,IN
+1115,709271,certolizumab pegol,IN
+1116,152610,certoparin,IN
+1117,1310121,cesium,IN
+1118,47907,cetalkonium chloride,IN
+1119,1311623,ceteareth-30,IN
+1120,1314341,ceteth-10,IN
+1121,1310709,ceteth-20,IN
+1122,20609,cetiedil,IN
+1123,20610,cetirizine,IN
+1124,1370628,cetostearyl sulfate,IN
+1125,288088,cetrimide,IN
+1126,20614,cetrimonium,IN
+1127,68147,cetrorelix,IN
+1128,318341,cetuximab,IN
+1129,20615,cetyl alcohol,IN
+1130,1306178,cetyl ethylhexanoate,IN
+1131,1306181,cetyl octanoate,IN
+1132,1311485,cetyl palmitate,IN
+1133,2286,cetylpyridinium,IN
+1134,44281,cevimeline,IN
+1135,1305633,chamaecyparis obtusa wood oil,IN
+1136,1306194,chamaemelum nobile flower extract,IN
+1137,1309226,chamomile extract,IN
+1138,221916,chamomile flowers,IN
+1139,852225,cheat grass pollen extract,IN
+1140,42588,chenodeoxycholate,IN
+1141,852144,cherry birch pollen extract,IN
+1142,894934,chicken feather extract,IN
+1143,2001615,chicory leaf extract,IN
+1144,1305720,chinese cinnamon extract,IN
+1145,852844,chinese elm pollen extract,IN
+1146,2267019,"chiro-inositol, (+)-",IN
+1147,59038,chitosan,IN
+1148,1368152,chitosan medium molecular weight (200-800 mpa.s),IN
+1149,21254,chlophedianol,IN
+1150,89808,chloral betaine,IN
+1151,2346,chlorambucil,IN
+1152,20762,chloramine-t,IN
+1153,2348,chloramphenicol,IN
+1154,2354,chlorcyclizine,IN
+1155,2356,chlordiazepoxide,IN
+1156,611854,chlordiazepoxide / clidinium,MIN
+1157,2358,chlorhexidine,IN
+1158,484139,chlorhexidine / isopropyl alcohol,MIN
+1159,645081,chlorhexidine / tolnaftate,MIN
+1160,1546391,chloric acid,IN
+1161,153974,chloride ion,IN
+1162,1310122,chlorine,IN
+1163,20799,chlorine dioxide,IN
+1164,78904,chlormadinone,IN
+1165,2373,chlormezanone,IN
+1166,2378,chlorobutanol,IN
+1167,20823,chlorocresol,IN
+1168,1362698,chloroform,IN
+1169,1311387,chlorogenic acid,IN
+1170,1312362,chloromethyl methyl ether,IN
+1171,20852,chlorophyllin,IN
+1172,20859,chloroprocaine,IN
+1173,20861,chloropyramine,IN
+1174,2393,chloroquine,IN
+1175,59695,chlorothen,IN
+1176,236872,chlorotheophylline,IN
+1177,2396,chlorothiazide,IN
+1178,1363702,chlorothymol,IN
+1179,2397,chlorotrianisene,IN
+1180,20875,chloroxine,IN
+1181,20877,chloroxylenol,IN
+1182,1362886,chlorozotocin,IN
+1183,2399,chlorphenesin,IN
+1184,2400,chlorpheniramine,IN
+1185,605998,chlorpheniramine / codeine,MIN
+1186,214392,chlorpheniramine / hydrocodone,MIN
+1187,544284,chlorpheniramine / methscopolamine / phenylephrine,MIN
+1188,20881,chlorphenoxamine,IN
+1189,59860,chlorproethazine,IN
+1190,2403,chlorpromazine,IN
+1191,2404,chlorpropamide,IN
+1192,2406,chlorprothixene,IN
+1193,2407,chlorquinaldol,IN
+1194,106990,chlorquinaldol / hydrocortisone,MIN
+1195,2408,chlortetracycline,IN
+1196,2409,chlorthalidone,IN
+1197,214418,chlorthalidone / clonidine,MIN
+1198,1546416,chlortheophylline,IN
+1199,2410,chlorzoxazone,IN
+1200,1010915,chocolate allergenic extract,IN
+1201,1426483,cholate,IN
+1202,2418,cholecalciferol,IN
+1203,2420,cholecystokinin,IN
+1204,2438,cholesterol,IN
+1205,1606197,cholesteryl chloride,IN
+1206,2447,cholestyramine resin,IN
+1207,1440856,cholic acid,IN
+1208,2449,choline,IN
+1209,1433887,choline fenofibrate,IN
+1210,215799,choline magnesium trisalicylate,IN
+1211,2473,chondroitin sulfates,IN
+1212,4986,chorionic gonadotropin,IN
+1213,1546418,chromic cation,IN
+1214,21009,chromic chloride,IN
+1215,121070,chromic phosphate p32,IN
+1216,90402,chromic sulfate,IN
+1217,2496,chromium,IN
+1218,1311292,chromium gluconate,IN
+1219,59308,chromium picolinate,IN
+1220,1539810,chromium trioxide,IN
+1221,2508,chromonar,IN
+1222,1362888,chrysin,IN
+1223,2525,chymopapain,IN
+1224,2530,chymotrypsin,IN
+1225,274964,ciclesonide,IN
+1226,21914,cicletanine,IN
+1227,21090,ciclopirox,IN
+1228,21095,cicloxilic acid,IN
+1229,83171,cidofovir,IN
+1230,21099,cifenline,IN
+1231,2477852,cifostodine,IN
+1232,2540,cilastatin,IN
+1233,34482,cilastatin / imipenem,MIN
+1234,2184141,cilastatin / imipenem / relebactam,MIN
+1235,21102,cilazapril,IN
+1236,2587306,cilgavimab,IN
+1237,21107,cilostazol,IN
+1238,2594775,ciltacabtagene autoleucel,IN
+1239,2541,cimetidine,IN
+1240,407990,cinacalcet,IN
+1241,21113,cinametic acid,IN
+1242,21125,cinitapride,IN
+1243,1368650,cinnamate,IN
+1244,21130,cinnamedrine,IN
+1245,1309229,cinnamon oil,IN
+1246,1362889,cinnamyl alcohol,IN
+1247,2549,cinnarizine,IN
+1248,2550,cinoxacin,IN
+1249,288262,cinoxate,IN
+1250,2667433,cipaglucosidase alfa,IN
+1251,21149,ciprofibrate,IN
+1252,2551,ciprofloxacin,IN
+1253,35255,cisapride,IN
+1254,319864,cisatracurium,IN
+1255,2555,cisplatin,IN
+1256,2556,citalopram,IN
+1257,997602,citicoline,IN
+1258,21171,citiolone,IN
+1259,1435288,citraconate,IN
+1260,114200,citrate,IN
+1261,21183,citric acid,IN
+1262,689841,citric acid / potassium citrate / sodium citrate,MIN
+1263,1309376,citronella oil,IN
+1264,2567,citrulline,IN
+1265,1311573,citrus aurantium fruit extract,IN
+1266,1366324,citrus junos fruit extract,IN
+1267,581398,citrus pectin,IN
+1268,44157,cladribine,IN
+1269,892539,clam allergenic extract,IN
+1270,21212,clarithromycin,IN
+1271,2474340,clascoterone,IN
+1272,48203,clavulanate,IN
+1273,21224,clebopride,IN
+1274,2578,clemastine,IN
+1275,1355831,clematis vitalba flower extract,IN
+1276,21226,clemizolpenicillin,IN
+1277,2580,clenbuterol,IN
+1278,1309780,clerodendranthus spicatus leaf extract,IN
+1279,233603,clevidipine,IN
+1280,21232,clidinium,IN
+1281,191566,climbazole,IN
+1282,2582,clindamycin,IN
+1283,5942,clioquinol,IN
+1284,21241,clobazam,IN
+1285,21244,clobenzorex,IN
+1286,2590,clobetasol,IN
+1287,108074,clobetasone,IN
+1288,21247,clobutinol,IN
+1289,402583,clocinizine,IN
+1290,21249,clocortolone,IN
+1291,3350,clodronic acid,IN
+1292,44151,clofarabine,IN
+1293,2592,clofazimine,IN
+1294,21255,clofexamide,IN
+1295,183877,clofezone,IN
+1296,2594,clofibrate,IN
+1297,21264,clofoctol,IN
+1298,2596,clomiphene,IN
+1299,2597,clomipramine,IN
+1300,21272,clomocycline,IN
+1301,2598,clonazepam,IN
+1302,2599,clonidine,IN
+1303,2372697,clonitrate,IN
+1304,2601,clonixin,IN
+1305,2603,clopamide,IN
+1306,2104180,cloperastine,IN
+1307,32968,clopidogrel,IN
+1308,1367179,clopidol,IN
+1309,21285,cloprednol,IN
+1310,2606,cloprostenol,IN
+1311,2353,clorazepate,IN
+1312,21290,clorophene,IN
+1313,28303,clorsulon,IN
+1314,61686,clostebol,IN
+1315,1811178,clostridium botulinum,IN
+1316,2620,clothiapine,IN
+1317,2622,clotiazepam,IN
+1318,2623,clotrimazole,IN
+1319,899724,clove allergenic extract,IN
+1320,7624,clove oil,IN
+1321,2625,cloxacillin,IN
+1322,21311,cloxazolam,IN
+1323,2626,clozapine,IN
+1324,2697463,cnidium monnieri fruit extract,IN
+1325,1535944,coagulation factor ix recombinant immunoglobulin g1 fusion protein,IN
+1326,2635,coal tar,IN
+1327,852302,coast live oak pollen extract,IN
+1328,851736,coast maple pollen extract,IN
+1329,852011,coast sage pollen extract,IN
+1330,1310300,cobalt,IN
+1331,1362742,cobalt sulfate,IN
+1332,1546419,cobaltous cation,IN
+1333,1426884,cobaltous chloride,IN
+1334,21373,cobamamide,IN
+1335,1306284,cobicistat,IN
+1336,1598380,cobicistat / darunavir,MIN
+1337,1996260,cobicistat / darunavir / emtricitabine / tenofovir alafenamide,MIN
+1338,1721612,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,MIN
+1339,1306291,cobicistat / elvitegravir / emtricitabine / tenofovir disoproxil,MIN
+1340,1722365,cobimetinib,IN
+1341,2653,cocaine,IN
+1342,107610,cocaine / homatropine,MIN
+1343,1311576,cocamidopropyl betaine,IN
+1344,1549330,coccidioides immitis spherule,IN
+1345,852025,cocklebur pollen extract,IN
+1346,891721,cocoa bean allergenic extract,IN
+1347,21389,cocoa butter,IN
+1348,1373895,cocoa extract,IN
+1349,1309239,coconut oil,IN
+1350,2669,cod liver oil,IN
+1351,1426437,"cod, unspecified preparation",IN
+1352,2670,codeine,IN
+1353,214442,codeine / guaifenesin,MIN
+1354,892543,codfish allergenic extract,IN
+1355,1314344,coenzyme a,IN
+1356,1310128,"coffea arabica seed, roasted, extract",IN
+1357,1541732,coix lacryma-jobi var. ma-yuen seed oil,IN
+1358,2174385,colchiceine,IN
+1359,2683,colchicine,IN
+1360,141626,colesevelam,IN
+1361,2685,colestipol,IN
+1362,107784,colfosceril,IN
+1363,2709,colistin,IN
+1364,1426856,collagen type i,IN
+1365,1368163,"collagen, soluble, fish skin",IN
+1366,58939,collagenase,IN
+1367,898492,collagenase clostridium histolyticum,IN
+1368,1339883,collinsonia extract,IN
+1369,221082,colloidal oatmeal,IN
+1370,902215,common cocklebur pollen extract,IN
+1371,1294628,common paper wasp venom protein,IN
+1372,852020,common sagebrush pollen extract,IN
+1373,1297527,common wasp venom protein,IN
+1374,896213,common wormwood pollen extract,IN
+1375,2708333,concizumab,IN
+1376,1546420,condoliase,IN
+1377,1313334,coniine,IN
+1378,302285,conivaptan,IN
+1379,895353,cootamundra wattle pollen extract,IN
+1380,1945077,copanlisib,IN
+1381,2837,copper,IN
+1382,150596,copper chloride,IN
+1383,2839,copper gluconate,IN
+1384,21579,copper sulfate,IN
+1385,1989289,cordycepin,IN
+1386,852015,corn pollen extract,IN
+1387,314488,corn smut allergenic extract,IN
+1388,1039062,corn starch,IN
+1389,376,corticotropin,IN
+1390,214461,corticotropin-releasing hormone,IN
+1391,2878,cortisone,IN
+1392,21660,cortivazol,IN
+1393,1376214,corydalis ambigua tuber extract,IN
+1394,2717511,cosibelimab,IN
+1395,2890,cosyntropin,IN
+1396,1309243,cottonseed oil,IN
+1397,2745582,coumaphos,IN
+1398,2898,coumarin,IN
+1399,892665,cow milk allergenic extract,IN
+1400,2591813,coxsackievirus a21,IN
+1401,21716,crataegus extract,IN
+1402,2907,creatine,IN
+1403,2913,creatinine,IN
+1404,1094116,creeping bentgrass pollen extract,IN
+1405,2915,creosote,IN
+1406,21732,cresatin,IN
+1407,62130,cresol,IN
+1408,973447,cricket allergenic extract,IN
+1409,2701386,crinecerfont,IN
+1410,1865953,crisaborole,IN
+1411,2262279,crizanlizumab,IN
+1412,1148495,crizotinib,IN
+1413,2262278,crocin,IN
+1414,21753,croconazole,IN
+1415,1364449,crofelemer,IN
+1416,2921,cromoglycate,IN
+1417,42612,cromolyn,IN
+1418,812238,cromolyn / xylometazoline,MIN
+1419,1310574,croscarmellose,IN
+1420,2101271,crotalidae immune f(ab')2,IN
+1421,885185,crotalus adamanteus antivenin,IN
+1422,885187,crotalus atrox antivenin,IN
+1423,885189,crotalus scutulatus antivenin,IN
+1424,21766,crotamiton,IN
+1425,1309665,croton oil,IN
+1426,2686619,crovalimab,IN
+1427,42618,cryptenamine,IN
+1428,1307710,crypthecodinium cohnii dha oil,IN
+1429,1428847,cucumis melo extract,IN
+1430,1345679,culex pipiens preparation,IN
+1431,1098118,cultivated barley pollen extract,IN
+1432,901369,cultivated mushroom allergenic extract,IN
+1433,1311817,cultivated mushroom extract,IN
+1434,852114,cultivated oat pollen extract,IN
+1435,1014774,cultivated rye grass pollen extract,IN
+1436,1427198,cupric cation,IN
+1437,21833,cupric chloride,IN
+1438,1428217,cupric glycinate,IN
+1439,21837,cupric oxide,IN
+1440,1423796,cuprous chloride,IN
+1441,21842,cuprous oxide,IN
+1442,1482794,curcuma aromatica root oil,IN
+1443,1306094,curcuma xanthorrhiza oil,IN
+1444,2955,curcumin,IN
+1445,999438,curvularia inequalis allergenic extract,IN
+1446,21877,cyamemazine,IN
+1447,1923817,cyanide,IN
+1448,2968,cyclacillin,IN
+1449,2969,cyclamate,IN
+1450,2970,cyclandelate,IN
+1451,1314330,cyclic amp,IN
+1452,2977,cyclizine,IN
+1453,2978,cyclobarbital,IN
+1454,21949,cyclobenzaprine,IN
+1455,21954,cyclobutyrol,IN
+1456,1426609,cyclodextrins,IN
+1457,2983,cyclofenil,IN
+1458,2099711,cyclohexanol,IN
+1459,2362166,cyclohexanone,IN
+1460,1307080,cyclomethicone,IN
+1461,1305744,cyclomethicone 5,IN
+1462,21990,cyclomethycaine,IN
+1463,59094,cyclopentamine,IN
+1464,3000,cyclopenthiazide,IN
+1465,3001,cyclopentolate,IN
+1466,690312,cyclopentolate / phenylephrine,MIN
+1467,3002,cyclophosphamide,IN
+1468,3007,cycloserine,IN
+1469,3008,cyclosporine,IN
+1470,22033,cyclothiazide,IN
+1471,22037,cycrimine,IN
+1472,2590266,cypermethrin,IN
+1473,22051,cyprodenate,IN
+1474,3013,cyproheptadine,IN
+1475,3014,cyproterone,IN
+1476,1426401,cystamine,IN
+1477,3022,cysteamine,IN
+1478,3024,cysteine,IN
+1479,3036,cystine,IN
+1480,3041,cytarabine,IN
+1481,2017575,cytarabine / daunorubicin,MIN
+1482,1723152,cytisine,IN
+1483,22178,cytomegalovirus immune globulin,IN
+1484,1310707,d&c red no. 28,IN
+1485,314583,d-biotin,IN
+1486,1428878,d-glutamic acid,IN
+1487,1546356,dabigatran,IN
+1488,1037042,dabigatran etexilate,IN
+1489,1424911,dabrafenib,IN
+1490,3098,dacarbazine,IN
+1491,1606218,daclatasvir,IN
+1492,190353,daclizumab,IN
+1493,2058849,dacomitinib,IN
+1494,3100,dactinomycin,IN
+1495,1539239,dalbavancin,IN
+1496,897018,dalfampridine,IN
+1497,229369,dalfopristin,IN
+1498,1432293,dalotuzumab,IN
+1499,67109,dalteparin,IN
+1500,236802,damiana extract,IN
+1501,2055655,damoctocog alfa pegol,IN
+1502,78484,danaparoid,IN
+1503,3102,danazol,IN
+1504,852079,dandelion pollen extract,IN
+1505,2678952,danicopan,IN
+1506,1358488,danofloxacin,IN
+1507,22293,danthron,IN
+1508,3105,dantrolene,IN
+1509,1488564,dapagliflozin,IN
+1510,22298,dapiprazole,IN
+1511,2628210,daprodustat,IN
+1512,3108,dapsone,IN
+1513,22299,daptomycin,IN
+1514,1721947,daratumumab,IN
+1515,2372199,daratumumab / hyaluronidase,MIN
+1516,283838,darbepoetin alfa,IN
+1517,2591497,daridorexant,IN
+1518,136198,darifenacin,IN
+1519,896246,dark leaved mugwort pollen extract,IN
+1520,2180325,darolutamide,IN
+1521,460132,darunavir,IN
+1522,1597381,dasabuvir,IN
+1523,475342,dasatinib,IN
+1524,2535233,dasiglucagon,IN
+1525,852704,date palm pollen extract,IN
+1526,2703033,datopotamab deruxtecan,IN
+1527,3109,daunorubicin,IN
+1528,1872905,deacetylbisacodyl,IN
+1529,3116,deanol,IN
+1530,3118,debrisoquin,IN
+1531,22374,decamethrin,IN
+1532,22380,decanoic acid,IN
+1533,15657,decitabine,IN
+1534,1314345,decoquinate,IN
+1535,1494854,decylamine oxide,IN
+1536,2714502,defactinib,IN
+1537,614373,deferasirox,IN
+1538,11645,deferiprone,IN
+1539,3131,deferoxamine,IN
+1540,1311089,defibrotide,IN
+1541,22396,deflazacort,IN
+1542,475230,degarelix,IN
+1543,42625,dehydrocholate,IN
+1544,3142,dehydroemetine,IN
+1545,1927663,delafloxacin,IN
+1546,2641675,delandistrogene moxeparvovec,IN
+1547,83816,delavirdine,IN
+1548,2721163,delgocitinib,IN
+1549,107771,demecarium,IN
+1550,3154,demeclocycline,IN
+1551,22483,demegestone,IN
+1552,236795,demelverin,IN
+1553,1546417,denatonium,IN
+1554,1313232,denatonium benzoate,IN
+1555,22503,denaverine,IN
+1556,214470,denileukin diftitox,IN
+1557,993449,denosumab,IN
+1558,42627,deoxycholate,IN
+1559,3226,dequalinium,IN
+1560,356834,deracoxib,IN
+1561,62174,deserpidine,IN
+1562,851981,desert ragweed pollen extract,IN
+1563,27340,desflurane,IN
+1564,3247,desipramine,IN
+1565,114934,desirudin,IN
+1566,3248,deslanoside,IN
+1567,275635,desloratadine,IN
+1568,1311744,deslorelin,IN
+1569,1738095,desmeninol,IN
+1570,3251,desmopressin,IN
+1571,22656,desogestrel,IN
+1572,3254,desonide,IN
+1573,3255,desoximetasone,IN
+1574,3256,desoxycorticosterone,IN
+1575,734064,desvenlafaxine,IN
+1576,236784,detajmium bitartrate,IN
+1577,22672,detomidine,IN
+1578,2612087,deucravacitinib,IN
+1579,2569466,deudextromethorphan,IN
+1580,2716558,deuruxolitinib,IN
+1581,1876905,deutetrabenazine,IN
+1582,2701430,deutivacaftor,IN
+1583,3264,dexamethasone,IN
+1584,216525,dexamethasone / neomycin / polymyxin b,MIN
+1585,883815,dexamethasone / tobramycin,MIN
+1586,22696,dexbrompheniramine,IN
+1587,22697,dexchlorpheniramine,IN
+1588,3267,dexetimide,IN
+1589,3268,dexfenfluramine,IN
+1590,237162,dexketoprofen,IN
+1591,816346,dexlansoprazole,IN
+1592,48937,dexmedetomidine,IN
+1593,352372,dexmethylphenidate,IN
+1594,22701,dexpanthenol,IN
+1595,42736,dexrazoxane,IN
+1596,42635,dextran,IN
+1597,214485,dextran 1,IN
+1598,3272,dextran 40,IN
+1599,3274,dextran 70,IN
+1600,3275,dextran 75,IN
+1601,22708,dextranomer,IN
+1602,1426816,dextrates,IN
+1603,3288,dextroamphetamine,IN
+1604,3289,dextromethorphan,IN
+1605,1040053,dextromethorphan / quinidine,MIN
+1606,3290,dextromoramide,IN
+1607,3292,dextrothyroxine,IN
+1608,22713,dezocine,IN
+1609,1426391,diacetyl benzoyl lathyrol,IN
+1610,1659205,diaminohydroxypropanetetraacetic acid,IN
+1611,1362874,diatomaceous earth,IN
+1612,3319,diatrizoate,IN
+1613,1546223,diatrizoic acid,IN
+1614,3322,diazepam,IN
+1615,1310602,diazolidinylurea,IN
+1616,3327,diazoxide,IN
+1617,55018,dibasic potassium phosphate,IN
+1618,3328,dibekacin,IN
+1619,3332,dibenzepin,IN
+1620,22865,dibrompropamidine,IN
+1621,3339,dibucaine,IN
+1622,402565,dibunate,IN
+1623,1362873,dibutyl phthalate,IN
+1624,1363700,dibutyl sebacate,IN
+1625,1426943,dibutyldithiocarbamate,IN
+1626,22892,dichloralphenazone,IN
+1627,3347,dichloroacetate,IN
+1628,89548,dichlorobenzene,IN
+1629,22906,dichlorobenzyl alcohol,IN
+1630,3351,dichlorophen,IN
+1631,3353,dichlorphenamide,IN
+1632,1313336,dichromate ion,IN
+1633,1368201,diclazuril,IN
+1634,3355,diclofenac,IN
+1635,3356,dicloxacillin,IN
+1636,288331,dicobalt edetate,IN
+1637,1598,dicumarol,IN
+1638,3361,dicyclomine,IN
+1639,3364,didanosine,IN
+1640,1425983,didecyldimethylammonium,IN
+1641,3368,dienestrol,IN
+1642,22968,dienogest,IN
+1643,1428867,diethadione,IN
+1644,1362911,diethanolamine,IN
+1645,1362921,diethyl phthalate,IN
+1646,1428869,diethyl sulfate,IN
+1647,1426392,diethylamino hydroxybenzoyl hexyl benzoate,IN
+1648,3384,diethylcarbamazine,IN
+1649,1427193,diethyldithiocarbamate,IN
+1650,1435108,diethylene glycol diethyl ether,IN
+1651,2398515,diethylene glycol ethyl methyl ether,IN
+1652,3389,diethylpropion,IN
+1653,3390,diethylstilbestrol,IN
+1654,3129,diethyltoluamide,IN
+1655,2737149,difamilast,IN
+1656,23020,difebarbamate,IN
+1657,2569089,difelikefalin,IN
+1658,163406,difemerine,IN
+1659,23024,difenoxin,IN
+1660,402587,difetarsone,IN
+1661,91311,diflorasone,IN
+1662,3392,diflucortolone,IN
+1663,3393,diflunisal,IN
+1664,23043,difluprednate,IN
+1665,1923401,digitalin,IN
+1666,3403,digitoxin,IN
+1667,1363597,diglycol stearate,IN
+1668,3407,digoxin,IN
+1669,203223,digoxin antibodies fab fragments,IN
+1670,23066,dihematoporphyrin ether,IN
+1671,236209,dihexyverine,IN
+1672,3409,dihydralazine,IN
+1673,91170,dihydro-alpha-ergocryptine,IN
+1674,91171,dihydro-beta-ergocryptine,IN
+1675,2166037,dihydrocapsaicin,IN
+1676,23088,dihydrocodeine,IN
+1677,3415,dihydroergocornine,IN
+1678,3416,dihydroergocristine,IN
+1679,3417,dihydroergocryptine,IN
+1680,3418,dihydroergotamine,IN
+1681,3419,dihydroergotoxine,IN
+1682,2267573,dihydrofolic acid,IN
+1683,1549540,dihydrostreptomycin,IN
+1684,3429,dihydrotachysterol,IN
+1685,3430,dihydroxyacetone,IN
+1686,23162,dihydroxyaluminum aminoacetate,IN
+1687,23163,dihydroxyaluminum sodium carbonate,IN
+1688,236206,diisopromine,IN
+1689,1362922,diisopropanolamine,IN
+1690,1363600,diisopropyl adipate,IN
+1691,67182,diloxanide,IN
+1692,3443,diltiazem,IN
+1693,3444,dimenhydrinate,IN
+1694,3445,dimercaprol,IN
+1695,2475951,dimercaptosuccinic acid,IN
+1696,324072,dimethicone,IN
+1697,3449,dimethindene,IN
+1698,121069,dimethoxanate,IN
+1699,1373478,dimethyl fumarate,IN
+1700,2205404,dimethyl sulfate,IN
+1701,3455,dimethyl sulfoxide,IN
+1702,1368874,dimethylacetamide,IN
+1703,1311593,dimethyldodecylbenzylammonium,IN
+1704,1600136,dimetridazole,IN
+1705,1362902,dimyristoylphosphatidylcholine,IN
+1706,1427048,dimyristoylphosphatidylglycerol,IN
+1707,1487907,dinitolmide,IN
+1708,3477,dinoprost,IN
+1709,3478,dinoprostone,IN
+1710,1606274,dinutuximab,IN
+1711,2382593,dioctyldimonium,IN
+1712,1314347,diosmetin,IN
+1713,3489,diosmin,IN
+1714,1009064,diosmin / hesperidin,MIN
+1715,2383534,dioxane,IN
+1716,23350,dioxybenzone,IN
+1717,1426773,dipentamethylenethiuram disulfide,IN
+1718,59247,diperodon,IN
+1719,89782,diphemanil,IN
+1720,3498,diphenhydramine,IN
+1721,690847,diphenhydramine / tripelennamine,MIN
+1722,23370,diphenidol,IN
+1723,3500,diphenoxylate,IN
+1724,1368170,diphenylguanidine,IN
+1725,23386,diphenylpyraline,IN
+1726,798304,"diphtheria toxoid vaccine, inactivated",IN
+1727,23405,dipipanone,IN
+1728,23410,dipivefrin,IN
+1729,1368869,dipropylene glycol,IN
+1730,3521,dipyridamole,IN
+1731,1362743,dipyrithione,IN
+1732,3523,dipyrone,IN
+1733,23437,dirithromycin,IN
+1734,1592684,dirlotapide,IN
+1735,2261783,diroximel fumarate,IN
+1736,1368701,disilver oxide,IN
+1737,3541,disopyramide,IN
+1738,1368171,disperse blue 106,IN
+1739,1311550,distearyldimonium,IN
+1740,3551,distigmine,IN
+1741,3554,disulfiram,IN
+1742,1788842,divinylbenzene,IN
+1743,1314409,dl-lactic acid,IN
+1744,235935,dobesilic acid,IN
+1745,3616,dobutamine,IN
+1746,72962,docetaxel,IN
+1747,1006469,doconexent,IN
+1748,594680,docosanol,IN
+1749,82003,docusate,IN
+1750,1008340,"docusate / sennosides, usp",MIN
+1751,2396443,dodatate,IN
+1752,1362875,dodecanol,IN
+1753,1362927,dodecyl sulfate,IN
+1754,1007810,dodecyl sulfate / oxyquinoline,MIN
+1755,49247,dofetilide,IN
+1756,886637,dog flea allergenic extract,IN
+1757,895495,dog hair extract,IN
+1758,867218,dogfennel pollen extract,IN
+1759,68091,dolasetron,IN
+1760,1433868,dolutegravir,IN
+1761,2122518,dolutegravir / lamivudine,MIN
+1762,1989499,dolutegravir / rilpivirine,MIN
+1763,852256,domestic cow skin extract,IN
+1764,895503,domestic goat hair extract,IN
+1765,852252,domestic goat skin extract,IN
+1766,23623,domiphen,IN
+1767,3626,domperidone,IN
+1768,2687966,donanemab,IN
+1769,135447,donepezil,IN
+1770,1430990,donepezil / memantine,MIN
+1771,2724361,donidalorsen,IN
+1772,2642217,donislecel,IN
+1773,3628,dopamine,IN
+1774,23638,dopexamine,IN
+1775,73455,doramectin,IN
+1776,2611783,doramectin / levamisole,MIN
+1777,2055755,doravirine,IN
+1778,2055808,doravirine / lamivudine / tenofovir disoproxil,MIN
+1779,2721194,dordaviprone,IN
+1780,119771,doripenem,IN
+1781,337623,dornase alfa,IN
+1782,60207,dorzolamide,IN
+1783,2539967,dostarlimab,IN
+1784,1797118,dotatate,IN
+1785,3634,dothiepin,IN
+1786,1098257,douglas fir pollen extract,IN
+1787,23651,doxacurium,IN
+1788,3637,doxapram,IN
+1789,49276,doxazosin,IN
+1790,3638,doxepin,IN
+1791,11516,doxercalciferol,IN
+1792,3639,doxorubicin,IN
+1793,3640,doxycycline,IN
+1794,3642,doxylamine,IN
+1795,1426903,drometrizole,IN
+1796,1992874,drometrizole trisiloxane,IN
+1797,23678,dromostanolone,IN
+1798,10402,dronabinol,IN
+1799,233698,dronedarone,IN
+1800,3648,droperidol,IN
+1801,11636,drospirenone,IN
+1802,23684,drotaverin,IN
+1803,352374,drotrecogin alfa,IN
+1804,23687,droxicam,IN
+1805,1489913,droxidopa,IN
+1806,892851,duck feather extract,IN
+1807,1551291,dulaglutide,IN
+1808,72625,duloxetine,IN
+1809,1876376,dupilumab,IN
+1810,2639089,durlobactam,IN
+1811,1919503,durvalumab,IN
+1812,228790,dutasteride,IN
+1813,2058509,duvelisib,IN
+1814,23744,dyclonine,IN
+1815,3706,dydrogesterone,IN
+1816,2274100,dymanthine,IN
+1817,3714,dyphylline,IN
+1818,852363,eastern cottonwood pollen extract,IN
+1819,852738,eastern white pine pollen extract,IN
+1820,23796,ebastine,IN
+1821,658708,ecallantide,IN
+1822,1544124,ecamsule,IN
+1823,259415,echinacea angustifolia root extract,IN
+1824,477531,echinacea purpurea aerial parts extract,IN
+1825,260025,echinacea purpurea extract,IN
+1826,3743,econazole,IN
+1827,89778,ecothiopate,IN
+1828,1426644,ectoine,IN
+1829,591781,eculizumab,IN
+1830,1921877,edaravone,IN
+1831,1368950,edetate calcium,IN
+1832,3755,edetic acid,IN
+1833,1314349,edetol,IN
+1834,2199392,edotreotride,IN
+1835,1599538,edoxaban,IN
+1836,49428,edoxudine,IN
+1837,80726,edrecolomab,IN
+1838,3752,edrophonium,IN
+1839,356988,efalizumab,IN
+1840,195085,efavirenz,IN
+1841,1007761,efavirenz / emtricitabine / tenofovir disoproxil,MIN
+1842,2670630,efbemalenograstim alfa,IN
+1843,2691105,efetozole,IN
+1844,2587717,efgartigimod alfa,IN
+1845,1539753,efinaconazole,IN
+1846,2612526,eflapegrastim,IN
+1847,569,eflornithine,IN
+1848,23852,efloxate,IN
+1849,1543095,efmoroctocog alfa,IN
+1850,892616,egg white (chicken) allergenic extract,IN
+1851,349762,egg yolk phosphatides,IN
+1852,314605,egg yolk phospholipids,IN
+1853,1742992,egtazic acid,IN
+1854,1374399,eicosenoic acid,IN
+1855,2628469,elacestrant,IN
+1856,2698762,eladocagene exuparvovec,IN
+1857,2684941,elafibranor,IN
+1858,2049846,elagolix,IN
+1859,2725600,elamipretide,IN
+1860,2059219,elapegademase,IN
+1861,1734628,elbasvir,IN
+1862,1734635,elbasvir / grazoprevir,MIN
+1863,231049,eletriptan,IN
+1864,1368902,eleuthero preparation,IN
+1865,2256951,elexacaftor,IN
+1866,1547220,eliglustat,IN
+1867,2725511,elinzanetant,IN
+1868,2612527,elivaldogene autotemcel,IN
+1869,1043181,ellagic acid,IN
+1870,1489914,elosulfase alfa,IN
+1871,1726104,elotuzumab,IN
+1872,2644880,elranatamab,IN
+1873,711942,eltrombopag,IN
+1874,1653781,eluxadoline,IN
+1875,1306286,elvitegravir,IN
+1876,2104604,emapalumab,IN
+1877,2464539,embutramide,IN
+1878,28144,emedastine,IN
+1879,3816,emepronium,IN
+1880,3820,emetine,IN
+1881,1989794,emicizumab,IN
+1882,354606,emodepside,IN
+1883,2745448,emodin,IN
+1884,1545653,empagliflozin,IN
+1885,1598392,empagliflozin / linagliptin,MIN
+1886,276237,emtricitabine,IN
+1887,1727492,emtricitabine / rilpivirine / tenofovir alafenamide,MIN
+1888,1145801,emtricitabine / rilpivirine / tenofovir disoproxil,MIN
+1889,1727491,emtricitabine / tenofovir alafenamide,MIN
+1890,1008145,emtricitabine / tenofovir disoproxil,MIN
+1891,3827,enalapril,IN
+1892,214536,enalapril / hydrochlorothiazide,MIN
+1893,3829,enalaprilat,IN
+1894,1940332,enasidenib,IN
+1895,42368,encainide,IN
+1896,2049106,encorafenib,IN
+1897,3920,enflurane,IN
+1898,2268307,enfortumab,IN
+1899,139896,enfuvirtide,IN
+1900,2168411,english lavender oil,IN
+1901,852742,english plantain pollen extract,IN
+1902,852577,english walnut pollen extract,IN
+1903,1442172,enilconazole,IN
+1904,2675985,enmetazobactam,IN
+1905,2168587,enobosarm,IN
+1906,3925,enoxacin,IN
+1907,67108,enoxaparin,IN
+1908,49626,enoximone,IN
+1909,24192,enrofloxacin,IN
+1910,2712546,ensartinib,IN
+1911,2687215,ensifentrine,IN
+1912,2745988,ensitrelvir,IN
+1913,13714,ensulizole,IN
+1914,60307,entacapone,IN
+1915,306266,entecavir,IN
+1916,1943794,enterococcus faecium,IN
+1917,2197862,entrectinib,IN
+1918,1366957,entsufon,IN
+1919,1311507,enzacamene,IN
+1920,1307298,enzalutamide,IN
+1921,1310593,eosine yellowish,IN
+1922,2637392,epcoritamab,IN
+1923,3966,ephedrine,IN
+1924,2641822,epicatechin,IN
+1925,1546422,epicriptine,IN
+1926,1427158,epidermal growth factor,IN
+1927,24246,epigallocatechin gallate,IN
+1928,1311044,epimedium grandiflorum top extract,IN
+1929,39684,epinastine,IN
+1930,3992,epinephrine,IN
+1931,214545,epinephrine / etidocaine,MIN
+1932,3995,epirubicin,IN
+1933,298869,eplerenone,IN
+1934,2671939,eplontersen,IN
+1935,105694,epoetin alfa,IN
+1936,105695,epoetin beta,IN
+1937,24263,epomediol,IN
+1938,8814,epoprostenol,IN
+1939,24272,eprazinone,IN
+1940,1006619,eprinomectin,IN
+1941,83515,eprosartan,IN
+1942,24274,eprozinol,IN
+1943,24285,epsiprantel,IN
+1944,75635,eptifibatide,IN
+1945,2282660,eptinezumab,IN
+1946,1306235,equisetum arvense top extract,IN
+1947,1332872,equisetum hyemale extract,IN
+1948,2055906,eravacycline,IN
+1949,2123125,erdafitinib,IN
+1950,24305,erdosteine,IN
+1951,2045613,erenumab,IN
+1952,4018,ergocalciferol,IN
+1953,4021,ergonovine,IN
+1954,4025,ergotamine,IN
+1955,1314350,ergothioneine,IN
+1956,1045453,eribulin,IN
+1957,337525,erlotinib,IN
+1958,1311285,ersofermin,IN
+1959,325642,ertapenem,IN
+1960,1992672,ertugliflozin,IN
+1961,1356146,erythorbate,IN
+1962,1369563,erythritol,IN
+1963,4040,erythrityl tetranitrate,IN
+1964,4053,erythromycin,IN
+1965,1609189,erythroxylum catuaba bark extract,IN
+1966,2636785,esafoxolaner,IN
+1967,350202,escherichia coli,IN
+1968,4065,escin,IN
+1969,321988,escitalopram,IN
+1970,1314351,esculin,IN
+1971,2119365,esketamine,IN
+1972,1482502,eslicarbazepine,IN
+1973,49737,esmolol,IN
+1974,283742,esomeprazole,IN
+1975,4077,estazolam,IN
+1976,2539031,estetrol,IN
+1977,4083,estradiol,IN
+1978,636632,estradiol / medroxyprogesterone,MIN
+1979,214551,estradiol / norethindrone,MIN
+1980,214553,estradiol / testosterone,MIN
+1981,1549461,estradiol / trenbolone,MIN
+1982,4089,estramustine,IN
+1983,4094,estriol,IN
+1984,4100,estrogens,IN
+1985,4099,"estrogens, conjugated (usp)",IN
+1986,214549,"estrogens, esterified (usp)",IN
+1987,4103,estrone,IN
+1988,33747,estropipate,IN
+1989,461016,eszopiclone,IN
+1990,214555,etanercept,IN
+1991,1876119,etelcalcetide,IN
+1992,1810569,eteplirsen,IN
+1993,2477854,etesevimab,IN
+1994,4106,ethacridine,IN
+1995,62349,ethacrynate,IN
+1996,4110,ethambutol,IN
+1997,24453,ethamivan,IN
+1998,4112,ethamsylate,IN
+1999,1314352,ethanethiol,IN
+2000,448,ethanol,IN
+2001,24457,ethanolamine,IN
+2002,24460,ethanolamine oleate,IN
+2003,24464,ethaverine,IN
+2004,4118,ethchlorvynol,IN
+2005,24468,ethenzamide,IN
+2006,24474,ethinamate,IN
+2007,4124,ethinyl estradiol,IN
+2008,214557,ethinyl estradiol / ethynodiol,MIN
+2009,2055926,ethinyl estradiol / segesterone,MIN
+2010,4125,ethiodized oil,IN
+2011,4127,ethionamide,IN
+2012,4129,ethisterone,IN
+2013,4132,ethoglucid,IN
+2014,24484,ethoheptazine,IN
+2015,1362891,ethohexadiol,IN
+2016,1314353,ethopabate,IN
+2017,4135,ethosuximide,IN
+2018,4136,ethotoin,IN
+2019,41078,ethoxazene,IN
+2020,1314354,ethoxyquin,IN
+2021,1358000,ethybenztropine,IN
+2022,1314355,ethyl acetate,IN
+2023,4141,ethyl chloride,IN
+2024,1420983,ethyl ferulate,IN
+2025,24524,ethyl loflazepate,IN
+2026,1314358,ethyl macadamiate,IN
+2027,1314359,ethyl maltol,IN
+2028,2468050,ethyl methoxycinnamate,IN
+2029,1314360,ethyl nitrate,IN
+2030,1921585,ethyl nitrite,IN
+2031,1314361,ethyl oleate,IN
+2032,1539968,ethyl pyruvate,IN
+2033,1546423,ethyl salicylate,IN
+2034,1665664,ethyl sulfate,IN
+2035,1311571,ethyl vanillin,IN
+2036,1362892,ethyl-p-hydroxybenzoate,IN
+2037,1312575,ethylcellulose (7 mpa.s),IN
+2038,1368154,ethylene oxide,IN
+2039,4158,ethylenediamine,IN
+2040,1370600,ethylenediaminetetraacetate,IN
+2041,4162,ethylestrenol,IN
+2042,1311616,ethylhexyl methoxycrylene,IN
+2043,1367134,ethylhexylglycerin,IN
+2044,1546427,ethylmercurithiosalicylic acid,IN
+2045,4166,ethylmorphine,IN
+2046,156240,ethylnorepinephrine,IN
+2047,24591,ethynodiol,IN
+2048,4171,etidocaine,IN
+2049,42682,etidronate,IN
+2050,24441,etifoxine,IN
+2051,4169,etilefrine,IN
+2052,1421444,etilevodopa,IN
+2053,24605,etodolac,IN
+2054,24607,etofamide,IN
+2055,24608,etofenamate,IN
+2056,24609,etofibrate,IN
+2057,24611,etofylline,IN
+2058,4177,etomidate,IN
+2059,14584,etonogestrel,IN
+2060,4179,etoposide,IN
+2061,307296,etoricoxib,IN
+2062,2728549,etorphine,IN
+2063,2626727,etranacogene dezaparvovec,IN
+2064,2668045,etrasimod,IN
+2065,475969,etravirine,IN
+2066,4182,etretinate,IN
+2067,2730302,etripamil,IN
+2068,2747657,etuvetidigene autotemcel,IN
+2069,21116,eucalyptol,IN
+2070,2122439,eucalyptus alba leaf extract,IN
+2071,319781,eucalyptus extract,IN
+2072,1305545,eucalyptus globulus leaf extract,IN
+2073,59087,eucalyptus oil,IN
+2074,1309788,eucommia ulmoides bark extract,IN
+2075,4186,eugenol,IN
+2076,852653,european olive pollen extract,IN
+2077,895527,european rabbit hair extract,IN
+2078,895195,european rabbit skin extract,IN
+2079,4191,evans blue,IN
+2080,203219,evening primrose oil,IN
+2081,1337279,everlasting extract,IN
+2082,141704,everolimus,IN
+2083,2478335,evinacumab,IN
+2084,1665684,evolocumab,IN
+2085,2671667,exagamglogene autotemcel,IN
+2086,62153,exametazime,IN
+2087,258494,exemestane,IN
+2088,60548,exenatide,IN
+2089,341248,ezetimibe,IN
+2090,484211,ezetimibe / simvastatin,MIN
+2091,1112990,ezogabine,IN
+2092,4249,factor ix,IN
+2093,1484957,factor ix / factor vii / factor x / protein c / protein s / prothrombin,MIN
+2094,1670383,factor ix complex,IN
+2095,4254,factor vii,IN
+2096,4256,factor viia,IN
+2097,4257,factor viii,IN
+2098,226623,factor viii / von willebrand factor,MIN
+2099,4262,factor x,IN
+2100,4271,factor xiii,IN
+2101,1309940,fallopia multiflora root extract,IN
+2102,851938,false ragweed pollen extract,IN
+2103,68099,famciclovir,IN
+2104,4278,famotidine,IN
+2105,1314371,fanolesomab,IN
+2106,2591519,faricimab,IN
+2107,1362903,farnesol,IN
+2108,24805,febantel,IN
+2109,24807,febarbamate,IN
+2110,24809,febuprol,IN
+2111,73689,febuxostat,IN
+2112,2636537,"fecal microbiota spores, live",IN
+2113,2391141,feclobuzone,IN
+2114,2197490,fedratinib,IN
+2115,235961,fedrilate,IN
+2116,24812,felbamate,IN
+2117,262307,felbinac,IN
+2118,4316,felodipine,IN
+2119,4319,felypressin,IN
+2120,1869713,fenamiphos,IN
+2121,4325,fenbendazole,IN
+2122,24830,fenbufen,IN
+2123,158507,fenbutrazate,IN
+2124,4327,fendiline,IN
+2125,24840,fenethylline,IN
+2126,4328,fenfluramine,IN
+2127,24846,fenipentol,IN
+2128,8703,fenofibrate,IN
+2129,24853,fenoldopam,IN
+2130,4331,fenoprofen,IN
+2131,4333,fenoterol,IN
+2132,24855,fenoverine,IN
+2133,24856,fenoxazoline,IN
+2134,24860,fenozolone,IN
+2135,24867,fenproporex,IN
+2136,4335,fenspiride,IN
+2137,4337,fentanyl,IN
+2138,24876,fenticonazole,IN
+2139,8673,feprazone,IN
+2140,24897,ferric ammonium citrate,IN
+2141,1426442,ferric ammonium ferrocyanide,IN
+2142,317229,ferric cacodylate,IN
+2143,1433693,ferric carboxymaltose,IN
+2144,1546357,ferric cation,IN
+2145,24898,ferric chloride,IN
+2146,1594675,ferric citrate,IN
+2147,2274394,ferric derisomaltose,IN
+2148,539399,ferric hexacyanoferrate,IN
+2149,1428835,ferric hydroxide,IN
+2150,2539932,ferric maltol,IN
+2151,1310572,ferric oxide,IN
+2152,1607976,ferric pyrophosphate,IN
+2153,24913,ferric sulfate,IN
+2154,2619162,ferriclate calcium sodium,IN
+2155,4356,ferrous ascorbate,IN
+2156,236617,ferrous aspartate,IN
+2157,644718,ferrous asparto glycinate,IN
+2158,1102188,ferrous bisglycinate,IN
+2159,1440290,ferrous carbonate,IN
+2160,1541238,ferrous cation,IN
+2161,24940,ferrous chloride,IN
+2162,1490797,ferrous cysteine glycinate,IN
+2163,24941,ferrous fumarate,IN
+2164,24942,ferrous gluconate,IN
+2165,105655,ferrous glycine sulfate,IN
+2166,1311296,ferrous iodide,IN
+2167,136034,ferrous lactate,IN
+2168,24946,ferrous succinate,IN
+2169,24947,ferrous sulfate,IN
+2170,1368648,ferulate,IN
+2171,72901,ferumoxides,IN
+2172,77754,ferumoxsil,IN
+2173,473387,ferumoxytol,IN
+2174,797195,fesoterodine,IN
+2175,2564146,fexinidazole,IN
+2176,87636,fexofenadine,IN
+2177,214565,fexofenadine / pseudoephedrine,MIN
+2178,2637134,fezolinetant,IN
+2179,70727,fiber,IN
+2180,4385,fibrinogen,IN
+2181,389190,fibrinogen / thrombin,MIN
+2182,353110,fibrinolysis inhibitor,IN
+2183,1591916,fibroblast growth factor-1,IN
+2184,2103294,ficusin,IN
+2185,2681011,fidanacogene elaparvovec,IN
+2186,1111103,fidaxomicin,IN
+2187,68442,filgrastim,IN
+2188,1598641,finafloxacin,IN
+2189,25025,finasteride,IN
+2190,2562811,finerenone,IN
+2191,1012892,fingolimod,IN
+2192,473298,firocoxib,IN
+2193,2667741,fisetin,IN
+2194,2053495,fish oil (containing omega-3 acids),IN
+2195,4419,fish oils,IN
+2196,2709439,fitusiran,IN
+2197,852124,fivehorn smotherweed pollen extract,IN
+2198,1314412,flavin-adenine dinucleotide,IN
+2199,25060,flavodic acid,IN
+2200,1536070,flavone,IN
+2201,4440,flavoxate,IN
+2202,901351,flaxseed allergenic extract,IN
+2203,318224,flaxseed extract,IN
+2204,4441,flecainide,IN
+2205,42322,fleroxacin,IN
+2206,1665509,flibanserin,IN
+2207,4444,floctafenine,IN
+2208,25082,flopropione,IN
+2209,2571857,florbetaben,IN
+2210,1427225,florbetapir,IN
+2211,25086,florfenicol,IN
+2212,2571858,flortaucipir,IN
+2213,25089,flosequinan,IN
+2214,2637947,flotufolastat,IN
+2215,899746,flounder allergenic extract,IN
+2216,4448,floxacillin,IN
+2217,4488,floxuridine,IN
+2218,25096,flubendazole,IN
+2219,2571859,fluciclovine,IN
+2220,108091,fluclorolone,IN
+2221,190410,flucloronide,IN
+2222,4450,fluconazole,IN
+2223,4451,flucytosine,IN
+2224,24698,fludarabine,IN
+2225,4452,fludrocortisone,IN
+2226,618272,flufenamate,IN
+2227,4453,flufenamic acid,IN
+2228,50097,fluindione,IN
+2229,4457,flumazenil,IN
+2230,25112,flumequine,IN
+2231,4458,flumethasone,IN
+2232,89911,flumethiazide,IN
+2233,4459,flunarizine,IN
+2234,25120,flunisolide,IN
+2235,4460,flunitrazepam,IN
+2236,25121,flunixin,IN
+2237,25126,fluocinolone,IN
+2238,4462,fluocinonide,IN
+2239,4463,fluocortolone,IN
+2240,1006895,fluocortolone caproate / fluocortolone pivalate,MIN
+2241,25138,fluorescein,IN
+2242,466457,fluorescein / proparacaine,MIN
+2243,196213,fluoride ion,IN
+2244,2571852,fluorodopa,IN
+2245,4491,fluorometholone,IN
+2246,465678,fluorometholone / tobramycin,MIN
+2247,4492,fluorouracil,IN
+2248,4493,fluoxetine,IN
+2249,4494,fluoxymesterone,IN
+2250,4495,flupenthixol,IN
+2251,4496,fluphenazine,IN
+2252,644529,fluphenazine / nortriptyline,MIN
+2253,25193,flupirtine,IN
+2254,236650,fluprednidene,IN
+2255,4497,fluprednisolone,IN
+2256,1538098,fluralaner,IN
+2257,4500,flurandrenolide,IN
+2258,4501,flurazepam,IN
+2259,4502,flurbiprofen,IN
+2260,4507,fluspirilene,IN
+2261,4508,flutamide,IN
+2262,1486026,flutemetamol,IN
+2263,41126,fluticasone,IN
+2264,61773,flutrimazole,IN
+2265,41127,fluvastatin,IN
+2266,42355,fluvoxamine,IN
+2267,62356,folate,IN
+2268,4511,folic acid,IN
+2269,227518,follicle stimulating hormone,IN
+2270,386938,follitropin alfa,IN
+2271,25357,follitropin beta,IN
+2272,15226,fomepizole,IN
+2273,183875,fominoben,IN
+2274,85763,fomivirsen,IN
+2275,50138,fonazine,IN
+2276,321208,fondaparinux,IN
+2277,1427137,"foreskin fibroblast, neonatal",IN
+2278,1427138,"foreskin keratinocyte, neonatal",IN
+2279,4530,formaldehyde,IN
+2280,1592295,formaldehyde sulfoxylate,IN
+2281,314636,formalin,IN
+2282,15070,formestane,IN
+2283,4537,formic acid,IN
+2284,25255,formoterol,IN
+2285,1311590,forsythia suspensa fruit extract,IN
+2286,358262,fosamprenavir,IN
+2287,1731071,fosaprepitant,IN
+2288,33562,foscarnet,IN
+2289,1368646,foscolate,IN
+2290,2531288,fosdenopterin,IN
+2291,25284,fosfestrol,IN
+2292,4550,fosfomycin,IN
+2293,2119172,fosfructose,IN
+2294,50166,fosinopril,IN
+2295,261415,fosinopril / hydrochlorothiazide,MIN
+2296,1546393,fosinoprilat,IN
+2297,72236,fosphenytoin,IN
+2298,828682,fospropofol,IN
+2299,2044896,fostamatinib,IN
+2300,2380373,fostemsavir,IN
+2301,1312592,fosveset,IN
+2302,4556,framycetin,IN
+2303,1350209,frangula purshiana bark extract,IN
+2304,1311479,frankincense extract,IN
+2305,2056691,fremanezumab,IN
+2306,852355,fremont cottonwood pollen extract,IN
+2307,228783,frovatriptan,IN
+2308,259372,fructooligosaccharide,IN
+2309,4570,fructose,IN
+2310,2670179,fruquintinib,IN
+2311,2466731,fucose,IN
+2312,282357,fulvestrant,IN
+2313,1926480,fumagillin,IN
+2314,70598,fumarate,IN
+2315,4601,furazolidone,IN
+2316,4603,furosemide,IN
+2317,2643212,furterene,IN
+2318,113608,fusidate,IN
+2319,2628190,futibatinib,IN
+2320,2632642,fuzapladib,IN
+2321,25480,gabapentin,IN
+2322,692620,gadobenate,IN
+2323,84990,gadobutrol,IN
+2324,41144,gadodiamide,IN
+2325,1364290,gadofosveset,IN
+2326,1310171,gadolinium,IN
+2327,1546429,gadolinium cation (3+),IN
+2328,1546432,gadopentetate,IN
+2329,2618720,gadopiclenol,IN
+2330,25483,gadoteridol,IN
+2331,228833,gadoversetamide,IN
+2332,802624,gadoxetate,IN
+2333,4626,galactose,IN
+2334,4637,galantamine,IN
+2335,2058846,galcanezumab,IN
+2336,4638,gallamine,IN
+2337,1310124,gallium,IN
+2338,4648,gallopamil,IN
+2339,578033,galsulfase,IN
+2340,852276,gambels oak pollen extract,IN
+2341,1113697,gamithromycin,IN
+2342,618771,gamma-aminobutyrate,IN
+2343,618453,gamma-linolenate,IN
+2344,2604689,ganaxolone,IN
+2345,4678,ganciclovir,IN
+2346,35825,ganirelix,IN
+2347,2717169,garadacimab,IN
+2348,1311595,garcinia cambogia fruit extract,IN
+2349,1428846,garden snail mucin preparation,IN
+2350,900987,garrys oak pollen extract,IN
+2351,228476,gatifloxacin,IN
+2352,328134,gefitinib,IN
+2353,4716,gelatin,IN
+2354,12574,gemcitabine,IN
+2355,12449,gemeprost,IN
+2356,4719,gemfibrozil,IN
+2357,138099,gemifloxacin,IN
+2358,1294580,gemtuzumab ozogamicin,IN
+2359,25696,genistein,IN
+2360,1596450,gentamicin,IN
+2361,4778,gentian violet,IN
+2362,1368642,gentisate,IN
+2363,1427180,gentisic acid ethanolamide,IN
+2364,41157,gepefrine,IN
+2365,2672253,gepirone,IN
+2366,2709212,gepotidacin,IN
+2367,1368875,geraniol,IN
+2368,1372247,geranium extract,IN
+2369,1362746,geranylgeranylacetone,IN
+2370,905276,german cockroach allergenic extract,IN
+2371,1297531,german wasp venom protein,IN
+2372,25734,gestodene,IN
+2373,4791,gestonorone caproate,IN
+2374,4792,gestrinone,IN
+2375,1541240,geum urbanum root extract,IN
+2376,851998,giant ragweed pollen extract,IN
+2377,900148,giant wild rye pollen extract,IN
+2378,2105806,gilteritinib,IN
+2379,285241,ginger extract,IN
+2380,236809,ginkgo biloba extract,IN
+2381,259385,ginseng root,IN
+2382,349656,ginsenoside,IN
+2383,89791,gitalin,IN
+2384,2678889,givinostat,IN
+2385,2265712,givosiran,IN
+2386,2105845,glasdegib,IN
+2387,214582,glatiramer,IN
+2388,1940635,glecaprevir,IN
+2389,1940702,glecaprevir / pibrentasvir,MIN
+2390,1855078,gleptoferron,IN
+2391,102846,glibornuride,IN
+2392,4816,gliclazide,IN
+2393,25789,glimepiride,IN
+2394,1192997,gliocladium allergenic extract,IN
+2395,4821,glipizide,IN
+2396,25793,gliquidone,IN
+2397,2639782,glofitamab,IN
+2398,4832,glucagon,IN
+2399,25834,glucametacin,IN
+2400,1242127,glucarpidase,IN
+2401,50470,gluceptate,IN
+2402,11454,glucomannan,IN
+2403,70599,gluconate,IN
+2404,25842,gluconolactone,IN
+2405,4845,glucosamine,IN
+2406,4850,glucose,IN
+2407,216544,glucose / potassium chloride,MIN
+2408,1427073,glucose oxidase,IN
+2409,1541246,glucose-6-phosphate,IN
+2410,1426907,glucuronate,IN
+2411,1535222,glucuronolactone,IN
+2412,70602,glutamate,IN
+2413,4885,glutamine,IN
+2414,4888,glutaral,IN
+2415,1943800,glutarate,IN
+2416,4890,glutathione,IN
+2417,25953,glutathione disulfide,IN
+2418,4903,glutethimide,IN
+2419,4815,glyburide,IN
+2420,4910,glycerin,IN
+2421,1368451,glycerol phenylbutyrate,IN
+2422,1305749,glyceryl behenate,IN
+2423,1366664,glyceryl caprate,IN
+2424,1307152,glyceryl caprylate,IN
+2425,1311690,glyceryl distearate,IN
+2426,1311693,glyceryl laurate,IN
+2427,1655567,glyceryl monobehenate,IN
+2428,314647,glyceryl monolaurate,IN
+2429,1426928,glyceryl palmitate,IN
+2430,1423803,glyceryl phosphate,IN
+2431,1311155,glyceryl stearate,IN
+2432,1364379,glyceryl stearate se,IN
+2433,4919,glycine,IN
+2434,1426910,glycogen,IN
+2435,1427079,glycol dimethacrylate,IN
+2436,1367188,glycol distearate,IN
+2437,26051,glycol salicylate,IN
+2438,1426255,glycol stearate,IN
+2439,70603,glycolate,IN
+2440,1008570,glycolate / pyruvate,MIN
+2441,1540882,glycolide,IN
+2442,1546438,glycopyrronium,IN
+2443,1008086,glycopyrronium / neostigmine,MIN
+2444,1370435,glycyrrhiza glabra extract,IN
+2445,26143,glycyrrhizic acid,IN
+2446,102848,glymidine,IN
+2447,1800093,glyphosate,IN
+2448,1311190,gold,IN
+2449,2045117,gold cation (1+),IN
+2450,1372255,goldenseal extract,IN
+2451,819300,golimumab,IN
+2452,2267207,golodirsen,IN
+2453,2367440,golotimod,IN
+2454,6384,gonadorelin,IN
+2455,894783,goose feather extract,IN
+2456,50610,goserelin,IN
+2457,2588949,gozetotide,IN
+2458,852197,grama grass pollen extract,IN
+2459,5011,gramicidin,IN
+2460,26237,granisetron,IN
+2461,237116,grape seed extract,IN
+2462,1309208,grape seed oil,IN
+2463,1309212,grapefruit oil,IN
+2464,1862951,grapiprant,IN
+2465,852178,gray birch pollen extract,IN
+2466,1734630,grazoprevir,IN
+2467,852152,greasewood pollen extract,IN
+2468,852491,green ash pollen extract,IN
+2469,659476,green tea extract,IN
+2470,283567,green tea leaf extract,IN
+2471,83719,grepafloxacin,IN
+2472,5021,griseofulvin,IN
+2473,897332,groundsel pollen extract,IN
+2474,5031,guaiacol,IN
+2475,636827,guaiacolsulfonate,IN
+2476,26290,guaiazulene,IN
+2477,236315,guaietolin,IN
+2478,5032,guaifenesin,IN
+2479,5033,guanabenz,IN
+2480,26296,guanadrel,IN
+2481,5036,guanethidine,IN
+2482,40114,guanfacine,IN
+2483,50675,guanidine,IN
+2484,1372539,guanine,IN
+2485,1591890,guanosine,IN
+2486,26344,guar gum,IN
+2487,2166593,guinea pig dander,IN
+2488,852298,guinea pig skin extract,IN
+2489,1928588,guselkumab,IN
+2490,852324,hackberry pollen extract,IN
+2491,798444,haemophilus influenzae b (ross strain) capsular polysaccharide meningococcal protein conjugate vaccine,IN
+2492,50937,haemophilus influenzae type b,IN
+2493,798279,"haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine",IN
+2494,26412,halazepam,IN
+2495,59838,halazone,IN
+2496,5084,halcinonide,IN
+2497,41208,halobetasol,IN
+2498,2166088,halobetasol / tazarotene,MIN
+2499,50749,halofantrine,IN
+2500,26416,halometasone,IN
+2501,5093,haloperidol,IN
+2502,26422,haloprogin,IN
+2503,5095,halothane,IN
+2504,895062,hamster skin extract,IN
+2505,1368196,hard fat,IN
+2506,851874,hard maple pollen extract,IN
+2507,1309793,hawthorn leaf with flower extract,IN
+2508,852281,hazelnut pollen extract,IN
+2509,258439,heavy mineral oil,IN
+2510,1309795,hedera helix leaf extract,IN
+2511,5140,helium,IN
+2512,5164,hematoporphyrin,IN
+2513,26506,heme arginate,IN
+2514,978673,heme iron polypeptide,IN
+2515,26514,hemicellulase,IN
+2516,5175,hemin,IN
+2517,5224,heparin,IN
+2518,798361,hepatitis a vaccine (inactivated) strain hm175,IN
+2519,2274413,"hepatitis a virus strain cr 326f antigen, inactivated",IN
+2520,26744,hepatitis b immune globulin,IN
+2521,797752,hepatitis b surface antigen vaccine,IN
+2522,1427171,hepatitis b virus subtype adw2 hbsag surface protein antigen,IN
+2523,5254,heptaminol,IN
+2524,991260,heptanoic acid,IN
+2525,2462498,heptyl glucoside,IN
+2526,3304,heroin,IN
+2527,1316105,"herpesvirus 1, human",IN
+2528,1314255,hesperetin,IN
+2529,5281,hesperidin,IN
+2530,26797,hetacillin,IN
+2531,5531,hetastarch,IN
+2532,1372928,heterotheca inuloides flower extract,IN
+2533,5293,hexachlorophene,IN
+2534,1997246,hexacosanoate,IN
+2535,2049630,hexadecanal,IN
+2536,26826,hexafluorenium,IN
+2537,1311540,hexamethyldisiloxane,IN
+2538,26849,hexamidine,IN
+2539,5301,hexetidine,IN
+2540,5302,hexobarbital,IN
+2541,5303,hexobendine,IN
+2542,26867,hexocyclium,IN
+2543,5307,hexoprenaline,IN
+2544,1426872,hexyl 5-aminolevulinate,IN
+2545,1367126,hexyl laurate,IN
+2546,26879,hexylcaine,IN
+2547,5321,hexylresorcinol,IN
+2548,1310511,high fructose corn syrup,IN
+2549,1923620,hippurate,IN
+2550,5333,histamine,IN
+2551,5340,histidine,IN
+2552,50975,histrelin,IN
+2553,852839,hog skin extract,IN
+2554,27084,homatropine,IN
+2555,214614,homatropine / hydrocodone,MIN
+2556,91326,homosalate,IN
+2557,285279,honey preparation,IN
+2558,895515,horse hair extract,IN
+2559,350173,house fly allergenic extract,IN
+2560,967921,house fly extract,IN
+2561,852693,house mouse skin extract,IN
+2562,235481,human calcitonin,IN
+2563,1307732,human cord blood hematopoietic progenitor cell,IN
+2564,1329960,human placenta hydrolysate,IN
+2565,597392,human vaccinia immune globulin,IN
+2566,2267703,huperzine a,IN
+2567,62372,hyaluronate,IN
+2568,5464,hyaluronidase,IN
+2569,2382603,hyaluronidase / pertuzumab / trastuzumab,MIN
+2570,1927884,hyaluronidase / rituximab,MIN
+2571,2119713,hyaluronidase / trastuzumab,MIN
+2572,2673464,hydracrylic acid,IN
+2573,5470,hydralazine,IN
+2574,314666,hydrastis preparation,IN
+2575,5486,hydrochloric acid,IN
+2576,5487,hydrochlorothiazide,IN
+2577,5489,hydrocodone,IN
+2578,5492,hydrocortisone,IN
+2579,217627,hydrocortisone / neomycin / polymyxin b,MIN
+2580,106955,hydrocortisone / pramoxine,MIN
+2581,5495,hydroflumethiazide,IN
+2582,5496,hydrofluoric acid,IN
+2583,5497,hydrogen,IN
+2584,5499,hydrogen peroxide,IN
+2585,1366859,hydrogen sulfite,IN
+2586,1309218,hydrogenated castor oil,IN
+2587,1307683,hydrogenated coconut oil,IN
+2588,1309360,hydrogenated palm kernel oil,IN
+2589,1426418,hydrogenated soybean lecithin,IN
+2590,1309222,hydrogenated soybean oil,IN
+2591,2392131,hydrogenated soybean phosphatidylcholine,IN
+2592,1721695,hydrolyzed soy protein (enzymatic; 2000 mw),IN
+2593,3423,hydromorphone,IN
+2594,27220,hydroquinidine,IN
+2595,2468435,hydroquinine,IN
+2596,5509,hydroquinone,IN
+2597,27221,hydrotalcite,IN
+2598,1314279,hydroxide ion,IN
+2599,5514,hydroxocobalamin,IN
+2600,5521,hydroxychloroquine,IN
+2601,1362893,hydroxycitronellal,IN
+2602,27244,hydroxyethyl cellulose,IN
+2603,2204929,"hydroxyethyl cellulose, unspecified",IN
+2604,1722035,hydroxyethyl ethylcellulose,IN
+2605,1312611,hydroxyethylpiperazine ethane sulfonic acid,IN
+2606,1311548,hydroxyproline,IN
+2607,1811461,hydroxypropyl cellulose (type h),IN
+2608,1804020,"hydroxypropyl cellulose, unspecified",IN
+2609,1363585,hydroxypropyl methylcellulose 2208,IN
+2610,1363586,hydroxypropyl methylcellulose 2910,IN
+2611,1747475,hydroxypropyl tetrahydropyrantriol,IN
+2612,27291,hydroxypropylcellulose,IN
+2613,1314227,hydroxytyrosol,IN
+2614,5552,hydroxyurea,IN
+2615,5553,hydroxyzine,IN
+2616,1426887,hygromycin b,IN
+2617,5556,hymecromone,IN
+2618,153970,hyoscyamine,IN
+2619,314674,hyoscyamus extract,IN
+2620,1546455,hypericin,IN
+2621,1352522,hypericum oil,IN
+2622,1363609,hypnea musciformis extract,IN
+2623,1483317,hypochlorite,IN
+2624,1546440,hypophosphite ion,IN
+2625,1310069,hypoxis hemerocallidea root extract,IN
+2626,27334,hypromellose,IN
+2627,1362137,hyssop oil,IN
+2628,2043283,ibalizumab,IN
+2629,115264,ibandronate,IN
+2630,51253,ibopamine,IN
+2631,2560213,ibrexafungerp,IN
+2632,262323,ibritumomab tiuxetan,IN
+2633,1442981,ibrutinib,IN
+2634,5640,ibuprofen,IN
+2635,1805438,ibutamoren,IN
+2636,41289,ibutilide,IN
+2637,1788871,icariin,IN
+2638,1148138,icatibant,IN
+2639,5645,ichthammol,IN
+2640,140480,icodextrin,IN
+2641,1304974,icosapent ethyl,IN
+2642,5650,idarubicin,IN
+2643,1716191,idarucizumab,IN
+2644,51296,idebenone,IN
+2645,2536430,idecabtagene vicleucel,IN
+2646,1544460,idelalisib,IN
+2647,5653,idoxuridine,IN
+2648,19729,idrocilamide,IN
+2649,644101,idursulfase,IN
+2650,27403,ifenprodil,IN
+2651,5657,ifosfamide,IN
+2652,1305743,ilex paraguariensis leaf extract,IN
+2653,2604685,ilodecakin,IN
+2654,1368877,ilomastat,IN
+2655,73178,iloperidone,IN
+2656,40138,iloprost,IN
+2657,2693414,ilunocitinib,IN
+2658,282388,imatinib,IN
+2659,2465249,imdevimab,IN
+2660,2600779,imepitoin,IN
+2661,2685236,imetelstat,IN
+2662,1251576,imidacloprid,IN
+2663,60245,imidapril,IN
+2664,2472898,imidazole,IN
+2665,27438,imidazole-2-hydroxybenzoate,IN
+2666,1740237,imidocarb,IN
+2667,1368885,imidurea,IN
+2668,84959,imiglucerase,IN
+2669,5690,imipenem,IN
+2670,5691,imipramine,IN
+2671,59943,imiquimod,IN
+2672,2725912,imlunestrant,IN
+2673,5666,immunoglobulin g,IN
+2674,2367441,impacarzine,IN
+2675,738,inamrinone,IN
+2676,2695422,inavolisib,IN
+2677,2588243,inclisiran,IN
+2678,1114326,indacaterol,IN
+2679,27492,indanazoline,IN
+2680,5764,indapamide,IN
+2681,388499,indapamide / perindopril,MIN
+2682,1311673,indeloxazine,IN
+2683,1006495,indian wormwood sage pollen extract,IN
+2684,2463933,indican,IN
+2685,1426889,indigo,IN
+2686,1607314,indigofera tinctoria leaf extract,IN
+2687,325514,indigotindisulfonate,IN
+2688,114289,indinavir,IN
+2689,1362699,indium,IN
+2690,27518,indobufen,IN
+2691,5775,indocyanine green,IN
+2692,1311224,indole,IN
+2693,2598119,indole-3-carbinol,IN
+2694,5781,indomethacin,IN
+2695,5784,indoramin,IN
+2696,2373951,inebilizumab,IN
+2697,2550729,infigratinib,IN
+2698,191831,infliximab,IN
+2699,1657128,influenza a virus (h1n1) antigen,IN
+2700,1657138,influenza a virus (h1n1) antigen / influenza a virus (h3n2) antigen / influenza b virus antigen,MIN
+2701,1657131,influenza a virus (h3n2) antigen,IN
+2702,2743197,influenza a virus (h5n8) antigen,IN
+2703,1657134,influenza b virus antigen,IN
+2704,1242806,ingenol mebutate,IN
+2705,1311610,inonotus obliquus fruiting body extract,IN
+2706,1483575,inosine,IN
+2707,6048,inosine pranobex,IN
+2708,5832,inosinic acid,IN
+2709,5833,inositol,IN
+2710,1007270,inositol / niacin,MIN
+2711,2099289,inotersen,IN
+2712,1942950,inotuzumab ozogamicin,IN
+2713,1740938,insulin argine,IN
+2714,51428,"insulin aspart, human",IN
+2715,1670007,insulin degludec,IN
+2716,139825,insulin detemir,IN
+2717,274783,insulin glargine,IN
+2718,400008,"insulin glulisine, human",IN
+2719,631657,"insulin human, rdna origin",IN
+2720,2740394,insulin icodec,IN
+2721,86009,insulin lispro,IN
+2722,221109,"insulin, regular, pork",IN
+2723,1728770,insulin-like growth factor 2,IN
+2724,5879,interferon alfa-2a,IN
+2725,5880,interferon alfa-2b,IN
+2726,202912,interferon alfa-n1,IN
+2727,612937,interferon alfa-n3,IN
+2728,59744,interferon alfacon-1,IN
+2729,75917,interferon beta-1a,IN
+2730,72257,interferon beta-1b,IN
+2731,1314240,interferon gamma-1a,IN
+2732,5882,interferon gamma-1b,IN
+2733,4381,interferon-beta,IN
+2734,1311299,interleukin-10,IN
+2735,1311380,interleukin-11,IN
+2736,1309680,interleukin-12,IN
+2737,1311225,interleukin-3,IN
+2738,5891,interleukin-4,IN
+2739,1367185,interleukin-6,IN
+2740,1367202,interleukin-7,IN
+2741,5920,intrinsic factor,IN
+2742,2174793,inula helenium extract,IN
+2743,1309723,inula helenium root extract,IN
+2744,5924,inulin,IN
+2745,27712,invert sugar,IN
+2746,87639,iobitridol,IN
+2747,183830,iocetamic acid,IN
+2748,5928,iodamide,IN
+2749,1546275,iodide ion,IN
+2750,5933,iodine,IN
+2751,851894,iodine bush pollen extract,IN
+2752,692863,iodine povacrylex,IN
+2753,5936,iodipamide,IN
+2754,27729,iodixanol,IN
+2755,27748,iodoform,IN
+2756,314691,iodohippurate,IN
+2757,3435,iodoquinol,IN
+2758,2571854,ioflupane,IN
+2759,5956,iohexol,IN
+2760,2606484,iomeprol,IN
+2761,5966,iopamidol,IN
+2762,5967,iopanoic acid,IN
+2763,27779,iopentol,IN
+2764,5968,iophendylate,IN
+2765,27781,iopromide,IN
+2766,2565488,iota-carrageenan,IN
+2767,5970,iothalamate,IN
+2768,1546451,iothalamic acid,IN
+2769,51474,iotrolan,IN
+2770,27792,ioversol,IN
+2771,5973,ioxaglate,IN
+2772,27793,ioxilan,IN
+2773,5975,ipecac,IN
+2774,1094833,ipilimumab,IN
+2775,5976,ipodate,IN
+2776,7213,ipratropium,IN
+2777,51486,iprazochrome,IN
+2778,51487,ipriflavone,IN
+2779,5979,iprindole,IN
+2780,5981,iproniazid,IN
+2781,2671061,iptacopan,IN
+2782,83818,irbesartan,IN
+2783,51499,irinotecan,IN
+2784,90176,iron,IN
+2785,219315,iron polysaccharide,IN
+2786,27823,iron protein succinylate,IN
+2787,24909,iron sucrose,IN
+2788,5992,iron-dextran complex,IN
+2789,2282018,isatuximab,IN
+2790,1720882,isavuconazole,IN
+2791,1608322,isavuconazonium,IN
+2792,2602134,iscotrizinol,IN
+2793,2741688,islatravir,IN
+2794,27866,isoaminile,IN
+2795,1363040,isobutane,IN
+2796,1653517,isobutyramide,IN
+2797,6011,isocarboxazid,IN
+2798,27901,isoconazole,IN
+2799,6023,isoetharine,IN
+2800,1363706,isoeugenol,IN
+2801,1546449,isoflupredone,IN
+2802,1551411,isoflupredone / neomycin / tetracaine,MIN
+2803,6026,isoflurane,IN
+2804,6027,isoflurophate,IN
+2805,6033,isoleucine,IN
+2806,27946,isometheptene,IN
+2807,6038,isoniazid,IN
+2808,1368703,isopentane,IN
+2809,1364275,isoprene,IN
+2810,89784,isopropamide,IN
+2811,797541,isopropyl alcohol,IN
+2812,27985,isopropyl myristate,IN
+2813,1311179,isopropyl palmitate,IN
+2814,6054,isoproterenol,IN
+2815,6057,isosorbide,IN
+2816,6058,isosorbide dinitrate,IN
+2817,236303,isospaglumic acid,IN
+2818,1362928,isostearyl alcohol,IN
+2819,1546453,isosulfan blue inner salt,IN
+2820,28012,isothipendyl,IN
+2821,6064,isotretinoin,IN
+2822,1371313,isoxaflutole,IN
+2823,6066,isoxsuprine,IN
+2824,82089,ispaghula extract,IN
+2825,104129,ispaghula husk,IN
+2826,33910,isradipine,IN
+2827,2199015,istradefylline,IN
+2828,1014340,italian rye grass pollen extract,IN
+2829,28031,itraconazole,IN
+2830,1649480,ivabradine,IN
+2831,1243041,ivacaftor,IN
+2832,6069,ivermectin,IN
+2833,2049873,ivosidenib,IN
+2834,337523,ixabepilone,IN
+2835,1723735,ixazomib,IN
+2836,1745099,ixekizumab,IN
+2837,1014690,jack pine pollen extract,IN
+2838,900777,japanese black pine pollen extract,IN
+2839,845525,"japanese encephalitis virus vaccine, inactivated",IN
+2840,1014766,jerusalem oak pollen extract,IN
+2841,852136,johnson grass pollen extract,IN
+2842,6084,josamycin,IN
+2843,1424881,juglans regia shell extract,IN
+2844,6086,juniper tar,IN
+2845,1310161,juniperus sabina leaf,IN
+2846,1307948,juniperus virginiana oil,IN
+2847,1310098,kaempferia galanga root extract,IN
+2848,2743006,kaempferol,IN
+2849,6099,kanamycin,IN
+2850,1727573,kanamycin a,IN
+2851,6102,kaolin,IN
+2852,6111,karaya gum,IN
+2853,904554,karaya gum allergenic extract,IN
+2854,852617,karaya gum extract,IN
+2855,28198,kebuzone,IN
+2856,852834,kentucky bluegrass pollen extract,IN
+2857,28165,keracyanin,IN
+2858,6130,ketamine,IN
+2859,6131,ketanserin,IN
+2860,28181,ketazolam,IN
+2861,6135,ketoconazole,IN
+2862,6142,ketoprofen,IN
+2863,35827,ketorolac,IN
+2864,6146,ketotifen,IN
+2865,6147,khellin,IN
+2866,16054,kinetin,IN
+2867,852605,koelers grass pollen extract,IN
+2868,1426451,kojic acid,IN
+2869,260038,korean ginseng root,IN
+2870,880350,krill oil,IN
+2871,1722382,"l-methionine-s,r-sulfoximine",IN
+2872,798262,"l1 protein, human papillomavirus type 11 vaccine",IN
+2873,1597093,"l1 protein, human papillomavirus type 11 vaccine / l1 protein, human papillomavirus type 16 vaccine / l1 protein, human papillomavirus type 18 vaccine / l1 protein, human papillomavirus type 31 vaccine / l1 protein, human papillomavirus type 33 vaccine / l1 protein, human papillomavirus type 45 vaccine / l1 protein, human papillomavirus type 52 vaccine / l1 protein, human papillomavirus type 58 vaccine / l1 protein, human papillomavirus type 6 vaccine",MIN
+2874,1007132,"l1 protein, human papillomavirus type 11 vaccine / l1 protein, human papillomavirus type 16 vaccine / l1 protein, human papillomavirus type 18 vaccine / l1 protein, human papillomavirus type 6 vaccine",MIN
+2875,798264,"l1 protein, human papillomavirus type 16 vaccine",IN
+2876,798266,"l1 protein, human papillomavirus type 18 vaccine",IN
+2877,1596930,"l1 protein, human papillomavirus type 31 vaccine",IN
+2878,1596931,"l1 protein, human papillomavirus type 33 vaccine",IN
+2879,1596932,"l1 protein, human papillomavirus type 45 vaccine",IN
+2880,1596933,"l1 protein, human papillomavirus type 52 vaccine",IN
+2881,1596934,"l1 protein, human papillomavirus type 58 vaccine",IN
+2882,798268,"l1 protein, human papillomavirus type 6 vaccine",IN
+2883,6185,labetalol,IN
+2884,28381,lachesine,IN
+2885,28382,lacidipine,IN
+2886,623400,lacosamide,IN
+2887,41397,lactase,IN
+2888,114202,lactate,IN
+2889,1007266,lactate / pramoxine,MIN
+2890,2531544,lacticaseibacillus rhamnosus / limosilactobacillus reuteri,MIN
+2891,28395,lactitol,IN
+2892,6205,lactobacillus acidophilus,IN
+2893,100272,lactobacillus delbrueckii subsp. bulgaricus,IN
+2894,2462497,lactobacillus gasseri,IN
+2895,1310845,lactobacillus helveticus,IN
+2896,1426414,lactobionate,IN
+2897,1425933,lactoferrin,IN
+2898,6211,lactose,IN
+2899,6218,lactulose,IN
+2900,1546426,laidlomycin,IN
+2901,1370570,laidlomycin propionate,IN
+2902,1315120,lamb preparation,IN
+2903,852237,lambs quarters pollen extract,IN
+2904,68244,lamivudine,IN
+2905,28439,lamotrigine,IN
+2906,2055641,lanadelumab,IN
+2907,27929,lanatoside c,IN
+2908,2712070,landiolol,IN
+2909,6227,lanolin,IN
+2910,1426478,lanolin alcohols,IN
+2911,1309249,lanolin oil,IN
+2912,1442199,lanosterol,IN
+2913,68092,lanreotide,IN
+2914,17128,lansoprazole,IN
+2915,1311070,lanthanum,IN
+2916,234416,lanthanum carbonate,IN
+2917,1546443,lanthanum cation (3+),IN
+2918,480167,lapatinib,IN
+2919,28456,lapyrium,IN
+2920,1314302,larix sibirica wood extract,IN
+2921,392509,laronidase,IN
+2922,2105628,larotrectinib,IN
+2923,1364397,lasalocid,IN
+2924,2256930,lasmiditan,IN
+2925,43611,latanoprost,IN
+2926,1988390,latanoprostene bunod,IN
+2927,89887,latrodectus mactans antivenin,IN
+2928,2533923,lauralkonium,IN
+2929,1364388,lauramine oxide,IN
+2930,1370594,laurate,IN
+2931,1367165,laureth-23,IN
+2932,1310570,laureth-3,IN
+2933,1362932,lauric acid methyl ester,IN
+2934,1603852,laurocapram,IN
+2935,1427083,laurtrimonium,IN
+2936,1364382,lauryl glucoside,IN
+2937,1307767,lavender extract,IN
+2938,28486,lavender oil,IN
+2939,2691150,lazertinib,IN
+2940,6260,lead,IN
+2941,2693758,lebrikizumab,IN
+2942,2626143,lecanemab,IN
+2943,8214,lecithin,IN
+2944,1591922,ledipasvir,IN
+2945,1591942,ledipasvir / sofosbuvir,MIN
+2946,2198944,lefamulin,IN
+2947,27169,leflunomide,IN
+2948,2272403,lemborexant,IN
+2949,2625651,lenacapavir,IN
+2950,342369,lenalidomide,IN
+2951,2633005,leniolisib,IN
+2952,70167,lenograstim,IN
+2953,852096,lens scale pollen extract,IN
+2954,1426921,lentil seed extract,IN
+2955,1603296,lenvatinib,IN
+2956,237057,lepirudin,IN
+2957,1441651,leptin,IN
+2958,135056,lercanidipine,IN
+2959,2729426,lerodalcibep,IN
+2960,1731031,lesinurad,IN
+2961,1988648,letermovir,IN
+2962,28554,letosteine,IN
+2963,72965,letrozole,IN
+2964,2102006,leucanthemum vulgare pollen,IN
+2965,6308,leucine,IN
+2966,6313,leucovorin,IN
+2967,42375,leuprolide,IN
+2968,237159,levalbuterol,IN
+2969,6370,levallorphan,IN
+2970,6371,levamisole,IN
+2971,2376944,levamlodipine,IN
+2972,114477,levetiracetam,IN
+2973,353497,levobetaxolol,IN
+2974,1813,levobunolol,IN
+2975,259453,levobupivacaine,IN
+2976,28627,levocabastine,IN
+2977,42955,levocarnitine,IN
+2978,356887,levocetirizine,IN
+2979,6375,levodopa,IN
+2980,82122,levofloxacin,IN
+2981,1788981,levoglucose,IN
+2982,877015,levoleucovorin,IN
+2983,1592257,levomefolate,IN
+2984,236388,levomenthol,IN
+2985,236913,levomethadone,IN
+2986,237005,levomethadyl,IN
+2987,1433212,levomilnacipran,IN
+2988,132889,levonordefrin,IN
+2989,6373,levonorgestrel,IN
+2990,6377,levopropoxyphene,IN
+2991,6378,levorphanol,IN
+2992,73107,levosimendan,IN
+2993,10582,levothyroxine,IN
+2994,465675,levothyroxine / liothyronine,MIN
+2995,1926935,lexidronam,IN
+2996,42769,licorice,IN
+2997,1010954,licorice allergenic extract,IN
+2998,235524,licorice root extract,IN
+2999,28701,lidamidine,IN
+3000,6387,lidocaine,IN
+3001,106991,lidocaine / methylprednisolone,MIN
+3002,166283,lidocaine / prilocaine,MIN
+3003,6390,lidoflazine,IN
+3004,2675860,lifileucel,IN
+3005,1801820,lifitegrast,IN
+3006,1305579,light green sf yellowish,IN
+3007,1011060,lime allergenic extract,IN
+3008,28730,limonene,IN
+3009,1307404,linaclotide,IN
+3010,1100699,linagliptin,IN
+3011,6398,lincomycin,IN
+3012,1388,lindane,IN
+3013,852070,linden pollen extract,IN
+3014,2665338,linerixibat,IN
+3015,190376,linezolid,IN
+3016,595958,linolenate,IN
+3017,6404,linseed oil,IN
+3018,2719416,linvoseltamab,IN
+3019,2621019,linzagolix,IN
+3020,10814,liothyronine,IN
+3021,1440046,lipegfilgrastim,IN
+3022,1999473,liprotamase protease,IN
+3023,1313242,liquidambar styraciflua resin,IN
+3024,475968,liraglutide,IN
+3025,700810,lisdexamfetamine,IN
+3026,29046,lisinopril,IN
+3027,2479136,lisocabtagene maraleucel,IN
+3028,1491871,listeria monocytogenes,IN
+3029,6446,lisuride,IN
+3030,42351,lithium carbonate,IN
+3031,1546265,lithium cation,IN
+3032,1311533,lithium chloride,IN
+3033,52105,lithium citrate,IN
+3034,1546376,lithium hydroxide,IN
+3035,28817,lithium succinate,IN
+3036,1098232,littleseed canary grass pollen extract,IN
+3037,1440051,lixisenatide,IN
+3038,6464,lobeline,IN
+3039,900770,loblolly pine pollen extract,IN
+3040,892561,lobster allergenic extract,IN
+3041,898324,lodgepole pine pollen extract,IN
+3042,52151,lodoxamide,IN
+3043,6465,lofepramine,IN
+3044,28863,lofexidine,IN
+3045,1427059,lolium perenne allergenic extract,IN
+3046,28872,lomefloxacin,IN
+3047,164423,lomifylline,IN
+3048,1364479,lomitapide,IN
+3049,6466,lomustine,IN
+3050,2467553,lonafarnib,IN
+3051,2569562,lonapegsomatropin,IN
+3052,28876,lonazolac,IN
+3053,2540964,loncastuximab tesirine,IN
+3054,1014360,longleaf pine pollen extract,IN
+3055,6468,loperamide,IN
+3056,195088,lopinavir,IN
+3057,284640,lopinavir / ritonavir,MIN
+3058,28981,loracarbef,IN
+3059,28889,loratadine,IN
+3060,6470,lorazepam,IN
+3061,1300701,lorcaserin,IN
+3062,2103164,lorlatinib,IN
+3063,28894,lormetazepam,IN
+3064,20890,lornoxicam,IN
+3065,52175,losartan,IN
+3066,237027,loteprednol,IN
+3067,52177,loteprednol etabonate,IN
+3068,1998841,lotilaner,IN
+3069,6472,lovastatin,IN
+3070,2671958,lovotibeglogene autotemcel,IN
+3071,6475,loxapine,IN
+3072,28908,loxoprofen,IN
+3073,2360331,lubabegron,IN
+3074,623033,lubiprostone,IN
+3075,1293254,lucinactant,IN
+3076,83586,lufenuron,IN
+3077,1482680,luliconazole,IN
+3078,1655922,lumacaftor,IN
+3079,2467140,lumasiran,IN
+3080,2275602,lumateperone,IN
+3081,847728,lumefantrine,IN
+3082,2583725,luprostiol,IN
+3083,1040028,lurasidone,IN
+3084,2374729,lurbinectedin,IN
+3085,2262544,luspatercept,IN
+3086,2054984,lusutrombopag,IN
+3087,11359,lutein,IN
+3088,6383,luteinizing hormone,IN
+3089,1426636,lutrelin,IN
+3090,388084,lutropin alfa,IN
+3091,29008,lycopene,IN
+3092,6513,lymecycline,IN
+3093,1011,"lymphocyte immune globulin, anti-thymocyte globulin",IN
+3094,6529,lynestrenol,IN
+3095,6531,lypressin,IN
+3096,6536,lysine,IN
+3097,1426865,lysozyme,IN
+3098,1307956,macadamia oil,IN
+3099,1429937,macadamia seed oil glycereth-8 esters,IN
+3100,1872381,macelignan,IN
+3101,1999420,macimorelin,IN
+3102,1442132,macitentan,IN
+3103,889591,mackerel allergenic extract,IN
+3104,1551573,madecassic acid,IN
+3105,6572,mafenide,IN
+3106,2461339,maftivimab,IN
+3107,29151,magaldrate,IN
+3108,6574,magnesium,IN
+3109,314718,magnesium acetate,IN
+3110,1311396,magnesium ascorbate,IN
+3111,142131,magnesium aspartate,IN
+3112,29155,magnesium carbonate,IN
+3113,1426853,magnesium cation,IN
+3114,6579,magnesium chloride,IN
+3115,52356,magnesium citrate,IN
+3116,52358,magnesium gluconate,IN
+3117,476818,magnesium glycinate,IN
+3118,6581,magnesium hydroxide,IN
+3119,214688,magnesium lactate,IN
+3120,283578,magnesium malate,IN
+3121,139233,magnesium orotate,IN
+3122,6582,magnesium oxide,IN
+3123,1666106,magnesium peroxide,IN
+3124,29164,magnesium phosphate,IN
+3125,52364,magnesium salicylate,IN
+3126,1310566,magnesium silicate,IN
+3127,6585,magnesium sulfate,IN
+3128,29170,magnesium trisilicate,IN
+3129,896038,malachite green,IN
+3130,6606,malathion,IN
+3131,1426331,maleate,IN
+3132,29209,malic acid,IN
+3133,1657018,malondialdehyde,IN
+3134,235375,malt extract,IN
+3135,1363049,maltitol,IN
+3136,1363050,maltodextrin,IN
+3137,1362894,maltol,IN
+3138,1311261,maltose,IN
+3139,2641823,maltotetraose,IN
+3140,29256,mandelic acid,IN
+3141,236987,mangafodipir,IN
+3142,6623,manganese,IN
+3143,1370629,manganese acetate,IN
+3144,29261,manganese chloride,IN
+3145,283767,manganese citrate,IN
+3146,52403,manganese gluconate,IN
+3147,29268,manganese sulfate,IN
+3148,1006371,mango blossom pollen extract,IN
+3149,2619910,mangostin,IN
+3150,29275,manidipine,IN
+3151,6628,mannitol,IN
+3152,6633,mannose,IN
+3153,900788,maple leaf sycamore pollen extract,IN
+3154,6646,maprotiline,IN
+3155,2571074,maralixibat,IN
+3156,620216,maraviroc,IN
+3157,69256,marbofloxacin,IN
+3158,1987137,margaric acid,IN
+3159,2473851,margetuximab,IN
+3160,2586068,maribavir,IN
+3161,1368708,maritime pine extract,IN
+3162,2740382,marnetegragene autotemcel,IN
+3163,715869,maropitant,IN
+3164,2697133,marstacimab,IN
+3165,227239,masoprocol,IN
+3166,2600867,mavacamten,IN
+3167,2684021,mavorixafor,IN
+3168,6664,mazindol,IN
+3169,851918,meadow fescue grass pollen extract,IN
+3170,1309256,meadowfoam oil,IN
+3171,804179,"measles virus vaccine live, enders' attenuated edmonston strain",IN
+3172,6672,mebendazole,IN
+3173,29410,mebeverine,IN
+3174,1311500,mebrofenin,IN
+3175,6673,mecamylamine,IN
+3176,274403,mecasermin,IN
+3177,616877,mecasermin rinfabate,IN
+3178,6674,mechlorethamine,IN
+3179,6676,meclizine,IN
+3180,29418,meclocycline,IN
+3181,588003,meclofenamate,IN
+3182,6678,meclofenamic acid,IN
+3183,2228,meclofenoxate,IN
+3184,29421,mecobalamin,IN
+3185,29426,mecysteine,IN
+3186,6680,medazepam,IN
+3187,52016,medetomidine,IN
+3188,2601586,medetomidine / vatinoxan,MIN
+3189,29434,medifoxamine,IN
+3190,6690,medrogestone,IN
+3191,1358207,medronate,IN
+3192,6691,medroxyprogesterone,IN
+3193,29439,medrysone,IN
+3194,257844,mefenamate,IN
+3195,236421,mefenidramium,IN
+3196,29444,mefenorex,IN
+3197,6694,mefloquine,IN
+3198,6696,mefruside,IN
+3199,6703,megestrol,IN
+3200,6704,meglumine,IN
+3201,319866,meglumine antimoniate,IN
+3202,1603851,melamine,IN
+3203,1012534,melarsomine,IN
+3204,6711,melatonin,IN
+3205,1537799,melengestrol,IN
+3206,446248,melitracen,IN
+3207,41493,meloxicam,IN
+3208,6718,melphalan,IN
+3209,2531369,melphalan flufenamide,IN
+3210,6719,memantine,IN
+3211,29491,menadiol,IN
+3212,29495,menatetrenone,IN
+3213,31575,menfegol,IN
+3214,29501,meningococcal group a polysaccharide,IN
+3215,2705455,meningococcal group b vaccine / neisseria meningitidis serogroup a oligosaccharide diphtheria crm197 protein conjugate vaccine / neisseria meningitidis serogroup c oligosaccharide diphtheria crm197 protein conjugate vaccine / neisseria meningitidis serogroup w-135 oligosaccharide diphtheria crm197 protein conjugate vaccine / neisseria meningitidis serogroup y oligosaccharide diphtheria crm197 protein conjugate vaccine,MIN
+3216,29503,meningococcal group c polysaccharide,IN
+3217,314724,meningococcal polysaccharide vaccine group w-135,IN
+3218,314725,meningococcal polysaccharide vaccine group y,IN
+3219,1307691,mentha arvensis leaf oil,IN
+3220,6750,menthol,IN
+3221,1368207,menthyl salicylate,IN
+3222,107770,mepenzolate,IN
+3223,6754,meperidine,IN
+3224,214699,meperidine / promethazine,MIN
+3225,6755,mephenesin,IN
+3226,6756,mephentermine,IN
+3227,6757,mephenytoin,IN
+3228,6758,mephobarbital,IN
+3229,29518,mepindolol,IN
+3230,39879,mepirodipine,IN
+3231,6759,mepivacaine,IN
+3232,1720597,mepolizumab,IN
+3233,29523,meprednisone,IN
+3234,6760,meprobamate,IN
+3235,6761,meptazinol,IN
+3236,15080,mequinol,IN
+3237,29528,mequitazine,IN
+3238,91324,meradimate,IN
+3239,6762,merbromin,IN
+3240,103,mercaptopurine,IN
+3241,1311634,mercuric chloride,IN
+3242,1426941,mercuric iodide,IN
+3243,1311278,mercuric sulfide,IN
+3244,29561,meropenem,IN
+3245,1945217,meropenem / vaborbactam,MIN
+3246,6774,mersalyl,IN
+3247,52582,mesalamine,IN
+3248,44,mesna,IN
+3249,6779,mesoridazine,IN
+3250,852320,mesquite pollen extract,IN
+3251,6781,mesterolone,IN
+3252,6782,mestranol,IN
+3253,29584,mesulfen,IN
+3254,1426388,mesylate,IN
+3255,614654,metaclazepam,IN
+3256,1367170,metacresol,IN
+3257,7688,metaproterenol,IN
+3258,6805,metaraminol,IN
+3259,59078,metaxalone,IN
+3260,1349278,metenkefalin,IN
+3261,6834,metergoline,IN
+3262,6809,metformin,IN
+3263,729717,metformin / sitagliptin,MIN
+3264,155080,methacholine,IN
+3265,1424906,methacrylate,IN
+3266,1309718,methacrylic acid - ethyl acrylate copolymer (1:1) type a,IN
+3267,1309724,methacrylic acid - methyl methacrylate copolymer (1:2),IN
+3268,6812,methacycline,IN
+3269,6813,methadone,IN
+3270,6814,methadyl acetate,IN
+3271,6816,methamphetamine,IN
+3272,6817,methandriol,IN
+3273,6818,methandrostenolone,IN
+3274,2598120,methane,IN
+3275,1310568,methanol,IN
+3276,6821,methantheline,IN
+3277,6822,methapyrilene,IN
+3278,6823,methaqualone,IN
+3279,6825,metharbital,IN
+3280,6826,methazolamide,IN
+3281,29648,methdilazine,IN
+3282,6832,methenamine,IN
+3283,1007892,"methenamine / sodium phosphate, monobasic",MIN
+3284,6833,methenolone,IN
+3285,2181306,methicillin,IN
+3286,1313720,methicone (20 cst),IN
+3287,6835,methimazole,IN
+3288,6837,methionine,IN
+3289,29682,methixene,IN
+3290,6845,methocarbamol,IN
+3291,6847,methohexital,IN
+3292,235829,methoserpidine,IN
+3293,6851,methotrexate,IN
+3294,6852,methotrimeprazine,IN
+3295,6853,methoxamine,IN
+3296,6854,methoxsalen,IN
+3297,729596,methoxy polyethylene glycol-epoetin beta,IN
+3298,6857,methoxyflurane,IN
+3299,29704,methoxyphenamine,IN
+3300,89785,methscopolamine,IN
+3301,47858,methsuximide,IN
+3302,6860,methyclothiazide,IN
+3303,337068,methyl 5-aminolevulinate,IN
+3304,29746,methyl bromide,IN
+3305,1305751,methyl chloride,IN
+3306,29787,methyl salicylate,IN
+3307,1921110,methyl salicylate 2-ethylbutyrate,IN
+3308,1363574,methyl stearate,IN
+3309,1427065,methyl undecenoyl leucinate,IN
+3310,29829,methylbenzethonium,IN
+3311,6873,methylcellulose,IN
+3312,1307044,methyldibromo glutaronitrile,IN
+3313,6876,methyldopa,IN
+3314,6877,methyldopate,IN
+3315,6878,methylene blue,IN
+3316,1311537,methylene chloride,IN
+3317,29844,methylene diphosphonate,IN
+3318,6883,methylergonovine,IN
+3319,1368373,methyleugenol,IN
+3320,1546413,methylhomatropine,IN
+3321,1435864,methylinositol,IN
+3322,29899,methylnaltrexone,IN
+3323,29900,methylnicotinate,IN
+3324,29903,methylparaben,IN
+3325,6901,methylphenidate,IN
+3326,6902,methylprednisolone,IN
+3327,23247,methylsulfonylmethane,IN
+3328,6904,methyltestosterone,IN
+3329,6910,methyprylon,IN
+3330,6911,methysergide,IN
+3331,10824,metipranolol,IN
+3332,6915,metoclopramide,IN
+3333,29950,metocurine,IN
+3334,6916,metolazone,IN
+3335,29954,metopimazine,IN
+3336,6918,metoprolol,IN
+3337,1491625,metreleptin,IN
+3338,1294630,metricus paper wasp venom protein,IN
+3339,6920,metrizamide,IN
+3340,6922,metronidazole,IN
+3341,6923,metyrapone,IN
+3342,1313245,metyrapone tartrate,IN
+3343,266604,metyrosine,IN
+3344,897391,mexican tea pollen extract,IN
+3345,6926,mexiletine,IN
+3346,6927,mezlocillin,IN
+3347,6929,mianserin,IN
+3348,83213,mibefradil,IN
+3349,325887,micafungin,IN
+3350,6932,miconazole,IN
+3351,1000577,microcrystalline cellulose,IN
+3352,29996,micronomicin,IN
+3353,2369640,midamaline,IN
+3354,6960,midazolam,IN
+3355,30005,midecamycin,IN
+3356,6963,midodrine,IN
+3357,1919083,midostaurin,IN
+3358,6964,mifepristone,IN
+3359,2054252,migalastat,IN
+3360,30009,miglitol,IN
+3361,402316,miglustat,IN
+3362,68730,milbemycin oxime,IN
+3363,283579,milk thistle extract,IN
+3364,259274,milk thistle seed extract,IN
+3365,1310040,millet extract,IN
+3366,588250,milnacipran,IN
+3367,52769,milrinone,IN
+3368,1494066,miltefosine,IN
+3369,30031,minaprine,IN
+3370,1495077,minaxolone,IN
+3371,6972,mineral oil,IN
+3372,577312,"mineral oil, light",IN
+3373,6980,minocycline,IN
+3374,6984,minoxidil,IN
+3375,6985,miocamycin,IN
+3376,1367839,mipomersen,IN
+3377,1300786,mirabegron,IN
+3378,2705551,mirdametinib,IN
+3379,2668384,mirikizumab,IN
+3380,236393,miristalkonium,IN
+3381,15996,mirtazapine,IN
+3382,2621548,mirvetuximab soravtansine,IN
+3383,42331,misoprostol,IN
+3384,2594468,mitapivat,IN
+3385,6996,mitobronitol,IN
+3386,632,mitomycin,IN
+3387,7004,mitotane,IN
+3388,7005,mitoxantrone,IN
+3389,30077,mivacurium,IN
+3390,61455,mizolastine,IN
+3391,2570736,mobocertinib,IN
+3392,30121,moclobemide,IN
+3393,30125,modafinil,IN
+3394,30131,moexipril,IN
+3395,1546358,moexiprilat,IN
+3396,30202,mofebutazone,IN
+3397,11469,mofezolac,IN
+3398,2054068,mogamulizumab,IN
+3399,70161,molgramostim,IN
+3400,2637535,molidustat,IN
+3401,7019,molindone,IN
+3402,2587901,molnupiravir,IN
+3403,7023,molsidomine,IN
+3404,1546395,molybdate ion,IN
+3405,7024,molybdenum,IN
+3406,2665204,momelotinib,IN
+3407,108118,mometasone,IN
+3408,2591802,mometasone / olopatadine,MIN
+3409,1306885,momordica charantia fruit extract,IN
+3410,1368208,monensin,IN
+3411,895070,mongolian gerbil skin allergenic extract,IN
+3412,17145,monobenzone,IN
+3413,52885,monofluorophosphate,IN
+3414,1546433,monomethyl fumarate,IN
+3415,30198,monooctanoin,IN
+3416,1311678,monoolein,IN
+3417,88249,montelukast,IN
+3418,1425919,montmorrillonite,IN
+3419,1368900,morantel,IN
+3420,30218,morazone,IN
+3421,40169,moricizine,IN
+3422,1307834,moringa oleifera leaf extract,IN
+3423,30225,morniflumate,IN
+3424,30227,moroxydine,IN
+3425,7052,morphine,IN
+3426,866331,morphine / naltrexone,MIN
+3427,1368870,morpholine,IN
+3428,1547610,morrhuate,IN
+3429,135091,mosapride,IN
+3430,1494846,moschus berezovskii musk sac resin,IN
+3431,974741,mosquito allergenic extract,IN
+3432,2625122,mosunetuzumab,IN
+3433,2664896,motixafortide,IN
+3434,7069,moxalactam,IN
+3435,52918,moxaverine,IN
+3436,2099295,moxetumomab pasudotox,IN
+3437,1047072,moxidectin,IN
+3438,139462,moxifloxacin,IN
+3439,10561,moxisylyte,IN
+3440,30257,moxonidine,IN
+3441,30320,mucopolysaccharide polysulfate,IN
+3442,1485786,mucuna pruriens seed extract,IN
+3443,852029,mugwort sage pollen extract,IN
+3444,899593,mulberry pollen extract,IN
+3445,798372,"mumps virus vaccine live, jeryl lynn strain",IN
+3446,42372,mupirocin,IN
+3447,42405,muromonab-cd3,IN
+3448,1992540,muscadine grape extract,IN
+3449,1363443,muskmelon extract,IN
+3450,852205,mustard pollen extract,IN
+3451,265323,mycophenolate,IN
+3452,68149,mycophenolate mofetil,IN
+3453,7145,mycophenolic acid,IN
+3454,1368374,myricetin,IN
+3455,1313976,myristate,IN
+3456,1362897,myristyl alcohol,IN
+3457,1425406,myristyl nicotinate,IN
+3458,1309206,myrrh oil,IN
+3459,59082,myrtecaine,IN
+3460,1313173,"n,n-dimethylglycine",IN
+3461,1990423,"n-(1,3-bis(hydroxymethyl)-2,5-dioxo-4-imidazolidinyl)-n,n'-bis(hydroxymethyl)urea",IN
+3462,1364376,n-(3-(dimethylamino)propyl)octadecanamide,IN
+3463,1364568,n-(hydroxyethyl)ethylenediaminetriacetic acid,IN
+3464,2280292,n-acetyl-.alpha.-d-glucosamine,IN
+3465,2597521,n-acetyl-glucosamine thiazoline,IN
+3466,1426463,n-acetylmethionine,IN
+3467,31005,n-acetyltyrosine,IN
+3468,1539817,n-alkyl dimethyl benzyl ammonium (c12-c18),IN
+3469,1422066,n-alkyl ethylbenzyl dimethyl ammonium (c12-c14),IN
+3470,1306886,n-cyclohexyl-2-benzothiazosulfenamide,IN
+3471,1427136,"n-cyclohexyl-n'-phenyl-1,4-phenylenediamine",IN
+3472,2178066,n-dodecyl .beta.-d-maltoside,IN
+3473,1311545,n-methylephedrine,IN
+3474,1363711,n-oxydiethylene-2-benzothiazole sulfenamide,IN
+3475,31447,nabilone,IN
+3476,31448,nabumetone,IN
+3477,7222,nadh,IN
+3478,2644436,nadofaragene firadenovec,IN
+3479,7226,nadolol,IN
+3480,67031,nadroparin,IN
+3481,28656,nafarelin,IN
+3482,7233,nafcillin,IN
+3483,7236,nafronyl,IN
+3484,31475,naftazone,IN
+3485,31476,naftifine,IN
+3486,7238,nalbuphine,IN
+3487,1876597,naldemedine,IN
+3488,618425,nalidixate,IN
+3489,31479,nalmefene,IN
+3490,1551777,naloxegol,IN
+3491,7242,naloxone,IN
+3492,7243,naltrexone,IN
+3493,7244,nandrolone,IN
+3494,7247,naphazoline,IN
+3495,1311149,naphthalene,IN
+3496,1721293,naphthoquine,IN
+3497,7258,naproxen,IN
+3498,1314370,narasin,IN
+3499,141366,naratriptan,IN
+3500,1368173,naringenin,IN
+3501,31538,naringin,IN
+3502,1098130,narrowleaf marshelder pollen extract,IN
+3503,2732291,narsoplimab,IN
+3504,354770,natalizumab,IN
+3505,7268,natamycin,IN
+3506,274332,nateglinide,IN
+3507,53553,nattokinase,IN
+3508,2739518,navepegritide,IN
+3509,2474039,naxitamab,IN
+3510,31555,nebivolol,IN
+3511,1723738,necitumumab,IN
+3512,31563,nedocromil,IN
+3513,2675287,nedosiran,IN
+3514,31565,nefazodone,IN
+3515,7285,nefopam,IN
+3516,797629,neisseria meningitidis serogroup a capsular polysaccharide diphtheria toxoid protein conjugate vaccine,IN
+3517,797631,neisseria meningitidis serogroup c capsular polysaccharide diphtheria toxoid protein conjugate vaccine,IN
+3518,797633,neisseria meningitidis serogroup w-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine,IN
+3519,797635,neisseria meningitidis serogroup y capsular polysaccharide diphtheria toxoid protein conjugate vaccine,IN
+3520,274771,nelarabine,IN
+3521,134527,nelfinavir,IN
+3522,1309447,nelumbo nucifera flower extract,IN
+3523,2691310,nemolizumab,IN
+3524,1311480,neodymium,IN
+3525,7299,neomycin,IN
+3526,7301,neon,IN
+3527,7315,neostigmine,IN
+3528,1367111,neotame,IN
+3529,298665,nepafenac,IN
+3530,2725523,nerandomilast,IN
+3531,1940643,neratinib,IN
+3532,2109479,nerium oleander flower,IN
+3533,7327,nerve growth factor,IN
+3534,19666,nesiritide,IN
+3535,1992864,netarsudil,IN
+3536,7337,netilmicin,IN
+3537,852046,nettle pollen extract,IN
+3538,1552337,netupitant,IN
+3539,1552342,netupitant / palonosetron,MIN
+3540,53654,nevirapine,IN
+3541,7393,niacin,IN
+3542,7405,niacinamide,IN
+3543,1363721,niacinamide ascorbate,IN
+3544,7394,nialamide,IN
+3545,31722,niaprazine,IN
+3546,1311583,nicarbazin,IN
+3547,7396,nicardipine,IN
+3548,7398,nicergoline,IN
+3549,1313176,nickel acetate,IN
+3550,1546280,nickel cation,IN
+3551,31738,nickel sulfate,IN
+3552,7402,niclosamide,IN
+3553,235788,nicoboxil,IN
+3554,104486,nicofuranose,IN
+3555,31748,nicorandil,IN
+3556,7407,nicotine,IN
+3557,1306107,nicotine bitartrate,IN
+3558,7414,nicotinyl alcohol,IN
+3559,7417,nifedipine,IN
+3560,7418,niflumic acid,IN
+3561,7419,nifuratel,IN
+3562,31782,nifuroxazide,IN
+3563,1311582,nifurpipone,IN
+3564,7421,nifurtimox,IN
+3565,31786,nifurzide,IN
+3566,7424,nikethamide,IN
+3567,662281,nilotinib,IN
+3568,31805,nilutamide,IN
+3569,53692,nilvadipine,IN
+3570,53694,nimesulide,IN
+3571,7426,nimodipine,IN
+3572,7427,nimorazole,IN
+3573,1592737,nintedanib,IN
+3574,1426867,niobium,IN
+3575,2712693,nipocalimab,IN
+3576,1918231,niraparib,IN
+3577,2587892,nirmatrelvir,IN
+3578,2670631,nirogacestat,IN
+3579,2642401,nirsevimab,IN
+3580,7435,nisoldipine,IN
+3581,1311555,nitarsone,IN
+3582,31819,nitazoxanide,IN
+3583,341379,nitenpyram,IN
+3584,61805,nitisinone,IN
+3585,1546271,nitrate ion,IN
+3586,7440,nitrazepam,IN
+3587,7441,nitrendipine,IN
+3588,1311391,nitric acid,IN
+3589,7442,nitric oxide,IN
+3590,1546424,nitrite ion,IN
+3591,7454,nitrofurantoin,IN
+3592,466542,"nitrofurantoin, macrocrystals / nitrofurantoin, monohydrate",MIN
+3593,7455,nitrofurazone,IN
+3594,7456,nitrogen,IN
+3595,4917,nitroglycerin,IN
+3596,89721,nitromersol,IN
+3597,7476,nitroprusside,IN
+3598,7486,nitrous oxide,IN
+3599,31901,nitroxoline,IN
+3600,1597876,nivolumab,IN
+3601,2596775,nivolumab / relatlimab,MIN
+3602,42319,nizatidine,IN
+3603,2682678,nogapendekin alfa inbakicept,IN
+3604,31930,nomegestrol,IN
+3605,7500,nomifensine,IN
+3606,1946823,nonathymulin,IN
+3607,31945,nonivamide,IN
+3608,1311556,nonoxynol-10,IN
+3609,1311559,nonoxynol-30,IN
+3610,1368184,nonoxynol-4,IN
+3611,53750,nonoxynol-9,IN
+3612,3155,nordazepam,IN
+3613,326374,norelgestromin,IN
+3614,7512,norepinephrine,IN
+3615,7513,norethandrolone,IN
+3616,7514,norethindrone,IN
+3617,7515,norethynodrel,IN
+3618,31988,norfenefrine,IN
+3619,7517,norfloxacin,IN
+3620,1311560,norflurane,IN
+3621,31994,norgestimate,IN
+3622,7518,norgestrel,IN
+3623,7519,norgestrienone,IN
+3624,32009,normethadone,IN
+3625,979384,north american coral snake antivenin,IN
+3626,1294632,northern paper wasp venom protein,IN
+3627,7531,nortriptyline,IN
+3628,7533,noscapine,IN
+3629,7538,novobiocin,IN
+3630,1863556,nusinersen,IN
+3631,1309209,nutmeg oil,IN
+3632,314743,nux vomica extract,IN
+3633,7595,nylidrin,IN
+3634,7597,nystatin,IN
+3635,1364387,o-cymen-5-ol,IN
+3636,1872047,o-phenanthroline,IN
+3637,349978,oat smut allergenic extract,IN
+3638,285251,oats preparation,IN
+3639,2698195,obecabtagene autoleucel,IN
+3640,1798288,obeticholic acid,IN
+3641,42826,obidoxime,IN
+3642,1746906,obiltoxaximab,IN
+3643,974779,obinutuzumab,IN
+3644,1487006,oclacitinib,IN
+3645,1876366,ocrelizumab,IN
+3646,29998,ocriplasmin,IN
+3647,20178,octanoic acid,IN
+3648,2119240,octenidine,IN
+3649,13369,octinoxate,IN
+3650,91327,octisalate,IN
+3651,77674,octocrylene,IN
+3652,236867,octodrine,IN
+3653,1311141,octopamine,IN
+3654,7617,octreotide,IN
+3655,1367124,octyl dodecanol,IN
+3656,1314657,octyl triazone,IN
+3657,1310586,octyltriethoxysilane,IN
+3658,2461340,odesivimab,IN
+3659,2563966,odevixibat,IN
+3660,1437503,oenothera biennis seed extract,IN
+3661,712566,ofatumumab,IN
+3662,7623,ofloxacin,IN
+3663,1367088,oftasceine,IN
+3664,1309375,oil of niaouli,IN
+3665,2712235,olaflur,IN
+3666,61381,olanzapine,IN
+3667,1597582,olaparib,IN
+3668,1855735,olaratumab,IN
+3669,1307955,olea europaea leaf extract,IN
+3670,7629,oleandomycin,IN
+3671,70616,oleate,IN
+3672,1310603,oleyl alcohol,IN
+3673,1426427,oleyl oleate,IN
+3674,2701418,olezarsen,IN
+3675,2392230,oliceridine,IN
+3676,2610407,olipudase alfa,IN
+3677,1309250,olive oil,IN
+3678,321064,olmesartan,IN
+3679,1546059,olodaterol,IN
+3680,135391,olopatadine,IN
+3681,32385,olsalazine,IN
+3682,2623641,olutasidenib,IN
+3683,1546446,omacetaxine,IN
+3684,27100,omacetaxine mepesuccinate,IN
+3685,2059269,omadacycline,IN
+3686,302379,omalizumab,IN
+3687,2631931,omaveloxolone,IN
+3688,1597371,ombitasvir,IN
+3689,484348,omega-3 acid ethyl esters (usp),IN
+3690,4301,omega-3 fatty acids,IN
+3691,7646,omeprazole,IN
+3692,2612691,omidenepag,IN
+3693,2637355,omidubicel,IN
+3694,32411,omoconazole,IN
+3695,2170226,onasemnogene abeparvovec,IN
+3696,26225,ondansetron,IN
+3697,2362167,opicapone,IN
+3698,7674,opipramol,IN
+3699,7676,opium,IN
+3700,139994,oprelvekin,IN
+3701,966696,orange pekoe tea allergenic extract,IN
+3702,897403,orange pollen extract,IN
+3703,995897,orbifloxacin,IN
+3704,851878,orchard grass pollen extract,IN
+3705,900045,oregon ash pollen extract,IN
+3706,2739838,orforglipron,IN
+3707,32526,orgotein,IN
+3708,1547611,oritavancin,IN
+3709,37925,orlistat,IN
+3710,32533,ormetoprim,IN
+3711,7701,ornidazole,IN
+3712,7703,ornipressin,IN
+3713,7704,ornithine,IN
+3714,7712,orotic acid,IN
+3715,7715,orphenadrine,IN
+3716,2266810,orthocresol,IN
+3717,1098189,osage orange pollen extract,IN
+3718,260101,oseltamivir,IN
+3719,1546279,oseltamivir carboxylate,IN
+3720,2286252,osilodrostat,IN
+3721,1721560,osimertinib,IN
+3722,1370971,ospemifene,IN
+3723,2602577,oteseconazole,IN
+3724,7762,ouabain,IN
+3725,1427208,ovemotide,IN
+3726,28068,oxaceprol,IN
+3727,7773,oxacillin,IN
+3728,1441660,oxalate,IN
+3729,1427058,oxalic acid,IN
+3730,32592,oxaliplatin,IN
+3731,1661330,oxaloacetate,IN
+3732,7778,oxamniquine,IN
+3733,7779,oxandrolone,IN
+3734,1871175,oxantel,IN
+3735,32613,oxaprozin,IN
+3736,54236,oxatomide,IN
+3737,7781,oxazepam,IN
+3738,32624,oxcarbazepine,IN
+3739,32626,oxeladin,IN
+3740,67187,oxerutins,IN
+3741,32633,oxetorone,IN
+3742,32634,oxfendazole,IN
+3743,1009342,oxibendazole,IN
+3744,32638,oxiconazole,IN
+3745,1306068,oxidronate,IN
+3746,32639,oxilofrine,IN
+3747,32645,oxiracetam,IN
+3748,32649,oxitropium,IN
+3749,2593371,oxogestone,IN
+3750,32658,oxolamine,IN
+3751,7798,oxolinic acid,IN
+3752,1926836,oxothiazolidinecarboxylic acid,IN
+3753,7801,oxprenolol,IN
+3754,20976,oxtriphylline,IN
+3755,2387302,oxybate,IN
+3756,32673,oxybenzone,IN
+3757,32675,oxybutynin,IN
+3758,32680,oxychlorosene,IN
+3759,7804,oxycodone,IN
+3760,7805,oxyfedrine,IN
+3761,7806,oxygen,IN
+3762,7812,oxymetazoline,IN
+3763,7813,oxymetholone,IN
+3764,7814,oxymorphone,IN
+3765,7815,oxypertine,IN
+3766,7816,oxyphenbutazone,IN
+3767,32698,oxyphencyclimine,IN
+3768,8136,oxyphenisatin,IN
+3769,7818,oxyphenonium,IN
+3770,110,oxyquinoline,IN
+3771,7821,oxytetracycline,IN
+3772,7824,oxytocin,IN
+3773,973274,oyster allergenic extract,IN
+3774,2288236,ozanimod,IN
+3775,1994739,ozenoxacin,IN
+3776,2289011,ozone,IN
+3777,42837,p-aminohippurate,IN
+3778,7839,p-hydroxyamphetamine,IN
+3779,2571811,p-nitrobiphenyl,IN
+3780,1427189,p-tert-butylphenol-formaldehyde resin (low molecular weight),IN
+3781,56946,paclitaxel,IN
+3782,2595243,pacritinib,IN
+3783,1363712,padimate a,IN
+3784,32786,padimate-o,IN
+3785,1307731,paeonia lactiflora root extract,IN
+3786,2586857,pafolacianine,IN
+3787,718967,pafuramidine,IN
+3788,1601374,palbociclib,IN
+3789,1232604,pale dock pollen extract,IN
+3790,196319,palifermin,IN
+3791,679314,paliperidone,IN
+3792,194279,palivizumab,IN
+3793,32809,palm oil,IN
+3794,2001986,palmidrol,IN
+3795,1370621,palmitate,IN
+3796,2475954,palmitoleate,IN
+3797,1314373,palmitoyl oligopeptide,IN
+3798,1314277,palmitoyl tetrapeptide-7,IN
+3799,1722914,palmitoyl tripeptide-1,IN
+3800,852359,palo verde pollen extract,IN
+3801,70561,palonosetron,IN
+3802,2663954,palovarotene,IN
+3803,2724363,paltusotine,IN
+3804,54365,pamabrom,IN
+3805,11473,pamidronate,IN
+3806,1365707,panax notoginseng root extract,IN
+3807,7880,pancreatin,IN
+3808,7883,pancuronium,IN
+3809,646818,pangamate,IN
+3810,263034,panitumumab,IN
+3811,1603350,panobinostat,IN
+3812,32863,pantethine,IN
+3813,1044977,panthenol,IN
+3814,40790,pantoprazole,IN
+3815,62400,pantothenate,IN
+3816,7891,pantothenic acid,IN
+3817,7892,papain,IN
+3818,7895,papaverine,IN
+3819,899576,paper birch pollen extract,IN
+3820,894750,para grass pollen extract,IN
+3821,2467144,para-cresol,IN
+3822,14982,parachlorophenol,IN
+3823,7906,paraffin,IN
+3824,1192987,parakeet feather allergenic extract,IN
+3825,7909,paraldehyde,IN
+3826,32894,paramethadione,IN
+3827,7910,paramethasone,IN
+3828,1998744,parasorbate,IN
+3829,1427222,parathyroid hormone,IN
+3830,279950,parecoxib,IN
+3831,2619909,pareptide,IN
+3832,236249,parethoxycaine,IN
+3833,7930,pargyline,IN
+3834,73710,paricalcitol,IN
+3835,1597373,paritaprevir,IN
+3836,69528,parnaparin,IN
+3837,7934,paromomycin,IN
+3838,32937,paroxetine,IN
+3839,32941,parthenolide,IN
+3840,1364105,pasireotide,IN
+3841,1355833,passiflora incarnata flower extract,IN
+3842,285159,passion flower extract,IN
+3843,32950,patent blue violet,IN
+3844,1716203,patiromer,IN
+3845,2053490,patisiran,IN
+3846,714438,pazopanib,IN
+3847,892575,peach allergenic extract,IN
+3848,18235,peanut oil,IN
+3849,892332,pecan allergenic extract,IN
+3850,852272,pecan pollen extract,IN
+3851,32987,pectin,IN
+3852,7960,pefloxacin,IN
+3853,1367120,peg-100 stearate,IN
+3854,1487142,peg-60 sorbitan stearate,IN
+3855,59768,pegademase bovine,IN
+3856,498509,pegaptanib,IN
+3857,34132,pegaspargase,IN
+3858,2557372,pegcetacoplan,IN
+3859,338036,pegfilgrastim,IN
+3860,1248798,peginesatide,IN
+3861,120608,peginterferon alfa-2a,IN
+3862,253453,peginterferon alfa-2b,IN
+3863,1546168,peginterferon beta-1a,IN
+3864,1011650,pegloticase,IN
+3865,1607779,pegoterate,IN
+3866,1367127,pegoxol 7 stearate,IN
+3867,2637446,pegunigalsidase alfa,IN
+3868,2046360,pegvaliase,IN
+3869,278739,pegvisomant,IN
+3870,2738648,pegzilarginase,IN
+3871,1310166,pelargonium sidoides root extract,IN
+3872,1547545,pembrolizumab,IN
+3873,68446,pemetrexed,IN
+3874,2359268,pemigatinib,IN
+3875,19551,pemirolast,IN
+3876,7966,pemoline,IN
+3877,7973,penbutolol,IN
+3878,59839,penciclovir,IN
+3879,7974,penfluridol,IN
+3880,7975,penicillamine,IN
+3881,7980,penicillin g,IN
+3882,466553,penicillin g benzathine / penicillin g procaine,MIN
+3883,7984,penicillin v,IN
+3884,972365,penicillium roquefortii allergenic extract,IN
+3885,2712542,penpulimab,IN
+3886,1312715,pentadecalactone,IN
+3887,1987138,pentadecanoic acid,IN
+3888,33055,pentaerythritol,IN
+3889,1591891,pentafluoropropane,IN
+3890,7993,pentagastrin,IN
+3891,7994,pentamidine,IN
+3892,816249,pentastarch,IN
+3893,8001,pentazocine,IN
+3894,618371,pentetate,IN
+3895,1369590,pentetate calcium,IN
+3896,69893,pentetreotide,IN
+3897,33086,pentifylline,IN
+3898,8004,pentobarbital,IN
+3899,1100448,pentobarbital / phenytoin,MIN
+3900,155046,pentosan polysulfate,IN
+3901,8011,pentostatin,IN
+3902,8013,pentoxifylline,IN
+3903,2288155,peoniflorin,IN
+3904,33094,peppermint oil,IN
+3905,8016,pepsin a,IN
+3906,2045732,peracetic acid,IN
+3907,619693,peramivir,IN
+3908,1356552,perampanel,IN
+3909,8042,perazine,IN
+3910,852819,perennial rye grass pollen extract,IN
+3911,2474632,perflenapent,IN
+3912,1540828,perflexane,IN
+3913,2462501,perflunafene,IN
+3914,2637547,perfluorohexyloctane,IN
+3915,283753,perflutren,IN
+3916,8047,pergolide,IN
+3917,8050,perhexiline,IN
+3918,8766,periciazine,IN
+3919,54552,perindopril,IN
+3920,1546400,perindoprilat,IN
+3921,33199,permethrin,IN
+3922,8076,perphenazine,IN
+3923,8080,pertussis vaccine,IN
+3924,1298944,pertuzumab,IN
+3925,33219,peruvian balsam,IN
+3926,8091,petrolatum,IN
+3927,1310049,peumus boldus leaf extract,IN
+3928,2183102,pexidartinib,IN
+3929,1312717,phellinus linteus mycelium extract,IN
+3930,1307947,phellodendron amurense bark extract,IN
+3931,33253,phenacemide,IN
+3932,8113,phenacetin,IN
+3933,8119,phenazocine,IN
+3934,8120,phenazopyridine,IN
+3935,33272,phendimetrazine,IN
+3936,8123,phenelzine,IN
+3937,1309741,phenethylamine,IN
+3938,8129,phenformin,IN
+3939,235808,phenicarbazide,IN
+3940,33283,phenindamine,IN
+3941,8130,phenindione,IN
+3942,8132,pheniramine,IN
+3943,8133,phenmetrazine,IN
+3944,8134,phenobarbital,IN
+3945,33290,phenol,IN
+3946,1495318,phenolate,IN
+3947,155122,phenolphthalein,IN
+3948,1651702,phenolsulfonate,IN
+3949,8141,phenolsulfonphthalein,IN
+3950,8143,phenoperidine,IN
+3951,33303,phenothrin,IN
+3952,1426336,phenoxyacetate,IN
+3953,8149,phenoxybenzamine,IN
+3954,89552,phenoxyethanol,IN
+3955,8150,phenprocoumon,IN
+3956,33309,phensuximide,IN
+3957,8152,phentermine,IN
+3958,8153,phentolamine,IN
+3959,36122,phenyl salicylate,IN
+3960,1310585,phenyl trimethicone,IN
+3961,1367159,phenylacetaldehyde,IN
+3962,70619,phenylacetate,IN
+3963,8156,phenylalanine,IN
+3964,8160,phenylbutazone,IN
+3965,81647,phenylbutyrate,IN
+3966,8163,phenylephrine,IN
+3967,8126,phenylethyl alcohol,IN
+3968,1313724,phenylethyl resorcinol,IN
+3969,89722,phenylmercuric nitrate,IN
+3970,1426779,phenylmercury,IN
+3971,8175,phenylpropanolamine,IN
+3972,33408,phenyltoloxamine,IN
+3973,8183,phenytoin,IN
+3974,1368167,phloretin,IN
+3975,1362735,phlorhizin,IN
+3976,8196,phloroglucinol,IN
+3977,33431,pholcodine,IN
+3978,33432,pholedrine,IN
+3979,486961,phosphate ion,IN
+3980,89959,phosphatidylserine,IN
+3981,8226,phosphocysteamine,IN
+3982,8259,phosphoric acid,IN
+3983,8263,phosphorus,IN
+3984,89736,phthalylsulfacetamide,IN
+3985,33632,phthalylsulfathiazole,IN
+3986,8299,physostigmine,IN
+3987,392457,physostigmine / pilocarpine,MIN
+3988,8302,phytic acid,IN
+3989,1363444,phytosphingosine,IN
+3990,1940636,pibrentasvir,IN
+3991,1737729,picaridin,IN
+3992,33684,picolinic acid,IN
+3993,1546458,picosulfurate,IN
+3994,1443000,picrate,IN
+3995,2539172,picrotoxin,IN
+3996,40450,pidotimod,IN
+3997,2556617,piflufolastat,IN
+3998,1999764,pigment blue 16,IN
+3999,899650,pignut hickory pollen extract,IN
+4000,82910,piketoprofen,IN
+4001,8328,pilocarpine,IN
+4002,1311670,pimagedine,IN
+4003,1791685,pimavanserin,IN
+4004,2673756,pimeclone,IN
+4005,321952,pimecrolimus,IN
+4006,33712,pimethixene,IN
+4007,1110783,pimobendan,IN
+4008,8331,pimozide,IN
+4009,900999,pin oak pollen extract,IN
+4010,33717,pinacidil,IN
+4011,33724,pinaverium,IN
+4012,8332,pindolol,IN
+4013,259276,pine bark extract,IN
+4014,1360627,pine needle oil (pinus mugo),IN
+4015,8333,pine tar,IN
+4016,33738,pioglitazone,IN
+4017,33739,pipamperone,IN
+4018,33740,pipazethate,IN
+4019,33742,pipecuronium,IN
+4020,113831,pipemidate,IN
+4021,33743,pipenzolate,IN
+4022,8338,piperacetazine,IN
+4023,8339,piperacillin,IN
+4024,8340,piperazine,IN
+4025,59064,piperidolate,IN
+4026,1311146,piperine,IN
+4027,8345,piperonyl butoxide,IN
+4028,91299,piperonyl butoxide / pyrethrins,MIN
+4029,8347,pipobroman,IN
+4030,8348,pipothiazine,IN
+4031,33758,pipoxolan,IN
+4032,33761,piprozoline,IN
+4033,8351,piracetam,IN
+4034,33764,pirarubicin,IN
+4035,33767,pirbuterol,IN
+4036,228080,pirenoxine,IN
+4037,8352,pirenzepine,IN
+4038,33770,piretanide,IN
+4039,1592254,pirfenidone,IN
+4040,8353,piribedil,IN
+4041,1947299,piridocaine,IN
+4042,1367292,pirlimycin,IN
+4043,2058907,piroctone,IN
+4044,33783,piroctone olamine,IN
+4045,8356,piroxicam,IN
+4046,2629338,pirtobrutinib,IN
+4047,904606,pistachio nut allergenic extract,IN
+4048,1426912,pisum sativum (pea) extract,IN
+4049,861634,pitavastatin,IN
+4050,900758,pitch pine pollen extract,IN
+4051,2197878,pitolisant,IN
+4052,8372,pivampicillin,IN
+4053,2744296,pivekimab sunirine,IN
+4054,8373,pizotyline,IN
+4055,867297,plains cottonwood pollen extract,IN
+4056,82088,plantago seed,IN
+4057,33835,plasma protein fraction,IN
+4058,2557200,plasminogen,IN
+4059,1311280,platinum,IN
+4060,1307614,platycodon grandiflorum root extract,IN
+4061,2049549,plazomicin,IN
+4062,1873752,plecanatide,IN
+4063,733003,plerixafor,IN
+4064,6995,plicamycin,IN
+4065,2727175,plozasiran,IN
+4066,8463,podofilox,IN
+4067,8462,podophyllin,IN
+4068,1314376,polacrilin,IN
+4069,2179843,polaprezinc,IN
+4070,2174090,polatuzumab vedotin,IN
+4071,33926,poldine,IN
+4072,2668059,policapram,IN
+4073,54908,policresulen,IN
+4074,968170,polidocanol,IN
+4075,1426892,polidronium,IN
+4076,1426339,polifeprosan 20,IN
+4077,1541249,polignate sodium,IN
+4078,1373041,polihexanide,IN
+4079,763096,"poliovirus vaccine inactivated, type 1 (mahoney)",IN
+4080,763098,"poliovirus vaccine inactivated, type 2 (mef-1)",IN
+4081,763100,"poliovirus vaccine inactivated, type 3 (saukett)",IN
+4082,1549143,polixetonium,IN
+4083,1314414,poloxalene,IN
+4084,155152,poloxamer 188,IN
+4085,1492190,poloxamer 237,IN
+4086,1486516,poloxamer 331,IN
+4087,155155,poloxamer 407,IN
+4088,1993232,polyacrylamide (crosslinked; 2 mole percent bisacrylamide),IN
+4089,1314381,polyaminopropyl biguanide,IN
+4090,2049679,polybutester,IN
+4091,1364277,polydatin,IN
+4092,1363053,polydextrose,IN
+4093,34119,polyestradiol,IN
+4094,1367110,polyethylene glycol 1450,IN
+4095,1314382,polyethylene glycol 1500,IN
+4096,1368864,polyethylene glycol 200,IN
+4097,8513,polyethylene glycol 300,IN
+4098,221147,polyethylene glycol 3350,IN
+4099,1312707,polyethylene glycol 3500,IN
+4100,8514,polyethylene glycol 400,IN
+4101,1310594,polyethylene glycol 4000,IN
+4102,1358490,polyethylene glycol 4500,IN
+4103,1310598,polyethylene glycol 600,IN
+4104,1314384,polyethylene glycol 6000,IN
+4105,1307313,polyethylene glycol 800,IN
+4106,1314204,polyethylene glycol 900,IN
+4107,1310087,polygala senega root extract,IN
+4108,8521,polygeline,IN
+4109,2466982,polyglycolate,IN
+4110,1364922,polymetaphosphate,IN
+4111,8536,polymyxin b,IN
+4112,34188,polynoxylin,IN
+4113,1309246,polyoxyl 35 castor oil,IN
+4114,1426432,polyoxyl 40 stearate,IN
+4115,1367143,polyquaternium-10 (400 cps at 2%),IN
+4116,1804843,polysaccharide-k,IN
+4117,1367142,polysilicone-15,IN
+4118,8559,polysorbate 20,IN
+4119,1368867,polysorbate 60,IN
+4120,1426405,polysorbate 65,IN
+4121,8560,polysorbate 80,IN
+4122,1368887,polysorbate 85,IN
+4123,1546437,polystyrene sulfonate,IN
+4124,1085955,polysulfated glycosaminoglycan,IN
+4125,1358182,polytetrafluoroethylene,IN
+4126,8565,polythiazide,IN
+4127,91596,polyvalent crotalidae antivenin,IN
+4128,8570,polyvinyl alcohol,IN
+4129,1369713,pomalidomide,IN
+4130,725206,pomegranate extract,IN
+4131,1364347,ponatinib,IN
+4132,298983,ponazuril,IN
+4133,2532300,ponesimod,IN
+4134,236381,poractant alfa,IN
+4135,282446,posaconazole,IN
+4136,901011,post oak pollen extract,IN
+4137,8588,potassium,IN
+4138,54987,potassium acetate,IN
+4139,8589,potassium aspartate,IN
+4140,34296,potassium bicarbonate,IN
+4141,223779,potassium bitartrate,IN
+4142,34300,potassium carbonate,IN
+4143,8591,potassium chloride,IN
+4144,54993,potassium citrate,IN
+4145,8595,potassium dichromate,IN
+4146,89903,potassium gluconate,IN
+4147,34311,potassium hydroxide,IN
+4148,34312,potassium iodate,IN
+4149,8597,potassium iodide,IN
+4150,1318915,potassium ion,IN
+4151,314797,potassium lactate,IN
+4152,1362899,potassium metabisulfite,IN
+4153,34316,potassium nitrate,IN
+4154,34318,potassium perchlorate,IN
+4155,8604,potassium permanganate,IN
+4156,34322,potassium phosphate,IN
+4157,1311363,potassium sodium tartrate,IN
+4158,34323,potassium sulfate,IN
+4159,1376155,potassium triiodide,IN
+4160,852539,poverty weed pollen extract,IN
+4161,8610,povidone,IN
+4162,1305758,povidone k29-32,IN
+4163,8611,povidone-iodine,IN
+4164,2663938,pozelimab,IN
+4165,1313178,ppg-15 stearyl ether,IN
+4166,8620,practolol,IN
+4167,2713314,prademagene zamikeracel,IN
+4168,1367269,pradofloxacin,IN
+4169,867142,prairie sagebrush pollen extract,IN
+4170,8622,prajmaline,IN
+4171,662019,pralatrexate,IN
+4172,34345,pralidoxime,IN
+4173,1492039,pralmorelin,IN
+4174,2394936,pralsetinib,IN
+4175,746741,pramipexole,IN
+4176,190433,pramiverine,IN
+4177,139953,pramlintide,IN
+4178,34347,pramoxine,IN
+4179,3143,prasterone,IN
+4180,613391,prasugrel,IN
+4181,42463,pravastatin,IN
+4182,8627,prazepam,IN
+4183,8628,praziquantel,IN
+4184,1008306,praziquantel / pyrantel,MIN
+4185,8629,prazosin,IN
+4186,168651,prednazoline,IN
+4187,34369,prednicarbate,IN
+4188,8637,prednimustine,IN
+4189,8638,prednisolone,IN
+4190,690161,prednisolone / sulfacetamide,MIN
+4191,1008055,prednisolone / trimeprazine,MIN
+4192,8640,prednisone,IN
+4193,12473,prednylidene,IN
+4194,187832,pregabalin,IN
+4195,114052,pregnenolone,IN
+4196,8674,prenylamine,IN
+4197,2198359,pretomanid,IN
+4198,1368533,prezatide,IN
+4199,1314233,prezatide copper,IN
+4200,1314596,prezatide copper acetate,IN
+4201,34479,pridinol,IN
+4202,236174,prifinium,IN
+4203,8686,prilocaine,IN
+4204,8687,primaquine,IN
+4205,8691,primidone,IN
+4206,1311310,primula veris extract,IN
+4207,2479689,primycin,IN
+4208,66958,pristinamycin,IN
+4209,852622,privet pollen extract,IN
+4210,8698,probenecid,IN
+4211,2717836,probenecid / sulopenem,MIN
+4212,8699,probucol,IN
+4213,8700,procainamide,IN
+4214,8701,procaine,IN
+4215,8702,procarbazine,IN
+4216,34530,procaterol,IN
+4217,8704,prochlorperazine,IN
+4218,8718,procyclidine,IN
+4219,4134,profenamine,IN
+4220,8723,proflavine,IN
+4221,34568,progabide,IN
+4222,8727,progesterone,IN
+4223,34769,proglumetacin,IN
+4224,8730,proglumide,IN
+4225,2382,proguanil,IN
+4226,8737,proline,IN
+4227,34604,prolintane,IN
+4228,8742,promazine,IN
+4229,8744,promegestone,IN
+4230,34625,promestriene,IN
+4231,8745,promethazine,IN
+4232,8754,propafenone,IN
+4233,34633,propamidine,IN
+4234,1362877,propane,IN
+4235,8758,propanidid,IN
+4236,8761,propantheline,IN
+4237,34905,proparacaine,IN
+4238,34644,propentofylline,IN
+4239,34649,propicillin,IN
+4240,76273,propinox,IN
+4241,1311565,propiolactone,IN
+4242,8770,propiomazine,IN
+4243,1366667,propionamide,IN
+4244,34658,propionic acid,IN
+4245,55175,propiverine,IN
+4246,8782,propofol,IN
+4247,1311659,propolis wax,IN
+4248,2745576,propoxur,IN
+4249,8785,propoxyphene,IN
+4250,8787,propranolol,IN
+4251,1649519,propyl acetate,IN
+4252,1311134,propyl gallate,IN
+4253,1363696,propylene carbonate,IN
+4254,34693,propylene glycol,IN
+4255,1356149,propylene glycol monolaurate,IN
+4256,1427010,propylene glycol monopalmitostearate,IN
+4257,1314411,propylene glycol monostearate,IN
+4258,1368175,propylene oxide,IN
+4259,8792,propylhexedrine,IN
+4260,8793,propyliodone,IN
+4261,34706,propylparaben,IN
+4262,8794,propylthiouracil,IN
+4263,1999765,propyperone,IN
+4264,34710,propyphenazone,IN
+4265,2669456,proquazone,IN
+4266,8795,proscillaridin,IN
+4267,8834,protein c,IN
+4268,34822,protein s,IN
+4269,8871,prothionamide,IN
+4270,55244,prothipendyl,IN
+4271,1441688,prothrombin,IN
+4272,1362689,protocatechualdehyde,IN
+4273,8886,protriptyline,IN
+4274,83885,proxibarbal,IN
+4275,158660,proxigermanium,IN
+4276,34906,proxyphylline,IN
+4277,2107310,prucalopride,IN
+4278,24902,prussian blue insoluble,IN
+4279,8896,pseudoephedrine,IN
+4280,34930,pseudoisocytidine,IN
+4281,1310913,pseudomonas aeruginosa,IN
+4282,8928,psyllium,IN
+4283,1989334,pumice,IN
+4284,8948,purified protein derivative of tuberculin,IN
+4285,852174,pussy willow pollen extract,IN
+4286,8984,pyrantel,IN
+4287,8987,pyrazinamide,IN
+4288,8991,pyrethrins,IN
+4289,1232405,pyrethrum extract,IN
+4290,9000,pyridostigmine,IN
+4291,9002,pyridoxal,IN
+4292,684879,pyridoxine,IN
+4293,9009,pyrilamine,IN
+4294,9010,pyrimethamine,IN
+4295,35100,pyrithione,IN
+4296,1420978,pyritidium,IN
+4297,155060,pyroglutamate,IN
+4298,1364533,pyrophosphate,IN
+4299,2585446,pyrrolidine,IN
+4300,1370623,pyrrolidone carboxylate,IN
+4301,9036,pyrrolidonecarboxylic acid,IN
+4302,1373350,pyruvaldehyde,IN
+4303,72031,pyruvate,IN
+4304,35163,pyrvinium,IN
+4305,2002417,qs-21,IN
+4306,852343,quackgrass pollen extract,IN
+4307,1313268,quadrosilan,IN
+4308,283678,quaternium-15,IN
+4309,1363625,quaternium-18,IN
+4310,1539969,quaternium-24,IN
+4311,35185,quazepam,IN
+4312,867353,queen palm pollen extract,IN
+4313,9060,quercetin,IN
+4314,51272,quetiapine,IN
+4315,9061,quinacrine,IN
+4316,76887,quinagolide,IN
+4317,35208,quinapril,IN
+4318,1546359,quinaprilat,IN
+4319,1427233,quinate,IN
+4320,35215,quinestradol,IN
+4321,9066,quinestrol,IN
+4322,59743,quinethazone,IN
+4323,35216,quinfamide,IN
+4324,9068,quinidine,IN
+4325,9071,quinine,IN
+4326,35242,quinupramine,IN
+4327,229367,quinupristin,IN
+4328,2643048,quizartinib,IN
+4329,2003595,rabacfosadine,IN
+4330,851969,rabbit bush pollen extract,IN
+4331,114979,rabeprazole,IN
+4332,89886,"rabies immune globulin, human",IN
+4333,830457,rabies virus vaccine flury-lep strain,IN
+4334,16738,racecadotril,IN
+4335,1430390,racementhol,IN
+4336,9100,racemethionine,IN
+4337,66887,racepinephrine,IN
+4338,1311677,ractopamine,IN
+4339,1546450,radium,IN
+4340,1362905,raffinose,IN
+4341,72143,raloxifene,IN
+4342,719872,raltegravir,IN
+4343,196239,raltitrexed,IN
+4344,596205,ramelteon,IN
+4345,35296,ramipril,IN
+4346,1546377,ramiprilat,IN
+4347,1535922,ramucirumab,IN
+4348,595060,ranibizumab,IN
+4349,9143,ranitidine,IN
+4350,35829,ranolazine,IN
+4351,262100,rapacuronium,IN
+4352,1311246,raphanus sativa extract,IN
+4353,134748,rasagiline,IN
+4354,283821,rasburicase,IN
+4355,895279,rat skin extract,IN
+4356,9152,rauwolfia alkaloids,IN
+4357,2107301,ravulizumab,IN
+4358,1366567,raxibacumab,IN
+4359,9154,razoxane,IN
+4360,1667222,rebaudioside a,IN
+4361,60842,reboxetine,IN
+4362,851914,red alder pollen extract,IN
+4363,852609,red cedar pollen extract,IN
+4364,867341,red imported fire ant allergenic extract,IN
+4365,852680,red mulberry pollen extract,IN
+4366,1294634,red paper wasp venom protein,IN
+4367,900754,red pine pollen extract,IN
+4368,232540,red yeast rice,IN
+4369,900113,redberry juniper pollen extract,IN
+4370,1014707,redwood pollen extract,IN
+4371,640062,regadenoson,IN
+4372,1312397,regorafenib,IN
+4373,1313722,regrelor,IN
+4374,1309220,rehmannia glutinosa root extract,IN
+4375,2739519,relacorilant,IN
+4376,2596773,relatlimab,IN
+4377,2184137,relebactam,IN
+4378,2472778,relugolix,IN
+4379,2284718,remdesivir,IN
+4380,2700765,remestemcel-l,IN
+4381,2724365,remibrutinib,IN
+4382,73032,remifentanil,IN
+4383,2383941,remimazolam,IN
+4384,35350,remoxipride,IN
+4385,73044,repaglinide,IN
+4386,2670644,repotrectinib,IN
+4387,35373,reproterol,IN
+4388,9259,rescinnamine,IN
+4389,9260,reserpine,IN
+4390,1746889,reslizumab,IN
+4391,2677894,resmetirom,IN
+4392,35382,resorcinol,IN
+4393,2106739,resorcinol monoacetate,IN
+4394,1000492,resveratrol,IN
+4395,642274,retapamulin,IN
+4396,2722410,retatrutide,IN
+4397,76895,reteplase,IN
+4398,2632981,retifanlimab,IN
+4399,2708830,revakinagene taroretcel,IN
+4400,2102775,revefenacin,IN
+4401,75960,reviparin,IN
+4402,2698325,revumenib,IN
+4403,2639155,rezafungin,IN
+4404,1872246,rhamnose,IN
+4405,35465,rho(d) immune globulin,IN
+4406,1362930,rhodamine b,IN
+4407,1011033,rhubarb allergenic extract,IN
+4408,91266,rhubarb preparation,IN
+4409,9344,ribavirin,IN
+4410,1873916,ribociclib,IN
+4411,9346,riboflavin,IN
+4412,1925821,riboflavin 5'-phosphate,IN
+4413,1376156,riboprine,IN
+4414,1314858,ribose,IN
+4415,901337,rice allergenic extract,IN
+4416,1356151,rice bran,IN
+4417,1309223,rice bran oil,IN
+4418,618482,ricinoleate,IN
+4419,55672,rifabutin,IN
+4420,9384,rifampin,IN
+4421,35616,rifamycin sv,IN
+4422,9385,rifamycins,IN
+4423,35617,rifapentine,IN
+4424,35619,rifaximin,IN
+4425,55679,rilmenidine,IN
+4426,763450,rilonacept,IN
+4427,1102270,rilpivirine,IN
+4428,35623,riluzole,IN
+4429,2722398,rilzabrutinib,IN
+4430,9386,rimantadine,IN
+4431,2282307,rimegepant,IN
+4432,55681,rimexolone,IN
+4433,9388,rimiterol,IN
+4434,1439816,riociguat,IN
+4435,2369389,ripretinib,IN
+4436,2166040,risankizumab,IN
+4437,2390935,risdiplam,IN
+4438,73056,risedronate,IN
+4439,55685,risedronic acid,IN
+4440,35636,risperidone,IN
+4441,2641595,ritlecitinib,IN
+4442,9392,ritodrine,IN
+4443,85762,ritonavir,IN
+4444,121191,rituximab,IN
+4445,1114195,rivaroxaban,IN
+4446,183379,rivastigmine,IN
+4447,852148,river birch pollen extract,IN
+4448,88014,rizatriptan,IN
+4449,9394,rna,IN
+4450,1250203,robenacoxib,IN
+4451,1311554,robenidine,IN
+4452,852601,rocky mountain juniper pollen extract,IN
+4453,68139,rocuronium,IN
+4454,232158,rofecoxib,IN
+4455,1091836,roflumilast,IN
+4456,1665496,rolapitant,IN
+4457,9462,rolitetracycline,IN
+4458,877510,romidepsin,IN
+4459,1091919,romifidine,IN
+4460,805452,romiplostim,IN
+4461,2123126,romosozumab,IN
+4462,1535498,ronidazole,IN
+4463,2587059,ropeginterferon alfa-2b,IN
+4464,72302,ropinirole,IN
+4465,35780,ropivacaine,IN
+4466,1311501,rosa canina fruit extract,IN
+4467,1305664,rosa centifolia flower oil,IN
+4468,9471,rose bengal,IN
+4469,1322046,rose petal extract,IN
+4470,90945,rosemary oil,IN
+4471,84108,rosiglitazone,IN
+4472,1362931,rosin,IN
+4473,2531312,rosmarinate,IN
+4474,317702,rosmarinus officinalis preparation,IN
+4475,35797,rosoxacin,IN
+4476,301542,rosuvastatin,IN
+4477,1366666,rotenone,IN
+4478,616739,rotigotine,IN
+4479,995600,rough cocklebur pollen extract,IN
+4480,852532,rough marshelder pollen extract,IN
+4481,1314413,roxarsone,IN
+4482,114817,roxatidine,IN
+4483,9478,roxithromycin,IN
+4484,35805,royal jelly,IN
+4485,2642274,rozanolixizumab,IN
+4486,762817,rubella virus vaccine live (wistar ra 27-3 strain),IN
+4487,1311489,rubidium,IN
+4488,1862579,rucaparib,IN
+4489,69036,rufinamide,IN
+4490,1345677,rumex crispus root extract,IN
+4491,35890,ruscogenin,IN
+4492,852367,russian olive pollen extract,IN
+4493,852158,russian thistle pollen extract,IN
+4494,1367425,ruta graveolens flowering top oil,IN
+4495,9500,rutin,IN
+4496,1193326,ruxolitinib,IN
+4497,9504,s-adenosylmethionine,IN
+4498,1314278,saccharide isomerate,IN
+4499,9509,saccharin,IN
+4500,9511,saccharomyces cerevisiae,IN
+4501,2360231,sacituzumab,IN
+4502,214817,sacrosidase,IN
+4503,1656328,sacubitril,IN
+4504,1860608,sacubitrilat,IN
+4505,9515,safflower oil,IN
+4506,901195,safflower seed allergenic extract,IN
+4507,1922448,safinamide,IN
+4508,2383532,safrole,IN
+4509,1011627,sage leaf allergenic extract,IN
+4510,1305661,sage oil,IN
+4511,2263158,sakuranetin,IN
+4512,2200638,salcaprozate,IN
+4513,1363054,salicyl alcohol,IN
+4514,9518,salicylamide,IN
+4515,9525,salicylic acid,IN
+4516,2618732,salicylic acid / thiosulfate,MIN
+4517,1311566,salinomycin,IN
+4518,1305659,salix alba bark volatile oil,IN
+4519,36117,salmeterol,IN
+4520,892584,salmon allergenic extract,IN
+4521,36118,salmon calcitonin,IN
+4522,1421430,salmon preparation,IN
+4523,1716523,salmonella enterica subsp. enterica serovar typhi,IN
+4524,762595,salmonella typhi ty21a live antigen,IN
+4525,36108,salsalate,IN
+4526,852806,salt cedar pollen extract,IN
+4527,852329,salt grass pollen extract,IN
+4528,897316,saltbush pollen extract,IN
+4529,1307580,salvia miltiorrhiza root extract,IN
+4530,9549,samarium,IN
+4531,177906,samarium sm 153 lexidronam,IN
+4532,1307698,sambucus nigra flowering top,IN
+4533,2559612,samidorphan,IN
+4534,851955,sandbur ragweed pollen extract,IN
+4535,1311390,santonin,IN
+4536,2395271,sapanisertib,IN
+4537,753340,sapropterin,IN
+4538,83395,saquinavir,IN
+4539,9556,saralasin,IN
+4540,1362906,sarcosine,IN
+4541,974129,sardine allergenic extract,IN
+4542,2059018,sarecycline,IN
+4543,69634,sargramostim,IN
+4544,1923319,sarilumab,IN
+4545,1740360,sarolaner,IN
+4546,2391541,satralizumab,IN
+4547,1733681,satraplatin,IN
+4548,236344,saw palmetto extract,IN
+4549,477189,saw palmetto fruit extract,IN
+4550,857974,saxagliptin,IN
+4551,1311675,schisandra chinensis fruit extract,IN
+4552,56084,schizandra preparation,IN
+4553,1538275,schizochytrium dha oil,IN
+4554,9601,scopolamine,IN
+4555,900764,scotch pine pollen extract,IN
+4556,1013913,scrub pine pollen extract,IN
+4557,1307750,scutellaria baicalensis root extract,IN
+4558,1311499,sea salt,IN
+4559,1427069,sebacate,IN
+4560,1726975,sebelipase alfa,IN
+4561,2717944,sebetralstat,IN
+4562,36314,secnidazole,IN
+4563,9624,secobarbital,IN
+4564,9627,secretin,IN
+4565,1599788,secukinumab,IN
+4566,2055978,segesterone,IN
+4567,2690869,seladelpar,IN
+4568,1044269,selamectin,IN
+4569,9639,selegiline,IN
+4570,36344,selenious acid,IN
+4571,9641,selenium,IN
+4572,36345,selenium sulfide,IN
+4573,1549332,selenocysteine,IN
+4574,9644,selenomethionine,IN
+4575,1729002,selexipag,IN
+4576,2178390,selinexor,IN
+4577,2370147,selpercatinib,IN
+4578,2289380,selumetinib,IN
+4579,1991302,semaglutide,IN
+4580,1314385,semduramicin,IN
+4581,2368733,semuloparin,IN
+4582,36387,"sennosides, usp",IN
+4583,2723056,sepiapterin,IN
+4584,1999800,seractide,IN
+4585,2562176,serdexmethylphenidate,IN
+4586,350488,serenoa preparation,IN
+4587,9671,serine,IN
+4588,56188,sermorelin,IN
+4589,1311214,serotonin,IN
+4590,36434,serratiopeptidase,IN
+4591,36435,sertaconazole,IN
+4592,41996,sertindole,IN
+4593,36437,sertraline,IN
+4594,1309247,sesame oil,IN
+4595,2469247,setmelanotide,IN
+4596,214824,sevelamer,IN
+4597,36453,sevoflurane,IN
+4598,852087,shad scale pollen extract,IN
+4599,852221,shagbark hickory pollen extract,IN
+4600,91472,shark liver oil,IN
+4601,1310571,shea butter,IN
+4602,1305658,sheanut oil,IN
+4603,852213,sheep sorrel pollen extract,IN
+4604,896135,short ragweed pollen extract,IN
+4605,852709,shortleaf pine pollen extract,IN
+4606,892592,shrimp allergenic extract,IN
+4607,1299981,siberian elm pollen extract,IN
+4608,319812,siberian ginseng preparation,IN
+4609,259472,siberian ginseng root extract,IN
+4610,36514,sibutramine,IN
+4611,2611455,silandrone,IN
+4612,1601667,silanol,IN
+4613,136411,sildenafil,IN
+4614,1426646,silica dimethyl silylate,IN
+4615,9774,silicon,IN
+4616,9771,silicon dioxide,IN
+4617,314826,"silicon dioxide, colloidal",IN
+4618,314455,silk allergenic extract,IN
+4619,1652102,silk sericin,IN
+4620,720825,silodosin,IN
+4621,1373351,silodrate,IN
+4622,1535218,siltuximab,IN
+4623,2606543,silver,IN
+4624,1358876,silver cation,IN
+4625,1306066,silver citrate,IN
+4626,9789,silver nitrate,IN
+4627,852306,silver ragweed pollen extract,IN
+4628,9793,silver sulfadiazine,IN
+4629,9794,silymarin,IN
+4630,236730,simaldrate,IN
+4631,1482790,simeprevir,IN
+4632,9796,simethicone,IN
+4633,36567,simvastatin,IN
+4634,1440288,sinapultide,IN
+4635,9800,sincalide,IN
+4636,753346,sinecatechins,IN
+4637,2121085,siponimod,IN
+4638,997261,sipuleucel-t,IN
+4639,35302,sirolimus,IN
+4640,9806,sisomicin,IN
+4641,593411,sitagliptin,IN
+4642,1311386,skatole,IN
+4643,1310587,skim milk,IN
+4644,900731,slash pine pollen extract,IN
+4645,851990,slender ragweed pollen extract,IN
+4646,852217,smooth brome pollen extract,IN
+4647,1098274,smooth sumac pollen extract,IN
+4648,36669,sobrerol,IN
+4649,56443,sodium acetate,IN
+4650,267366,sodium ascorbate,IN
+4651,36676,sodium bicarbonate,IN
+4652,1367207,sodium bisulfate,IN
+4653,36679,sodium bisulfite,IN
+4654,1311138,sodium bromide,IN
+4655,36685,sodium carbonate,IN
+4656,1364429,sodium cation,IN
+4657,9863,sodium chloride,IN
+4658,992920,sodium chlorite,IN
+4659,56466,sodium citrate,IN
+4660,1547632,sodium diacetate,IN
+4661,2056673,sodium dithionite,IN
+4662,261435,sodium ferric gluconate complex,IN
+4663,9873,sodium fluoride,IN
+4664,2053265,sodium gentisate,IN
+4665,56476,sodium gluconate,IN
+4666,2667891,sodium gualenate,IN
+4667,9880,sodium hydroxide,IN
+4668,9884,sodium iodide,IN
+4669,105673,sodium ironedetate,IN
+4670,314832,sodium lauryl sulfoacetate,IN
+4671,36696,sodium metabisulfite,IN
+4672,36699,sodium molybdate(vi),IN
+4673,36700,sodium nitrate,IN
+4674,36709,sodium phosphate,IN
+4675,236719,"sodium phosphate, dibasic",IN
+4676,235496,"sodium phosphate, monobasic",IN
+4677,56512,sodium polystyrene sulfonate,IN
+4678,8010,sodium stibogluconate,IN
+4679,1311370,sodium succinate,IN
+4680,36721,sodium sulfate,IN
+4681,1293719,sodium sulfide,IN
+4682,56524,sodium tartrate,IN
+4683,9913,sodium tetradecyl sulfate,IN
+4684,2047628,sodium zirconium cyclosilicate,IN
+4685,1484911,sofosbuvir,IN
+4686,2689322,sofpironium,IN
+4687,1551455,solasulfone,IN
+4688,322167,solifenacin,IN
+4689,2121751,solriamfetol,IN
+4690,2557373,somapacitan,IN
+4691,236901,somatorelin,IN
+4692,9939,somatostatin,IN
+4693,56570,somatrem,IN
+4694,2644503,somatrogon,IN
+4695,61148,somatropin,IN
+4696,1427014,sometribove,IN
+4697,1659191,sonidegib,IN
+4698,495881,sorafenib,IN
+4699,1367146,sorbitan,IN
+4700,9945,sorbitol,IN
+4701,1311406,sorghum bicolor pollen extract,IN
+4702,2638675,sotagliflozin,IN
+4703,9947,sotalol,IN
+4704,2678930,sotatercept,IN
+4705,2550714,sotorasib,IN
+4706,2550731,sotrovimab,IN
+4707,867260,southern bayberry pollen extract,IN
+4708,885750,southern ragweed pollen extract,IN
+4709,1363446,soy sterol,IN
+4710,9949,soybean oil,IN
+4711,1309980,soybean seed oil,IN
+4712,18469,sparfloxacin,IN
+4713,2630535,sparsentan,IN
+4714,270,spectinomycin,IN
+4715,9968,spermaceti,IN
+4716,1483262,spermidine,IN
+4717,1483263,spermine,IN
+4718,2610417,spesolimab,IN
+4719,299081,spinosad,IN
+4720,895919,spiny pigweed pollen extract,IN
+4721,9991,spiramycin,IN
+4722,36908,spirapril,IN
+4723,9997,spironolactone,IN
+4724,487252,spirulina,IN
+4725,1363644,squalane,IN
+4726,10014,squalene,IN
+4727,221166,standardized senna concentrate,IN
+4728,37032,stannous chloride,IN
+4729,10030,stannous fluoride,IN
+4730,10032,stanozolol,IN
+4731,10046,starch,IN
+4732,1367117,"starch, rice",IN
+4733,2619252,"starch, tapioca",IN
+4734,1367109,"starch, wheat",IN
+4735,59763,stavudine,IN
+4736,1368706,stearate,IN
+4737,37071,stearyl alcohol,IN
+4738,1370626,stearyl fumarate,IN
+4739,2373652,stem bromelain,IN
+4740,2375829,stepronin,IN
+4741,37106,stevioside,IN
+4742,580119,stinging nettle extract,IN
+4743,2054968,stiripentol,IN
+4744,901620,streptococcus pneumoniae serotype 1 capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4745,2566305,streptococcus pneumoniae serotype 1 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 10a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 11a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 12f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 14 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 15b capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 18c capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 19a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 19f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 22f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 23f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 3 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 33f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 4 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 5 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 6a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 6b capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 7f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 8 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 9v capsular antigen diphtheria crm197 protein conjugate vaccine,MIN
+4746,798220,streptococcus pneumoniae serotype 14 capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4747,798222,streptococcus pneumoniae serotype 18c capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4748,901624,streptococcus pneumoniae serotype 19a capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4749,798224,streptococcus pneumoniae serotype 19f capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4750,2566297,streptococcus pneumoniae serotype 22f capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4751,798226,streptococcus pneumoniae serotype 23f capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4752,901628,streptococcus pneumoniae serotype 3 capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4753,2566296,streptococcus pneumoniae serotype 33f capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4754,798228,streptococcus pneumoniae serotype 4 capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4755,901631,streptococcus pneumoniae serotype 5 capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4756,901633,streptococcus pneumoniae serotype 6a capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4757,798230,streptococcus pneumoniae serotype 6b capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4758,901636,streptococcus pneumoniae serotype 7f capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4759,798232,streptococcus pneumoniae serotype 9v capsular antigen diphtheria crm197 protein conjugate vaccine,IN
+4760,854930,streptococcus pneumoniae type 1 capsular polysaccharide antigen,IN
+4761,854932,streptococcus pneumoniae type 10a capsular polysaccharide antigen,IN
+4762,854934,streptococcus pneumoniae type 11a capsular polysaccharide antigen,IN
+4763,854936,streptococcus pneumoniae type 12f capsular polysaccharide antigen,IN
+4764,854938,streptococcus pneumoniae type 14 capsular polysaccharide antigen,IN
+4765,854940,streptococcus pneumoniae type 15b capsular polysaccharide antigen,IN
+4766,854942,streptococcus pneumoniae type 17f capsular polysaccharide antigen,IN
+4767,854944,streptococcus pneumoniae type 18c capsular polysaccharide antigen,IN
+4768,854946,streptococcus pneumoniae type 19a capsular polysaccharide antigen,IN
+4769,854948,streptococcus pneumoniae type 19f capsular polysaccharide antigen,IN
+4770,854950,streptococcus pneumoniae type 2 capsular polysaccharide antigen,IN
+4771,854952,streptococcus pneumoniae type 20 capsular polysaccharide antigen,IN
+4772,854954,streptococcus pneumoniae type 22f capsular polysaccharide antigen,IN
+4773,854956,streptococcus pneumoniae type 23f capsular polysaccharide antigen,IN
+4774,854958,streptococcus pneumoniae type 3 capsular polysaccharide antigen,IN
+4775,854960,streptococcus pneumoniae type 33f capsular polysaccharide antigen,IN
+4776,854962,streptococcus pneumoniae type 4 capsular polysaccharide antigen,IN
+4777,854964,streptococcus pneumoniae type 5 capsular polysaccharide antigen,IN
+4778,854966,streptococcus pneumoniae type 6b capsular polysaccharide antigen,IN
+4779,854968,streptococcus pneumoniae type 7f capsular polysaccharide antigen,IN
+4780,854970,streptococcus pneumoniae type 8 capsular polysaccharide antigen,IN
+4781,854972,streptococcus pneumoniae type 9n capsular polysaccharide antigen,IN
+4782,854974,streptococcus pneumoniae type 9v capsular polysaccharide antigen,IN
+4783,2593692,streptococcus thermophilus,IN
+4784,10106,streptokinase,IN
+4785,10109,streptomycin,IN
+4786,10114,streptozocin,IN
+4787,10122,strontium,IN
+4788,37175,strontium chloride,IN
+4789,66422,strychnine,IN
+4790,89818,styramate,IN
+4791,3446,succimer,IN
+4792,1307106,succinate,IN
+4793,37255,succinic acid,IN
+4794,56790,succinylated gelatin,IN
+4795,10154,succinylcholine,IN
+4796,37289,succinylsulfathiazole,IN
+4797,10156,sucralfate,IN
+4798,1439115,sucralose,IN
+4799,1484283,sucroferric oxyhydroxide,IN
+4800,10159,sucrose,IN
+4801,1098455,sudan grass pollen extract,IN
+4802,56795,sufentanil,IN
+4803,1726988,sugammadex,IN
+4804,899359,sugar beet allergenic extract,IN
+4805,852132,sugar beet pollen extract,IN
+4806,10167,sulbactam,IN
+4807,10168,sulbenicillin,IN
+4808,37317,sulbutiamine,IN
+4809,37319,sulconazole,IN
+4810,37320,sulfabenzamide,IN
+4811,10169,sulfacetamide,IN
+4812,2476008,sulfachlorpyridazine,IN
+4813,236832,sulfachrysoidine,IN
+4814,78902,sulfacytine,IN
+4815,10171,sulfadiazine,IN
+4816,10172,sulfadimethoxine,IN
+4817,10173,sulfadoxine,IN
+4818,37324,sulfaethidole,IN
+4819,10174,sulfaguanidine,IN
+4820,10175,sulfalene,IN
+4821,10176,sulfamerazine,IN
+4822,10178,sulfamethazine,IN
+4823,10179,sulfamethizole,IN
+4824,10180,sulfamethoxazole,IN
+4825,10831,sulfamethoxazole / trimethoprim,MIN
+4826,10181,sulfamethoxypyridazine,IN
+4827,37328,sulfametrole,IN
+4828,10183,sulfamoxole,IN
+4829,10184,sulfanilamide,IN
+4830,10188,sulfapyridine,IN
+4831,1306111,sulfaquinoxaline,IN
+4832,9524,sulfasalazine,IN
+4833,1426598,sulfate ion,IN
+4834,10193,sulfathiazole,IN
+4835,10205,sulfinpyrazone,IN
+4836,10206,sulfisomidine,IN
+4837,10207,sulfisoxazole,IN
+4838,10212,sulfobromophthalein,IN
+4839,1362879,sulfur dioxide,IN
+4840,1599276,sulfur hexafluoride,IN
+4841,10231,sulfuric acid,IN
+4842,2266498,sulfurous acid,IN
+4843,10237,sulindac,IN
+4844,1311567,sulisobenzone,IN
+4845,2717833,sulopenem,IN
+4846,10239,sulpiride,IN
+4847,10240,sulthiame,IN
+4848,37416,sultopride,IN
+4849,37418,sumatriptan,IN
+4850,37422,sunflower oil,IN
+4851,852509,sunflower pollen extract,IN
+4852,357977,sunitinib,IN
+4853,2719226,sunvozertinib,IN
+4854,10255,suprofen,IN
+4855,10256,suramin,IN
+4856,2591404,sutimlimab,IN
+4857,1547099,suvorexant,IN
+4858,2704819,suzetrigine,IN
+4859,852627,sweet gum pollen extract,IN
+4860,851898,sweet vernal grass pollen extract,IN
+4861,1370776,swertia japonica extract,IN
+4862,2375531,symclosene,IN
+4863,10288,synephrine,IN
+4864,1371994,synthetic camphor,IN
+4865,253166,"synthetic conjugated estrogens, a",IN
+4866,618365,"synthetic conjugated estrogens, b",IN
+4867,852663,syrian hamster skin extract,IN
+4868,291204,tacalcitol,IN
+4869,10318,tacrine,IN
+4870,42316,tacrolimus,IN
+4871,358263,tadalafil,IN
+4872,1545063,tafamidis,IN
+4873,2387211,tafasitamab,IN
+4874,2054023,tafenoquine,IN
+4875,1244607,tafluprost,IN
+4876,851902,tag alder pollen extract,IN
+4877,2109055,tagraxofusp,IN
+4878,10322,talampicillin,IN
+4879,2099704,talazoparib,IN
+4880,89810,talbutal,IN
+4881,10323,talc,IN
+4882,2716919,taletrectinib,IN
+4883,1291609,taliglucerase alfa,IN
+4884,2670341,talinexomer,IN
+4885,37546,talinolol,IN
+4886,1006506,tall oat grass pollen extract,IN
+4887,236770,talniflumate,IN
+4888,2644447,talquetamab,IN
+4889,900131,tamarack pollen extract,IN
+4890,10324,tamoxifen,IN
+4891,77492,tamsulosin,IN
+4892,2682551,tangeretin,IN
+4893,10328,tannic acid,IN
+4894,1311490,tantalum,IN
+4895,787390,tapentadol,IN
+4896,2602286,tapinarof,IN
+4897,901346,tapioca starch allergenic extract,IN
+4898,2682954,tarlatamab,IN
+4899,37578,tartaric acid,IN
+4900,1314221,tartrate,IN
+4901,1490468,tasimelteon,IN
+4902,283746,tasonermin,IN
+4903,10337,taurine,IN
+4904,2670453,taurolidine,IN
+4905,2613950,taurursodiol,IN
+4906,1543173,tavaborole,IN
+4907,2700758,taxifolin,IN
+4908,83947,tazarotene,IN
+4909,2274378,tazemetostat,IN
+4910,37617,tazobactam,IN
+4911,69627,tea tree oil,IN
+4912,2590743,tebentafusp,IN
+4913,2571856,technetium,IN
+4914,2619426,teclistamab,IN
+4915,2055104,tecovirimat,IN
+4916,1540825,tedizolid,IN
+4917,1364468,teduglutide,IN
+4918,4582,tegafur,IN
+4919,139778,tegaserod,IN
+4920,57021,teicoplanin,IN
+4921,1102261,telaprevir,IN
+4922,473837,telavancin,IN
+4923,474128,telbivudine,IN
+4924,2714237,telisotuzumab,IN
+4925,274786,telithromycin,IN
+4926,85929,telmesteine,IN
+4927,73494,telmisartan,IN
+4928,1872382,telotristat,IN
+4929,1872441,telotristat ethyl,IN
+4930,37771,temafloxacin,IN
+4931,10355,temazepam,IN
+4932,37775,temocillin,IN
+4933,115243,temoporfin,IN
+4934,37776,temozolomide,IN
+4935,2675620,temsavir,IN
+4936,657797,temsirolimus,IN
+4937,2199674,tenapanor,IN
+4938,259280,tenecteplase,IN
+4939,10362,teniposide,IN
+4940,117466,tenofovir,IN
+4941,1721603,tenofovir alafenamide,IN
+4942,300195,tenofovir disoproxil,IN
+4943,236186,tenonitrozole,IN
+4944,37790,tenoxicam,IN
+4945,2621880,teplizumab,IN
+4946,2477103,tepotinib,IN
+4947,2274803,teprotumumab,IN
+4948,37798,terazosin,IN
+4949,37801,terbinafine,IN
+4950,10368,terbutaline,IN
+4951,37806,terconazole,IN
+4952,42330,terfenadine,IN
+4953,1310520,teriflunomide,IN
+4954,32915,teriparatide,IN
+4955,57047,terizidone,IN
+4956,57048,terlipressin,IN
+4957,37815,terodiline,IN
+4958,89916,terpin hydrate,IN
+4959,1368180,terpineol,IN
+4960,1312739,terpinyl acetate,IN
+4961,1363061,tert-butyl alcohol,IN
+4962,37840,tertatolol,IN
+4963,1044584,tesamorelin,IN
+4964,10378,testolactone,IN
+4965,10379,testosterone,IN
+4966,1727875,tetanus immune globulin,IN
+4967,1735049,tetanus toxin,IN
+4968,798306,"tetanus toxoid vaccine, inactivated",IN
+4969,10390,tetrabenazine,IN
+4970,10391,tetracaine,IN
+4971,10395,tetracycline,IN
+4972,1370424,tetradecyl hydrogen sulfate (ester),IN
+4973,37935,tetrahydrozoline,IN
+4974,1363713,tetramethylthiuram monosulfide,IN
+4975,2260905,tetraxetan,IN
+4976,37985,tetrazepam,IN
+4977,1311569,tetrofosmin,IN
+4978,37999,tetroxoprim,IN
+4979,1999382,tezacaftor,IN
+4980,2587789,tezepelumab,IN
+4981,10432,thalidomide,IN
+4982,1311633,thallium,IN
+4983,38021,theaflavin,IN
+4984,38022,theanine,IN
+4985,38025,thenyldiamine,IN
+4986,10437,theobromine,IN
+4987,31958,theodrenaline,IN
+4988,236713,theofibrate,IN
+4989,10438,theophylline,IN
+4990,1306060,thermus thermophilus lysate,IN
+4991,10450,thiabendazole,IN
+4992,10454,thiamine,IN
+4993,10463,thiamphenicol,IN
+4994,10464,thiamylal,IN
+4995,10471,thiethylperazine,IN
+4996,10472,thimerosal,IN
+4997,38077,thiobutabarbital,IN
+4998,38085,thiocolchicoside,IN
+4999,618060,thioctate,IN
+5000,1597391,thioctic acid amide,IN
+5001,1363062,thioglycerol,IN
+5002,1370627,thioglycolate,IN
+5003,10485,thioguanine,IN
+5004,10493,thiopental,IN
+5005,38133,thiopropazate,IN
+5006,10498,thioproperazine,IN
+5007,1314275,thioredoxin,IN
+5008,10502,thioridazine,IN
+5009,91099,thiosalicylate,IN
+5010,322165,thiosalicylic acid,IN
+5011,1365970,thiostrepton,IN
+5012,1546411,thiosulfate,IN
+5013,10473,thiotepa,IN
+5014,10510,thiothixene,IN
+5015,38150,thiphenamil,IN
+5016,10517,thiram,IN
+5017,237058,thonzonium,IN
+5018,1360721,thonzylamine,IN
+5019,1547558,threonate,IN
+5020,10524,threonine,IN
+5021,10528,thrombin,IN
+5022,1307585,thuja occidentalis bark extract,IN
+5023,38221,thymalfasin,IN
+5024,90950,thyme oil,IN
+5025,1368871,thymine,IN
+5026,10553,thymol,IN
+5027,89717,thymol iodide,IN
+5028,40230,thymopentin,IN
+5029,10565,thyroglobulin,IN
+5030,10572,thyroid (usp),IN
+5031,235479,"thyroid, porcine",IN
+5032,10579,thyrotropin,IN
+5033,4952,thyrotropin alfa,IN
+5034,10580,thyrotropin-releasing hormone,IN
+5035,38248,tiadenol,IN
+5036,31914,tiagabine,IN
+5037,1546410,tiamulin,IN
+5038,1314589,tiamulin fumarate,IN
+5039,38252,tianeptine,IN
+5040,10588,tiapride,IN
+5041,618442,tiaprofenate,IN
+5042,237141,tibezonium iodide,IN
+5043,38260,tibolone,IN
+5044,1116632,ticagrelor,IN
+5045,10591,ticarcillin,IN
+5046,10594,ticlopidine,IN
+5047,236188,tiemonium,IN
+5048,384455,tigecycline,IN
+5049,2478456,tigilanol tiglate,IN
+5050,2698199,tigolaner,IN
+5051,166718,tilbroquinol,IN
+5052,1306059,tildipirosin,IN
+5053,2053436,tildrakizumab,IN
+5054,1535217,tiletamine,IN
+5055,10597,tilidine,IN
+5056,38278,tilmicosin,IN
+5057,57230,tiludronate,IN
+5058,11476,tiludronic acid,IN
+5059,10600,timolol,IN
+5060,851994,timothy grass pollen extract,IN
+5061,10612,tinidazole,IN
+5062,69646,tinzaparin,IN
+5063,163426,tioclomarol,IN
+5064,38298,tioconazole,IN
+5065,6765,tiopronin,IN
+5066,69120,tiotropium,IN
+5067,2059173,tioxolone,IN
+5068,1670304,tipiracil,IN
+5069,1670310,tipiracil / trifluridine,MIN
+5070,190548,tipranavir,IN
+5071,13982,tiratricol,IN
+5072,2471078,tirbanibulin,IN
+5073,72467,tirilazad,IN
+5074,73137,tirofiban,IN
+5075,38315,tiropramide,IN
+5076,2601723,tirzepatide,IN
+5077,1986438,tisagenlecleucel,IN
+5078,2677426,tislelizumab,IN
+5079,38136,tisopurine,IN
+5080,2571095,tisotumab,IN
+5081,1305547,titanium,IN
+5082,38323,titanium dioxide,IN
+5083,2740012,tividenofusp alfa,IN
+5084,2534233,tivozanib,IN
+5085,2587300,tixagevimab,IN
+5086,57257,tixocortol,IN
+5087,57258,tizanidine,IN
+5088,10627,tobramycin,IN
+5089,42359,tocainide,IN
+5090,60906,tocamphyl,IN
+5091,1145945,toceranib,IN
+5092,612865,tocilizumab,IN
+5093,1236136,tocopherol,IN
+5094,159151,tocophersolan,IN
+5095,314875,"tocopheryl acid succinate,d-alpha",IN
+5096,1357536,tofacitinib,IN
+5097,2634995,tofersen,IN
+5098,38365,tofisopam,IN
+5099,10633,tolazamide,IN
+5100,10634,tolazoline,IN
+5101,10635,tolbutamide,IN
+5102,72937,tolcapone,IN
+5103,38372,tolciclate,IN
+5104,2001181,toldimfos,IN
+5105,38377,tolfenamic acid,IN
+5106,10636,tolmetin,IN
+5107,10637,tolnaftate,IN
+5108,38382,toloxatone,IN
+5109,10639,tolperisone,IN
+5110,38386,tolrestat,IN
+5111,119565,tolterodine,IN
+5112,1535930,toltrazuril,IN
+5113,1116238,tolu balsam,IN
+5114,1311381,toluene,IN
+5115,358257,tolvaptan,IN
+5116,38404,topiramate,IN
+5117,57308,topotecan,IN
+5118,38409,toremifene,IN
+5119,2669406,toripalimab,IN
+5120,38413,torsemide,IN
+5121,263010,tositumomab,IN
+5122,2682434,tovorafenib,IN
+5123,1716278,trabectedin,IN
+5124,2739506,tradipitant,IN
+5125,1368197,tragacanth,IN
+5126,1232630,tragacanth allergenic extract,IN
+5127,2589225,tralokinumab,IN
+5128,10689,tramadol,IN
+5129,38453,tramazoline,IN
+5130,1425099,trametinib,IN
+5131,1374845,tramiprosate,IN
+5132,38454,trandolapril,IN
+5133,214866,trandolapril / verapamil,MIN
+5134,1546379,trandolaprilat,IN
+5135,10691,tranexamic acid,IN
+5136,57330,tranilast,IN
+5137,10734,tranylcypromine,IN
+5138,10735,trapidil,IN
+5139,224905,trastuzumab,IN
+5140,283809,travoprost,IN
+5141,10737,trazodone,IN
+5142,1311373,trehalose,IN
+5143,2619313,tremelimumab,IN
+5144,1484278,trenbolone,IN
+5145,38508,treosulfan,IN
+5146,44532,trepibutone,IN
+5147,343048,treprostinil,IN
+5148,10753,tretinoin,IN
+5149,10756,triacetin,IN
+5150,10759,triamcinolone,IN
+5151,10763,triamterene,IN
+5152,10767,triazolam,IN
+5153,38555,triazulenone,IN
+5154,36710,tribasic sodium phosphate,IN
+5155,38557,tribenoside,IN
+5156,1423345,tribulus,IN
+5157,1311579,tribulus terrestris fruit extract,IN
+5158,1306058,tribulus terrestris root extract,IN
+5159,1370418,tricaine,IN
+5160,1314419,tricaprin,IN
+5161,1314420,tricaprylin,IN
+5162,1994358,tricetin,IN
+5163,1000581,trichlorfon,IN
+5164,10772,trichlormethiazide,IN
+5165,38574,trichloroacetaldehyde,IN
+5166,618564,trichloroacetate,IN
+5167,2534464,trichloroethylene,IN
+5168,465118,trichophyton antigen,IN
+5169,1310905,trichophyton verrucosum,IN
+5170,2118525,triclabendazole,IN
+5171,38609,triclocarban,IN
+5172,38610,triclofos,IN
+5173,10795,triclosan,IN
+5174,38617,tridihexethyl,IN
+5175,10798,trientine,IN
+5176,38623,triethanolamine,IN
+5177,1363986,triethanolamine lauryl sulfate,IN
+5178,1310554,triethyl citrate,IN
+5179,1368702,triethylene glycol,IN
+5180,1368189,triethylhexanoin,IN
+5181,2205637,trifarotene,IN
+5182,10800,trifluoperazine,IN
+5183,10804,trifluperidol,IN
+5184,10805,triflupromazine,IN
+5185,10803,trifluridine,IN
+5186,38655,triflusal,IN
+5187,1313234,triheptanoin,IN
+5188,10811,trihexyphenidyl,IN
+5189,2479690,trilaciclib,IN
+5190,38668,trilostane,IN
+5191,10819,trimebutine,IN
+5192,10825,trimeprazine,IN
+5193,10826,trimetazidine,IN
+5194,10827,trimethadione,IN
+5195,10828,trimethaphan,IN
+5196,38685,trimethobenzamide,IN
+5197,10829,trimethoprim,IN
+5198,42333,trimetrexate,IN
+5199,10834,trimipramine,IN
+5200,1368882,trimyristin,IN
+5201,1368168,triolein,IN
+5202,10844,trioxsalen,IN
+5203,10847,tripelennamine,IN
+5204,1487534,triphosphate,IN
+5205,1364529,triphosphoric acid,IN
+5206,10849,triprolidine,IN
+5207,38782,triptorelin,IN
+5208,1368872,tristearin,IN
+5209,38810,tritoqualine,IN
+5210,1537576,troclosene,IN
+5211,2632852,trofinetide,IN
+5212,38865,trofosfamide,IN
+5213,72610,troglitazone,IN
+5214,38866,trolamine salicylate,IN
+5215,10864,troleandomycin,IN
+5216,38868,tromantadine,IN
+5217,10865,tromethamine,IN
+5218,38876,tropatepine,IN
+5219,10869,tropicamide,IN
+5220,27392,tropisetron,IN
+5221,236778,trospium,IN
+5222,2694836,trospium / xanomeline,MIN
+5223,115552,trovafloxacin,IN
+5224,38893,troxerutin,IN
+5225,1726081,trypan blue free acid,IN
+5226,10890,trypsin,IN
+5227,10898,tryptophan,IN
+5228,10908,tuberculin,IN
+5229,10917,tubocurarine,IN
+5230,2361285,tucatinib,IN
+5231,1309314,tulathromycin,IN
+5232,1437806,tulathromycin a,IN
+5233,38967,tulobuterol,IN
+5234,892503,tuna allergenic extract,IN
+5235,1114883,turmeric extract,IN
+5236,1373037,turmeric oil,IN
+5237,2695722,turmeric root extract,IN
+5238,1591919,turnera diffusa leaf extract,IN
+5239,10938,turpentine,IN
+5240,62178,tybamate,IN
+5241,995505,tylosin,IN
+5242,1363719,tylosin phosphate,IN
+5243,38998,tyloxapol,IN
+5244,1368469,tylvalosin,IN
+5245,807219,"typhoid vi polysaccharide vaccine, s typhi ty2 strain",IN
+5246,10958,tyramine,IN
+5247,10962,tyrosine,IN
+5248,10968,tyrothricin,IN
+5249,21406,ubidecarenone,IN
+5250,39085,ubiquinol,IN
+5251,1423925,ubiquinone q2,IN
+5252,2626349,ublituximab,IN
+5253,2268216,ubrogepant,IN
+5254,1005921,ulipristal,IN
+5255,1338620,ulva lactuca extract,IN
+5256,2478439,umbralisib,IN
+5257,1487514,umeclidinium,IN
+5258,1942479,umirolimus,IN
+5259,314881,undecylenate,IN
+5260,10991,unithiol,IN
+5261,1546408,unoprostone,IN
+5262,2196092,upadacitinib,IN
+5263,10995,uracil,IN
+5264,10996,uracil mustard,IN
+5265,39230,urapidil,IN
+5266,11002,urea,IN
+5267,1420982,urethane,IN
+5268,1427088,uric acid,IN
+5269,11017,uridine,IN
+5270,1665222,uridine triacetate,IN
+5271,134404,urofollitropin,IN
+5272,11055,urokinase,IN
+5273,2045735,ursadiol,IN
+5274,62427,ursodeoxycholate,IN
+5275,1370661,ursolate,IN
+5276,847083,ustekinumab,IN
+5277,852597,utah juniper pollen extract,IN
+5278,1945213,vaborbactam,IN
+5279,1668221,vaccinia virus,IN
+5280,1492300,vaccinia virus strain new york city board of health live antigen,IN
+5281,2679296,vadadustat,IN
+5282,73645,valacyclovir,IN
+5283,1918219,valbenazine,IN
+5284,278567,valdecoxib,IN
+5285,275891,valganciclovir,IN
+5286,11115,valine,IN
+5287,1111024,valley oak pollen extract,IN
+5288,2604036,valnemulin,IN
+5289,2641610,valoctocogene roxaparvovec,IN
+5290,40254,valproate,IN
+5291,31435,valrubicin,IN
+5292,69749,valsartan,IN
+5293,2669799,vamorolone,IN
+5294,11121,vanadium,IN
+5295,11124,vancomycin,IN
+5296,1098413,vandetanib,IN
+5297,901291,vanilla bean allergenic extract,IN
+5298,1368176,vanillin,IN
+5299,1313189,vanillyl butyl ether,IN
+5300,2701431,vanzacaftor,IN
+5301,306674,vardenafil,IN
+5302,591622,varenicline,IN
+5303,1986821,varicella zoster virus glycoprotein e,IN
+5304,39385,varicella-zoster immune globulin,IN
+5305,1942960,vasoactive intestinal peptide,IN
+5306,2601584,vatinoxan,IN
+5307,71535,vecuronium,IN
+5308,1538097,vedolizumab,IN
+5309,1317116,velafermin,IN
+5310,901805,velaglucerase alfa,IN
+5311,2630725,velmanase alfa,IN
+5312,1799206,velpatasvir,IN
+5313,852514,velvet grass pollen extract,IN
+5314,1147220,vemurafenib,IN
+5315,1747556,venetoclax,IN
+5316,39786,venlafaxine,IN
+5317,2743350,vepdegestrant,IN
+5318,39468,veralipride,IN
+5319,11170,verapamil,IN
+5320,2539289,verdinexor,IN
+5321,2475830,vericiguat,IN
+5322,118886,verteporfin,IN
+5323,1989819,vestronidase alfa,IN
+5324,2472254,vibegron,IN
+5325,1812935,vibrio cholerae cvd 103-hgr strain live antigen,IN
+5326,11194,vidarabine,IN
+5327,14851,vigabatrin,IN
+5328,1424884,vilanterol,IN
+5329,1086769,vilazodone,IN
+5330,596554,vildagliptin,IN
+5331,2639620,vilobelimab,IN
+5332,11196,viloxazine,IN
+5333,2389840,viltolarsen,IN
+5334,2705378,vimseltinib,IN
+5335,89811,vinbarbital,IN
+5336,11198,vinblastine,IN
+5337,57954,vinburnine,IN
+5338,11201,vincamine,IN
+5339,11202,vincristine,IN
+5340,11204,vindesine,IN
+5341,39541,vinorelbine,IN
+5342,24506,vinpocetine,IN
+5343,2597054,vipivotide tetraxetan,IN
+5344,39580,viquidil,IN
+5345,11232,virginiamycin,IN
+5346,1242987,vismodegib,IN
+5347,11246,vitamin a,IN
+5348,11248,vitamin b12,IN
+5349,42954,vitamin b6,IN
+5350,11253,vitamin d,IN
+5351,1244014,vitamin d3,IN
+5352,11256,vitamin e,IN
+5353,11258,vitamin k,IN
+5354,8308,vitamin k1,IN
+5355,42781,vitamin k2,IN
+5356,6728,vitamin k3,IN
+5357,2276893,vitamin k7,IN
+5358,2684982,vitexin,IN
+5359,1307966,vitis vinifera seed extract,IN
+5360,2475166,voclosporin,IN
+5361,2637345,volanesorsen,IN
+5362,11274,von willebrand factor,IN
+5363,1812589,vonicog alfa,IN
+5364,2604577,vonoprazan,IN
+5365,1537034,vorapaxar,IN
+5366,2690647,vorasidenib,IN
+5367,1995537,voretigene neparvovec,IN
+5368,121243,voriconazole,IN
+5369,194337,vorinostat,IN
+5370,1455099,vortioxetine,IN
+5371,2586354,vosoritide,IN
+5372,2265678,voxelotor,IN
+5373,1939323,voxilaprevir,IN
+5374,2604578,vutrisiran,IN
+5375,11289,warfarin,IN
+5376,11295,water,IN
+5377,852166,water birch pollen extract,IN
+5378,1013944,water oak pollen extract,IN
+5379,1117083,weakleaf bur ragweed pollen extract,IN
+5380,1014755,western black willow pollen extract,IN
+5381,852589,western juniper pollen extract,IN
+5382,851985,western ragweed pollen extract,IN
+5383,852750,western sycamore pollen extract,IN
+5384,851934,western waterhemp pollen extract,IN
+5385,852659,western wheatgrass pollen extract,IN
+5386,900743,western white pine pollen extract,IN
+5387,1297535,western yellow jacket venom protein,IN
+5388,72385,wheat germ oil,IN
+5389,867361,wheat pollen extract,IN
+5390,1014743,white (mexican) dock pollen extract,IN
+5391,851910,white alder pollen extract,IN
+5392,852450,white ash pollen extract,IN
+5393,901265,white fish allergenic extract,IN
+5394,852193,white hickory pollen extract,IN
+5395,852382,white poplar pollen extract,IN
+5396,1014735,white sweet clover pollen extract,IN
+5397,895538,white-tailed deer hair extract,IN
+5398,901299,whole wheat allergenic extract,IN
+5399,852074,wing scale pollen extract,IN
+5400,852613,winterfat pollen extract,IN
+5401,89821,witch hazel,IN
+5402,1309324,wormwood extract,IN
+5403,852007,wormwood sage pollen extract,IN
+5404,39801,xamoterol,IN
+5405,2694828,xanomeline,IN
+5406,1307815,xanthan gum,IN
+5407,1311085,xanthine,IN
+5408,89795,xanthinol,IN
+5409,11363,xenon,IN
+5410,39823,xibornol,IN
+5411,11371,xipamide,IN
+5412,1099660,xylazine,IN
+5413,11377,xylitol,IN
+5414,39841,xylometazoline,IN
+5415,11378,xylose,IN
+5416,899550,yellow birch pollen extract,IN
+5417,804187,yellow fever virus strain 17d-204 live antigen,IN
+5418,1297537,yellow hornet venom protein,IN
+5419,285170,yellow jacket venom protein,IN
+5420,314784,yellow phenolphthalein,IN
+5421,852716,yellow pine pollen extract,IN
+5422,1014447,yellow sweet clover pollen extract,IN
+5423,220982,yohimbine,IN
+5424,114970,zafirlukast,IN
+5425,3363,zalcitabine,IN
+5426,74667,zaleplon,IN
+5427,69722,zanamivir,IN
+5428,2698198,zanidatamab,IN
+5429,2262435,zanubrutinib,IN
+5430,2637955,zavegepant,IN
+5431,1440227,zeatin,IN
+5432,39918,zeaxanthin,IN
+5433,2699588,zenocutuzumab,IN
+5434,1368476,zeranol,IN
+5435,68503,ziconotide,IN
+5436,2744813,zidebactam,IN
+5437,11413,zidovudine,IN
+5438,2725985,ziftomenib,IN
+5439,40575,zileuton,IN
+5440,1727538,zilpaterol,IN
+5441,2672489,zilucoplan,IN
+5442,11416,zinc,IN
+5443,58295,zinc acetate,IN
+5444,1549114,zinc ascorbate,IN
+5445,236142,zinc aspartate,IN
+5446,39935,zinc carbonate,IN
+5447,1546264,zinc cation,IN
+5448,39937,zinc chloride,IN
+5449,236911,zinc citrate,IN
+5450,58300,zinc gluconate,IN
+5451,1306063,zinc glycinate,IN
+5452,1921759,zinc iodide,IN
+5453,11422,zinc orotate,IN
+5454,11423,zinc oxide,IN
+5455,58301,zinc picolinate,IN
+5456,39952,zinc pyrithione,IN
+5457,39954,zinc sulfate,IN
+5458,1733817,zinc sulfide,IN
+5459,253210,"zinc, chelated",IN
+5460,11431,zinc-dtpa,IN
+5461,2199325,zingerone,IN
+5462,39969,zipeprol,IN
+5463,115698,ziprasidone,IN
+5464,39972,zirconium oxide,IN
+5465,39990,zofenopril,IN
+5466,1535252,zolazepam,IN
+5467,2695869,zolbetuximab,IN
+5468,77655,zoledronic acid,IN
+5469,2734122,zoliflodacin,IN
+5470,135775,zolmitriptan,IN
+5471,39993,zolpidem,IN
+5472,39994,zomepirac,IN
+5473,2721604,zongertinib,IN
+5474,39998,zonisamide,IN
+5475,40001,zopiclone,IN
+5476,40003,zotepine,IN
+5477,114176,zuclopenthixol,IN
+5478,2669905,zuranolone,IN

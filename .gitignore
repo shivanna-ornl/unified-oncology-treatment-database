@@ -1,0 +1,40 @@
+# Restricted or externally obtained data
+raw/*
+!raw/README.md
+!raw/.gitkeep
+
+# Generated RxNorm API cache (derived audit summaries are stored in audit/)
+cache/rxnorm/*
+!cache/rxnorm/.gitkeep
+
+# Local paths, credentials, and environments
+config/sources.json
+config/sources.local.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.venv/
+venv/
+
+# Rebuild intermediates
+work/*
+!work/.gitkeep
+build/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Python/editor/OS state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+.idea/
+.vscode/
+

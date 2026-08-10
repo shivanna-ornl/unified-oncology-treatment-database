@@ -1,0 +1,153 @@
+{
+  "built_at": "2026-08-10T00:16:43.085926+00:00",
+  "files": {
+    "audit/audit_drug_term_quarantine.csv": {
+      "bytes": 9944057,
+      "sha256": "c9f0bd5ef9fb36ee05ac26d32697d16ac026d3d7eb67ad23f73592917c55a68c"
+    },
+    "audit/audit_legacy_drug_anchor_quarantine.csv": {
+      "bytes": 1654202,
+      "sha256": "b59ad05219c24d1ab3c2622ec2585a172fa9c217b8e50d2408b39f1f25597617"
+    },
+    "audit/audit_regimen_drug_quarantine.csv": {
+      "bytes": 74706,
+      "sha256": "e1a18499a4f7b5f6c9369bb58d029c91e06f02db65f27a0f9e4fa7d504a0185a"
+    },
+    "audit/audit_regimen_synonym_quarantine.csv": {
+      "bytes": 81,
+      "sha256": "42f555f74ba48ec5b284f8e3b8063fb525797c13cd371b5b647b300b5b28c471"
+    },
+    "audit/audit_rxnorm_semantic_overrides.csv": {
+      "bytes": 45030,
+      "sha256": "964982e12ca627a324d99620c3dd5cf476dffc56b4904f1449c72c01e9ac56c5"
+    },
+    "audit/canonical_drug_concept.csv": {
+      "bytes": 173915,
+      "sha256": "563cd5b261930b90d1c682a37d67f8dbc15ac6a99c5b7e869a149eb14a175ec4"
+    },
+    "audit/legacy_anchor_default.csv": {
+      "bytes": 380697,
+      "sha256": "0f43aad11cbb1aedf1e85bddc3e1845671e937b75bb7afdc1a708f6e591c496f"
+    },
+    "audit/legacy_drug_anchor_crosswalk.csv": {
+      "bytes": 407576,
+      "sha256": "fe7e7c23b5441adbaac634b0622d3c13040251e2393d04e5949220230906b404"
+    },
+    "audit/missing_regimen_drug_terms.csv": {
+      "bytes": 11,
+      "sha256": "9aacf6971d65f571c748531077a7ec34f99010cf2def32586c48ae25b0f0dec4"
+    },
+    "audit/rxnorm_surface_resolution.csv": {
+      "bytes": 8258085,
+      "sha256": "280b9fcc2f09c1b4164845960d57926934890f5220c113efa168b517959af0e1"
+    },
+    "outputs/production/Anchor_Drug_Source.csv": {
+      "bytes": 104613,
+      "sha256": "84d260161c014d5ce3d75c1560b5dd1ccec7daf88445c9ce559a698b97c37091"
+    },
+    "outputs/production/Anchor_Drug_Synonym_Source.csv": {
+      "bytes": 307295,
+      "sha256": "cbe967285f4f7161b0903981af47d19be157799b15b904a6c16d46c7213b0e1b"
+    },
+    "outputs/production/Anchor_Drugs.csv": {
+      "bytes": 120376,
+      "sha256": "4a225e5c2bf0557b4b93206f832f00e963a6ea23035b2ffcc4912878ec11ccb4"
+    },
+    "outputs/production/Anchor_Drugs_And_Synonyms.csv": {
+      "bytes": 1162873,
+      "sha256": "c42f89453780896d37a1b8bb8f90799194ac2710764d980e34493298aea8c820"
+    },
+    "outputs/production/Anchor_Drugs_To_Regimens.csv": {
+      "bytes": 62619,
+      "sha256": "c8ad83b432d84553cb5f14318cf11bff10be3c33ce81bfe46cfa5713673727cb"
+    },
+    "outputs/production/Anchor_Regimen.csv": {
+      "bytes": 55582,
+      "sha256": "9bb2ea12ca1cba2b2f668c69ce92ea306801a087d29ea6cb45da05ce58a52f01"
+    },
+    "outputs/production/Clinical_Trials.csv": {
+      "bytes": 16084417,
+      "sha256": "6c75963b61c5b3b674a0a69ae86b2aac83b96375de1981a03c0ec0b3157d77bd"
+    },
+    "outputs/production/Conditions_And_Regimens.csv": {
+      "bytes": 113476,
+      "sha256": "b179b99ab9a0cc320ba44af368e078c120512fb47cc9d1f3214f5140b8ebb09c"
+    },
+    "outputs/production/Data_Sources.csv": {
+      "bytes": 1170,
+      "sha256": "2f49973d800d3ab3045501933b63acc7cd70288db5ed507c32c14a67a5259e65"
+    },
+    "outputs/production/Regimen_Source.csv": {
+      "bytes": 14948,
+      "sha256": "f82e9190d7dcc937f1d1815e616ab6979987fd52476aa5afb9ed33033a3b5167"
+    },
+    "outputs/production/Regimens_And_Synonyms.csv": {
+      "bytes": 156712,
+      "sha256": "3fc7555a35a9c7238abdd73148de758698cafd47e1db20e20aba6fe4feedd047"
+    }
+  },
+  "inputs": {
+    "cache/rxnorm/surface_resolution.csv": {
+      "bytes": 8361942,
+      "sha256": "dbfafee6033e3b605f326f8fce1f4b8b838cc585d3b800e2808f0a68e7c1fdea"
+    },
+    "metadata/build_release.json": {
+      "bytes": 423,
+      "sha256": "cdf6e3231420897e9f3ccee430dbd2cf0d47dd28b386fe3829f6269e11593b09"
+    },
+    "metadata/source_manifest.json": {
+      "bytes": 5313,
+      "sha256": "1892e9e4026c054d491b807a532a02db5011790569c93cb937e43174e598fa51"
+    },
+    "sql/pipeline/01_reconstruct_integrated_staging.sql": {
+      "bytes": 2233,
+      "sha256": "4b08c5282b38f96b5bfff982b26dba37a16e5d898bbef235038923dc58fcf9e6"
+    },
+    "sql/pipeline/02_rxnorm_semantic_validation.sql": {
+      "bytes": 10265,
+      "sha256": "c045b6139594ebd84a4e8866f688f7f92ae9d6d035ce06a7fab609157c67b47e"
+    },
+    "sql/pipeline/03_materialize_production.sql": {
+      "bytes": 9924,
+      "sha256": "635bfe762512e4dc6e84d370be49318e498eed0bd7975912e17c50cd6acabf00"
+    },
+    "sql/reference/drug_combined.sql": {
+      "bytes": 43896,
+      "sha256": "d60117937d35e38a6c5ad64b0caea9053dc30a5a172faeb7819e809f24feb31c"
+    },
+    "sql/reference/production_combined.sql": {
+      "bytes": 8261,
+      "sha256": "acf31f29dfd672d363175bf82c1807894ec75a6e18ddd5b9a37ac25b5c98a270"
+    },
+    "sql/reference/regimen_combined.sql": {
+      "bytes": 14030,
+      "sha256": "c78cde8c144ca4995cbe1f74ade3706e1fde8fb6457ba83a4f3168c1482f29cb"
+    },
+    "work/provisional/integration_manifest.json": {
+      "bytes": 544,
+      "sha256": "71851ebaa52e85c523301f7b087dd8fee58a11eefe4b50eca9924b5462d962b9"
+    },
+    "work/standardized/preprocess_manifest.json": {
+      "bytes": 1239,
+      "sha256": "6ec49640de83bfe0e7ea9f433834e41a2cfbbafc92ee08d024e1dbaba007fbc6"
+    }
+  },
+  "pipeline": "raw source preprocessing -> priority integration -> RxNorm semantic validation -> public materialization",
+  "public_schema_version": 1,
+  "row_counts": {
+    "Anchor_Drug_Source": 15363,
+    "Anchor_Drug_Synonym_Source": 40006,
+    "Anchor_Drugs": 5478,
+    "Anchor_Drugs_And_Synonyms": 31855,
+    "Anchor_Drugs_To_Regimens": 5507,
+    "Anchor_Regimen": 2151,
+    "Clinical_Trials": 265027,
+    "Conditions_And_Regimens": 3361,
+    "Data_Sources": 7,
+    "Regimen_Source": 2302,
+    "Regimens_And_Synonyms": 3215
+  },
+  "rxnorm_api_root": "https://rxnav.nlm.nih.gov/REST",
+  "rxnorm_api_version": "3.1.354",
+  "rxnorm_dataset_version": "03-Aug-2026"
+}

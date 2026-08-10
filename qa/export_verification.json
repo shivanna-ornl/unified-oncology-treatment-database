@@ -1,0 +1,141 @@
+{
+  "checks": [
+    {
+      "check": "exported_public_schema_mismatch",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported CSV header must match the public contract exactly.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_row_count_mismatch",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Exported row counts must match the release manifest.",
+      "status": "PASS"
+    },
+    {
+      "check": "release_hash_mismatch",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every production and audit CSV must match its release SHA-256 hash.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_drug_surface_ambiguity",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "A normalized exported drug synonym must map to one anchor.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_drug_synonym_id_ambiguity",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "An exported drug synonym ID must map to one anchor.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_drug_blank_or_sentinel",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Exported drug synonyms must not be blank or literal-null placeholders.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_drug_synonym_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported drug synonym target must exist.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_anchor_provenance_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported anchor provenance key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_synonym_provenance_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported drug-synonym provenance key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_regimen_surface_ambiguity",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "A normalized exported regimen synonym must map to one regimen.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_regimen_blank_or_sentinel",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Exported regimen synonyms must not be blank or literal-null placeholders.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_regimen_synonym_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported regimen-synonym key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_regimen_source_duplicate",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Exported Regimen_Source rows must be exact-duplicate free.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_regimen_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported regimen provenance key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_regimen_drug_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported regimen-drug key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_condition_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported condition association key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_clinical_trial_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported clinical-trial source key must resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_exact_rxnorm_target_conflict",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "An exact exported RxNorm term must agree with its public IN/MIN anchor.",
+      "status": "PASS"
+    },
+    {
+      "check": "exported_non_in_min_anchor",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every exported canonical drug must be an IN or MIN.",
+      "status": "PASS"
+    }
+  ],
+  "generated_at": "2026-08-10T00:17:03.627189+00:00",
+  "overall_status": "PASS",
+  "verified_hashed_files": 21,
+  "verified_public_tables": 11
+}

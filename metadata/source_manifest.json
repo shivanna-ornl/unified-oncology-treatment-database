@@ -1,0 +1,111 @@
+{
+  "manifest_version": 1,
+  "publication_build": "publication-build-2026-08-09",
+  "inputs": [
+    {
+      "key": "hemonc_zip",
+      "source": "HemOncKB",
+      "release_or_snapshot": "2024-06-20 ontology export; archive assembled 2024-07-10",
+      "expected_filename": "dataverse_files.zip",
+      "sha256": "0d7c3165a8f32c8e862f9bb1dce845af60b3356fa62a2a7764ac61ab75b60bab",
+      "obtain_from": "https://hemonc.org/wiki/HemOncKB",
+      "license_or_access": "Full HemOncKB is available for academic/non-commercial use through HemOnc Dataverse; review the release's CC BY and CC BY-NC-SA terms.",
+      "required": true,
+      "used_members": [
+        "2024-06-20 20-00-29.concept_stage.csv",
+        "2024-06-20 20-00-30.concept_synonym_stage.csv",
+        "Tables/sigs.csv",
+        "Tables/pointer.table.csv"
+      ]
+    },
+    {
+      "key": "canmed_ndc",
+      "source": "CanMED NDC",
+      "release_or_snapshot": "Version 1.24.0; manuscript access date 2024-10-01",
+      "expected_filename": "ndconc_results.csv",
+      "sha256": "908a67ef6fc0726979470d48ddbe473e6863abd26964c4af69d4c37e12789584",
+      "obtain_from": "https://seer.cancer.gov/oncologytoolbox/canmed/",
+      "license_or_access": "US Government work/public domain; verify current SEER terms and citation guidance.",
+      "required": true
+    },
+    {
+      "key": "drugbank_vocabulary",
+      "source": "DrugBank Vocabulary",
+      "release_or_snapshot": "2024 vocabulary export acquired for the manuscript build; the CSV does not encode an internal release number",
+      "expected_filename": "drugbank vocabulary.csv",
+      "sha256": "a2bb327775bd5a8683f67c47c802ac51bfc7fbc8dc8f70bf33db174adea6f856",
+      "obtain_from": "https://go.drugbank.com/releases/latest#open-data",
+      "license_or_access": "Do not redistribute the downloaded file. Obtain access directly from DrugBank and comply with the applicable open-data, academic, or commercial license and citation terms.",
+      "required": true
+    },
+    {
+      "key": "ncit_flat_zip",
+      "source": "NCI Thesaurus",
+      "release_or_snapshot": "24.05d",
+      "expected_filename": "Thesaurus_24.05d.FLAT.zip",
+      "sha256": "5ce9025e841e9cc22c4178029a86231bdda20848881348954e8a66ca43bd440b",
+      "obtain_from": "https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/",
+      "license_or_access": "CC BY 4.0 with NCI attribution; consult the EVS release documentation.",
+      "required": true,
+      "used_member": "Thesaurus_24.05d/Thesaurus.txt"
+    },
+    {
+      "key": "aact_interventions",
+      "source": "AACT",
+      "release_or_snapshot": "2024-07-10 local snapshot",
+      "expected_filename": "interventions.txt",
+      "sha256": "60817f5d90255bd0827932aa06cc2e82a763199f9b5bca867c96cb269ca8f2d8",
+      "obtain_from": "https://aact.ctti-clinicaltrials.org/downloads/snapshots",
+      "license_or_access": "Publicly downloadable AACT/ClinicalTrials.gov data; follow AACT and ClinicalTrials.gov citation guidance.",
+      "required": true
+    },
+    {
+      "key": "aact_intervention_other_names",
+      "source": "AACT",
+      "release_or_snapshot": "2024-07-10 local snapshot",
+      "expected_filename": "intervention_other_names.txt",
+      "sha256": "2baf85cca2cabab3b3711ffcce4b77a58a5d56eda96966c75f376d030e1f0a68",
+      "obtain_from": "https://aact.ctti-clinicaltrials.org/downloads/snapshots",
+      "license_or_access": "Publicly downloadable AACT/ClinicalTrials.gov data; follow AACT and ClinicalTrials.gov citation guidance.",
+      "required": true
+    },
+    {
+      "key": "seer_drugs",
+      "source": "SEER*Rx",
+      "release_or_snapshot": "2024-07-10 downloaded snapshot; the CSV does not encode a formal release number",
+      "expected_filename": "drugs.csv",
+      "sha256": "e2549dd7ecdbd2c0b7287fb8bf1fde6478346085310a79d6095131f96f4c966d",
+      "obtain_from": "https://seer.cancer.gov/seertools/seerrx/",
+      "license_or_access": "US Government/public-domain resource; follow SEER citation guidance.",
+      "required": true
+    },
+    {
+      "key": "seer_regimens",
+      "source": "SEER*Rx",
+      "release_or_snapshot": "2024-07-10 downloaded snapshot; the CSV does not encode a formal release number",
+      "expected_filename": "regimens.csv",
+      "sha256": "1f6abd7593bc7941be4fb30ee5efa0d16e4fbbcbe62f862d108c9855641efa07",
+      "obtain_from": "https://seer.cancer.gov/seertools/seerrx/",
+      "license_or_access": "US Government/public-domain resource; follow SEER citation guidance.",
+      "required": true
+    }
+  ],
+  "api_sources": [
+    {
+      "source": "RxNorm REST API",
+      "dataset_version": "03-Aug-2026",
+      "api_version": "3.1.354",
+      "api_root": "https://rxnav.nlm.nih.gov/REST",
+      "version_endpoint": "https://rxnav.nlm.nih.gov/REST/version.json",
+      "license_or_access": "The RxNorm API exposes NLM's non-proprietary RxNorm vocabulary without a separate API license, subject to the API terms of service. Full downloadable RxNorm/UMLS files require a UMLS license."
+    }
+  ],
+  "optional_inputs": [
+    {
+      "source": "CanMED HCPCS",
+      "expected_filename": "hcpcs_results.csv",
+      "sha256_for_archived_build_copy": "4fec65e608b7d0622d14ce4684d606062eac6c91156c21240d673bbd433a5a78",
+      "status": "Documented but not used by the current NDC-based transformation."
+    }
+  ]
+}

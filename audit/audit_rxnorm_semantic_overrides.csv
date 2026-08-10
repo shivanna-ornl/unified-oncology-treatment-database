@@ -1,0 +1,293 @@
+legacy_anchor_drug_id,legacy_anchor_drug_name,term_kind,legacy_synonym_id,normalized_surface_form,provisional_default_rxcui,provisional_default_name,provisional_default_tty,validated_rxcui,validated_name,validated_tty,rxnorm_mapping_rule,override_class
+2964,abiraterone,synonym,11642,abiraterone acetate,1100072,abiraterone,IN,2645240,abiraterone / niraparib,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+3068,aceon,synonym,53592,perindopril erbumine,54552,perindopril,IN,388499,indapamide / perindopril,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+3086,acetaminophen,synonym,15120,anacin,161,acetaminophen,IN,214250,aspirin / caffeine,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+3242,actimmune,synonym,20273,betaseron,5882,interferon gamma-1b,IN,72257,interferon beta-1b,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+3242,actimmune,synonym,40313,interferon alfa-2b,5882,interferon gamma-1b,IN,5880,interferon alfa-2b,IN,exact_in,incompatible_ingredient_target_reassigned
+3242,actimmune,synonym,40341,interferon beta-1b,5882,interferon gamma-1b,IN,72257,interferon beta-1b,IN,exact_in,incompatible_ingredient_target_reassigned
+3242,actimmune,synonym,57710,recombinant interferon beta-1b,5882,interferon gamma-1b,IN,72257,interferon beta-1b,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+3273,acyclovir,synonym,12491,acv tripeptide,281,acyclovir,IN,1551571,acv tripeptide,IN,exact_in,incompatible_ingredient_target_reassigned
+3489,afatinib,synonym,56980,quizartinib,1430438,afatinib,IN,2643048,quizartinib,IN,exact_in,incompatible_ingredient_target_reassigned
+3489,afatinib,synonym,67398,vanflyta,1430438,afatinib,IN,2643048,quizartinib,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+3519,agalsidase alfa,synonym,14228,alpha-d-galactosidase enzyme,2691830,agalsidase alfa,IN,259351,alpha-d-galactosidase enzyme,IN,exact_in,incompatible_ingredient_target_reassigned
+3649,alcaine,synonym,56029,proparacaine hydrochloride,34905,proparacaine,IN,466457,fluorescein / proparacaine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+3708,alendronate,synonym,13551,alendronic acid,46041,alendronate,IN,1007560,alendronate / cholecalciferol,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+3753,alginic acid,synonym,13598,alginate,17305,alginic acid,IN,1370451,alginate,IN,exact_in,incompatible_ingredient_target_reassigned
+3816,allegra,synonym,33718,fexofenadine hydrochloride,87636,fexofenadine,IN,214565,fexofenadine / pseudoephedrine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+4058,alpha-tocopherol succinate,synonym,65324,"tocopheryl acid succinate,d-alpha",11256,vitamin e,IN,314875,"tocopheryl acid succinate,d-alpha",IN,exact_in,incompatible_ingredient_target_reassigned
+4111,altretamine,synonym,45395,melamine,5296,altretamine,IN,1603851,melamine,IN,exact_in,incompatible_ingredient_target_reassigned
+4111,altretamine,synonym,45827,methenamine,5296,altretamine,IN,6832,methenamine,IN,exact_in,incompatible_ingredient_target_reassigned
+4273,amifostine,synonym,32607,ethanethiol,4126,amifostine,IN,1314352,ethanethiol,IN,exact_in,incompatible_ingredient_target_reassigned
+5478,aponvie,synonym,34299,focinvez,358255,aprepitant,IN,1731071,fosaprepitant,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5478,aponvie,synonym,34424,fosaprepitant,358255,aprepitant,IN,1731071,fosaprepitant,IN,exact_in,incompatible_ingredient_target_reassigned
+5478,aponvie,synonym,34425,fosaprepitant dimeglumine,358255,aprepitant,IN,1731071,fosaprepitant,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+5625,arixtra,synonym,53388,pentaerythritol tetranitrate,321208,fondaparinux,IN,33055,pentaerythritol,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+5744,ascorbic acid,synonym,12129,acetylsalicylate sodium,1151,ascorbic acid,IN,1191,aspirin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+5744,ascorbic acid,synonym,17464,ascorbate,1151,ascorbic acid,IN,1370460,ascorbate,IN,exact_in,incompatible_ingredient_target_reassigned
+5744,ascorbic acid,synonym,17608,aspirin,1151,ascorbic acid,IN,1191,aspirin,IN,exact_in,incompatible_ingredient_target_reassigned
+5744,ascorbic acid,synonym,19286,bayer aspirin,1151,ascorbic acid,IN,1191,aspirin,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5744,ascorbic acid,synonym,31319,ecotrin,1151,ascorbic acid,IN,1191,aspirin,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5744,ascorbic acid,synonym,46002,methyl salicylate 2-ethylbutyrate,1151,ascorbic acid,IN,1921110,methyl salicylate 2-ethylbutyrate,IN,exact_in,incompatible_ingredient_target_reassigned
+5782,asparaginase,synonym,17596,aspartic acid,1156,asparaginase,IN,1169,aspartic acid,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,4427,17-alpha-hydroxyprogesterone,60212,atovaquone,IN,5542,17-alpha-hydroxyprogesterone,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,14102,alora,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,15178,androderm,60212,atovaquone,IN,10379,testosterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,15180,androgel,60212,atovaquone,IN,10379,testosterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,25598,climara,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,26293,combipatch,60212,atovaquone,IN,214551,estradiol / norethindrone,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+5950,atovaquone,synonym,26994,crinone,60212,atovaquone,IN,8727,progesterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,28733,delestrogen,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,28903,depo-estradiol,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,28910,depo-testosterone,60212,atovaquone,IN,10379,testosterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,30184,divigel,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,32430,estrace,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,32434,estradiol,60212,atovaquone,IN,4083,estradiol,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,32439,estradiol cypionate,60212,atovaquone,IN,636632,estradiol / medroxyprogesterone,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+5950,atovaquone,synonym,32463,estring,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,32474,estrogel,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,32493,estrone,60212,atovaquone,IN,4103,estrone,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,34415,fortesta,60212,atovaquone,IN,10379,testosterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,35363,genesis,60212,atovaquone,IN,10759,triamcinolone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,45461,menest,60212,atovaquone,IN,214549,"estrogens, esterified (usp)",IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,45857,methitest,60212,atovaquone,IN,6904,methyltestosterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,46134,methyltestosterone,60212,atovaquone,IN,6904,methyltestosterone,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,55659,premarin,60212,atovaquone,IN,4099,"estrogens, conjugated (usp)",IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,55896,progesterone,60212,atovaquone,IN,8727,progesterone,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,55965,prometrium,60212,atovaquone,IN,8727,progesterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,63302,"synthetic conjugated estrogens, a",60212,atovaquone,IN,253166,"synthetic conjugated estrogens, a",IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,64214,testopel,60212,atovaquone,IN,10379,testosterone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,64219,testosterone,60212,atovaquone,IN,10379,testosterone,IN,exact_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,64229,testosterone cypionate,60212,atovaquone,IN,10379,testosterone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,64230,testosterone enanthate,60212,atovaquone,IN,10379,testosterone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,67329,vagifem,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5950,atovaquone,synonym,67956,vivelle,60212,atovaquone,IN,4083,estradiol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+5971,atripla,synonym,62698,stribild,1007761,efavirenz / emtricitabine / tenofovir disoproxil,MIN,1306291,cobicistat / elvitegravir / emtricitabine / tenofovir disoproxil,MIN,bn_to_unique_min,incompatible_ingredient_target_reassigned
+5982,atrovent,synonym,40691,ipratropium bromide,7213,ipratropium,IN,214199,albuterol / ipratropium,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+5985,attapulgite,synonym,12469,activated attapulgite,18516,attapulgite,IN,133050,activated attapulgite,IN,exact_in,incompatible_ingredient_target_reassigned
+6452,azilsartan medoxomil,synonym,18729,azilsartan,1235143,azilsartan / chlorthalidone,MIN,1091643,azilsartan,IN,exact_in,multi_anchor_component_to_single_ingredient_target
+6452,azilsartan medoxomil,synonym,31338,edarbi,1235143,azilsartan / chlorthalidone,MIN,1091643,azilsartan,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+6562,bactrim,synonym,66162,trimethoprim,10831,sulfamethoxazole / trimethoprim,MIN,10829,trimethoprim,IN,exact_in,multi_anchor_component_to_single_ingredient_target
+6666,barley malt syrup,synonym,44786,malt extract,1306883,barley malt syrup,IN,235375,malt extract,IN,exact_in,incompatible_ingredient_target_reassigned
+6795,beclomethasone dipropionate,synonym,19540,beconase,2747290,beclomethasone / formoterol / glycopyrronium,MIN,1347,beclomethasone,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+6832,belantamab mafodotin,synonym,19567,belantamab,2387834,belantamab mafodotin,IN,2387844,belantamab,IN,exact_in,incompatible_ingredient_target_reassigned
+6880,benadryl,synonym,22464,caladryl,3498,diphenhydramine,IN,804304,calamine / pramoxine,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+6880,benadryl,synonym,67056,unisom,3498,diphenhydramine,IN,3642,doxylamine,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+7444,biotin,synonym,27988,d-biotin,1588,biotin,IN,314583,d-biotin,IN,exact_in,incompatible_ingredient_target_reassigned
+7522,bismuth subcarbonate,synonym,20780,bismuth carbonate,19475,bismuth subcarbonate,IN,19469,bismuth carbonate,IN,exact_in,incompatible_ingredient_target_reassigned
+7780,bosentan,synonym,21436,bosentan monohydrate,75207,bosentan,IN,498193,bosentan monohydrate,IN,exact_in,incompatible_ingredient_target_reassigned
+8337,cadmium,synonym,28369,daraprim,1362694,cadmium,IN,9010,pyrimethamine,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+8337,cadmium,synonym,56700,pyrimethamine,1362694,cadmium,IN,9010,pyrimethamine,IN,exact_in,incompatible_ingredient_target_reassigned
+8397,calcium gluconate,synonym,35674,gluconic acid,1908,calcium gluconate,IN,70599,gluconate,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+8423,calcium saccharate,synonym,22564,calcium glucarate,236693,calcium saccharate,IN,1907,calcium glucarate,IN,exact_in,incompatible_ingredient_target_reassigned
+8487,camphor,synonym,22697,camphor oil,1952,camphor,IN,2101501,camphor / capsicum oleoresin / menthol / methyl salicylate,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+8553,canrenoic acid,synonym,22803,canrenoate,81971,canrenoic acid,IN,618970,canrenoate,IN,exact_in,incompatible_ingredient_target_reassigned
+8681,carbomer,synonym,23122,carboxypolymethylene,235535,carbomer,IN,20298,carboxypolymethylene,IN,exact_in,incompatible_ingredient_target_reassigned
+8685,carbomer homopolymer type c,synonym,23037,carbomer-940,1305738,carbomer homopolymer type c,IN,1362909,carbomer-940,IN,exact_in,incompatible_ingredient_target_reassigned
+8902,catapres,synonym,25701,clonidine hydrochloride,2599,clonidine,IN,214418,chlorthalidone / clonidine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+9049,cedar leaf oil,synonym,41481,juniperus virginiana oil,1309217,cedar leaf oil,IN,1307948,juniperus virginiana oil,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23865,cefaclor,25033,cefixime,IN,2176,cefaclor,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23866,cefaclor anhydrous,25033,cefixime,IN,2176,cefaclor,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23869,cefadroxil,25033,cefixime,IN,2177,cefadroxil,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23870,cefadroxil anhydrous,25033,cefixime,IN,2177,cefadroxil,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23893,cefamandole,25033,cefixime,IN,2178,cefamandole,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23894,cefamandole nafate,25033,cefixime,IN,2178,cefamandole,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23905,cefazolin,25033,cefixime,IN,2180,cefazolin,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23906,cefazolin sodium,25033,cefixime,IN,2180,cefazolin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23912,cefdinir,25033,cefixime,IN,25037,cefdinir,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23914,cefditoren,25033,cefixime,IN,83682,cefditoren,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23917,cefepime,25033,cefixime,IN,20481,cefepime,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23936,cefonicid,25033,cefixime,IN,2183,cefonicid,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23939,cefoperazone,25033,cefixime,IN,2184,cefoperazone,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23940,cefoperazone sodium,25033,cefixime,IN,2184,cefoperazone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23945,cefotan,25033,cefixime,IN,2187,cefotetan,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23948,cefotaxime,25033,cefixime,IN,2186,cefotaxime,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23950,cefotetan,25033,cefixime,IN,2187,cefotetan,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23951,cefotetan disodium,25033,cefixime,IN,2187,cefotetan,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23954,cefoxitin,25033,cefixime,IN,2189,cefoxitin,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23965,cefpodoxime,25033,cefixime,IN,20489,cefpodoxime,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23967,cefprozil,25033,cefixime,IN,19552,cefprozil,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23968,cefprozil anhydrous,25033,cefixime,IN,19552,cefprozil,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23983,ceftazidime,25033,cefixime,IN,2191,ceftazidime,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23984,ceftazidime anhydrous,25033,cefixime,IN,2191,ceftazidime,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23990,ceftibuten,25033,cefixime,IN,20492,ceftibuten,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23991,ceftibuten dihydrate,25033,cefixime,IN,20492,ceftibuten,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23998,ceftizoxime,25033,cefixime,IN,2192,ceftizoxime,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,23999,ceftizoxime sodium,25033,cefixime,IN,2192,ceftizoxime,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24009,ceftriaxone,25033,cefixime,IN,2193,ceftriaxone,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24010,ceftriaxone sodium,25033,cefixime,IN,2193,ceftriaxone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24015,cefuroxime,25033,cefixime,IN,2194,cefuroxime,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24016,cefuroxime sodium,25033,cefixime,IN,2194,cefuroxime,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24151,cephalexin,25033,cefixime,IN,2231,cephalexin,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24152,cephalexin anhydrous,25033,cefixime,IN,2231,cephalexin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24153,cephalexin hydrochloride,25033,cefixime,IN,2231,cephalexin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24167,cephalothin,25033,cefixime,IN,2236,cephalothin,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24172,cephapirin,25033,cefixime,IN,2238,cephapirin,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24173,cephapirin sodium,25033,cefixime,IN,2238,cephapirin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,24184,cephradine,25033,cefixime,IN,2239,cephradine,IN,exact_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,25518,claforan,25033,cefixime,IN,2186,cefotaxime,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,34414,fortaz,25033,cefixime,IN,2191,ceftazidime,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,41662,keflex,25033,cefixime,IN,2231,cephalexin,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+9083,cefixime,synonym,63778,tazicef,25033,cefixime,IN,2191,ceftazidime,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+9117,ceftaroline fosamil,synonym,23977,ceftaroline,1040004,ceftaroline fosamil,IN,1040005,ceftaroline,IN,exact_in,incompatible_ingredient_target_reassigned
+9153,cellcept,synonym,47869,mycophenolate,68149,mycophenolate mofetil,IN,265323,mycophenolate,IN,exact_in,incompatible_ingredient_target_reassigned
+9153,cellcept,synonym,47871,mycophenolic acid,68149,mycophenolate mofetil,IN,7145,mycophenolic acid,IN,exact_in,incompatible_ingredient_target_reassigned
+9513,cholecalciferol,synonym,67897,vitamin d,2418,cholecalciferol,IN,11253,vitamin d,IN,exact_in,incompatible_ingredient_target_reassigned
+9513,cholecalciferol,synonym,67903,vitamin d3,2418,cholecalciferol,IN,1244014,vitamin d3,IN,exact_in,incompatible_ingredient_target_reassigned
+9676,cimetidine,synonym,35114,gaviscon,2541,cimetidine,IN,1029441,aluminum hydroxide / magnesium carbonate,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+9676,cimetidine,synonym,36504,guanidine,2541,cimetidine,IN,50675,guanidine,IN,exact_in,incompatible_ingredient_target_reassigned
+9807,cisplatin,synonym,54812,platinum,2555,cisplatin,IN,1311280,platinum,IN,exact_in,incompatible_ingredient_target_reassigned
+10220,codeine,synonym,26137,codeine polistirex,2670,codeine,IN,605998,chlorpheniramine / codeine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+10280,collagenase clostridium histolyticum,synonym,26257,collagenase,898492,collagenase clostridium histolyticum,IN,58939,collagenase,IN,exact_in,incompatible_ingredient_target_reassigned
+10280,collagenase clostridium histolyticum,synonym,26260,collagenase topical ointment,898492,collagenase clostridium histolyticum,IN,58939,collagenase,IN,scdf_to_unique_in,incompatible_ingredient_target_reassigned
+10280,collagenase clostridium histolyticum,synonym,59894,santyl,898492,collagenase clostridium histolyticum,IN,58939,collagenase,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,11738,absorbine,5492,hydrocortisone,IN,6750,menthol,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,20253,betamethasone,5492,hydrocortisone,IN,1514,betamethasone,IN,exact_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,20258,betamethasone benzoate,5492,hydrocortisone,IN,1514,betamethasone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,20260,betamethasone dipropionate,5492,hydrocortisone,IN,690419,betamethasone / calcipotriene,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+10433,cortef,synonym,20261,betamethasone sodium phosphate,5492,hydrocortisone,IN,1514,betamethasone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,20262,betamethasone valerate,5492,hydrocortisone,IN,1514,betamethasone,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,25837,clotrimazole,5492,hydrocortisone,IN,2623,clotrimazole,IN,exact_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,28715,del-beta,5492,hydrocortisone,IN,1514,betamethasone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,28973,desenex,5492,hydrocortisone,IN,6932,miconazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,30068,diprolene,5492,hydrocortisone,IN,1514,betamethasone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,32026,epifoam,5492,hydrocortisone,IN,106955,hydrocortisone / pramoxine,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+10433,cortef,synonym,34667,fungoid,5492,hydrocortisone,IN,6932,miconazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,43845,lotrimin,5492,hydrocortisone,IN,2623,clotrimazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,44125,luxiq,5492,hydrocortisone,IN,1514,betamethasone,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,46366,micatin,5492,hydrocortisone,IN,6932,miconazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,46377,miconazole,5492,hydrocortisone,IN,6932,miconazole,IN,exact_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,47111,monistat,5492,hydrocortisone,IN,6932,miconazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,51577,ony-clear,5492,hydrocortisone,IN,6932,miconazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,51669,orabase,5492,hydrocortisone,IN,1399,benzocaine,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,65038,tinactin,5492,hydrocortisone,IN,10637,tolnaftate,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+10433,cortef,synonym,65380,tolnaftate,5492,hydrocortisone,IN,10637,tolnaftate,IN,exact_in,incompatible_ingredient_target_reassigned
+10659,cromolyn sodium,synonym,49377,nasalcrom,812238,cromolyn / xylometazoline,MIN,42612,cromolyn,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+10752,cupric chloride,synonym,26537,copper chloride,21833,cupric chloride,IN,150596,copper chloride,IN,exact_in,incompatible_ingredient_target_reassigned
+10754,cupric oxide,synonym,27340,cuprous oxide,21837,cupric oxide,IN,21842,cuprous oxide,IN,exact_in,incompatible_ingredient_target_reassigned
+11229,daratumumab,synonym,28377,daratumumab-fihj,1721947,daratumumab,IN,2372199,daratumumab / hyaluronidase,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+11546,demerol,synonym,45542,meperidine hydrochloride,6754,meperidine,IN,214699,meperidine / promethazine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+11702,desoxycorticosterone acetate,synonym,29040,desoxyn,3256,desoxycorticosterone,IN,6816,methamphetamine,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+11702,desoxycorticosterone acetate,synonym,45783,methamphetamine hydrochloride,3256,desoxycorticosterone,IN,6816,methamphetamine,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+11877,dexedrine,synonym,29151,dextroamphetamine sulfate,3288,dextroamphetamine,IN,822929,amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+12028,diatrizoate,synonym,29348,diatrizoic acid,3319,diatrizoate,IN,1546223,diatrizoic acid,IN,exact_in,incompatible_ingredient_target_reassigned
+12038,diazolidinylurea,synonym,48242,"n-(1,3-bis(hydroxymethyl)-2,5-dioxo-4-imidazolidinyl)-n,n'-bis(hydroxymethyl)urea",1310602,diazolidinylurea,IN,1990423,"n-(1,3-bis(hydroxymethyl)-2,5-dioxo-4-imidazolidinyl)-n,n'-bis(hydroxymethyl)urea",IN,exact_in,incompatible_ingredient_target_reassigned
+12159,diethyl sulfate,synonym,32769,ethyl sulfate,1428869,diethyl sulfate,IN,1665664,ethyl sulfate,IN,exact_in,incompatible_ingredient_target_reassigned
+12170,diethylstilbestrol,synonym,34437,fosfestrol,3390,diethylstilbestrol,IN,25284,fosfestrol,IN,exact_in,incompatible_ingredient_target_reassigned
+12283,dilantin,synonym,54135,phenytoin sodium,8183,phenytoin,IN,1100448,pentobarbital / phenytoin,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+12458,dipropylene glycol,synonym,2640,"1,1'-oxybis(2-propanol)",1368869,dipropylene glycol,IN,1798386,"1,1'-oxybis(2-propanol)",IN,exact_in,incompatible_ingredient_target_reassigned
+12823,dronabinol,synonym,22786,cannabinol,10402,dronabinol,IN,1976,cannabinol,IN,exact_in,incompatible_ingredient_target_reassigned
+12845,droxia,synonym,67105,urea,5552,hydroxyurea,IN,11002,urea,IN,exact_in,incompatible_ingredient_target_reassigned
+12903,duramorph,synonym,47320,morphine sulfate,7052,morphine,IN,866331,morphine / naltrexone,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+13050,edetic acid,synonym,32806,ethylenediaminetetraacetate,3755,edetic acid,IN,1370600,ethylenediaminetetraacetate,IN,exact_in,incompatible_ingredient_target_reassigned
+13509,engerix-b,synonym,37100,hepatitis b virus subtype adw2 hbsag surface protein antigen,797752,hepatitis b surface antigen vaccine,IN,1427171,hepatitis b virus subtype adw2 hbsag surface protein antigen,IN,exact_in,incompatible_ingredient_target_reassigned
+13589,entecavir,synonym,32899,etravirine,306266,entecavir,IN,475969,etravirine,IN,exact_in,incompatible_ingredient_target_reassigned
+13589,entecavir,synonym,40308,intelence,306266,entecavir,IN,475969,etravirine,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+13669,epicriptine,synonym,29667,dihydro-beta-ergocryptine,1546422,epicriptine,IN,91171,dihydro-beta-ergocryptine,IN,exact_in,incompatible_ingredient_target_reassigned
+13713,epoetin alfa,synonym,32084,epoetin beta,105694,epoetin alfa,IN,105695,epoetin beta,IN,exact_in,incompatible_ingredient_target_reassigned
+14303,evening primrose oil,synonym,51152,oenothera biennis seed extract,203219,evening primrose oil,IN,1437503,oenothera biennis seed extract,IN,exact_in,incompatible_ingredient_target_reassigned
+14726,ferric carboxymaltose,synonym,34443,fosfomycin,1433693,ferric carboxymaltose,IN,4550,fosfomycin,IN,exact_in,incompatible_ingredient_target_reassigned
+14829,fibrinolysis inhibitor,synonym,17003,aprotinin,353110,fibrinolysis inhibitor,IN,1056,aprotinin,IN,exact_in,incompatible_ingredient_target_reassigned
+15026,fluclorolone acetonide,synonym,34012,flucloronide,108091,fluclorolone,IN,190410,flucloronide,IN,exact_in,incompatible_ingredient_target_reassigned
+15162,fluorometholone,synonym,34160,fluorometholone acetate,4491,fluorometholone,IN,465678,fluorometholone / tobramycin,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+15286,folic acid,synonym,34308,folate,4511,folic acid,IN,62356,folate,IN,exact_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,34721,fusilev,4511,folic acid,IN,877015,levoleucovorin,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,41756,khapzory,4511,folic acid,IN,877015,levoleucovorin,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,43110,leucovorin,4511,folic acid,IN,6313,leucovorin,IN,exact_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,43111,leucovorin calcium,4511,folic acid,IN,6313,leucovorin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,43204,levoleucovorin,4511,folic acid,IN,877015,levoleucovorin,IN,exact_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,43205,levoleucovorin calcium,4511,folic acid,IN,877015,levoleucovorin,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+15286,folic acid,synonym,43206,levoleucovorin injection,4511,folic acid,IN,877015,levoleucovorin,IN,scdf_to_unique_in,incompatible_ingredient_target_reassigned
+15330,formaldehyde,synonym,34380,formalin,4530,formaldehyde,IN,314636,formalin,IN,exact_in,incompatible_ingredient_target_reassigned
+16164,glyceryl laurate,synonym,35793,glyceryl monolaurate,1311693,glyceryl laurate,IN,314647,glyceryl monolaurate,IN,exact_in,incompatible_ingredient_target_reassigned
+16548,halobetasol propionate,synonym,66998,ultravate,2166088,halobetasol / tazarotene,MIN,41208,halobetasol,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+16844,hiprex,synonym,45829,methenamine mandelate,6832,methenamine,IN,1007892,"methenamine / sodium phosphate, monobasic",MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+16896,homatropine methylbromide,synonym,46085,methylhomatropine,214614,homatropine / hydrocodone,MIN,1546413,methylhomatropine,IN,exact_in,multi_anchor_component_to_single_ingredient_target
+17106,hyaluronidase,synonym,38455,hyaluronidase-fihj,5464,hyaluronidase,IN,2372199,daratumumab / hyaluronidase,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+17106,hyaluronidase,synonym,38456,hyaluronidase-zzxf,5464,hyaluronidase,IN,2382603,hyaluronidase / pertuzumab / trastuzumab,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+17163,hydrogenated soybean lecithin,synonym,38567,hydrogenated soybean phosphatidylcholine,1426418,hydrogenated soybean lecithin,IN,2392131,hydrogenated soybean phosphatidylcholine,IN,exact_in,incompatible_ingredient_target_reassigned
+17266,hypromellose,synonym,38680,hydroxypropyl methylcellulose 2208,27334,hypromellose,IN,1363585,hydroxypropyl methylcellulose 2208,IN,exact_in,incompatible_ingredient_target_reassigned
+17266,hypromellose,synonym,38682,hydroxypropyl methylcellulose 2910,27334,hypromellose,IN,1363586,hydroxypropyl methylcellulose 2910,IN,exact_in,incompatible_ingredient_target_reassigned
+18382,iothalamic acid,synonym,40621,iothalamate,1546451,iothalamic acid,IN,5970,iothalamate,IN,exact_in,incompatible_ingredient_target_reassigned
+18487,iron sucrose,synonym,62808,sucroferric oxyhydroxide,24909,iron sucrose,IN,1484283,sucroferric oxyhydroxide,IN,exact_in,incompatible_ingredient_target_reassigned
+18871,kanamycin,synonym,41569,kanamycin a,6099,kanamycin,IN,1727573,kanamycin a,IN,exact_in,incompatible_ingredient_target_reassigned
+18879,karaya gum,synonym,41591,karaya gum allergenic extract,6111,karaya gum,IN,904554,karaya gum allergenic extract,IN,exact_in,incompatible_ingredient_target_reassigned
+18879,karaya gum,synonym,41592,karaya gum extract,6111,karaya gum,IN,852617,karaya gum extract,IN,exact_in,incompatible_ingredient_target_reassigned
+19252,lanolin,synonym,42781,lanolin oil,6227,lanolin,IN,1309249,lanolin oil,IN,exact_in,incompatible_ingredient_target_reassigned
+19360,lavender oil,synonym,31848,english lavender oil,28486,lavender oil,IN,2168411,english lavender oil,IN,exact_in,incompatible_ingredient_target_reassigned
+19611,levocarnitine,synonym,23188,carnitine,42955,levocarnitine,IN,2106,carnitine,IN,exact_in,incompatible_ingredient_target_reassigned
+19660,levothyroxine,synonym,27799,cytomel,10582,levothyroxine,IN,10814,liothyronine,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+19660,levothyroxine,synonym,43249,levothyroxine sodium,10582,levothyroxine,IN,465675,levothyroxine / liothyronine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+19660,levothyroxine,synonym,43441,liothyronine sodium,10582,levothyroxine,IN,465675,levothyroxine / liothyronine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+19660,levothyroxine,synonym,64874,thyroglobulin,10582,levothyroxine,IN,10565,thyroglobulin,IN,exact_in,incompatible_ingredient_target_reassigned
+19660,levothyroxine,synonym,64892,thyrolar,10582,levothyroxine,IN,465675,levothyroxine / liothyronine,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+19660,levothyroxine,synonym,66707,tyrosine,10582,levothyroxine,IN,10962,tyrosine,IN,exact_in,incompatible_ingredient_target_reassigned
+19719,lidocaine,synonym,17371,articaine hydrochloride,6387,lidocaine,IN,284622,articaine / epinephrine,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+19719,lidocaine,synonym,18958,bactine,6387,lidocaine,IN,690077,benzalkonium / lidocaine,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+19719,lidocaine,synonym,60613,septocaine,6387,lidocaine,IN,284622,articaine / epinephrine,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+19877,lithium carbonate,synonym,43558,lithium citrate,42351,lithium carbonate,IN,52105,lithium citrate,IN,exact_in,incompatible_ingredient_target_reassigned
+19981,lomotil,synonym,47353,motofen,594040,atropine / diphenoxylate,MIN,214261,atropine / difenoxin,MIN,bn_to_unique_min,incompatible_ingredient_target_reassigned
+20453,malathion,synonym,62785,succinic acid,6606,malathion,IN,37255,succinic acid,IN,exact_in,incompatible_ingredient_target_reassigned
+20544,maritime pine extract,synonym,54502,pine bark extract,1368708,maritime pine extract,IN,259276,pine bark extract,IN,exact_in,incompatible_ingredient_target_reassigned
+20707,meclofenamic acid,synonym,45240,meclofenamate,6678,meclofenamic acid,IN,588003,meclofenamate,IN,exact_in,incompatible_ingredient_target_reassigned
+20764,medronic acid,synonym,46058,methylene diphosphonate,1358207,medronate,IN,29844,methylene diphosphonate,IN,exact_in,incompatible_ingredient_target_reassigned
+20862,memantine hydrochloride,synonym,49261,namenda,1430990,donepezil / memantine,MIN,6719,memantine,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+20894,menthol,synonym,57215,racementhol,6750,menthol,IN,1430390,racementhol,IN,exact_in,incompatible_ingredient_target_reassigned
+21444,microcrystalline cellulose,synonym,24051,cellulose,1000577,microcrystalline cellulose,IN,2221,cellulose,IN,exact_in,incompatible_ingredient_target_reassigned
+21573,mineral oil,synonym,36979,heavy mineral oil,6972,mineral oil,IN,258439,heavy mineral oil,IN,exact_in,incompatible_ingredient_target_reassigned
+23202,nembutal,synonym,53435,pentobarbital sodium,8004,pentobarbital,IN,1100448,pentobarbital / phenytoin,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+23574,nitrofurantoin,synonym,44626,macrobid,7454,nitrofurantoin,IN,466542,"nitrofurantoin, macrocrystals / nitrofurantoin, monohydrate",MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+23574,nitrofurantoin,synonym,50081,"nitrofurantoin, macrocrystals",7454,nitrofurantoin,IN,466542,"nitrofurantoin, macrocrystals / nitrofurantoin, monohydrate",MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+24039,odesivimab,synonym,51131,odesivimab-ebgn,2461340,odesivimab,IN,2461538,atoltivimab / maftivimab / odesivimab,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+24131,olopatadine hydrochloride,synonym,52870,pataday,2591802,mometasone / olopatadine,MIN,135391,olopatadine,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+24131,olopatadine hydrochloride,synonym,52871,patanase,2591802,mometasone / olopatadine,MIN,135391,olopatadine,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+24347,oprelvekin,synonym,40380,interleukin-11,139994,oprelvekin,IN,1311380,interleukin-11,IN,exact_in,incompatible_ingredient_target_reassigned
+24714,oxymetholone,synonym,30769,dromostanolone,7813,oxymetholone,IN,23678,dromostanolone,IN,exact_in,incompatible_ingredient_target_reassigned
+24883,palmidrol,synonym,54672,pisum sativum (pea) extract,2001986,palmidrol,IN,1426912,pisum sativum (pea) extract,IN,exact_in,incompatible_ingredient_target_reassigned
+24887,palmitoyl oligopeptide,synonym,52543,palmitoyl tripeptide-1,1314373,palmitoyl oligopeptide,IN,1722914,palmitoyl tripeptide-1,IN,exact_in,incompatible_ingredient_target_reassigned
+24967,pantothenic acid,synonym,52696,pantothenate,7891,pantothenic acid,IN,62400,pantothenate,IN,exact_in,incompatible_ingredient_target_reassigned
+25194,pedmark,synonym,67622,versiclear,1546411,thiosulfate,IN,2618732,salicylic acid / thiosulfate,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+25501,permethrin,synonym,58495,rid,33199,permethrin,IN,91299,piperonyl butoxide / pyrethrins,MIN,bn_to_unique_min,single_anchor_to_multi_ingredient_target
+25517,pertussis vaccine,synonym,21372,bordetella pertussis,8080,pertussis vaccine,IN,1608803,bordetella pertussis,IN,exact_in,incompatible_ingredient_target_reassigned
+25670,phenergan,synonym,53974,phendimetrazine tartrate,8745,promethazine,IN,33272,phendimetrazine,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+25698,phenolphthalein,synonym,68906,yellow phenolphthalein,155122,phenolphthalein,IN,314784,yellow phenolphthalein,IN,exact_in,incompatible_ingredient_target_reassigned
+26036,piperazine,synonym,28726,delavirdine mesylate,8340,piperazine,IN,83816,delavirdine,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+26195,plantago seed,synonym,56398,psyllium,82088,plantago seed,IN,8928,psyllium,IN,exact_in,incompatible_ingredient_target_reassigned
+26426,polysorbate 60,synonym,53212,peg-60 sorbitan stearate,1368867,polysorbate 60,IN,1487142,peg-60 sorbitan stearate,IN,exact_in,incompatible_ingredient_target_reassigned
+26545,povidone k30,synonym,55389,povidone k29-32,8610,povidone,IN,1305758,povidone k29-32,IN,exact_in,incompatible_ingredient_target_reassigned
+26589,pralidoxime chloride,synonym,56224,protopam,465370,atropine / pralidoxime,MIN,34345,pralidoxime,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+26870,proguanil,synonym,55909,proguanil hydrochloride,2382,proguanil,IN,284623,atovaquone / proguanil,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+26959,propylene glycol monopalmitostearate,synonym,56085,propylene glycol monostearate,1427010,propylene glycol monopalmitostearate,IN,1314411,propylene glycol monostearate,IN,exact_in,incompatible_ingredient_target_reassigned
+27192,pyrethrum extract,synonym,56630,pyrethrins,1232405,pyrethrum extract,IN,8991,pyrethrins,IN,exact_in,incompatible_ingredient_target_reassigned
+27205,pyridoxine,synonym,67885,vitamin b6,684879,pyridoxine,IN,42954,vitamin b6,IN,exact_in,incompatible_ingredient_target_reassigned
+27283,quadramet,synonym,59828,samarium sm 153 lexidronam,9549,samarium,IN,177906,samarium sm 153 lexidronam,IN,exact_in,incompatible_ingredient_target_reassigned
+27283,quadramet,synonym,59835,samarium sm-153 lexidronam pentasodium,9549,samarium,IN,177906,samarium sm 153 lexidronam,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+27365,quinidine,synonym,56940,quinate,9068,quinidine,IN,1427233,quinate,IN,exact_in,incompatible_ingredient_target_reassigned
+27431,rabeprazole,synonym,25672,clofezone,114979,rabeprazole,IN,183877,clofezone,IN,exact_in,incompatible_ingredient_target_reassigned
+28126,risedronate,synonym,58584,risedronic acid,73056,risedronate,IN,55685,risedronic acid,IN,exact_in,incompatible_ingredient_target_reassigned
+28653,salmon calcitonin,synonym,22499,calcitonin,36118,salmon calcitonin,IN,1311287,calcitonin,IN,exact_in,incompatible_ingredient_target_reassigned
+29185,silicon dioxide,synonym,29343,diatomaceous earth,9771,silicon dioxide,IN,1362874,diatomaceous earth,IN,exact_in,incompatible_ingredient_target_reassigned
+29185,silicon dioxide,synonym,61093,"silicon dioxide, colloidal",9771,silicon dioxide,IN,314826,"silicon dioxide, colloidal",IN,exact_in,incompatible_ingredient_target_reassigned
+29195,silodrate,synonym,61143,simaldrate,1373351,silodrate,IN,236730,simaldrate,IN,exact_in,incompatible_ingredient_target_reassigned
+29411,sodium bisulfite,synonym,61671,sodium hydrogen sulfite,36679,sodium bisulfite,IN,1366859,hydrogen sulfite,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+29427,sodium citrate,synonym,66272,trisodium citrate anhydrous,56466,sodium citrate,IN,114200,citrate,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+29467,sodium oxybate,synonym,68836,xyrem,2393796,calcium oxybate / magnesium oxybate / potassium oxybate / sodium oxybate,MIN,2387302,oxybate,IN,bn_to_unique_in,multi_anchor_component_to_single_ingredient_target
+29491,sodium pyroglutamate,synonym,61750,sodium pyrrolidone carboxylate,155060,pyroglutamate,IN,1370623,pyrrolidone carboxylate,IN,pin_to_unique_in,incompatible_ingredient_target_reassigned
+29620,sorbitan,synonym,3062,"1,4-sorbitan",1367146,sorbitan,IN,1307571,"1,4-sorbitan",IN,exact_in,incompatible_ingredient_target_reassigned
+29656,soybean oil,synonym,61984,soybean seed oil,9949,soybean oil,IN,1309980,soybean seed oil,IN,exact_in,incompatible_ingredient_target_reassigned
+29807,"starch, tapioca",synonym,63658,tapioca starch allergenic extract,2619252,"starch, tapioca",IN,901346,tapioca starch allergenic extract,IN,exact_in,incompatible_ingredient_target_reassigned
+30174,sulopenem,synonym,63015,sulopenem etzadroxil,2717833,sulopenem,IN,2717836,probenecid / sulopenem,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+31205,thiocolchicoside,synonym,66043,triclocarban,38085,thiocolchicoside,IN,38609,triclocarban,IN,exact_in,incompatible_ingredient_target_reassigned
+31228,thiosalicylic acid,synonym,64743,thiosalicylate,322165,thiosalicylic acid,IN,91099,thiosalicylate,IN,exact_in,incompatible_ingredient_target_reassigned
+31299,thyrotropin alfa,synonym,64903,thyrotropin-releasing hormone,4952,thyrotropin alfa,IN,10580,thyrotropin-releasing hormone,IN,exact_in,incompatible_ingredient_target_reassigned
+31373,tigan,synonym,66160,trimethobenzamide hydrochloride,38685,trimethobenzamide,IN,214301,benzocaine / trimethobenzamide,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+31427,tiludronic acid,synonym,65005,tiludronate,11476,tiludronic acid,IN,57230,tiludronate,IN,exact_in,incompatible_ingredient_target_reassigned
+31470,tioconazole,synonym,67331,vagistat,38298,tioconazole,IN,6932,miconazole,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+31616,tocopherol,synonym,14120,alpha tocopherol,1236136,tocopherol,IN,237099,alpha tocopherol,IN,exact_in,incompatible_ingredient_target_reassigned
+31616,tocopherol,synonym,17037,aquasol e,1236136,tocopherol,IN,11256,vitamin e,IN,bn_to_unique_in,incompatible_ingredient_target_reassigned
+31616,tocopherol,synonym,67904,vitamin e,1236136,tocopherol,IN,11256,vitamin e,IN,exact_in,incompatible_ingredient_target_reassigned
+31836,tragacanth,synonym,65680,tragacanth allergenic extract,1368197,tragacanth,IN,1232630,tragacanth allergenic extract,IN,exact_in,incompatible_ingredient_target_reassigned
+32355,tulathromycin a,synonym,66555,tulathromycin,1437806,tulathromycin a,IN,1309314,tulathromycin,IN,exact_in,incompatible_ingredient_target_reassigned
+32788,valtrex,synonym,67362,valine,73645,valacyclovir,IN,11115,valine,IN,exact_in,incompatible_ingredient_target_reassigned
+32954,verapamil,synonym,67600,verapamil hydrochloride,11170,verapamil,IN,214866,trandolapril / verapamil,MIN,pin_to_unique_min,single_anchor_to_multi_ingredient_target
+33161,vitamin a,synonym,13687,all-trans-retinol,11246,vitamin a,IN,1367187,all-trans-retinol,IN,exact_in,incompatible_ingredient_target_reassigned
+33786,zinc,synonym,69298,"zinc, chelated",11416,zinc,IN,253210,"zinc, chelated",IN,exact_in,incompatible_ingredient_target_reassigned

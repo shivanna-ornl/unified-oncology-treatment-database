@@ -1,0 +1,11 @@
+The MIT License applies to repository code and documentation only.
+
+Source datasets and their contents remain subject to their respective terms,
+including HemOnc release terms, DrugBank access/license conditions, UMLS/RxNorm
+terms where applicable, NCI attribution requirements, and source-specific
+citation guidance. This repository intentionally excludes raw source files.
+
+Generated production and audit artifacts are derived from multiple sources.
+Before redistribution, users must determine whether their planned use is
+permitted by every applicable upstream license and agreement.
+

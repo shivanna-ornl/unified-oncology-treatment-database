@@ -1,0 +1,321 @@
+{
+  "canonical_tty_counts": {
+    "IN": 5307,
+    "MIN": 171
+  },
+  "checks": [
+    {
+      "check": "drug_synonym_id_multiple_anchors",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "A synonym ID identifies one anchor drug.",
+      "status": "PASS"
+    },
+    {
+      "check": "drug_surface_multiple_anchors",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "A normalized drug synonym identifies one compatible anchor.",
+      "status": "PASS"
+    },
+    {
+      "check": "drug_synonym_blank_or_sentinel",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Blank and literal-null drug synonyms are excluded.",
+      "status": "PASS"
+    },
+    {
+      "check": "drug_exact_rxnorm_target_conflict",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "An exact RxNorm ingredient agrees with its public IN/MIN anchor.",
+      "status": "PASS"
+    },
+    {
+      "check": "canonical_drug_not_in_or_min",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Public canonical drugs are only IN or MIN concepts.",
+      "status": "PASS"
+    },
+    {
+      "check": "drug_synonym_orphan_anchor",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every drug synonym target exists.",
+      "status": "PASS"
+    },
+    {
+      "check": "anchor_drug_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Anchor-drug provenance foreign keys resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "drug_synonym_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Drug-synonym provenance foreign keys resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_synonym_id_multiple_anchors",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "A regimen synonym ID identifies one regimen.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_surface_multiple_anchors",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "A normalized regimen synonym identifies one regimen.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_synonym_blank_or_sentinel",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Blank and literal-null regimen synonyms are excluded.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_synonym_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Regimen-synonym foreign keys resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_source_exact_duplicates",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Regimen_Source contains no exact duplicate rows.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Regimen provenance foreign keys resolve.",
+      "status": "PASS"
+    },
+    {
+      "check": "regimen_drug_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Every regimen-drug and provenance foreign key resolves.",
+      "status": "PASS"
+    },
+    {
+      "check": "conditions_regimen_or_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Condition associations reference valid regimens and sources.",
+      "status": "PASS"
+    },
+    {
+      "check": "clinical_trial_source_orphan",
+      "expected_issues": 0,
+      "observed_issues": 0,
+      "requirement": "Clinical-trial provenance references a valid source.",
+      "status": "PASS"
+    }
+  ],
+  "generated_at": "2026-08-10T00:17:02.208474+00:00",
+  "overall_status": "PASS",
+  "production_row_counts": {
+    "Anchor_Drug_Source": 15363,
+    "Anchor_Drug_Synonym_Source": 40006,
+    "Anchor_Drugs": 5478,
+    "Anchor_Drugs_And_Synonyms": 31855,
+    "Anchor_Drugs_To_Regimens": 5507,
+    "Anchor_Regimen": 2151,
+    "Clinical_Trials": 265027,
+    "Conditions_And_Regimens": 3361,
+    "Data_Sources": 7,
+    "Regimen_Source": 2302,
+    "Regimens_And_Synonyms": 3215
+  },
+  "quarantine_counts": {
+    "drug_anchors": {
+      "ambiguous_legacy_anchor_evidence": 86,
+      "no_rxnorm_ingredient_evidence": 27585
+    },
+    "drug_terms": {
+      "quarantine_anchor_not_validated": 66749,
+      "quarantine_rxnorm_not_unique_in_min": 103
+    },
+    "regimen_drug_links": {
+      "drug_anchor_not_uniquely_validated": 1595
+    },
+    "regimen_synonyms": {}
+  },
+  "rxnorm_api_version": "3.1.354",
+  "rxnorm_dataset_version": "03-Aug-2026",
+  "rxnorm_surface_mapping_counts": {
+    "accepted": 8241,
+    "quarantine_unresolved_rxnorm_concept": 103,
+    "unmatched": 95512
+  },
+  "schema_checks": [
+    {
+      "actual": [
+        "anchor_drug_id",
+        "anchor_drug_name"
+      ],
+      "expected": [
+        "anchor_drug_id",
+        "anchor_drug_name"
+      ],
+      "status": "PASS",
+      "table": "Anchor_Drugs"
+    },
+    {
+      "actual": [
+        "synonym_id",
+        "anchor_drug_id",
+        "synonym_name"
+      ],
+      "expected": [
+        "synonym_id",
+        "anchor_drug_id",
+        "synonym_name"
+      ],
+      "status": "PASS",
+      "table": "Anchor_Drugs_And_Synonyms"
+    },
+    {
+      "actual": [
+        "source_id",
+        "anchor_drug_id"
+      ],
+      "expected": [
+        "source_id",
+        "anchor_drug_id"
+      ],
+      "status": "PASS",
+      "table": "Anchor_Drug_Source"
+    },
+    {
+      "actual": [
+        "source_id",
+        "synonym_id"
+      ],
+      "expected": [
+        "source_id",
+        "synonym_id"
+      ],
+      "status": "PASS",
+      "table": "Anchor_Drug_Synonym_Source"
+    },
+    {
+      "actual": [
+        "regimen_id",
+        "regimen_name"
+      ],
+      "expected": [
+        "regimen_id",
+        "regimen_name"
+      ],
+      "status": "PASS",
+      "table": "Anchor_Regimen"
+    },
+    {
+      "actual": [
+        "regimen_synonym_id",
+        "regimen_synonym",
+        "source_id",
+        "regimen_id"
+      ],
+      "expected": [
+        "regimen_synonym_id",
+        "regimen_synonym",
+        "source_id",
+        "regimen_id"
+      ],
+      "status": "PASS",
+      "table": "Regimens_And_Synonyms"
+    },
+    {
+      "actual": [
+        "regimen_id",
+        "source_id"
+      ],
+      "expected": [
+        "regimen_id",
+        "source_id"
+      ],
+      "status": "PASS",
+      "table": "Regimen_Source"
+    },
+    {
+      "actual": [
+        "regimen_id",
+        "anchor_drug_id",
+        "source_id"
+      ],
+      "expected": [
+        "regimen_id",
+        "anchor_drug_id",
+        "source_id"
+      ],
+      "status": "PASS",
+      "table": "Anchor_Drugs_To_Regimens"
+    },
+    {
+      "actual": [
+        "condition_id",
+        "condition_name",
+        "regimen_id",
+        "source_id"
+      ],
+      "expected": [
+        "condition_id",
+        "condition_name",
+        "regimen_id",
+        "source_id"
+      ],
+      "status": "PASS",
+      "table": "Conditions_And_Regimens"
+    },
+    {
+      "actual": [
+        "row_id",
+        "interventions_id",
+        "clinical_trial_id",
+        "name",
+        "other_name",
+        "source_id"
+      ],
+      "expected": [
+        "row_id",
+        "interventions_id",
+        "clinical_trial_id",
+        "name",
+        "other_name",
+        "source_id"
+      ],
+      "status": "PASS",
+      "table": "Clinical_Trials"
+    },
+    {
+      "actual": [
+        "source_id",
+        "dataset_name",
+        "dataset_link",
+        "dataset_description"
+      ],
+      "expected": [
+        "source_id",
+        "dataset_name",
+        "dataset_link",
+        "dataset_description"
+      ],
+      "status": "PASS",
+      "table": "Data_Sources"
+    }
+  ]
+}

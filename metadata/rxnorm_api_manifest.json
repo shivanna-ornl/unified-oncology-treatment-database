@@ -1,0 +1,25 @@
+{
+  "allconcepts_endpoint": "https://rxnav.nlm.nih.gov/REST/allconcepts.json?tty=<TTY_LIST>",
+  "api_root": "https://rxnav.nlm.nih.gov/REST",
+  "automatic_matching": "normalized exact surface match only",
+  "cache_sha256": {
+    "allconcepts_in_min_pin_bn.json": "30a015b2a1c80ea7ecf47887f955254f23ecfd926704d11ce416a260009a22aa",
+    "allconcepts_product_form_pack.json": "71c5b0aa71dba4691f8a7b4b96ad7fca82547e14ef1367a05dbe6a7970c55518",
+    "related_in_min_raw.json": "dc993d597e50598bacc9749d54ab3da3cce58fa9144aee426647d7dfa9c25277",
+    "surface_resolution.csv": "dbfafee6033e3b605f326f8fce1f4b8b838cc585d3b800e2808f0a68e7c1fdea",
+    "version.json": "61e3e60c93c36a0cb8624109287449a3dd3ce26ac82cd8c75875d2489a91e655"
+  },
+  "canonical_target_ttys": [
+    "IN",
+    "MIN"
+  ],
+  "concept_count": 124827,
+  "fetched_at": "2026-08-10T00:16:37.890269+00:00",
+  "matched_noncanonical_rxcui_count": 3195,
+  "related_endpoint_template": "https://rxnav.nlm.nih.gov/REST/rxcui/<RXCUI>/related.json?tty=IN+MIN",
+  "related_response_count": 3195,
+  "rxnorm_api_version": "3.1.354",
+  "rxnorm_dataset_version": "03-Aug-2026",
+  "surface_count": 103856,
+  "version_endpoint": "https://rxnav.nlm.nih.gov/REST/version.json"
+}

@@ -1,0 +1,3216 @@
+regimen_synonym_id,regimen_synonym,source_id,regimen_id
+1,"(90)yfc, then allo hsct",1,1
+2,"10 days of cytarabine, 3 days of daunorubicin, 5 days of etoposide",1,71
+3,10-3-5,1,71
+4,"100%; text-align:center;"">",1,669
+5,"20%"">comparator",1,669
+6,"20%"">dates of enrollment",1,669
+7,"20%"">study",1,669
+8,"20%"">years of enrollment",1,669
+9,"33%"">dates of enrollment",1,681
+10,"33%"">study",1,681
+11,"33%"">years of enrollment",1,681
+12,5 days of cytarabine + 2 days of daunorubicin,1,3
+13,5 days of cytarabine + 3 days of daunorubicin,1,5
+14,5 days of cytarabine + 3 days of idarubicin,1,6
+15,5+2d,1,3
+16,5+3d,1,5
+17,5+3i,1,6
+18,5-fluorouracil and radiation therapy,1,1160
+19,5-fluourouracil and radiation therapy,1,1160
+20,5-fu (fluorouracil) and folinic acid,1,1209
+21,"5-fu (fluorouracil), folinic acid (leucovorin), irinotecan",1,1184
+22,"5-fu (fluorouracil), folinic acid, irinotecan",1,1184
+23,5-fu and irinotecan,1,1208
+24,5-fu and l-leucovorin,1,1210
+25,5-fu and leucovorin,1,1209
+26,5-fu and leucovorin (folinic acid),1,1209
+27,5-fu and levoleucovorin,1,1210
+28,5-fu and oxaliplatin,1,1219
+29,5-fu and rt,1,1160
+30,"5-fu, folinic acid (leucovorin), oxaliplatin",1,1207
+31,"5-fu, leucovorin (folinic acid), bevacizumab",1,1211
+32,"5-fu, leucovorin (folinic acid), gemcitabine",1,1212
+33,"5-fu, leucovorin (folinic acid), levamisole",1,1213
+34,"5-fu, leucovorin (folinic acid), nanoliposomal irinotecan",1,1214
+35,"5-fu, leucovorin, bevacizumab",1,1211
+36,"5-fu, leucovorin, gemcitabine",1,1212
+37,"5-fu, leucovorin, levamisole",1,1213
+38,"5-fu, leucovorin, nanoliposomal irinotecan",1,1214
+39,"5-fu, levoleucovorin, bevacizumab",1,1211
+40,"5-fu, oxaliplatin, tislelizumab",1,1158
+41,"53.1% vs 46.9%(hr 0.83, 95% ci 0.70-0.99)did not meet secondary endpoint of osos36",1,669
+42,59% vs 63%,1,669
+43,"60%; text-align:center;"">",1,681
+44,7 days of cytarabine + 3 days of daunorubicin,1,7
+45,7 days of cytarabine + 3 days of idarubicin,1,13
+46,"7 days of cytarabine + 3 days of idarubicin, panobinostat",1,14
+47,7 days of cytarabine + 3 days of mitoxantrone,1,18
+48,7 days of cytarabine + 5 days of idarubicin,1,19
+49,"7 days of cytarabine, 3 days of daunorubicin, 7 days of etoposide",1,71
+50,"7 days of cytarabine, 3 days of daunorubicin, gemtuzumab ozogamicin",1,9
+51,"7 days of cytarabine, 3 days of daunorubicin, midostaurin",1,10
+52,"7 days of cytarabine, 3 days of daunorubicin, quizartinib",1,11
+53,"7 days of cytarabine, 3 days of idarubicin, quizartinib",1,15
+54,7+3d,1,7
+55,7+3d and go,1,9
+56,7+3d and midostaurin,1,10
+57,7+3d and quizartinib,1,11
+58,7+3i,1,13
+59,7+3i and panobinostat,1,14
+60,7+3i and quizartinib,1,15
+61,7+3m,1,18
+62,7+5i,1,19
+63,7-3-7,1,71
+64,"8 days of cytarabine, 3 days of daunorubicin, 5 days of etoposide",1,71
+65,8-3-5,1,71
+66,a,1,973
+67,a+avd,1,21
+68,a+chp,1,299
+69,a+cnp,1,432
+70,abdv,7,44
+71,abemaciclib and endocrine therapy,1,34
+72,abraxane (nab-paclitaxel) and gemcitabine,1,1241
+73,"abraxane (paclitaxel nanoparticle albumin-bound), bevacizumab, carboplatin",1,27
+74,abv,1,43
+75,abv (vincristine),1,43
+76,ac,1,752
+77,ac,7,752
+78,ac and bevacizumab,1,753
+79,ac+bev,1,753
+80,ac-th,1,53
+81,ac-th (paclitaxel),1,53
+82,ac-thl,1,54
+83,ac-thp,1,55
+84,ac-thp (paclitaxel),1,55
+85,ac-thp (phesgo),1,56
+86,ac-tl,1,57
+87,"acalabrutinib, venetoclax, obinutuzumab",1,170
+88,"accelerated bleomycin, etoposide, platinol (cisplatin)",1,60
+89,"accelerated methotrexate, vinblastine, adriamycin (doxorubicin), cisplatin",1,1625
+90,acvbp (methylprednisolone),1,68
+91,"acvbp, dose-adjusted",1,68
+92,acvbp-r,1,1810
+93,ad,1,7
+94,ad,7,7
+95,adbc,7,28
+96,"adcetris (brentuximab vedotin), adriamycin (doxorubicin), vinblastine, dacarbazine",1,21
+97,"adcetris (brentuximab vedotin), cyclophosphamide, hydroxydaunorubicin (doxorubicin), prednisone",1,299
+98,ade,1,71
+99,ade,7,71
+100,ade (standard-dose ara-c),1,71
+101,adic,7,7
+102,ado-trastuzumab emtansine monotherapy,1,2031
+103,adoap,7,125
+104,adop,7,125
+105,adriamycin (doxorubicin),1,973
+106,adriamycin (doxorubicin) and cyclophosphamide,1,752
+107,"adriamycin (doxorubicin) and cyclophosphamide followed by cyclophosphamide, methotrexate, fluorouracil",1,49
+108,adriamycin (doxorubicin) and cyclophosphamide followed by docetaxel,1,50
+109,adriamycin (doxorubicin) and cyclophosphamide followed by taxol (paclitaxel),1,52
+110,"adriamycin (doxorubicin) and cyclophosphamide, followed by herceptin (trastuzumab)",1,51
+111,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel) and herceptin (trastuzumab)",1,53
+112,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel) and lapatinib",1,57
+113,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), lapatinib",1,54
+114,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,55
+115,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,53
+116,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxotere (docetaxel) and phesgo",1,56
+117,"adriamycin (doxorubicin) and cyclophosphamide, followed by taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,55
+118,adriamycin (doxorubicin) and dacarbazine,1,7
+119,adriamycin (doxorubicin) and docetaxel,1,7
+120,adriamycin (doxorubicin) and platinol (cisplatin),1,338
+121,adriamycin (doxorubicin) and taxol (paclitaxel),1,7
+122,"adriamycin (doxorubicin) and taxol (paclitaxel) followed by cyclophosphamide, methotrexate, fluorouracil",1,146
+123,adriamycin (doxorubicin) and taxotere (docetaxel),1,7
+124,"adriamycin (doxorubicin) followed by cyclophosphamide, methotrexate, fluorouracil",1,23
+125,"adriamycin (doxorubicin), bcnu (carmustine), cyclophosphamide, melphalan",1,29
+126,"adriamycin (doxorubicin), bleomycin, dic (dacarbazine), ccnu (lomustine), prednisone",1,32
+127,"adriamycin (doxorubicin), bleomycin, prednisone",1,42
+128,"adriamycin (doxorubicin), bleomycin, vinblastine",1,43
+129,"adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine",1,44
+130,"adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine, dose-dense and dose-intense",1,45
+131,"adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine, methylprednisolone",1,46
+132,"adriamycin (doxorubicin), bleomycin, vincristine",1,43
+133,"adriamycin (doxorubicin), bleomycin, vincristine, etoposide",1,47
+134,"adriamycin (doxorubicin), bleomycin, vincristine, etoposide, prednisone, cyclophosphamide",1,48
+135,"adriamycin (doxorubicin), cis-diamminedichloroplatinum (cisplatin), oncovin (vincristine), cyclophosphamide",1,75
+136,"adriamycin (doxorubicin), cyclophosphamide, bevacizumab",1,753
+137,"adriamycin (doxorubicin), cyclophosphamide, etoposide, prednisone",1,61
+138,"adriamycin (doxorubicin), cyclophosphamide, herceptin (trastuzumab)",1,62
+139,"adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), methotrexate, leucovorin (folinic acid), ara-c (cytarabine)",1,64
+140,"adriamycin (doxorubicin), cyclophosphamide, tamoxifen",1,66
+141,"adriamycin (doxorubicin), cyclophosphamide, taxotere (docetaxel)",1,66
+142,"adriamycin (doxorubicin), cyclophosphamide, vindesine, bleomycin, methylprednisone",1,68
+143,"adriamycin (doxorubicin), cyclophosphamide, vindesine, bleomycin, prednisone",1,68
+144,"adriamycin (doxorubicin), cyclophosphamide, vindesine, bleomycin, prednisone, rituximab",1,1810
+145,"adriamycin (doxorubicin), fluorouracil, cyclophosphamide",1,1095
+146,"adriamycin (doxorubicin), fluorouracil, cyclophosphamide, methotrexate",1,325
+147,"adriamycin (doxorubicin), ifosfamide, mesna",1,966
+148,"adriamycin (doxorubicin), ifosfamide, mesna, radiation therapy",1,974
+149,"adriamycin (doxorubicin), prednisone, oncovin (vincristine)",1,125
+150,"adriamycin (doxorubicin), taxotere (docetaxel), cyclophosphamide",1,66
+151,"adriamycin (doxorubicin), vinblastine, dacarbazine",1,168
+152,"adriamycin (doxorubicin), vinblastine, dacarbazine, adcetris (brentuximab vedotin)",1,21
+153,"adriamycin (doxorubicin), vincristine, cyclophosphamide, fluorouracil",1,167
+154,adriamycin and bcnu,1,455
+155,adriamycin and carmustine,1,455
+156,af,7,1094
+157,afc,1,1095
+158,afcm,1,325
+159,afm,7,1110
+160,ag,1,1241
+161,ai,1,13
+162,aida,1,158
+163,aim,1,966
+164,aim,7,966
+165,aim and rt,1,974
+166,aio,7,1338
+167,"alemtuzumab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,22
+168,alfa interferon and dex,1,1360
+169,alfa interferon and dexamethasone,1,1360
+170,alfa-interferon and dex,1,1360
+171,alfa-interferon and dexamethasone,1,1360
+172,alfa-interferon and prednisone,1,1363
+173,alfa-interferon and thalidomide,1,1364
+174,alkeran,1,338
+175,alkeran monotherapy,1,338
+176,altretamine and cisplatin,1,101
+177,amoxicillin and ppi,1,105
+178,amvac,1,1625
+179,"anastrozole, goserelin, ribociclib",1,114
+180,androgen deprivation therapy,1,77
+181,androgen deprivation therapy and abiraterone,1,78
+182,androgen deprivation therapy and apalutamide,1,79
+183,androgen deprivation therapy and bicalutamide,1,80
+184,androgen deprivation therapy and docetaxel,1,82
+185,androgen deprivation therapy and enzalutamide,1,83
+186,androgen deprivation therapy and flutamide,1,84
+187,androgen deprivation therapy and nilutamide,1,85
+188,androgen deprivation therapy and radiation therapy,1,86
+189,"androgen deprivation therapy, darolutamide, docetaxel",1,87
+190,"androgen deprivation therapy, enzalutamide, talazoparib",1,88
+191,antithymocyte globulin,1,150
+192,antithymocyte globulin and cyclosporine,1,149
+193,antithymocyte globulin and cyclosporine a,1,149
+194,aope,7,1686
+195,ap,1,338
+196,app,1,439
+197,ara-c (cytarabine) and daunorubicin,1,7
+198,ara-c (cytarabine) and idarubicin,1,13
+199,"ara-c (cytarabine), daunorubicin, etoposide",1,71
+200,"ara-c (cytarabine), daunorubicin, etoposide, all-trans retinoic acid",1,72
+201,"ara-c (cytarabine), daunorubicin, etoposidem, gemtuzumab ozogamicin",1,73
+202,"ara-c (cytarabine), idarubicin, etoposide",1,93
+203,"arsenic trioxide, then atra and daunorubicin",1,137
+204,aspametdex (erwinaze),1,141
+205,"asparaginase, methotrexate, dexamethasone",1,141
+206,aspirin and dexamethasone,1,7
+207,at,1,7
+208,atc,1,66
+209,"atezolizumab, bevacizumab, carboplatin, paclitaxel",1,30
+210,"atezolizumab, carboplatin, nab-paclitaxel",1,432
+211,"atezolizumab, platinum (carboplatin), pemetrexed",1,439
+212,"atezolizumab, platinum (cisplatin), pemetrexed",1,439
+213,atg,1,150
+214,atg (rabbit) monotherapy,1,150
+215,atg and csa,1,149
+216,atg and cyclosporine,1,149
+217,"atra, idarubicin",1,158
+218,augmented hyper-cvad and asparaginase,1,163
+219,avd-a,1,21
+220,b+cp,1,403
+221,b-avd,1,21
+222,b-chop,1,521
+223,b-mopp,7,1613
+224,bacillus calmette-guerin (bcg) monotherapy,1,203
+225,bacillus calmette-guerin and dimethyl triazeno imidazole carboxamide (dacarbazine),1,202
+226,bacop,1,521
+227,bad,1,852
+228,"baseline bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone",1,212
+229,bbeacopp,1,212
+230,bcg and dtic,1,202
+231,bcnu (carmustine) and radiation therapy,1,456
+232,"bcnu (carmustine), cyclophosphamide, oncovin (vincristine), prednisone",1,207
+233,"bcnu (carmustine), cyclophosphamide, vinblastine, procarbazine, prednisone",1,208
+234,"bcnu (carmustine), cyclophosphamide, vincristine, procarbazine, prednisone",1,208
+235,"bcnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,214
+236,"bcnu (carmustine), hydroxyurea, dacarbazine",1,243
+237,"bcnu (carmustine), thiotepa",1,206
+238,"bcnu (carmustine), vincristine, dacarbazine",1,197
+239,bcnu and adriamycin,1,455
+240,bcnu and doxorubicin,1,455
+241,bcnu and rt,1,456
+242,bcp,1,403
+243,bcp,7,403
+244,bcvp,7,207
+245,bd,1,267
+246,bdd,1,852
+247,beacopp(escalated),1,1001
+248,beacopp-14 (prednisolone),1,213
+249,beacopp_baseline,1,212
+250,"beam, then allo hsct",1,214
+251,belotecan and platinol (cisplatin),1,219
+252,benda-ld,1,253
+253,benda-lenalidomide-dex,1,253
+254,benda-rd,1,253
+255,benda-revlimid-dex,1,253
+256,benda-td,1,284
+257,benda-thal-dex,1,284
+258,benda-thaldex,1,284
+259,benda-vd,1,197
+260,benda-velcade-dex,1,197
+261,bendamustine and rituximab,1,226
+262,bendamustine and rituximab alternating with cytarabine and rituximab,1,278
+263,bendamustine and rituximab alternating with rituximab and cytarabine,1,278
+264,bendamustine lendex,1,253
+265,bendamustine revdex,1,253
+266,"bendamustine, bortezomib, dex",1,197
+267,"bendamustine, bortezomib, dexamethasone",1,197
+268,"bendamustine, etoposide, ara-c (cytarabine), melphalan",1,215
+269,"bendamustine, fludarabine, rituximab",1,242
+270,"bendamustine, gemcitabine, vinorelbine",1,216
+271,"bendamustine, ixazomib, dexamethasone",1,248
+272,"bendamustine, ld",1,253
+273,"bendamustine, lenalidomide, dex",1,253
+274,"bendamustine, lenalidomide, dexamethasone",1,253
+275,"bendamustine, rd",1,253
+276,"bendamustine, revlimid, dex",1,253
+277,"bendamustine, revlimid, dexamethasone",1,253
+278,"bendamustine, rituximab",1,226
+279,"bendamustine, rituximab, ibrutinib",1,227
+280,"bendamustine, rituximab, idelalisib",1,228
+281,"bendamustine, rituximab, polatuzumab vedotin",1,229
+282,"bendamustine, rituximab, temsirolimus",1,233
+283,"bendamustine, thalidomide, dex",1,284
+284,"bendamustine, thalidomide, dexamethasone",1,284
+285,"bendamustine, thalomid, dexamethasone",1,284
+286,"bendamustine, vd",1,197
+287,"bendamustine, velcade (bortezomib), rituximab",1,303
+288,"bendamustine, velcade, dex",1,197
+289,"bendamustine, velcade, dexamethasone",1,197
+290,bendatd,1,284
+291,bendathaldex,1,284
+292,bendofa,1,225
+293,berlin frankfurt muenster high-dose mtx (methotrexate) regimen,1,1552
+294,bev+d,1,935
+295,bevacizumab and docetaxel,1,935
+296,bevacizumab and radiation therapy,1,238
+297,"bevacizumab, carboplatin, paclitaxel",1,403
+298,"bevacizumab, carboplatin, pemetrexed",1,440
+299,bevcpem,1,440
+300,bfm hdmtx,1,1552
+301,"bfr, then allo hsct",1,242
+302,"biaxin (clarithromycin), revlimid (lenalidomide), low-dose dexamethasone",1,252
+303,"biaxin, ld",1,252
+304,"biaxin, lenalidomide, dex",1,252
+305,"biaxin, lenalidomide, dexamethasone",1,252
+306,"biaxin, rd",1,252
+307,"biaxin, revlimid (lenalidomide), dexamethasone",1,252
+308,"biaxin, revlimid, dex",1,252
+309,"biaxin, revlimid, dexamethasone",1,252
+310,bicalutamide and radiation therapy,1,246
+311,"bicnu (carmustine), etoposide, ara-c (cytarabine), cyclophosphamide",1,211
+312,"bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,214
+313,bild,1,252
+314,biochemotherapy,1,742
+315,biochemotherapy,7,742
+316,bioct,1,742
+317,bipolar androgen therapy,1,195
+318,bleo-mopp,7,1613
+319,bleomycin and oncovin (vincristine),1,257
+320,bleomycin and vincristine,1,257
+321,"bleomycin, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine)",1,190
+322,"bleomycin, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), prednisone",1,521
+323,"bleomycin, ccnu (lomustine), adriamycin (doxorubicin), vinblastine",1,186
+324,"bleomycin, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,521
+325,"bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisolone, 14-day course",1,213
+326,"bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone",1,212
+327,"bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone, 14-day course",1,213
+328,"bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone, escalated dose",1,1001
+329,"bleomycin, etoposide, platinol (cisplatin)",1,232
+330,"bleomycin, methotrexate, platinol (cisplatin)",1,260
+331,"bleomycin, vinblastine, doxorubicin, streptozocin",1,301
+332,"bleomycin, vinblastine, platinol (cisplatin)",1,302
+333,bmdex,1,2124
+334,bo,1,257
+335,bolus 5-fu/5-fu and rt,1,178
+336,bor-hdm,1,269
+337,borid,1,210
+338,bort,1,275
+339,bort monotherapy,1,275
+340,bort-dex,1,267
+341,bort-hdm,1,269
+342,bortezomib,1,275
+343,bortezomib and dexamethasone,1,267
+344,bortezomib and doxil,1,271
+345,bortezomib and doxorubicin liposomal,1,271
+346,bortezomib and liposomal doxorubicin,1,271
+347,bortezomib and low-dose dexamethasone,1,267
+348,"bortezomib and melphalan, then auto hsct",1,269
+349,bortezomib and pred,1,272
+350,bortezomib and prednisone,1,272
+351,bortezomib and thalidomide,1,2140
+352,bortezomib and zorinza,1,274
+353,"bortezomib, adriamycin, dex",1,852
+354,"bortezomib, adriamycin, dexamethasone",1,852
+355,"bortezomib, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone",1,204
+356,"bortezomib, dexamethasone",1,267
+357,"bortezomib, dexamethasone, panobinostat",1,268
+358,"bortezomib, dexamethasone, rituximab",1,210
+359,"bortezomib, doxil, dexamethasone",1,1617
+360,"bortezomib, doxorubicin, dex",1,852
+361,"bortezomib, doxorubicin, dexamethasone",1,852
+362,"bortezomib, high dose melphalan",1,269
+363,"bortezomib, lenalidomide, dex",1,1890
+364,"bortezomib, lenalidomide, dexamethasone",1,1890
+365,"bortezomib, liposomal adriamycin, dexamethasone",1,1617
+366,"bortezomib, liposomal doxorubicin, dexamethasone",1,1617
+367,"bortezomib, low-dose dexamethasone",1,267
+368,"bortezomib, melphalan, dexamethasone",1,2124
+369,"bortezomib, melphalan, prednisone",1,1619
+370,"bortezomib, melphalan, prednisone, alternating with lenalidomide and dexamethasone",1,2126
+371,"bortezomib, melphalan, prednisone, thalidomide",1,2127
+372,"bortezomib, melphalan, prednisone, then lenalidomide and dexamethasone",1,2125
+373,"bortezomib, melphalan, prednisone/lenalidomide and dexamethasone",1,2126
+374,"bortezomib, melphalan, thalidomide, prednisone",1,2127
+375,"bortezomib, pomalidomide, dex",1,1807
+376,"bortezomib, pomalidomide, dexamethasone",1,1807
+377,"bortezomib, rituximab, dexamethasone",1,210
+378,"bortezomib, thaldex",1,2141
+379,"bortezomib, thalidomide, dex",1,2141
+380,"bortezomib, thalidomide, dexamethasone",1,2141
+381,"bortezomib, thalidomide, prednisone",1,2144
+382,"bortezomib, thalomid, prednisone",1,2144
+383,bortezomib-mp,1,1619
+384,"bortezomib-mp, alternating with lendex",1,2126
+385,"bortezomib-mp, alternating with revdex",1,2126
+386,"bortezomib-mp, then lendex",1,2125
+387,"bortezomib-mp, then revdex",1,2125
+388,bortezomib-mp/lendex,1,2126
+389,bortezomib-mp/revdex,1,2126
+390,bortezomib-mpt,1,2127
+391,bortezomib-mtp,1,2127
+392,bp,1,219
+393,br,1,226
+394,br and ibrutinib,1,227
+395,br and idelalisib,1,228
+396,br and polatuzumab vedotin,1,229
+397,br/cr,1,278
+398,brd,1,253
+399,brentuximab vedotin and bendamustine,1,222
+400,"brentuximab vedotin, adriamycin (doxorubicin), vinblastine, dacarbazine",1,21
+401,"brentuximab vedotin, adriamycin (doxorubicin), vincristine, etoposide, prednisone, cyclophosphamide",1,298
+402,"brentuximab vedotin, cyclophosphamide, hydroxydaunorubicin (doxorubicin), prednisone",1,299
+403,"brief, anthracycline-sparing, intensive cyclophosphamide",1,194
+404,bucy,1,289
+405,"bucytbi, then allo hsct",1,288
+406,buflu,1,290
+407,"buflu, then allo hsct",1,290
+408,bumel,1,291
+409,"busulfan and cyclophosphamide, then allo hsct",1,289
+410,"busulfan and fludarabine, then allo hsct",1,290
+411,"busulfan, cyclophosphamide, total body irradiation",1,288
+412,"busulfan, thiotepa",1,285
+413,"busulfan, thiotepa, cyclophosphamide",1,286
+414,bv,1,257
+415,bv,7,257
+416,bv + avd,1,21
+417,bvap,7,2082
+418,bvb,1,222
+419,bvcpp,7,208
+420,bvd,1,197
+421,bvd,7,197
+422,bvpp,7,265
+423,c,1,355
+424,c-mopp/abvd,1,721
+425,c-rd,1,252
+426,ca,1,752
+427,ca/e,1,384
+428,cabs,7,1899
+429,cad,1,317
+430,cae,1,472
+431,caf,1,1095
+432,caf,7,1095
+433,caffi,7,1095
+434,cao,1,459
+435,cap-b,1,331
+436,cap-gem,1,341
+437,cape-ox,7,365
+438,capecitabine,1,355
+439,capecitabine and docetaxel,1,338
+440,capecitabine and irinotecan,1,342
+441,capecitabine and oxaliplatin,1,365
+442,capecitabine and paclitaxel,1,338
+443,capecitabine and radiation therapy,1,350
+444,"capecitabine, carboplatin, paclitaxel, radiation therapy",1,357
+445,"capecitabine, docetaxel, oxaliplatin, radiation therapy",1,359
+446,"capecitabine, docetaxel, radiation therapy",1,360
+447,"capecitabine, irinotecan, bevacizumab",1,374
+448,"capecitabine, irinotecan, radiation therapy",1,375
+449,"capecitabine, oxaliplatin",1,365
+450,"capecitabine, oxaliplatin, bevacizumab",1,366
+451,"capecitabine, oxaliplatin, cetuximab, radiation therapy",1,372
+452,"capecitabine, oxaliplatin, erlotinib",1,367
+453,"capecitabine, oxaliplatin, nivolumab",1,368
+454,"capecitabine, oxaliplatin, panitumumab",1,369
+455,"capecitabine, oxaliplatin, pembrolizumab",1,370
+456,"capecitabine, oxaliplatin, pembrolizumab, trastuzumab",1,373
+457,"capecitabine, oxaliplatin, radiation therapy",1,362
+458,"capecitabine, oxaliplatin, tislelizumab",1,347
+459,"capecitabine, oxaliplatin, trastuzumab",1,371
+460,"capecitabine, paclitaxel, radiation therapy",1,363
+461,"capecitabine, pertuzumab, trastuzumab",1,2146
+462,"capecitabine, sorafenib, radiation therapy",1,364
+463,"capecitabine, tucatinib, trastuzumab",1,353
+464,capeiri,1,342
+465,capeox and rt,1,362
+466,capeox and tislelizumab,1,347
+467,capiri,1,342
+468,capiri,7,342
+469,capox,1,365
+470,capox,7,365
+471,capox-b,1,366
+472,carbo-pem,1,338
+473,carboplatin and doxil (pegylated liposomal doxorubicin),1,338
+474,carboplatin and doxorubicin liposomal,1,338
+475,carboplatin and etoposide,1,384
+476,carboplatin and gemcitabine,1,391
+477,carboplatin and paclitaxel,1,338
+478,carboplatin and paclitaxel (cp),1,338
+479,carboplatin and paclitaxel (cp) and tislelizumab,1,53
+480,carboplatin and paclitaxel followed by dose-dense adriamycin (doxorubicin) and cyclophosphamide,1,724
+481,"carboplatin and paclitaxel, followed by adriamycin (doxorubicin) and cyclophosphamide",1,722
+482,"carboplatin and paclitaxel, followed by epirubicin and cyclophosphamide",1,725
+483,carboplatin and pegylated liposomal doxorubicin,1,338
+484,carboplatin and pemetrexed,1,338
+485,carboplatin and radiation therapy,1,421
+486,carboplatin and vincristine,1,384
+487,carboplatin and vinorelbine,1,384
+488,"carboplatin, doxorubicin liposomal, bevacizumab",1,437
+489,"carboplatin, etoposide, atezolizumab",1,385
+490,"carboplatin, etoposide, durvalumab",1,387
+491,"carboplatin, etoposide, pembrolizumab",1,388
+492,"carboplatin, etoposide, vincristine",1,487
+493,"carboplatin, fluorouracil, cetuximab, radiation therapy",1,428
+494,"carboplatin, fluorouracil, radiation therapy",1,430
+495,"carboplatin, olaparib, paclitaxel",1,412
+496,"carboplatin, paclitaxel, bevacizumab",1,403
+497,"carboplatin, paclitaxel, camrelizumab",1,404
+498,"carboplatin, paclitaxel, durvalumab",1,407
+499,"carboplatin, paclitaxel, nintedanib",1,410
+500,"carboplatin, paclitaxel, nivolumab",1,411
+501,"carboplatin, paclitaxel, olaparib",1,412
+502,"carboplatin, paclitaxel, pembrolizumab, followed by adriamycin (doxorubicin), cyclophosphamide, pembrolizumab",1,723
+503,"carboplatin, paclitaxel, pembrolizumab, followed by epirubicin, cyclophosphamide, pembrolizumab",1,726
+504,"carboplatin, paclitaxel, radiation therapy",1,415
+505,"carboplatin, paclitaxel, rt",1,415
+506,"carboplatin, paclitaxel, trastuzumab",1,417
+507,"carboplatin, taxol (paclitaxel), bevacizumab",1,403
+508,carf,1,454
+509,carf-dex,1,451
+510,carf-pomdex,1,781
+511,carfcyd,1,1416
+512,carfdex,1,451
+513,carfilzomib,1,454
+514,carfilzomib and dex,1,451
+515,carfilzomib and dexamethasone,1,451
+516,carfilzomib and farydak,1,453
+517,"carfilzomib, cyclophosphamide, dex",1,1416
+518,"carfilzomib, cyclophosphamide, dexamethasone",1,1416
+519,"carfilzomib, lenalidomide, dex",1,730
+520,"carfilzomib, lenalidomide, dexamethasone",1,730
+521,"carfilzomib, melphalan, prednisone",1,1421
+522,"carfilzomib, pomalidomide, dex",1,781
+523,"carfilzomib, pomalidomide, dexamethasone",1,781
+524,"carfilzomib, pomalyst, dex",1,781
+525,"carfilzomib, pomalyst, dexamethaonse",1,781
+526,"carfilzomib, revlimid (lenalidomide), low-dose dexamethasone",1,730
+527,"carfilzomib, rituximab, dexamethasone",1,450
+528,"carfilzomib, thaldex",1,1424
+529,"carfilzomib, thalidomide, dex",1,1424
+530,"carfilzomib, thalidomide, dexamethasone",1,1424
+531,carfilzomib-mp,1,1421
+532,carfilzomib-pomdex,1,781
+533,carfpomdex,1,781
+534,carmustine and adriamycin,1,455
+535,cart-egfrviii cells,1,458
+536,cav-e,1,462
+537,cav/ep,7,2131
+538,cavp,1,516
+539,cavpm,7,1802
+540,cavv,7,1016
+541,cb,1,331
+542,cb,7,331
+543,cbd,1,383
+544,cbdca,7,1968
+545,cbtb,1,403
+546,cbvd,7,740
+547,cc,1,380
+548,ccma,7,1506
+549,"ccnu (lomustine), etoposide, prednimustine",1,481
+550,"ccnu (lomustine), oncovin (vincristine), procarbazine, prednisone",1,305
+551,"ccnu (lomustine), vinblastine, bleomycin",1,384
+552,"ccnu (lomustine), vinblastine, procarbazine, prednisone",1,748
+553,ccyd,1,1416
+554,cd,1,338
+555,cdep,7,881
+556,cdp,1,585
+557,ce,1,384
+558,ce,7,384
+559,ce and atezolizumab,1,385
+560,ce and bevacizumab,1,386
+561,ce and durvalumab,1,387
+562,ce and pembrolizumab,1,388
+563,ce and serplulimab,1,389
+564,ceb,7,1414
+565,cef,1,1119
+566,cef,7,1119
+567,cef-t,1,1122
+568,ceop (prednisolone),1,480
+569,cetuximab and radiation therapy,1,485
+570,cev,1,487
+571,cev,7,487
+572,cev (cyclophosphamide/etoposide),1,487
+573,cf,1,543
+574,cf,7,543
+575,cf and cetuximab,1,544
+576,"cf and hydroxyurea, rt",1,545
+577,cf and nivolumab,1,546
+578,cf and panitumumab,1,547
+579,cf and pembrolizumab,1,548
+580,cf and rt,1,549
+581,cf and sintilimab,1,550
+582,cf and tislelizumab,1,552
+583,cf and trastuzumab,1,553
+584,cf and vincristine,1,554
+585,"cf, pembrolizumab, trastuzumab",1,555
+586,cf-c,1,544
+587,cfm,7,1179
+588,cfpmv,1,646
+589,cg,1,391
+590,chap,7,495
+591,cheop,1,515
+592,"chllorambucil, vinblastine, procarbazine, prednisone",1,511
+593,"chllorambucil, vinblastine, procarbazine, prednisone, etoposide, vincristine, adriamycin (doxorubicin)",1,512
+594,chlorambucil and rituximab,1,508
+595,"chlorambucil, vinblastine, procarbazine, prednisone alternating with prednisolone, adriamycin (doxorubicin), bleomycin, oncovin (vincristine), etoposide",1,513
+596,chod,7,738
+597,choep-21,1,515
+598,chop (prednisolone),1,516
+599,chop + r,7,1819
+600,chop modified (prednisolone),1,518
+601,chop-14 (prednisolone),1,520
+602,chop-21,1,516
+603,chop-al,1,22
+604,chop-c,1,22
+605,chop-di,1,520
+606,chop-r,1,1819
+607,chop-rit,1,519
+608,chope,1,515
+609,chope,7,515
+610,chopr,1,1819
+611,chvmp,1,526
+612,chvp-i (etoposide),1,527
+613,chvp-i (prednisolone),1,527
+614,ci,1,399
+615,cis-epi,1,539
+616,cis-pem,1,571
+617,cisplatin and carboplatin,1,380
+618,cisplatin and cyclophosphamide,1,338
+619,cisplatin and docetaxel,1,338
+620,cisplatin and docetaxel (dc),1,338
+621,cisplatin and doxorubicin,1,338
+622,cisplatin and etoposide (ep),1,384
+623,cisplatin and fluorouracil,1,543
+624,cisplatin and gemcitabine (gc),1,391
+625,cisplatin and gemcitabine (gc) and bevacizumab,1,391
+626,cisplatin and irinotecan,1,399
+627,cisplatin and irinotecan (ic),1,399
+628,cisplatin and paclitaxel,1,338
+629,cisplatin and radiation therapy,1,573
+630,cisplatin and topotecan,1,338
+631,cisplatin and vinblastine,1,272
+632,cisplatin and vindesine,1,272
+633,cisplatin and vinorelbine,1,384
+634,cisplatin and vinorelbine (cvb),1,384
+635,cisplatin and xeloda (capecitabine),1,332
+636,"cisplatin, amithopterin (methotrexate), bleomycin, oncovin (vincristine)",1,311
+637,"cisplatin, bleomycin, oncovin (vincristine), paraplatin (carboplatin)",1,304
+638,"cisplatin, cetuximab, radiation therapy",1,578
+639,"cisplatin, cyclophosphamide, adriamycin (doxorubicin)",1,531
+640,"cisplatin, cyclophosphamide, adriamycin (doxorubicin) alternating with vinblastine and bleomycin",1,532
+641,"cisplatin, dacarbazine, bcnu (carmustine)",1,471
+642,"cisplatin, epirubicin",1,539
+643,"cisplatin, etoposide, bevacizumab",1,540
+644,"cisplatin, etoposide, durvalumab",1,541
+645,"cisplatin, etoposide, pembrolizumab",1,542
+646,"cisplatin, etoposide, rt",1,426
+647,"cisplatin, fluorouracil",1,543
+648,"cisplatin, fluorouracil radiation therapy",1,549
+649,"cisplatin, fluorouracil, cetuximab",1,544
+650,"cisplatin, fluorouracil, hydroxyurea, radiation therapy",1,545
+651,"cisplatin, fluorouracil, hydroxyurea, rt",1,545
+652,"cisplatin, fluorouracil, pembrolizumab",1,548
+653,"cisplatin, fluorouracil, pembrolizumab, trastuzumab",1,555
+654,"cisplatin, fluorouracil, radiation therapy",1,549
+655,"cisplatin, fluorouracil, tislelizumab",1,552
+656,"cisplatin, fluorouracil, trastuzumab",1,553
+657,"cisplatin, fluourouracil, radiation therapy",1,549
+658,"cisplatin, gemcitabine, radiation therapy",1,564
+659,"cisplatin, gemcitabine, rt",1,564
+660,"cisplatin, irinotecan, radiation therapy",1,590
+661,"cisplatin, leucovorin (folinic acid), fluorouracil",1,623
+662,"cisplatin, leucovorin, fluorouracil",1,623
+663,"cisplatin, methotrexate, vinblastine",1,1526
+664,"cisplatin, oncovin (vicristine), jm8 (carboplatin), etoposide, cyclophosphamide",1,705
+665,"cisplatin, paclitaxel, radiation therapy",1,415
+666,"cisplatin, paclitaxel, rt",1,415
+667,"cisplatin, pemetrexed, atezolizumab",1,439
+668,"cisplatin, pemetrexed, bevacizumab",1,338
+669,"cisplatin, vinblastine, dacarbazine",1,741
+670,"cisplatin, vinblastine, dacarbazine, high-dose interleukin-2, interferon alfa-2b",1,742
+671,"cisplatin, vindesine, dacarbazine",1,741
+672,"cisplatin, vinorelbine, nivolumab",1,576
+673,"cisplatin, vinorelbine, radiation therapy",1,612
+674,"cisplatin, xeloda (capecitabine)",1,332
+675,"cisplatin, xeloda (capecitabine), cetuximab",1,333
+676,"cisplatin, xeloda (capecitabine), pembrolizumab",1,334
+677,"cisplatin, xeloda (capecitabine), pertuzumab, trastuzumab",1,337
+678,"cisplatin, xeloda (capecitabine), radiation therapy",1,358
+679,"cisplatin, xeloda (capecitabine), tislelizumab",1,335
+680,"cisplatin, xeloda (capecitabine), trastuzumab",1,336
+681,civpp,7,511
+682,cladribine and cyclophosphamide (cc),1,380
+683,"cladribine, ara-c (cytarabine), g-csf",1,617
+684,"cladribine, ara-c (cytarabine), g-csf, mitoxantrone",1,618
+685,"cladribine, cyclophosphamide",1,380
+686,"cladribine, mitoxantrone, cyclophosphamide",1,630
+687,"clarithromycin, revlimid (lenalidomide), low-dose dexamethasone",1,252
+688,clb-r,1,508
+689,cld,1,730
+690,clofarabine and ara-c (cytarabine),1,619
+691,clofarabine and low dose ara-c (cytarabine),1,625
+692,clofarabine and low dose ara-c (cytarabine) alternating with decitabine,1,626
+693,"clofarabine, cyclophosphamide, etoposide",1,466
+694,"clofarabine, idarubicin, ara-c (cytarabine)",1,528
+695,cm,1,758
+696,cm-5-fu,7,633
+697,cmf-av,7,2068
+698,cmf-bleo,7,205
+699,cmfavp,7,640
+700,cmp,1,1421
+701,cmp,7,1421
+702,cmv,1,1526
+703,cmv,7,1526
+704,cnf,1,1179
+705,cnf,7,1179
+706,cnop (prednisolone),1,648
+707,cnp,1,400
+708,cof/com,7,644
+709,cog a3961 regimen,1,657
+710,cog aall0932 protocol,1,662
+711,cog aaml1031 arm a (high-risk),1,669
+712,cog aaml1031 arm a (low-risk),1,669
+713,cog aaml1031 arm c (flt3/itd plus ),1,669
+714,cog arst0431 protocol,1,681
+715,cog arst0531 vac arm,1,669
+716,cog arst0531 vac/vi arm,1,669
+717,cog arst1431 protocol a (vac/vi only),1,669
+718,cog arst1431 protocol b (vac/vi and temsirolimus),1,669
+719,cog arst1431 protocol b (vac/vi plus tori),1,669
+720,cog arst1431 protocol c (vac/va only),1,681
+721,cog arst1431 protocol c (vac/va),1,681
+722,cog arst1431 regimen a (vac/vi only),1,669
+723,cog arst1431 regimen b (vac/vi plus tori),1,669
+724,cog arst1431 regimen c (vac/va only),1,681
+725,cog d9802 vac alone arm,1,681
+726,cog d9802 vcpt alternating with vac arm,1,681
+727,combap,7,1510
+728,comf,7,644
+729,comfp,1,646
+730,conpadri,7,716
+731,cooper cmfvp,7,646
+732,cop,1,746
+733,cop-blam,1,330
+734,copad,1,712
+735,copb,7,711
+736,copp,1,305
+737,copp (ccnu),1,305
+738,cox,1,365
+739,cp,1,338
+740,cp and bevacizumab,1,403
+741,cp and camrelizumab,1,404
+742,cp and cemiplimab,1,405
+743,cp and dostarlimab,1,406
+744,cp and durvalumab,1,407
+745,cp and ipilimumab,1,408
+746,"cp and ipilimumab, nivolumab",1,409
+747,cp and nintedanib,1,410
+748,cp and nivolumab,1,411
+749,cp and olaparib,1,412
+750,cp and pembrolizumab,1,413
+751,cp and rt,1,415
+752,cp and sugemalimab,1,416
+753,cp and tislelizumab,1,53
+754,cp and trastuzumab,1,417
+755,cp+bev,1,593
+756,cp+t,1,417
+757,cpb,1,403
+758,cpb,7,403
+759,cpc,1,338
+760,cpc,7,338
+761,cpd,1,781
+762,cpm,7,1421
+763,cpob,7,711
+764,cpp,1,1735
+765,cpx,1,571
+766,cpx-351,1,729
+767,crvd,1,1891
+768,cs,1,574
+769,csa-vad,1,2063
+770,ct,1,338
+771,ctda,1,735
+772,cv,1,384
+773,cvap (prednisolone),1,739
+774,cvb,1,384
+775,cvb,7,384
+776,cvb and nivolumab,1,576
+777,cvd,1,741
+778,cvd (vindesine),1,741
+779,"cvd, il-2, ifn alfa-2b",1,742
+780,cvmf,1,644
+781,cvp (prednisolone),1,746
+782,cvp (vinblastine/prednisolone),1,746
+783,cvp-bleo,7,711
+784,cvp-rit,1,747
+785,cvpp (cyclophosphamide),1,748
+786,cvrd,1,1891
+787,cx,1,332
+788,cx and cetuximab,1,333
+789,cx and pembrolizumab,1,334
+790,cx and rt,1,358
+791,cx and tislelizumab,1,335
+792,cx and trastuzumab,1,336
+793,"cx, pertuzumab, trastuzumab",1,337
+794,cx-c,1,333
+795,cy,1,764
+796,cy monotherapy,1,764
+797,cy-ktd,1,786
+798,cy-tkd,1,786
+799,cy/tbi,1,761
+800,cybor,1,266
+801,cybord,1,741
+802,cycarfd,1,1416
+803,cyclophosphamide,1,764
+804,cyclophosphamide and adriamycin (doxorubicin),1,752
+805,cyclophosphamide and bortezomib,1,266
+806,cyclophosphamide and docetaxel (tc),1,338
+807,cyclophosphamide and epirubicin (ec),1,384
+808,cyclophosphamide and etoposide (cyve),1,755
+809,cyclophosphamide and fludarabine,1,543
+810,cyclophosphamide and fludarabine (fc),1,543
+811,"cyclophosphamide and fludarabine (fc), then allo hsct",1,543
+812,"cyclophosphamide and fludarabine (flucy), then allo hsct",1,543
+813,cyclophosphamide and methotrexate,1,758
+814,cyclophosphamide and npld (mc),1,759
+815,cyclophosphamide and platinol (cisplatin),1,338
+816,cyclophosphamide and prednisone,1,338
+817,cyclophosphamide and rvd,1,1891
+818,"cyclophosphamide and tbi, then allo hsct",1,761
+819,cyclophosphamide and total body irradiation,1,761
+820,cyclophosphamide and velcade,1,266
+821,cyclophosphamide and vrd,1,1891
+822,cyclophosphamide revdex,1,730
+823,"cyclophosphamide, adriamycin (doxorubicin), dexamethasone",1,317
+824,"cyclophosphamide, adriamycin (doxorubicin), etoposide",1,472
+825,"cyclophosphamide, adriamycin (doxorubicin), fluorouracil",1,1095
+826,"cyclophosphamide, adriamycin (doxorubicin), fluorouracil, medroxyprogesterone acetate",1,318
+827,"cyclophosphamide, adriamycin (doxorubicin), fluorouracil, vincristine, prednisone",1,320
+828,"cyclophosphamide, adriamycin (doxorubicin), methotrexate, fluorouracil",1,325
+829,"cyclophosphamide, adriamycin (doxorubicin), methotrexate, fluorouracil, prednisone",1,326
+830,"cyclophosphamide, adriamycin (doxorubicin), methotrexate, procarbazine",1,327
+831,"cyclophosphamide, adriamycin (doxorubicin), oncovin (vincristine)",1,459
+832,"cyclophosphamide, adriamycin (doxorubicin), prednisone",1,329
+833,"cyclophosphamide, adriamycin (doxorubicin), procarbazine, bleomycin, oncovin (vincristine), prednisone",1,330
+834,"cyclophosphamide, adriamycin (doxorubicin), vincristine",1,459
+835,"cyclophosphamide, adriamycin (doxorubicin), vincristine alternating with platinol (cisplatin) and etoposide",1,461
+836,"cyclophosphamide, adriamycin (doxorubicin), vincristine, etoposide",1,462
+837,"cyclophosphamide, adriamycin (doxorubicin), vincristine, radiation therapy",1,460
+838,"cyclophosphamide, bicnu (carmustine), vp-16 (etoposide)",1,463
+839,"cyclophosphamide, bicnu (carmustine), vp-16 (etoposide), mitoxantrone",1,464
+840,"cyclophosphamide, bortezomib, dexamethasone",1,741
+841,"cyclophosphamide, caelyx (liposomal doxorubicin), oncovin (vincristine), prednisone",1,468
+842,"cyclophosphamide, caelyx (pegylated liposomal doxorubicin), oncovin (vincristine), prednisone",1,468
+843,"cyclophosphamide, carfilzomib, dex",1,1416
+844,"cyclophosphamide, carfilzomib, dexamethasone",1,1416
+845,"cyclophosphamide, carfilzomib, thaldex",1,786
+846,"cyclophosphamide, carfilzomib, thalidomide, dex",1,786
+847,"cyclophosphamide, carfilzomib, thalidomide, dexamethasone",1,786
+848,"cyclophosphamide, dacarbazine, vincristine",1,741
+849,"cyclophosphamide, doxorubicin, etoposide",1,472
+850,"cyclophosphamide, epirubicin, eldesine (vindesine), prednisone",1,473
+851,"cyclophosphamide, epirubicin, fluorouracil",1,1119
+852,"cyclophosphamide, epirubicin, fluorouracil alternating with cyclophosphamide, methotrexate, fluorouracil",1,474
+853,"cyclophosphamide, epirubicin, fluorouracil followed by taxotere (docetaxel)",1,1122
+854,"cyclophosphamide, epirubicin, oncovin (vincristine), prednisolone",1,480
+855,"cyclophosphamide, epirubicin, oncovin (vincristine), prednisone",1,480
+856,"cyclophosphamide, epirubicin, platinol (cisplatin)",1,481
+857,"cyclophosphamide, epirubicin, vincristine, radiation therapy",1,488
+858,"cyclophosphamide, etoposide, procarbazine, prednisone, (optional) bleomycin",1,483
+859,"cyclophosphamide, etoposide, vincristine",1,487
+860,"cyclophosphamide, fludarabine, alemtuzumab, rituximab",1,489
+861,"cyclophosphamide, fluorouracil, prednisone",1,491
+862,"cyclophosphamide, fluorouracil, prednisone and bilateral oophorectomy",1,492
+863,"cyclophosphamide, fluorouracil, prednisone, methotrexate, vincristine",1,646
+864,"cyclophosphamide, hexalen (altretamine), adriamycin (doxorubicin), ddp (cisplatin)",1,495
+865,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), etoposide, oncovin (vincristine), prednisone",1,515
+866,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), etoposide, prednisone every 14 days",1,515
+867,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), etoposide, prednisone every 21 days",1,515
+868,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,516
+869,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne every 14 days",1,520
+870,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne radioimmunotherapy",1,519
+871,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne, alemtuzumab",1,22
+872,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne, bleomycin",1,521
+873,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne, campath (alemtuzumab)",1,22
+874,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne, dose-intense",1,520
+875,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne, etoposide",1,515
+876,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne, everolimus",1,517
+877,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone",1,516
+878,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone every 14 days",1,520
+879,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,516
+880,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone every 14 days",1,520
+881,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone every 21 days",1,516
+882,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone, bacillus calmette-guerin",1,522
+883,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone, bleomycin",1,521
+884,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone, dose intense",1,520
+885,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone, rituximab",1,1819
+886,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vm26 (teniposide), prednisone",1,526
+887,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vm26 (teniposide), prednisone, vincristine, bleomycin",1,525
+888,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vp-16 (etoposide), prednisolone, interferon alfa-2a",1,527
+889,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vumon (teniposide), prednisolone, interferon alfa-2b",1,527
+890,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vumon (teniposide), prednisone",1,526
+891,"cyclophosphamide, hydroxydaunorubicin (doxorubicin), vumon (teniposide), prednisone, interferon alfa-2b",1,527
+892,"cyclophosphamide, kyprolis (carfilzomib), thalidomide, dexamethasone",1,786
+893,"cyclophosphamide, kyprolis, dex",1,1416
+894,"cyclophosphamide, kyprolis, dexamethasone",1,1416
+895,"cyclophosphamide, kyprolis, thalidomide, dexamethasone",1,786
+896,"cyclophosphamide, lenalidomide dexamethasone",1,730
+897,"cyclophosphamide, lenalidomide, dex",1,730
+898,"cyclophosphamide, lenalidomide, dexamethasone",1,730
+899,"cyclophosphamide, lenalidomide, prednisone",1,728
+900,"cyclophosphamide, lendex",1,730
+901,"cyclophosphamide, methotrexate, 5-fluorouracil",1,633
+902,"cyclophosphamide, methotrexate, etoposide, dexamethasone",1,632
+903,"cyclophosphamide, methotrexate, fluorouracil",1,633
+904,"cyclophosphamide, methotrexate, fluorouracil, followed by epirubicin",1,635
+905,"cyclophosphamide, methotrexate, fluorouracil, followed by herceptin (trastuzumab)",1,637
+906,"cyclophosphamide, methotrexate, fluorouracil, herceptin (trastuzumab)",1,634
+907,"cyclophosphamide, methotrexate, fluorouracil, prednisone",1,639
+908,"cyclophosphamide, methotrexate, fluorouracil, prednisone, tamoxifen",1,641
+909,"cyclophosphamide, methotrexate, fluorouracil, tamoxifen",1,643
+910,"cyclophosphamide, methotrexate, fluorouracil, vinblastine",1,644
+911,"cyclophosphamide, methotrexate, fluorouracil, vincristine, prednisone",1,646
+912,"cyclophosphamide, novantrone (mitoxantrone), fluorouracil",1,1179
+913,"cyclophosphamide, novantrone (mitoxantrone), oncovin (vincristine), prednisolone",1,648
+914,"cyclophosphamide, novantrone (mitoxantrone), oncovin (vincristine), prednisone",1,648
+915,"cyclophosphamide, oncovin (vincristine), doxorubicin, methotrexate",1,655
+916,"cyclophosphamide, oncovin (vincristine), doxorubicin, methotrexate alternating with ifosfamide, vepesid (etoposide), ara-c (cytarabine)",1,656
+917,"cyclophosphamide, oncovin (vincristine), methotrexate, fluorouracil, prednisone",1,646
+918,"cyclophosphamide, oncovin (vincristine), methotrexate, prednisone",1,710
+919,"cyclophosphamide, oncovin (vincristine), prednisolone",1,746
+920,"cyclophosphamide, oncovin (vincristine), prednisone",1,746
+921,"cyclophosphamide, oncovin (vincristine), prednisone, adriamycin (doxorubicin)",1,712
+922,"cyclophosphamide, oncovin (vincristine), prednisone, adriamycin (doxorubicin) alternating with cytarabine, vepesid (etoposide)",1,714
+923,"cyclophosphamide, oncovin (vincristine), prednisone, adriamycin (doxorubicin), methotrexate",1,715
+924,"cyclophosphamide, oncovin (vincristine), prednisone, bleomycin",1,711
+925,"cyclophosphamide, oncovin (vincristine), prednisone, bleomycin, adriamycin (doxorubicin), matulane (procarbazine),",1,330
+926,"cyclophosphamide, oncovin (vincristine), prednisone, dacarbazine",1,719
+927,"cyclophosphamide, oncovin (vincristine), procarbazine, prednisone",1,305
+928,"cyclophosphamide, oncovin (vincristine), procarbazine, prednisone alternating with adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine",1,721
+929,"cyclophosphamide, oncovin (vincristine), procarbazine, prednisone, adriamycin (doxorubicin), bleomycin, vinblastine",1,306
+930,"cyclophosphamide, oncovin, doxorubicin, methotrexate",1,655
+931,"cyclophosphamide, oncovin, doxorubicin, methotrexate alternating with ifosfamide, vepesid (etoposide), ara-c (cytarabine)",1,656
+932,"cyclophosphamide, platinol (cisplatin), bcnu (carmustine)",1,403
+933,"cyclophosphamide, pomalidomide, dex",1,781
+934,"cyclophosphamide, pomalidomide, dexamethasone",1,781
+935,"cyclophosphamide, pomalidomide, prednisone",1,1735
+936,"cyclophosphamide, pomalyst, dex",1,781
+937,"cyclophosphamide, pomalyst, dexamethasone",1,781
+938,"cyclophosphamide, pomalyst, prednisone",1,1735
+939,"cyclophosphamide, prednisone",1,338
+940,"cyclophosphamide, prednisone, revlimid (lenalidomide)",1,728
+941,"cyclophosphamide, revlimid (lenalidomide), low-dose dexamethasone",1,730
+942,"cyclophosphamide, revlimid, dex",1,730
+943,"cyclophosphamide, revlimid, dexamethasone",1,730
+944,"cyclophosphamide, revlimid, prednisone",1,728
+945,"cyclophosphamide, thalidomide, dexamethasone",1,735
+946,"cyclophosphamide, thalidomide, dexamethasone, attenuated",1,735
+947,"cyclophosphamide, thiotepa, carboplatin",1,734
+948,"cyclophosphamide, velcade (bortezomib), dexamethasone",1,741
+949,"cyclophosphamide, vinblastine, methotrexate, fluorouracil",1,644
+950,"cyclophosphamide, vinblastine, prednisolone",1,746
+951,"cyclophosphamide, vinblastine, procarbazine, prednisone",1,748
+952,"cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone",1,738
+953,"cyclophosphamide, vincristine, adriamycin (doxorubicin), methylprednisolone",1,308
+954,"cyclophosphamide, vincristine, adriamycin (doxorubicin), prednisolone",1,739
+955,"cyclophosphamide, vincristine, adriamycin (doxorubicin), prednisone",1,739
+956,"cyclophosphamide, vincristine, adriamycin, dexamethasone",1,738
+957,"cyclophosphamide, vincristine, adriamycin, melphalan, prednisone",1,308
+958,"cyclophosphamide, vincristine, dacarbazine",1,741
+959,"cyclophosphamide, vincristine, doxorubicin, dexamethasone",1,738
+960,"cyclophosphamide, vincristine, prednisone",1,746
+961,"cyclophosphamide, vincristine, prednisone, then radioimmunotherapy",1,747
+962,cyclophosphamide-pomdex,1,781
+963,cyclophosphamide-pomp,1,1735
+964,"cyclophphosphamide, thalidomide, dex",1,735
+965,cydex,1,751
+966,cykd,1,1416
+967,cyktd,1,786
+968,cylend,1,730
+969,cylendex,1,730
+970,cylenpred,1,728
+971,cym,1,799
+972,cypd,1,781
+973,cypomd,1,781
+974,cypomdex,1,781
+975,cypomp,1,1735
+976,cypp,1,1735
+977,cypr,1,728
+978,cypred,1,338
+979,cyrevd,1,730
+980,cyrevdex,1,730
+981,cyrevpred,1,728
+982,"cyroxan, kyprolis, thalomid, dex",1,786
+983,cyrp,1,728
+984,cyrvd,1,1891
+985,cytarabine and methotrexate,1,799
+986,cytarabine and vepesid (etoposide),1,791
+987,cytarabine and vepeside (etoposide),1,791
+988,"cytarabine, methotrexate",1,799
+989,"cytarabine, vepesid (etoposide)",1,791
+990,"cytarabine, vepesid (etoposide), granulocyte colony stimulating factor",1,792
+991,cytd,1,735
+992,cythald,1,735
+993,cythaldex,1,735
+994,cytkd,1,786
+995,cytoxan,1,764
+996,cytoxan and bortezomib,1,266
+997,cytoxan and prednisone,1,338
+998,cytoxan and velcade,1,266
+999,cytoxan lendex,1,730
+1000,cytoxan monotherapy,1,764
+1001,cytoxan pred,1,338
+1002,cytoxan revdex,1,730
+1003,"cytoxan, carfilzomib, dex",1,1416
+1004,"cytoxan, carfilzomib, dexamethasone",1,1416
+1005,"cytoxan, kyprolis, dex",1,1416
+1006,"cytoxan, kyprolis, dexamethasone",1,1416
+1007,"cytoxan, kyprolis, thaldex",1,786
+1008,"cytoxan, kyprolis, thalomid, dexamethasone",1,786
+1009,"cytoxan, lenalidomide, prednisone",1,728
+1010,"cytoxan, pomalyst, dex",1,781
+1011,"cytoxan, pomalyst, dexamethasone",1,781
+1012,"cytoxan, pomalyst, prednisone",1,1735
+1013,"cytoxan, prednisone",1,338
+1014,"cytoxan, revlimid, dexamethasone",1,730
+1015,"cytoxan, revlimid, prednisone",1,728
+1016,"cytoxan, velcade, decadron",1,741
+1017,"cytoxan, velcade, dex",1,741
+1018,cytoxan-dex,1,751
+1019,cytoxan-pomdex,1,781
+1020,cytoxan-pomp,1,1735
+1021,cyvadact,7,2059
+1022,cyvd,1,741
+1023,cyve,1,791
+1024,cyve,7,791
+1025,cyve and g-csf,1,792
+1026,cyvmad,7,815
+1027,cyvrd,1,1891
+1028,d,1,338
+1029,d-ac+bev,1,817
+1030,d-fec+bev,1,820
+1031,d-kd,1,847
+1032,d-rd,1,849
+1033,d-rvd,1,850
+1034,d-vcd,1,846
+1035,d-vd,1,852
+1036,d-vmp,1,853
+1037,d-vtd,1,854
+1038,da,1,7
+1039,da 3 + 10,1,822
+1040,"da 3 + 10, go",1,823
+1041,da 3 plus 8,1,822
+1042,da 3+8,1,822
+1043,da 3+8 and go,1,824
+1044,"da unorubicin and ara-c (cytarabine), 3 days of daunorubicin + 10 days of cytarabine",1,822
+1045,da-epoch-r,1,826
+1046,dacarbazine and doxorubicin,1,7
+1047,dara,1,856
+1048,dara monotherapy,1,856
+1049,dara-ld,1,849
+1050,dara-lendex,1,849
+1051,dara-mpv,1,853
+1052,dara-mvp,1,853
+1053,dara-pd (sc daratumumab),1,849
+1054,dara-pomdex,1,849
+1055,dara-rd,1,849
+1056,dara-rd (sc daratumumab),1,849
+1057,dara-revdex,1,849
+1058,dara-vcd,1,846
+1059,dara-velcade-dex,1,852
+1060,dara-vmp (sc daratumumab),1,853
+1061,daratumumab,1,856
+1062,"daratumumab and hyaluronidase, cyclophosphamide, bortezomib, dexamethasone",1,846
+1063,"daratumumab and hyaluronidase, pomalidomide, dexamethasone",1,849
+1064,"daratumumab and hyaluronidase, pomalidomide, low-dose dexamethasone",1,849
+1065,"daratumumab and hyaluronidase, revlimid (lenalidomide), low-dose dexamethasone",1,849
+1066,"daratumumab and hyaluronidase, velcade (bortezomib), cyclophosphamide, low-dose dexamethasone",1,846
+1067,"daratumumab and hyaluronidase, velcade (bortezomib), melphalan, prednisone",1,853
+1068,"daratumumab, bortezomib, dexamethasone",1,852
+1069,"daratumumab, bortezomib, melphalan, prednisone",1,853
+1070,"daratumumab, bortezomib-mp",1,853
+1071,"daratumumab, kyprolis (carfilzomib), low-dose dexamethasone",1,847
+1072,"daratumumab, kyprolis (carfilzomib), revlimid (lenalidomide), dexamethasone",1,848
+1073,"daratumumab, lenalidomide, dexamethasone",1,849
+1074,"daratumumab, pomalidomide, dex",1,849
+1075,"daratumumab, pomalidomide, dexamethasone",1,849
+1076,"daratumumab, pomalidomide, low-dose dexamethasone",1,849
+1077,"daratumumab, pomalyst, dex",1,849
+1078,"daratumumab, pomalyst, dexamethasone",1,849
+1079,"daratumumab, revlimid (lenalidomide), dexamethasone",1,849
+1080,"daratumumab, revlimid (lenalidomide), low-dose dexamethasone",1,849
+1081,"daratumumab, revlimid (lenalidomide), velcade (bortezomib), dexamethasone",1,850
+1082,"daratumumab, revlimid, dexamethasone",1,849
+1083,"daratumumab, velcade (bortezomib), dexamethasone",1,852
+1084,"daratumumab, velcade (bortezomib), low-dose dexamethasone",1,852
+1085,"daratumumab, velcade (bortezomib), melphalan, prednisone",1,853
+1086,"daratumumab, velcade (bortezomib), thalidomide, dexamethasone",1,854
+1087,"daratumumab, velcade, dexamethasone",1,852
+1088,"daratumumab, velcade, melphalan, prednisone",1,853
+1089,"daratumumab, velcade-mp",1,853
+1090,daratumumab-ld,1,849
+1091,daratumumab-lendex,1,849
+1092,daratumumab-mpv,1,853
+1093,daratumumab-mvp,1,853
+1094,daratumumab-pd,1,849
+1095,daratumumab-pomdex,1,849
+1096,daratumumab-rd,1,849
+1097,daratumumab-vd,1,852
+1098,daratumumab-vmp,1,853
+1099,darzalex,1,856
+1100,darzalex monotherapy,1,856
+1101,"darzalex, lenalidomide, dexamethasone",1,849
+1102,"darzalex, pomalidomide, dex",1,849
+1103,"darzalex, pomalidomide, dexamethasone",1,849
+1104,"darzalex, pomalyst, dex",1,849
+1105,"darzalex, pomalyst, dexamethasone",1,849
+1106,"darzalex, revlimid, dexamethasone",1,849
+1107,"darzalex, velcade, dexamethasone",1,852
+1108,"darzalex, velcade, melphalan, prednisone",1,853
+1109,darzalex-ld,1,849
+1110,darzalex-lendex,1,849
+1111,darzalex-mpv,1,853
+1112,darzalex-mvp,1,853
+1113,darzalex-pd,1,849
+1114,darzalex-pomdex,1,849
+1115,darzalex-rd,1,849
+1116,darzalex-revdex,1,849
+1117,darzalex-vd,1,852
+1118,darzalex-velcade-dex,1,852
+1119,darzalex-vmp,1,853
+1120,daunorubicin and ara-c (cytarabine),1,7
+1121,"daunorubicin and ara-c (cytarabine), 3 days of daunorubicin + 10 days of cytarabine",1,822
+1122,"daunorubicin and ara-c (cytarabine), 3 days of daunorubicin + 10 days of cytarabine, gemtuzumab ozogamicin",1,823
+1123,"daunorubicin, ara-c (cytarabine), 3 days of daunorubicin + 8 days of cytarabine, gemtuzumab ozogamicin",1,824
+1124,"daunorubicin, ara-c (cytarabine), cladribine",1,831
+1125,"daunorubicin, ara-c (cytarabine), thioguanine",1,864
+1126,"daunorubicin, oncovin (vincristine), l-asparaginase, prednisolone",1,956
+1127,"daunorubicin, oncovin (vincristine), l-asparaginase, prednisone",1,956
+1128,"daunorubicin, vincristine, prednisone, asparaginase",1,956
+1129,dbv,7,197
+1130,dc,1,338
+1131,dc and durvalumab,1,537
+1132,dc and nivolumab,1,538
+1133,dc and rt,1,584
+1134,dcb,1,383
+1135,dct,7,864
+1136,ddac,1,959
+1137,ddac and atezolizumab,1,1669
+1138,ddac-ddth,1,891
+1139,ddac-pacph,1,894
+1140,ddac-th,1,893
+1141,ddac-th (paclitaxel),1,893
+1142,ddac-thp,1,894
+1143,ddac-thp (paclitaxel),1,894
+1144,ddac-thp (phesgo),1,895
+1145,dde,1,961
+1146,ddec-ddt,1,897
+1147,ddec-ddt (paclitaxel),1,897
+1148,ddec-th,1,899
+1149,ddec-th (paclitaxel),1,899
+1150,ddec-thp,1,900
+1151,ddec-thp (paclitaxel),1,900
+1152,ddmvac,1,1625
+1153,ddp,1,338
+1154,ddp-chad,7,495
+1155,ddt,1,338
+1156,de,1,384
+1157,decadron,1,926
+1158,decadron monotherapy,1,926
+1159,degramont regimen,7,1338
+1160,"denileukin, diftitox, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,888
+1161,dex,1,926
+1162,dex monotherapy,1,926
+1163,dexamethasone,1,926
+1164,dexamethasone and aspirin,1,7
+1165,dexamethasone and interferon alfa-2b,1,919
+1166,"dexamethasone, bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,921
+1167,"dexamethasone, bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan, granulocyte colony stimulating factor",1,922
+1168,"dexamethasone, cyclophosphamide, etoposide, cisplatin",1,881
+1169,"dexamethasone, cyclophosphamide, etoposide, platinol",1,881
+1170,"dexamethasone, cyclophosphamide, etoposide, platinol (cisplatin)",1,881
+1171,"dexamethasone, cyclophosphamide, etoposide, platinol (cisplatin), granulocyte colony stimulating factor",1,882
+1172,"dexamethasone, cytarabine, thioguanine, etoposide, rubidomycin (daunomycin)",1,886
+1173,"dexamethasone, ddp (cisplatin), gemcitabine, pegaspargase",1,903
+1174,"dexamethasone, etoposide, cisplatin, ara-c (cytarabine)",1,907
+1175,"dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin)",1,928
+1176,"dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin) alternating with vp-16 (etoposide), ifosfamide, methotrexate",1,929
+1177,"dexamethasone, rituximab, cyclophosphamide",1,983
+1178,"dexamethasone, thalidomide, platinol (cisplatin), adriamycin (doxorubicin), cyclophosphamide, etoposide",1,987
+1179,"dexamethasone, vp-16 (etoposide), ifosfamide, carboplatin, radiation therapy",1,918
+1180,"dexamethasone, vp-16 (etoposide), ifosfamide, platinol (cisplatin)",1,2115
+1181,dfhx,1,953
+1182,dfv,7,543
+1183,dg,1,937
+1184,dg and rt,1,955
+1185,dh,1,338
+1186,dhap - time intensified,1,928
+1187,di,7,1412
+1188,dld,1,849
+1189,dmcodox-m,1,932
+1190,dmcodox-m/ivac,1,933
+1191,doc-cis,1,338
+1192,docetaxel,1,338
+1193,docetaxel and capecitabine,1,338
+1194,docetaxel and carboplatin,1,383
+1195,docetaxel and cisplatin,1,338
+1196,docetaxel and cyclophosphamide,1,338
+1197,docetaxel and doxorubicin (at),1,7
+1198,docetaxel and epirubicin,1,384
+1199,docetaxel and epirubicin (de),1,384
+1200,docetaxel and herceptin (trastuzumab),1,338
+1201,docetaxel and platinol (cisplatin),1,338
+1202,docetaxel and radiation therapy,1,945
+1203,docetaxel and trastuzumab (th),1,338
+1204,docetaxel followed by adriamycin (doxorubicin) and cyclophosphamide,1,816
+1205,"docetaxel followed by adriamycin (doxorubicin) and cyclophosphamide, with bevacizumab",1,817
+1206,docetaxel followed by epirubicin and cyclophosphamide,1,818
+1207,"docetaxel followed by fluorouracil, epirubicin, cyclophosphamide",1,819
+1208,"docetaxel followed by fluorouracil, epirubicin, cyclophosphamide, with bevacizumab",1,820
+1209,docetaxel monotherapy,1,338
+1210,"docetaxel, cetuximab, radiation therapy",1,950
+1211,"docetaxel, cisplatin",1,338
+1212,"docetaxel, cisplatin, durvalumab",1,537
+1213,"docetaxel, cisplatin, fluorouracil",1,884
+1214,"docetaxel, cisplatin, nivolumab",1,538
+1215,"docetaxel, cisplatin, radiation therapy",1,584
+1216,"docetaxel, fluorouracil, hydroxyurea, xrt (radiation therapy)",1,953
+1217,"docetaxel, fluorouracil, radiation therapy",1,954
+1218,"docetaxel, gemcitabine, radiation therapy",1,955
+1219,"docetaxel, oxaliplatin, s-1",1,958
+1220,"docetaxel, platinol (cisplatin), radiation therapy",1,584
+1221,dolp (prednisolone),1,956
+1222,"dose adjusted etoposide, prednisone, oncovin (vincristine), cyclophosphamide, hydroxydaunorubicin (doxorubicin)",1,825
+1223,"dose adjusted rituximab, etoposide, prednisone, oncovin (vincristine), cyclophosphamide, hydroxydaunorubicin (doxorubicin)",1,826
+1224,"dose intensive cyclophosphamide, etoposide, platinol (cisplatin)",1,931
+1225,dose-dense ac-t,1,892
+1226,dose-dense adriamycin (doxorubicin) and cyclophosphamide,1,959
+1227,dose-dense adriamycin (doxorubicin) and cyclophosphamide followed by dose-dense taxol (paclitaxel),1,890
+1228,dose-dense adriamycin (doxorubicin) and cyclophosphamide followed by taxol (paclitaxel),1,892
+1229,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by dose-dense taxol (paclitaxel) and herceptin (trastuzumab)",1,891
+1230,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by paclitaxel, pertuzumab, herceptin (trastuzumab)",1,894
+1231,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel) and herceptin (trastuzumab)",1,893
+1232,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel) and phesgo",1,895
+1233,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,894
+1234,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,893
+1235,"dose-dense adriamycin (doxorubicin) and cyclophosphamide, followed by taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,894
+1236,"dose-dense adriamycin (doxorubicin), cyclophosphamide, atezolizumab",1,1669
+1237,"dose-dense adriamycin (doxorubicin), followed by dose-dense taxol (paclitaxel), followed by dose-dense cyclophosphamide",1,889
+1238,dose-dense epirubicin,1,961
+1239,"dose-dense epirubicin and cyclophosphamide followed by dose-dense cyclophosphamide, methotrexate, fluorouracil",1,897
+1240,"dose-dense epirubicin and cyclophosphamide, followed by taxol (paclitaxel)",1,898
+1241,"dose-dense epirubicin and cyclophosphamide, followed by taxol (paclitaxel) and herceptin (trastuzumab)",1,899
+1242,"dose-dense epirubicin and cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,900
+1243,"dose-dense epirubicin and cyclophosphamide, followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,899
+1244,"dose-dense epirubicin and cyclophosphamide, followed by taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,900
+1245,"dose-dense epirubicin, followed by intense dose-dense cyclophosphamide, methotrexate, fluorouracil",1,896
+1246,"dose-dense fluorouracil, epirubicin, cyclophosphamide followed by dose-dense docetaxel",1,901
+1247,"dose-dense fluorouracil, epirubicin, cyclophosphamide, followed by ddth",1,902
+1248,"dose-dense methotrexate, vinblastine, adriamycin (doxorubicin), cisplatin",1,1625
+1249,"dose-dense methotrexate, vinblastine, adriamycin, cisplatin",1,1625
+1250,dose-dense paclitaxel,1,338
+1251,dose-dense taxol (paclitaxel),1,338
+1252,"dose-dense taxol (paclitaxel), followed by dose-dense epirubicin and cyclophosphamide",1,905
+1253,"dose-dense taxol (paclitaxel), followed by epirubicin and cyclophosphamide",1,906
+1254,dose-intense epirubicin and cyclophosphamide,1,930
+1255,"dose-modified cyclophosphamide, oncovin, doxorubicin, methotrexate",1,932
+1256,"dose-modified cyclophosphamide, oncovin, doxorubicin, methotrexate alternating with ifosfamide, vepesid (etoposide), ara-c (cytarabine)",1,933
+1257,"dose-reduced bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,214
+1258,double umbilical cord blood,1,1151
+1259,douillard regimen,7,1338
+1260,"doxil (liposomal doxorubicin), etoposide, methylprednisolone",1,916
+1261,"doxil (liposomal doxorubicin), vincristine, dexamethasone",1,852
+1262,"doxil (liposomal doxorubicin), vincristine, low-dose dexamethasone",1,852
+1263,"doxil (pegylated liposomal doxorubicin), etoposide, methylprednisolone",1,916
+1264,"doxil (pegylated liposomal doxorubicin), rituximab, cyclophosphamide, oncovin (vincristine), prednisone",1,1813
+1265,"doxil (pegylated liposomal doxorubicin), rituximab, cyclophosphamide, oncovin, prednisone",1,1813
+1266,"doxil (pegylated liposomal doxorubicin), velcade (bortezomib), dexamethasone",1,852
+1267,"doxil (pegylated liposomal doxorubicin), vincristine, dexamethasone",1,852
+1268,"doxil (pegylated liposomal doxorubicin), vincristine, low-dose dexamethasone",1,852
+1269,doxorubicin and bcnu,1,455
+1270,doxorubicin and carmustine,1,455
+1271,doxorubicin and paclitaxel (at),1,7
+1272,doxorubicin non-pegylated liposomal and bevacizumab,1,1663
+1273,doxorubicin non-pegylated liposomal monotherapy,1,1664
+1274,doxorubicin pegylated liposomal and bevacizumab,1,1744
+1275,doxorubicin pegylated liposomal and gemcitabine,1,1242
+1276,doxorubicin pegylated liposomal and trabectedin,1,1745
+1277,doxorubicin pegylated liposomal monotherapy,1,1746
+1278,"doxycycline, cyclophosphamide, bortezomib, dexamethasone",1,982
+1279,dp,1,338
+1280,dp and rt,1,584
+1281,dpd,1,849
+1282,dr-cop,1,1813
+1283,drcop,1,1813
+1284,drd,1,849
+1285,ds,1,946
+1286,dt,1,338
+1287,dt-pace,1,987
+1288,dt-pace,7,987
+1289,ducb,1,1151
+1290,"duvelisib, fludarabine, cyclophosphamide, rituximab",1,927
+1291,dv,1,836
+1292,dvbe,7,47
+1293,dvbe-pc,7,48
+1294,dvd,1,852
+1295,dvd,7,852
+1296,dvip,1,2115
+1297,dvp,7,1807
+1298,dvpa,1,956
+1299,dvpl-asp,7,1471
+1300,e,1,1054
+1301,ea,1,791
+1302,ebd,1,1032
+1303,ebeacopp (prednisolone),1,1001
+1304,ec,1,384
+1305,ec and bevacizumab,1,754
+1306,ec-d plus bev,1,1007
+1307,ec-dt,1,1010
+1308,ec-p,1,1006
+1309,ec-t,1,1006
+1310,ec-th,1,1010
+1311,ec-th (paclitaxel),1,1010
+1312,ec-thp,1,1011
+1313,ec-thp (paclitaxel),1,1011
+1314,ecc,1,1020
+1315,ech-th,1,1015
+1316,ed,1,384
+1317,edap,7,907
+1318,ei,1,1052
+1319,eld,1,1031
+1320,elo-ld,1,1031
+1321,elo-lendex,1,1031
+1322,elo-pom-dex,1,1030
+1323,elo-pomdex,1,1030
+1324,elo-revdex,1,1031
+1325,elo-velcade-dex,1,1032
+1326,"elotuzumab, bortezomib, dexamethasone",1,1032
+1327,"elotuzumab, bortezomib, low-dose dexamethasone",1,1032
+1328,"elotuzumab, lenalidomide, dex",1,1031
+1329,"elotuzumab, lenalidomide, dexamethasone",1,1031
+1330,"elotuzumab, lenalidomide, low-dose dexamethasone",1,1031
+1331,"elotuzumab, pomalidomide, dex",1,1030
+1332,"elotuzumab, pomalidomide, dexamethasone",1,1030
+1333,"elotuzumab, pomalidomide, low-dose dexamethasone",1,1030
+1334,"elotuzumab, pomalyst, dex",1,1030
+1335,"elotuzumab, pomalyst, dexamethasone",1,1030
+1336,"elotuzumab, revlimid (lenalidomide), low-dose dexamethasone",1,1031
+1337,"elotuzumab, revlimid, dex",1,1031
+1338,"elotuzumab, revlimid, dexamethasone",1,1031
+1339,"elotuzumab, velcade (bortezomib), low-dose dexamethasone",1,1032
+1340,"elotuzumab, velcade, dex",1,1032
+1341,"elotuzumab, velcade, dexamethasone",1,1032
+1342,elotuzumab-ld,1,1031
+1343,elotuzumab-lendex,1,1031
+1344,elotuzumab-pd,1,1030
+1345,elotuzumab-pomdex,1,1030
+1346,elotuzumab-rd,1,1031
+1347,elotuzumab-revdex,1,1031
+1348,elotuzumab-vd,1,1032
+1349,ema-86,7,93
+1350,ema-co,1,1035
+1351,"empliciti, lenalidomide, dex",1,1031
+1352,"empliciti, lenalidomide, dexamethasone",1,1031
+1353,"empliciti, pomalidomide, dex",1,1030
+1354,"empliciti, pomalidomide, dexamethasone",1,1030
+1355,"empliciti, pomalyst, dex",1,1030
+1356,"empliciti, pomalyst, dexamethasone",1,1030
+1357,"empliciti, revlimid, dex",1,1031
+1358,"empliciti, revlimid, dexamethasone",1,1031
+1359,"empliciti, velcade, dex",1,1032
+1360,"empliciti, velcade, dexamethasone",1,1032
+1361,empliciti-ld,1,1031
+1362,empliciti-lendex,1,1031
+1363,empliciti-pd,1,1030
+1364,empliciti-pomdex,1,1030
+1365,empliciti-rd,1,1031
+1366,empliciti-revdex,1,1031
+1367,empliciti-vd,1,1032
+1368,eoc,1,1048
+1369,ep,1,384
+1370,ep and bevacizumab,1,540
+1371,ep and durvalumab,1,541
+1372,ep and pembrolizumab,1,542
+1373,ep and rt,1,426
+1374,epd,1,1030
+1375,epirubicin,1,1054
+1376,epirubicin and cyclophosphamide,1,384
+1377,"epirubicin and cyclophosphamide followed by cyclophosphamide, methotrexate, fluorouracil",1,1005
+1378,epirubicin and cyclophosphamide followed by docetaxel,1,1006
+1379,"epirubicin and cyclophosphamide followed by docetaxel, with bevacizumab",1,1007
+1380,epirubicin and cyclophosphamide followed by paclitaxel,1,1006
+1381,epirubicin and cyclophosphamide followed by taxol (paclitaxel),1,1006
+1382,epirubicin and cyclophosphamide followed by taxotere (docetaxel),1,1006
+1383,"epirubicin and cyclophosphamide, followed by docetaxel and trastuzumab",1,1010
+1384,"epirubicin and cyclophosphamide, followed by dose-dense taxol (paclitaxel)",1,1008
+1385,"epirubicin and cyclophosphamide, followed by herceptin (trastuzumab)",1,1009
+1386,"epirubicin and cyclophosphamide, followed by taxol (paclitaxel) and herceptin (trastuzumab)",1,1010
+1387,"epirubicin and cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,1011
+1388,"epirubicin and cyclophosphamide, followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,1010
+1389,"epirubicin and cyclophosphamide, followed by taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,1011
+1390,epirubicin and docetaxel,1,384
+1391,epirubicin and paclitaxel,1,384
+1392,epirubicin and paclitaxel (ep),1,384
+1393,"epirubicin and paclitaxel followed by dose-dense cyclophosphamide, methotrexate, fluorouracil",1,1049
+1394,epirubicin and taxol (paclitaxel),1,384
+1395,epirubicin and taxotere (docetaxel),1,384
+1396,"epirubicin followed by cyclophosphamide, methotrexate, fluorouracil",1,995
+1397,epirubicin followed by docetaxel,1,996
+1398,epirubicin followed by xeloda (capecitabine),1,998
+1399,"epirubicin, bleomycin, vinblastine, prednisone",1,1004
+1400,"epirubicin, cisplatin, capecitabine",1,1020
+1401,"epirubicin, cisplatin, fluorouracil",1,1012
+1402,"epirubicin, cisplatin, fluorouracil alternating with 5-fluorouracil and radiation therapy",1,1013
+1403,"epirubicin, cisplatin, fluorouracil alternating with 5-fluorouracil and radiation therapy sandwich",1,1013
+1404,"epirubicin, cisplatin, xeloda (capecitabine)",1,1020
+1405,"epirubicin, cyclophosphamide, bevacizumab",1,754
+1406,"epirubicin, cyclophosphamide, herceptin (trastuzumab)",1,1014
+1407,"epirubicin, cyclophosphamide, herceptin (trastuzumab), followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,1015
+1408,"epirubicin, docetaxel, capecitabine",1,1021
+1409,"epirubicin, ifosfamide",1,1052
+1410,"epirubicin, oxaliplatin, capecitabine",1,1048
+1411,"epirubicin, oxaliplatin, fluorouracil",1,1047
+1412,"epirubicin, oxaliplatin, fluourouracil",1,1047
+1413,"epirubicin, oxaliplatin, xeloda (capecitabine)",1,1048
+1414,epoch,1,515
+1415,epoch,7,515
+1416,"epoch, dose-escalated",1,515
+1417,erd,1,1031
+1418,"eribulin, herceptin (trastuzumab), pertuzumab",1,1025
+1419,erythropoietin monotherapy,1,1066
+1420,"escalated bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisolone",1,1001
+1421,"escalated bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone",1,1001
+1422,"escalated bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone followed by bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone",1,1003
+1423,"escalated bleomycin, etoposide, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), procarbazine, prednisone, followed by adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine",1,1002
+1424,escbeacopp,1,1001
+1425,et,1,384
+1426,et,7,384
+1427,etoposide and ara-c (cytarabine),1,791
+1428,etoposide and carboplatin,1,384
+1429,etoposide and cisplatin,1,384
+1430,etoposide and paraplatin (carboplatin),1,384
+1431,etoposide and platinol (cisplatin),1,384
+1432,"etoposide and platinol (cisplatin), followed by topotecan",1,1050
+1433,etoposide and total body irradiation,1,1071
+1434,"etoposide, ara-c (cytarabine), rituximab, granulocyte colony stimulating factor",1,999
+1435,"etoposide, ifosfamide, adriamycin (doxorubicin)",1,1026
+1436,"etoposide, methotrexate, actinomycin d alternating with cyclophosphamide and oncovin (vincristine)",1,1035
+1437,"etoposide, methotrexate, actinomycin d, cyclophosphamide, oncovin (vincristine)",1,1035
+1438,"etoposide, paraplatin (carboplatin)",1,384
+1439,"etoposide, paraplatin (carboplatin), radiation therapy",1,426
+1440,"etoposide, platinol (cisplatin)",1,384
+1441,"etoposide, platinol (cisplatin), pembrolizumab",1,542
+1442,"etoposide, platinol (cisplatin), radiation therapy",1,426
+1443,"etoposide, prednisone, oncovin (vincristine), cyclophosphamide, hydroxydaunorubicin (doxorubicin)",1,515
+1444,"etoposide, solumedrol (methylprednisolone) high-dose ara-c (cytarabine), platinol (cisplatin)",1,1067
+1445,"etoposide, solumedrol (methylprednisolone), high dose ara-c (cytarabine), platinol (cisplatin)",1,1067
+1446,"etoposide, vincristine, adriamycin (doxorubicin), cyclophosphamide",1,462
+1447,"etoposide, vincristine, adriamycin (doxorubicin), ifosfamide, dactinomycin",1,1078
+1448,evac,1,462
+1449,evd,1,1032
+1450,evmac,7,1624
+1451,exemestane and ovarian function suppression,1,1086
+1452,f,1,1149
+1453,f-cl,7,1209
+1454,fac-th,1,1102
+1455,fac-th (paclitaxel),1,1102
+1456,fac-thp,1,1103
+1457,fac-thp (paclitaxel),1,1103
+1458,fam-c,7,1533
+1459,fam-trastuzumab deruxtecan monotherapy,1,2030
+1460,fame,7,1533
+1461,fap,7,1722
+1462,"farydak (panobinostat), revlimid (lenalidomide), dexamethasone",1,1205
+1463,farydak and carfilzomib,1,453
+1464,farydak and kyprolis,1,453
+1465,"farydak, bortezomib, dexamethasone",1,268
+1466,"farydak, bortezomib, thaldex",1,276
+1467,"farydak, bortezomib, thalidomide, dex",1,276
+1468,"farydak, bortezomib, thalidomide, dexamethasone",1,276
+1469,"farydak, lenalidomide, dexamethasone",1,1205
+1470,"farydak, revlimid, dexamethasone",1,1205
+1471,"farydak, velcade, dexamethasone",1,268
+1472,"farydak, velcade, thaldex",1,276
+1473,"farydak, velcade, thalidomide, dex",1,276
+1474,"farydak, velcade, thalidomide, dexamethasone",1,276
+1475,farydak-bort-dex,1,268
+1476,farydak-ld,1,1205
+1477,farydak-lendex,1,1205
+1478,farydak-rd,1,1205
+1479,farydak-revdex,1,1205
+1480,farydak-tvd,1,276
+1481,farydak-vd,1,268
+1482,farydak-velcade-dex,1,268
+1483,farydak-vtd,1,276
+1484,fc,1,543
+1485,fc,7,543
+1486,"fc, then allo hsct",1,543
+1487,fccam,1,1113
+1488,fce,7,1119
+1489,fcm-r,1,1116
+1490,fcr (sc rituximab),1,1116
+1491,"fcr, then allo hsct",1,1116
+1492,fec and h (sc),1,1996
+1493,fec-t,1,1124
+1494,fec-th,1,1125
+1495,fec-th (paclitaxel),1,1125
+1496,fec-thp,1,1126
+1497,fec-thp (paclitaxel),1,1126
+1498,fed,7,1024
+1499,ff,1,1209
+1500,ffx,1,1190
+1501,fh,1,1154
+1502,fld,1,1205
+1503,fle,7,1467
+1504,flo,1,1139
+1505,flo,7,1139
+1506,flofiri,7,1338
+1507,flp,1,623
+1508,flu-mel,1,1142
+1509,flu/bu,1,290
+1510,flu/tbi,1,1147
+1511,flubucy,1,1150
+1512,"flubucy, then allo hsct",1,1150
+1513,flucam,1,1140
+1514,fludarabine,1,1149
+1515,fludarabine and busulfan,1,290
+1516,fludarabine and campath (alemtuzumab),1,1140
+1517,fludarabine and cyclophosphamide,1,543
+1518,fludarabine and rituximab,1,1145
+1519,fludarabine and total body irradiation,1,1147
+1520,"fludarabine, ara-c (cytarabine), g-csf",1,1132
+1521,"fludarabine, ara-c (cytarabine), g-csf (filgrastim), idarubicin",1,1134
+1522,"fludarabine, ara-c (cytarabine), g-csf (lenograstim), idarubicin",1,1134
+1523,"fludarabine, ara-c (cytarabine), g-csf, daunoxome (daunorubicin liposomal)",1,1133
+1524,"fludarabine, bcnu (carmustine), melphalan",1,1112
+1525,"fludarabine, busulfan, atg, ibritumomab tiuxetan",1,294
+1526,"fludarabine, busulfan, atg, ibritumomab tiuxetan, then allo hsct",1,295
+1527,"fludarabine, busulfan, cyclophosphamide",1,1150
+1528,"fludarabine, cyclophosphamide",1,543
+1529,"fludarabine, cyclophosphamide, alemtuzumab",1,1113
+1530,"fludarabine, cyclophosphamide, campath (alemtuzumab)",1,1113
+1531,"fludarabine, cyclophosphamide, mitoxantrone",1,1115
+1532,"fludarabine, cyclophosphamide, mitoxantrone, rituximab",1,1116
+1533,"fludarabine, cyclophosphamide, rituximab",1,1116
+1534,"fludarabine, cyclophosphamide, rituximab hyaluronidase",1,1116
+1535,"fludarabine, g-csf, ara-c (cytarabine)",1,1132
+1536,"fludarabine, mitoxantrone",1,1177
+1537,"fludarabine, mitoxantrone, prednisone",1,1178
+1538,"fludarabine, mitoxantrone, rituximab",1,1839
+1539,"fludarabine, novantrone (mitoxantrone), dexamethasone",1,1180
+1540,"fludarabine, rituximab",1,1145
+1541,"fludarabine, sequential high-dose ara-c (cytarabine), idarubicin",1,1093
+1542,fluga,1,1132
+1543,flumel,1,1143
+1544,"fluorouracil , etoposide and leucovorin (folinic acid)",1,1128
+1545,"fluorouracil , etoposide, leucovorin",1,1128
+1546,"fluorouracil , etoposide, leucovorin (folinic acid)",1,1128
+1547,fluorouracil and adriamycin (doxorubicin),1,1094
+1548,fluorouracil and folinic acid,1,1209
+1549,fluorouracil and folinic acid (leucovorin),1,1209
+1550,fluorouracil and heptaplatin,1,1154
+1551,fluorouracil and platinol,1,543
+1552,fluorouracil and platinol (cisplatin),1,543
+1553,fluorouracil and platinol (cisplatin) alternating with capecitabine and radiation therapy,1,1204
+1554,fluorouracil and radiation therapy,1,1160
+1555,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide",1,1095
+1556,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide followed by taxol (paclitaxel)",1,1101
+1557,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, bcg",1,1096
+1558,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, bevacizumab",1,1097
+1559,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, followed by methotrexate and vinblastine",1,1100
+1560,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, followed by taxol (paclitaxel) and herceptin (trastuzumab)",1,1102
+1561,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,1103
+1562,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,1102
+1563,"fluorouracil, adriamycin (doxorubicin), cyclophosphamide, followed by taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,1103
+1564,"fluorouracil, adriamycin (doxorubicin), mitomycin",1,1106
+1565,"fluorouracil, adriamycin (doxorubicin), mtx (methotrexate)",1,1110
+1566,"fluorouracil, adriamycin (doxorubicin), streptozocin",1,1111
+1567,"fluorouracil, epirubicin, cyclophosphamide",1,1119
+1568,"fluorouracil, epirubicin, cyclophosphamide followed by docetaxel",1,1122
+1569,"fluorouracil, epirubicin, cyclophosphamide followed by paclitaxel",1,1124
+1570,"fluorouracil, epirubicin, cyclophosphamide followed by taxol (paclitaxel)",1,1124
+1571,"fluorouracil, epirubicin, cyclophosphamide, bevacizumab",1,1120
+1572,"fluorouracil, epirubicin, cyclophosphamide, followed by herceptin (trastuzumab)",1,1123
+1573,"fluorouracil, epirubicin, cyclophosphamide, followed by taxol (paclitaxel) and herceptin (trastuzumab)",1,1125
+1574,"fluorouracil, epirubicin, cyclophosphamide, followed by taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,1126
+1575,"fluorouracil, epirubicin, cyclophosphamide, followed by taxotere (docetaxel) and herceptin (trastuzumab)",1,1125
+1576,"fluorouracil, epirubicin, cyclophosphamide, followed by taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,1126
+1577,"fluorouracil, epirubicin, cyclophosphamide, herceptin (trastuzumab)",1,1121
+1578,"fluorouracil, epirubicin, cyclophosphamide, herceptin hylecta (trastuzumab and hyaluronidase)",1,1996
+1579,"fluorouracil, epirubicin, mtx (methotrexate)",1,1129
+1580,"fluorouracil, hydroxyurea, radiation therapy",1,1165
+1581,"fluorouracil, leucovorin (folinic acid) and radiation therapy",1,1215
+1582,"fluorouracil, leucovorin (folinic acid), epirubicin, carboplatin",1,1136
+1583,"fluorouracil, leucovorin, etoposide, platinol (cisplatin)",1,1137
+1584,"fluorouracil, leucovorin, oxaliplatin",1,1139
+1585,"fluorouracil, leucovorin, oxaliplatin, taxotere (docetaxel)",1,1138
+1586,"fluorouracil, leucovorin, platinol (cisplatin)",1,623
+1587,"fluorouracil, leucovorin, radiation therapy",1,1215
+1588,"fluorouracil, methotrexate, ara-c (cytarabine), cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1092
+1589,"fluorouracil, mitomycin, radiation therapy",1,1166
+1590,"fluorouracil, novantrone (mitoxantrone), cyclophosphamide",1,1179
+1591,"fluorouracil, oxaliplatin, radiation therapy",1,1167
+1592,"fluorouracil, paclitaxel, radiation therapy",1,1168
+1593,"fluorouracil, platinol",1,543
+1594,"fluorouracil, platinol (cisplatin)",1,543
+1595,"fluorouracil, platinol (cisplatin), radiation therapy",1,549
+1596,"flutamide, goserelin, radiation therapy",1,1175
+1597,"flutamide, leuprolide, radiation therapy",1,1176
+1598,fmr,1,1839
+1599,fms,7,1920
+1600,foflfox-haic,1,1194
+1601,foil,7,1190
+1602,folfiri (l-leucovorin),1,1184
+1603,folfiri and bevacizumab (l-leucovorin),1,1185
+1604,folfiri and cetuximab (l-leucovorin),1,1186
+1605,folfirib,7,235
+1606,folfirinox and bevacizumab (l-leucovorin),1,1191
+1607,folfox,1,1139
+1608,folfox,7,1139
+1609,folfox 7/slv5fu2 (l-leucovorin),1,1193
+1610,folfox chronotherapy,1,1139
+1611,folfox-b,1,1195
+1612,folfox-c,1,1196
+1613,folfox-haic and sorafenib,1,1183
+1614,folfox2,1,1139
+1615,folfox4,1,1139
+1616,folfox4,7,1139
+1617,folfox4 (l-leucovorin),1,1139
+1618,folfox6,1,1139
+1619,folfox6,7,1139
+1620,folfox7,7,1139
+1621,folfoxiri,1,1190
+1622,folfoxiri,7,1190
+1623,folfoxiri and bevacizumab,1,1191
+1624,"folinic acid (l-leucovorin), fluorouracil, irinotecan",1,1184
+1625,"folinic acid (l-leucovorin), fluorouracil, irinotecan, bevacizumab",1,1185
+1626,"folinic acid (l-leucovorin), fluorouracil, irinotecan, oxaliplatin, bevacizumab",1,1191
+1627,"folinic acid (l-leucovorin), fluorouracil, oxaliplatin",1,1139
+1628,"folinic acid (l-leucovorin), fluorouracil, oxaliplatin alternating with simplified l-leucovorin, 5-fu, 2-weekly (every 2 weeks)",1,1193
+1629,"folinic acid (l-leucovorin), fluorouracil, oxaliplatin, bevacizumab",1,1195
+1630,"folinic acid (l-leucovorin), fluorouracil, oxaliplatin, irinotecan, bevacizumab",1,1191
+1631,"folinic acid (leucovorin), fluorouracil, irinotecan",1,1184
+1632,"folinic acid (leucovorin), fluorouracil, irinotecan and ramucirumab",1,1188
+1633,"folinic acid (leucovorin), fluorouracil, irinotecan, bevacizumab",1,1185
+1634,"folinic acid (leucovorin), fluorouracil, irinotecan, cetuximab",1,1186
+1635,"folinic acid (leucovorin), fluorouracil, irinotecan, oxaliplatin",1,1190
+1636,"folinic acid (leucovorin), fluorouracil, irinotecan, oxaliplatin, bevacizumab",1,1191
+1637,"folinic acid (leucovorin), fluorouracil, irinotecan, panitumumab",1,1187
+1638,"folinic acid (leucovorin), fluorouracil, irinotecan, ziv-aflibercept",1,1189
+1639,"folinic acid (leucovorin), fluorouracil, oxaliplatin",1,1139
+1640,"folinic acid (leucovorin), fluorouracil, oxaliplatin 4",1,1139
+1641,"folinic acid (leucovorin), fluorouracil, oxaliplatin alternating with simplified leucovorin, 5-fu, 2-weekly (every 2 weeks)",1,1193
+1642,"folinic acid (leucovorin), fluorouracil, oxaliplatin hepatic arterial infusion chemotherapy",1,1194
+1643,"folinic acid (leucovorin), fluorouracil, oxaliplatin hepatic arterial infusion chemotherapy and sorafenib",1,1183
+1644,"folinic acid (leucovorin), fluorouracil, oxaliplatin, bevacizumab",1,1195
+1645,"folinic acid (leucovorin), fluorouracil, oxaliplatin, cetuximab",1,1196
+1646,"folinic acid (leucovorin), fluorouracil, oxaliplatin, irinotecan",1,1190
+1647,"folinic acid (leucovorin), fluorouracil, oxaliplatin, irinotecan, bevacizumab",1,1191
+1648,"folinic acid (leucovorin), fluorouracil, oxaliplatin, irinotecan, panitumumab",1,1199
+1649,"folinic acid (leucovorin), fluorouracil, oxaliplatin, panitumumab",1,1197
+1650,"folinic acid (leucovorin), fluorouracil, oxaliplatin, radiation therapy",1,1198
+1651,"folinic acid, fluorouracil, irinotecan",1,1184
+1652,"folinic acid, fluorouracil, irinotecan and ramucirumab",1,1188
+1653,"folinic acid, fluorouracil, irinotecan, bevacizumab",1,1185
+1654,"folinic acid, fluorouracil, irinotecan, cetuximab",1,1186
+1655,"folinic acid, fluorouracil, irinotecan, oxaliplatin",1,1190
+1656,"folinic acid, fluorouracil, irinotecan, oxaliplatin, bevacizumab",1,1191
+1657,"folinic acid, fluorouracil, irinotecan, panitumumab",1,1187
+1658,"folinic acid, fluorouracil, irinotecan, ziv-aflibercept",1,1189
+1659,"folinic acid, fluorouracil, oxaliplatin",1,1139
+1660,"folinic acid, fluorouracil, oxaliplatin 4",1,1139
+1661,"folinic acid, fluorouracil, oxaliplatin alternating with simplified leucovorin, 5-fu, 2-weekly (every 2 weeks)",1,1193
+1662,"folinic acid, fluorouracil, oxaliplatin hepatic arterial infusion chemotherapy",1,1194
+1663,"folinic acid, fluorouracil, oxaliplatin hepatic arterial infusion chemotherapy and sorafenib",1,1183
+1664,"folinic acid, fluorouracil, oxaliplatin, bevacizumab",1,1195
+1665,"folinic acid, fluorouracil, oxaliplatin, cetuximab",1,1196
+1666,"folinic acid, fluorouracil, oxaliplatin, irinotecan",1,1190
+1667,"folinic acid, fluorouracil, oxaliplatin, irinotecan, bevacizumab",1,1191
+1668,"folinic acid, fluorouracil, oxaliplatin, irinotecan, panitumumab",1,1199
+1669,"folinic acid, fluorouracil, oxaliplatin, panitumumab",1,1197
+1670,"folinic acid, fluorouracil, oxaliplatin, radiation therapy",1,1198
+1671,"fotemustine, etoposide, ara-c (cytarabine), melphalan",1,1118
+1672,fp,1,543
+1673,fp,7,543
+1674,fp and rt,1,549
+1675,fr,1,1145
+1676,fr,7,1145
+1677,fufa,1,1209
+1678,fufiri,1,1184
+1679,fulv and bevacizumab (l-leucovorin),1,1211
+1680,fuox and rt,1,1167
+1681,fuox and tislelizumab,1,1158
+1682,fup,7,543
+1683,g+v,1,1248
+1684,g-b,1,224
+1685,g-clam,7,618
+1686,"g-csf, clofarabine, ara-c (cytarabine)",1,619
+1687,ga101 (obinutuzumab) and chlorambucil,1,504
+1688,gazyva (obinutuzumab) and bendamustine,1,224
+1689,gazyva (obinutuzumab) and venetoclax,1,1248
+1690,"gazyva (obinutuzumab), bendamustine",1,224
+1691,"gazyva (obinutuzumab), cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1225
+1692,"gazyva (obinutuzumab), cyclophosphamide, vincristine, prednisone",1,1226
+1693,"gazyva (obinutuzumab), fludarabine, cyclophosphamide",1,1227
+1694,gc,1,391
+1695,gc and atezolizumab,1,556
+1696,gc and bevacizumab,1,391
+1697,gc and camrelizumab,1,557
+1698,gc and cetuximab,1,558
+1699,gc and durvalumab,1,559
+1700,gc and nab-paclitaxel,1,560
+1701,gc and necitumumab,1,561
+1702,gc and nivolumab,1,562
+1703,gc and pembrolizumab,1,563
+1704,gc and rt,1,564
+1705,gc and toripalimab,1,565
+1706,gca,1,391
+1707,gcb,1,391
+1708,gcb and atezolizumab,1,392
+1709,gcb and durvalumab,1,394
+1710,gcb and pembrolizumab,1,396
+1711,gclac,1,619
+1712,gclb,1,504
+1713,gcp,1,395
+1714,gcp,7,395
+1715,gcs,1,1251
+1716,gd,1,937
+1717,gdoc,1,937
+1718,"gefitinib, carboplatin, pemetrexed",1,395
+1719,gem-cap,1,341
+1720,gem-cap,7,341
+1721,gemcap,1,341
+1722,gemcitabine alternating with fluorouracil and radiation therapy,1,1253
+1723,gemcitabine and capecitabine,1,341
+1724,gemcitabine and carboplatin,1,391
+1725,gemcitabine and cisplatin,1,391
+1726,gemcitabine and docetaxel,1,937
+1727,gemcitabine and oxaliplatin,1,1255
+1728,gemcitabine and paclitaxel,1,391
+1729,gemcitabine and platinol (cisplatin),1,391
+1730,gemcitabine and radiation therapy,1,1244
+1731,gemcitabine and taxol (paclitaxel),1,391
+1732,"gemcitabine, carboplatin, atezolizumab",1,392
+1733,"gemcitabine, carboplatin, dexamethasone",1,1228
+1734,"gemcitabine, carboplatin, dexamethasone, rituximab",1,1229
+1735,"gemcitabine, carboplatin, durvalumab",1,394
+1736,"gemcitabine, carboplatin, paclitaxel",1,395
+1737,"gemcitabine, carboplatin, pembrolizumab",1,396
+1738,"gemcitabine, cetuximab, radiation therapy",1,1250
+1739,"gemcitabine, cisplatin",1,391
+1740,"gemcitabine, cisplatin, atezolizumab",1,556
+1741,"gemcitabine, cisplatin, bevacizumab",1,391
+1742,"gemcitabine, cisplatin, durvalumab",1,559
+1743,"gemcitabine, cisplatin, nivolumab",1,562
+1744,"gemcitabine, cisplatin, pembrolizumab",1,563
+1745,"gemcitabine, cisplatin, toripalimab",1,565
+1746,"gemcitabine, ddp (cisplatin), prednisone, thalidomide",1,1231
+1747,"gemcitabine, dexamethasone, platinol (cisplatin)",1,1230
+1748,"gemcitabine, herceptin (trastuzumab), pertuzumab",1,1259
+1749,"gemcitabine, ifosfamide, platinol (cisplatin)",1,1261
+1750,"gemcitabine, l-asparaginase, oxaliplatin, alternating with radiation therapy",1,1235
+1751,"gemcitabine, oxaliplatin",1,1255
+1752,"gemcitabine, oxaliplatin , sorafenib",1,1256
+1753,"gemcitabine, oxaliplatin, bevacizumab",1,1257
+1754,"gemcitabine, oxaliplatin, rituximab",1,1843
+1755,"gemcitabine, platinol (cisplatin), camrelizumab",1,557
+1756,"gemcitabine, taxotere (docetaxel), xeloda (capecitabine)",1,1273
+1757,"gemcitabine, vinorelbine, doxil (doxorubicin liposomal)",1,1274
+1758,"gemcitabine, vinorelbine, doxil (liposomal doxorubicin)",1,1274
+1759,"gemcitabine, vinorelbine, doxil (pegylated liposomal doxorubicin)",1,1274
+1760,"gemcitabine, vinorelbine, platinol (cisplatin)",1,1275
+1761,"gemcitabine, vinorelbine, prednisolone",1,1275
+1762,gemox-r,1,1843
+1763,"german multicenter study group for the treatment of adult acute lymphoblastic leukemia, rituximab",1,1265
+1764,glasdegib and low dose ara-c (cytarabine),1,1262
+1765,gop,1,1252
+1766,goserelin and radiation therapy,1,1267
+1767,gp,1,391
+1768,gp and camrelizumab,1,557
+1769,groc,7,1843
+1770,gs,1,1245
+1771,gt,1,391
+1772,gv,1,1248
+1773,gve,1,1248
+1774,h+d,1,338
+1775,h-cap,7,495
+1776,hd,1,101
+1777,hd il-2,1,1293
+1778,hd-vac,7,1624
+1779,hdac,1,1292
+1780,hdac,7,1292
+1781,hdac and g-csf,1,1289
+1782,hdara-c,7,1292
+1783,hdarac,1,1292
+1784,hdi,1,1366
+1785,hdm,1,338
+1786,hdmtx,7,1334
+1787,hdmtx-cf,7,1623
+1788,hdmtx/lv,7,1623
+1789,hdpeb,7,232
+1790,head start iii regimen d,1,681
+1791,herceptin (trastuzumab) and docetaxel,1,338
+1792,herceptin (trastuzumab) and taxotere (docetaxel),1,338
+1793,"hexalen (altretamine), cyclophosphamide, adrucil (fluorouracil), folex (methotrexate)",1,1285
+1794,hexamethylmelamine (altretamine) and ddp (cisplatin),1,101
+1795,hidac,1,1292
+1796,hidac,7,1292
+1797,hidac-3-5,1,71
+1798,hidac-3-7,1,71
+1799,high dose ara-c (cytarabine),1,1292
+1800,high dose ara-c (cytarabine) and all-trans retinoic acid,1,1288
+1801,high dose ara-c (cytarabine) and granulocyte colony stimulating factor,1,1289
+1802,high dose ara-c (cytarabine) and midostaurin,1,1290
+1803,high dose ara-c (cytarabine) and quizartinib,1,1291
+1804,high dose arac (cytarabine),1,1292
+1805,"high dose, methylprednisolone and rituximab",1,1281
+1806,"high dose, methylprednisolone, rituximab",1,1281
+1807,high-dose ara-c (cytarabine) and mitoxantrone,1,1278
+1808,high-dose ara-c (cytarabine) and mitoxantrone and imatinib,1,1279
+1809,"high-dose ara-c (cytarabine), 3 days of daunorubicin, 5 days of etoposide",1,71
+1810,"high-dose ara-c (cytarabine), 3 days of daunorubicin, 7 days of etoposide",1,71
+1811,"high-dose ara-c (cytarabine), mitoxantrone",1,1278
+1812,high-dose interferon,1,1366
+1813,high-dose melphalan,1,338
+1814,"high-dose methotrexate, adriamycin (doxorubicin)",1,108
+1815,"high-dose methotrexate, adriamycin (doxorubicin), bleomycin, cyclophosphamide, dactinomycin",1,1504
+1816,"high-dose methotrexate, adriamycin (doxorubicin), platinol (cisplatin)",1,1515
+1817,"high-dose methotrexate, adriamycin (doxorubicin), platinol (cisplatin), ifosfamide",1,1516
+1818,"high-dose methotrexate, adriamycin (doxorubicin), platinol (cisplatin), ifosfamide, etoposide",1,669
+1819,"high-dose methotrexate, bleomycin, cyclophosphamide, dactinomycin",1,1501
+1820,hmtx,7,1334
+1821,"homoharringtonine (omacetaxine), ara-c (cytarabine), aclarubicin",1,1276
+1822,"homoharringtonine (omacetaxine), ara-c (cytarabine), daunorubicin",1,1277
+1823,hop,1,125
+1824,hop,7,125
+1825,ht,1,338
+1826,"hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,125
+1827,hydroxyurea and radiation therapy,1,1300
+1828,hyper-cvad + r,7,1846
+1829,"hyperfractionated cyclophosphamide, hiigh-dose ara-c (cytarabine) and methotrexate",1,1309
+1830,"hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone",1,1303
+1831,"hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone alternating with methorexate and ara-c (cytarabine) and dasatinib",1,1305
+1832,"hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone alternating with methorexate and ara-c (cytarabine) and imatinib",1,1307
+1833,"hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone alternating with methorexate and ara-c (cytarabine) and ponatinib",1,1308
+1834,"hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone alternating with methotrexate, ara-c (cytarabine)",1,1304
+1835,"hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone alternating with methotrexate, ara-c (cytarabine), with everolimus",1,1306
+1836,i-chop,1,520
+1837,ia,1,13
+1838,ibr,1,227
+1839,"ibritumomab tiuxetan, fludarabine, cyclophosphamide",1,1
+1840,"ibrutinib, bendamustine, rituximab",1,227
+1841,"ibrutinib, fludarabine, cyclophosphamide, rituximab",1,1337
+1842,"ibrutinib, rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne alternating with rituximab, dexamethasone, high-dose ara-c (cytarabine), oxaliplatin",1,1389
+1843,"ibrutinib, rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne alternating with rituximab, dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin)",1,1390
+1844,ic,1,399
+1845,ic and norethandrolone,1,1319
+1846,ice,1,93
+1847,ice,7,93
+1848,ice-r,1,1847
+1849,id,1,1412
+1850,id,7,1412
+1851,idac,1,18
+1852,idarubicin and ara-c (cytarabine),1,13
+1853,"idarubicin, ara-c (cytarabine), pravastatin",1,1310
+1854,"idarubicin, cytarabine, etoposide",1,93
+1855,"idarubicin, cytarabine, etoposide, all-trans retinoic acid",1,1320
+1856,"idarubicin, cytarabine, lomustine",1,1322
+1857,"idarubicin, cytarabine, norethandrolone",1,1319
+1858,"idarubicin, cytarabine, norethandrolone alternating with 6-mp, mtx, norethandrolone",1,1319
+1859,idd-etc,1,1329
+1860,idelar,1,1332
+1861,if,1,1184
+1862,ifn and dex,1,1360
+1863,ifn and dexamethasone,1,1360
+1864,ifn and prednisone,1,1363
+1865,ifn and thalidomide,1,1364
+1866,ifn-a and dex,1,1360
+1867,ifn-a and dexamethasone,1,1360
+1868,ifn-a and prednisone,1,1363
+1869,ifn-a and thalidomide,1,1364
+1870,ifosfamide and etoposide,1,1336
+1871,"ifosfamide, carboplatin, etoposide",1,93
+1872,"ifosfamide, carboplatin, etoposide, rituximab",1,1847
+1873,"ifosfamide, etoposide",1,1336
+1874,"ifosfamide, gemcitabine, vinorelbine",1,1347
+1875,"ifosfamide, gemcitabine, vinorelbine, granulocyte colony stimulating factor",1,1348
+1876,"ifosfamide, methotrexate, vp-16 (etoposide)",1,1075
+1877,"ifosfamide, platinol (cisplatin), bleomycin, cyclophosphamide, dactinomycin",1,1382
+1878,"ifosfamide, vincristine, actinomycin-d (dactinomycin)",1,2069
+1879,"ifosfamide, vincristine, dactinomycin",1,2069
+1880,"ifosfamide, vp-16 (etoposide), epirubicin",1,1409
+1881,ig,1,1341
+1882,iht,1,1369
+1883,il-2 monotherapy,1,1349
+1884,ild,1,1391
+1885,imatinib and low dose ara-c,1,1351
+1886,imvp-16,1,1075
+1887,imvp-16,7,1075
+1888,induction is received by all patients and consists of 2 cycles of map. the remainder of this protocol is for good responders.,1,1517
+1889,induction is received by all patients and consists of 2 cycles of map; subsequent treatments in this protocol are for poor responders.,1,669
+1890,"intense dose-dense epirubicin, nab-paclitaxel, cyclophosphamide",1,1328
+1891,"intense dose-dense epirubicin, paclitaxel, cyclophosphamide",1,1329
+1892,"intense dose-dense epirubicin, taxol (paclitaxel), cyclophosphamide",1,1329
+1893,"intensified cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,520
+1894,"intensive cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,520
+1895,interferon alfa and dex,1,1360
+1896,interferon alfa and prednisone,1,1363
+1897,interferon alfa and thalidomide,1,1364
+1898,interferon and dex,1,1360
+1899,interferon and dexamethasone,1,1360
+1900,interferon and prednisone,1,1363
+1901,interferon and thalidomide,1,1364
+1902,intermediate dose ara-c (cytarabine),1,18
+1903,intermediate dose ara-c (cytarabine) and sorafenib,1,1324
+1904,intermediate-dose cytarabine monotherapy (idac),1,18
+1905,intermittent hormone therapy,1,1369
+1906,intron a and dex,1,1360
+1907,intron a and dexamethasone,1,1360
+1908,intron a and prednisone,1,1363
+1909,intron a and thalidomide,1,1364
+1910,ip,1,399
+1911,ip,7,399
+1912,ipilimumab and radiation therapy,1,1385
+1913,"ipilimumab, then nivolumab",1,1387
+1914,irinotecan and 5-fluorouracil,1,1184
+1915,irinotecan and carboplatin,1,399
+1916,irinotecan and cisplatin,1,399
+1917,irinotecan and oxaliplatin,1,1402
+1918,irinotecan and paraplatin (carboplatin),1,399
+1919,irinotecan and platinol (cisplatin),1,399
+1920,irinotecan and s-1,1,1400
+1921,"irinotecan, fluorouracil, leucovorin",1,1338
+1922,"irinotecan, fluorouracil, leucovorin (folinic acid)",1,1338
+1923,"irinotecan, fluorouracil, leucovorin (folinic acid), bevacizumab",1,1339
+1924,"irinotecan, fluorouracil, leucovorin, bevacizumab",1,1339
+1925,"irinotecan, platinol (cisplatin)",1,399
+1926,"irinotecan, s-1, bevacizumab",1,1401
+1927,"isatuximab, kyprolis (carfilzomib), low-dose dexamethasone",1,1403
+1928,"isatuximab, pomalidomide, dexamethasone",1,1404
+1929,"isatuximab, pomalidomide, low-dose dexamethasone",1,1404
+1930,"isatuximab, revlimid (lenalidomide), velcade (bortezomib), dexamethasone",1,1405
+1931,isotretinoin and dinutuximab,1,1406
+1932,itp,7,2005
+1933,iva,1,2069
+1934,ixa,1,1413
+1935,ixa dex,1,1412
+1936,ixa monotherapy,1,1413
+1937,ixa-lendex,1,1391
+1938,ixa-revdex,1,1391
+1939,ixazomib,1,1413
+1940,ixazomib dex,1,1412
+1941,"ixazomib, dexamethasone, rituximab",1,1335
+1942,"ixazomib, lenalidomide, dex",1,1391
+1943,"ixazomib, lenalidomide, dexamethasone",1,1391
+1944,"ixazomib, revlimid (lenalidomide), low-dose dexamethasone",1,1391
+1945,"ixazomib, revlimid, dex",1,1391
+1946,"ixazomib, revlimid, dexamethasone",1,1391
+1947,ixazomib-lendex,1,1391
+1948,ixazomib-rd,1,1391
+1949,ixazomib-revdex,1,1391
+1950,k,1,454
+1951,kcyd,1,1416
+1952,kd,1,451
+1953,kdd,1,847
+1954,kdr,1,730
+1955,"keytruda, pomalidomide, dexamethasone",1,1787
+1956,"keytruda, pomalyst, dex",1,1787
+1957,"keytruda, pomalyst, dexamethasone",1,1787
+1958,keytruda-pd,1,1787
+1959,keytruda-pomdex,1,1787
+1960,kpd,1,781
+1961,kr,1,452
+1962,krd,1,730
+1963,krd,7,730
+1964,kyprolis,1,454
+1965,kyprolis (carfilzomib) and low-dose dexamethasone,1,451
+1966,kyprolis (carfilzomib) and revlimid (lenalidomide),1,452
+1967,"kyprolis (carfilzomib), cyclophosphamide, dexamethasone",1,1416
+1968,"kyprolis (carfilzomib), dexamethasone, platinol (cisplatin), adriamycin (doxorubicin), cyclophosphamide, etoposide (toposar)",1,1417
+1969,"kyprolis (carfilzomib), low-dose dexamethasone, daratumumab",1,847
+1970,"kyprolis (carfilzomib), melphalan, prednisone",1,1421
+1971,"kyprolis (carfilzomib), pomalidomide, dexamethasone",1,781
+1972,"kyprolis (carfilzomib), revlimid (lenalidomide), dexamethasone, platinol (cisplatin), adriamycin (doxorubicin), cyclophosphamide, etoposide",1,1422
+1973,"kyprolis (carfilzomib), revlimid (lenalidomide), low-dose dexamethasone",1,730
+1974,"kyprolis (carfilzomib), revlimid (lenalidomide), low-dose dexamethasone, low-dose cyclophosphamide",1,1423
+1975,"kyprolis (carfilzomib), revlimid (lenalidomide),dexamethasone, platinol (cisplatin), adriamycin (doxorubicin), cyclophosphamide, etoposide (toposar)",1,1422
+1976,"kyprolis (carfilzomib), thalidomide, dexamethasone",1,1424
+1977,kyprolis and dex,1,451
+1978,kyprolis and dexamethasone,1,451
+1979,kyprolis and farydak,1,453
+1980,kyprolis and panobinostat,1,453
+1981,kyprolis monotherapy,1,454
+1982,"kyprolis, lendex",1,730
+1983,"kyprolis, melphalan, prednisone",1,1421
+1984,"kyprolis, pomalidomide, dex",1,781
+1985,"kyprolis, pomalidomide, dexamethasone",1,781
+1986,"kyprolis, pomalyst, dex",1,781
+1987,"kyprolis, pomalyst, dexamethaonse",1,781
+1988,"kyprolis, revlimid, dex",1,730
+1989,"kyprolis, revlimid, dexamethasone",1,730
+1990,"kyprolis, thaldex",1,1424
+1991,"kyprolis, thalomid, dex",1,1424
+1992,"kyprolis, thalomid, dexamethasone",1,1424
+1993,kyprolis-mp,1,1421
+1994,kyprolis-pomdex,1,781
+1995,l+t,1,1440
+1996,"l-folinic acid (leucovorin), fluorouracil, irinotecan, cetuximab",1,1186
+1997,"l-folinic acid, fluorouracil, irinotecan",1,1184
+1998,"l-folinic acid, fluorouracil, irinotecan, bevacizumab",1,1185
+1999,"l-folinic acid, fluorouracil, irinotecan, cetuximab",1,1186
+2000,"l-folinic acid, fluorouracil, irinotecan, oxaliplatin, bevacizumab",1,1191
+2001,"l-folinic acid, fluorouracil, oxaliplatin",1,1139
+2002,"l-folinic acid, fluorouracil, oxaliplatin alternating with simplified l-leucovorin, 5-fu, 2-weekly (every 2 weeks)",1,1193
+2003,"l-folinic acid, fluorouracil, oxaliplatin, irinotecan, bevacizumab",1,1191
+2004,l-m-dex,1,1620
+2005,"l-pam (melphalan), endoxan (cyclophosphamide), etoposide, dexamethasone",1,1448
+2006,lcyd,1,730
+2007,ld,1,1449
+2008,ld il-2,1,1489
+2009,ldac,1,1488
+2010,ldc,1,730
+2011,len,1,1454
+2012,lenalidomide,1,1454
+2013,lenalidomide and dexamethasone,1,1449
+2014,lenalidomide and low-dose dexamethasone,1,1449
+2015,lenalidomide and prednisone,1,1451
+2016,lenalidomide and rituximab,1,1452
+2017,"lenalidomide, bortezomib, cyclophosphamide, dex",1,1891
+2018,"lenalidomide, bortezomib, cyclophosphamide, dexamethasone",1,1891
+2019,"lenalidomide, bortezomib, dex",1,1890
+2020,"lenalidomide, bortezomib, dexamethasone",1,1890
+2021,"lenalidomide, carfilzomib, dex",1,730
+2022,"lenalidomide, carfilzomib, dexamethasone",1,730
+2023,"lenalidomide, dexamethasone, cyclophosphamide",1,730
+2024,"lenalidomide, melphalan, dexamethasone",1,1620
+2025,"lenalidomide, mp",1,1617
+2026,"lenalidomide, rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone given every 21 days",1,1861
+2027,lenalidomide-vd,1,1890
+2028,lencydex,1,730
+2029,lendex,1,1449
+2030,lendex-ixa,1,1391
+2031,lenpred,1,1451
+2032,leucovorin (folinic acid) and 5-fu for 2 days,1,1209
+2033,leucovorin and 5-fu for 2 days,1,1209
+2034,"leucovorin and 5-fu, two days out of the month",1,1209
+2035,"leukeran (chlorambucil), oncovin (vincristine), procarbazine, prednisone",1,1485
+2036,"leukeran (chlorambucil), oncovin (vincristine), procarbazine, prednisone alternating with etoposide, vinblastine, adriamycin (doxorubicin), prednisone",1,1486
+2037,liposomal cytarabine and daunorubicin,1,729
+2038,"liposomal doxorubicin, cisplatin, fluorouracil",1,1447
+2039,lmp,1,1617
+2040,lodac,1,1488
+2041,"lomustine, temozolomide, radiation therapy",1,1483
+2042,low dose ara-c (cytarabine),1,1488
+2043,low dose ara-c (cytarabine) and venetoclax,1,1477
+2044,low-dose ara-c (cytarabine),1,1488
+2045,"low-dose velcade (bortezomib), thalidomide, dexamethasone",1,2141
+2046,lr,1,1452
+2047,lr-chop-21,1,1861
+2048,lv,7,1209
+2049,lv5fu-p,7,1338
+2050,lv5fu2,1,1209
+2051,lv5fu2,7,1209
+2052,lvp,1,1428
+2053,lvp .22sandwich.22,1,1428
+2054,"m-a-msa (amsacrine), ara-c (cytarabine), etoposide",1,1507
+2055,m-amsa (amsacrine) and ara-c (cytarabine),1,108
+2056,m-dex,1,1537
+2057,m2,7,2084
+2058,ma,1,108
+2059,mac,1,18
+2060,mae,1,93
+2061,mapie,1,669
+2062,"maximum-strength rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne alternating with rituximab, high-dose ara-c (cytarabine)",1,1519
+2063,mayo regimen,7,1509
+2064,mbd,7,1521
+2065,mbp,7,1521
+2066,mc,1,759
+2067,mc,7,759
+2068,mchop,1,518
+2069,mcop,1,648
+2070,mcp,1,1481
+2071,mcp,7,1481
+2072,mcp (prednisolone),1,1481
+2073,me,1,1069
+2074,mec,1,93
+2075,mec,7,93
+2076,"meccnu (semustine), oncovin (vincristine), fluorouracil",1,1604
+2077,"mechlorethamine, oncovin (vincristine), procarbazine, prednisone",1,1609
+2078,"mechlorethamine, vinblastine, procarbazine, prednisone",1,1630
+2079,medroxyprogesterone and tamoxifen,1,1531
+2080,medroxyprogesterone monotherapy,1,1532
+2081,melph,1,338
+2082,melphalan,1,338
+2083,melphalan and prednisolone,1,1539
+2084,melphalan and prednisone,1,1539
+2085,melphalan and tbi,1,1490
+2086,"melphalan and tbi, then auto hsct",1,1490
+2087,melphalan and total body irradiation,1,1490
+2088,melphalan flufenamide monotherapy,1,1540
+2089,melphalan monotherapy,1,338
+2090,"melphalan, lenalidomide, prednisone",1,1617
+2091,"melphalan, prednisone, lenalidomide",1,1617
+2092,"melphalan, prednisone, revlimid (lenalidomide)",1,1617
+2093,"melphalan, prednisone, thalidomide",1,1618
+2094,"melphalan, prednisone, velcade (bortezomib)",1,1619
+2095,"melphalan, revlimid (lenalidomide), dexamethasone",1,1620
+2096,"melphalan, revlimid, prednisone",1,1617
+2097,"melphalan, thalidomide, prednisone",1,1618
+2098,"melphalan, then fludarabine, busulfan, atg, then allo hsct",1,1541
+2099,"melphalan, then melphalan and busulfan",1,1542
+2100,"melphalan, then melphalan and tbi",1,1543
+2101,"melphalan, then tbi, then allo hsct",1,1544
+2102,memorial sloan-kettering protocol,7,1918
+2103,mercaptopurine and whole brain radiation therapy,1,1549
+2104,"mesna, adriamycin (doxorubicin), ifosfamide, dacarbazine",1,1514
+2105,"mesna, ifosfamide, novantrone (mitoxantrone), etoposide",1,1578
+2106,"methotrexate (moderate dose), bleomycin, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), dexamethasone",1,1498
+2107,methotrexate and 5-fluorouracil,1,1156
+2108,methotrexate and fluorouracil,1,1156
+2109,"methotrexate, adriamycin (doxorubicin), cyclophosphamide, ccnu (lomustine)",1,1506
+2110,"methotrexate, adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), prednisone, bleomycin",1,1510
+2111,"methotrexate, ara-c (cytarabine), thiotepa, rituximab",1,1518
+2112,"methotrexate, bcnu (carmustine), vumon (teniposide), prednisone",1,1522
+2113,"methotrexate, ccnu (lomustine), procarbazine",1,1481
+2114,"methotrexate, cisplatin, vinblastine",1,1526
+2115,"methotrexate, etoposide, ifosfamide",1,1502
+2116,"methotrexate, etoposide, steroid (dexamethasone), peg-a-sparaginase alternating with radiation ttherapy",1,1555
+2117,"methotrexate, platinol (cisplatin), bleomycin",1,260
+2118,"methotrexate, procarbazine, vincristine",1,1619
+2119,"methotrexate, rt, cyclophosphamide",1,780
+2120,"methotrexate, taxol (paclitaxel), ifosfamide, platinol (cisplatin)",1,1503
+2121,"methotrexate, temozolomide, rituximab",1,1621
+2122,"methotrexate, then cytarabine",1,1564
+2123,"methotrexate, then cytarabine and thiotepa",1,1565
+2124,"methotrexate, vinblastine, adriamycin (doxorubicin), cisplatin",1,1624
+2125,"methotrexate, vinblastine, adriamycin, cisplatin",1,1624
+2126,"methotrexate, vinblastine, epirubicin, cisplatin",1,1627
+2127,"methotrexate, vp16 (etoposide), bcnu (carmustine), methylprednisolone",1,1626
+2128,mf,1,1156
+2129,mfolfirinox,1,1192
+2130,mfolfirinox (no folinic acid),1,1192
+2131,mfolfox6,1,1139
+2132,mfolfox6 (l-leucovorin),1,1139
+2133,mfolfox6 and cetuximab,1,1196
+2134,mfolfox6-b,1,1195
+2135,mfolfox6-b (l-leucovorin),1,1195
+2136,mfolfox7,1,1139
+2137,mfolfox7 (l-leucovorin),1,1139
+2138,mfolfoxiri and cetuximab,1,1574
+2139,mgemox,1,1255
+2140,mice,1,93
+2141,mice,7,93
+2142,midac,1,18
+2143,mifa,7,1106
+2144,mifl,1,1338
+2145,mifl,7,1338
+2146,mifl and bevacizumab,1,1339
+2147,"mini (lower intensity) hyperfractionated cyclophosphamide, vincristine, dexamethasone alternating with methotrexate and ara-c (cytarabine) and inotuzumab ozogamicin",1,1580
+2148,mini-beam,1,214
+2149,mini-beam,7,214
+2150,"mini-dose cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone, followed by fludarabine",1,1581
+2151,mip,1,1576
+2152,mitomycin and vinblastine,1,1584
+2153,"mitomycin, cisplatin, fluorouracil",1,1524
+2154,"mitomycin, ifosfamide, cisplatin",1,1576
+2155,"mitomycin, ifosfamide, platinol (cisplatin)",1,1576
+2156,"mitomycin, vinblastine, platinol (cisplatin)",1,1619
+2157,"mitomycin, vindesine, platinol (cisplatin)",1,1619
+2158,"mitomycin, vindesine, platinol (cisplatin), radiation therapy",1,1629
+2159,"mitomycin-c, mitoxantrone, methotrexate",1,1596
+2160,"mitotane, etoposide, doxorubicin, platinol (cisplatin)",1,1586
+2161,mitoxantrone and ara-c (cytarabine),1,18
+2162,mitoxantrone and etoposide,1,1069
+2163,mitoxantrone and intermediate-dose ara-c (cytarabine),1,18
+2164,mitoxantrone and vinorelbine,1,1591
+2165,"mitoxantrone, ara-c (cytarabine), etoposide",1,93
+2166,"mitoxantrone, chlorambucil, prednisolone",1,1481
+2167,"mitoxantrone, chlorambucil, prednisone",1,1481
+2168,"mitoxantrone, cyclophosphamide, oncovin (vincristine), prednisolone",1,648
+2169,"mitoxantrone, cyclophosphamide, oncovin (vincristine), prednisone",1,648
+2170,"mitoxantrone, cytarabine, etoposide",1,93
+2171,"mitoxantrone, etoposide, cytarabine",1,93
+2172,mkp,1,1421
+2173,mm,7,1472
+2174,mob-iii,7,1603
+2175,moca,7,655
+2176,"modified cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone",1,518
+2177,"modified cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,518
+2178,"modified cyclophosphamide, oncovin (vincristine), prednisolone alternating with melphalan and prednisolone",1,1525
+2179,"modified docetaxel, cisplatin, fluorouracil",1,1527
+2180,"modified docetaxel, cisplatin, fluorouracil and bevacizumab",1,1528
+2181,"modified folinic acid (l-leucovorin), fluorouracil, oxaliplatin",1,1139
+2182,"modified folinic acid (l-leucovorin), fluorouracil, oxaliplatin, bevacizumab",1,1195
+2183,"modified folinic acid (leucovorin), fluorouracil, irinotecan, oxaliplatin",1,1192
+2184,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin",1,1139
+2185,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin and radiation therapy",1,1573
+2186,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin, bevacizumab",1,1195
+2187,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin, cetuximab",1,1196
+2188,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin, nivolumab",1,1570
+2189,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin, panitumumab",1,1571
+2190,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin, pembrolizumab",1,1572
+2191,"modified folinic acid (leucovorin), fluorouracil, oxaliplatin, sorafenib",1,1569
+2192,"modified folinic acid, fluorouracil, irinotecan, oxaliplatin",1,1192
+2193,"modified folinic acid, fluorouracil, oxaliplatin",1,1139
+2194,"modified folinic acid, fluorouracil, oxaliplatin and radiation therapy",1,1573
+2195,"modified folinic acid, fluorouracil, oxaliplatin, bevacizumab",1,1195
+2196,"modified folinic acid, fluorouracil, oxaliplatin, cetuximab",1,1196
+2197,"modified folinic acid, fluorouracil, oxaliplatin, nivolumab",1,1570
+2198,"modified folinic acid, fluorouracil, oxaliplatin, panitumumab",1,1571
+2199,"modified folinic acid, fluorouracil, oxaliplatin, pembrolizumab",1,1572
+2200,"modified folinic acid, fluorouracil, oxaliplatin, sorafenib",1,1569
+2201,modified gemcitabine and oxaliplatin,1,1255
+2202,modified intermediate dose ara-c (cytarabine),1,18
+2203,"modified irinotecan, fluorouracil, leucovorin",1,1338
+2204,"modified irinotecan, fluorouracil, leucovorin (folinic acid)",1,1338
+2205,"modified irinotecan, fluorouracil, leucovorin (folinic acid), bevacizumab",1,1339
+2206,"modified irinotecan, fluorouracil, leucovorin, bevacizumab",1,1339
+2207,"modified l-folinic acid (leucovorin), fluorouracil, oxaliplatin",1,1139
+2208,"modified l-folinic acid (leucovorin), fluorouracil, oxaliplatin, irinotecan, cetuximab",1,1574
+2209,"modified l-folinic acid (leucovorin), fluorouracil, oxaliplatin, nivolumab",1,1570
+2210,"modified l-folinic acid, fluorouracil, oxaliplatin",1,1139
+2211,"modified l-folinic acid, fluorouracil, oxaliplatin, bevacizumab",1,1195
+2212,"modified l-folinic acid, fluorouracil, oxaliplatin, irinotecan, cetuximab",1,1574
+2213,modified xelox (capecitabine) and irinotecan,1,342
+2214,"modified xelox (capecitabine), irinotecan, bevacizumab",1,374
+2215,mopp-abv hybrid,1,1610
+2216,mopp-lo bleo,7,1613
+2217,mopphdb,7,1613
+2218,mp,1,1539
+2219,mp,7,1539
+2220,mp (prednisolone),1,1539
+2221,mpb,1,260
+2222,mpk,1,1421
+2223,mpl,1,1617
+2224,mpl + pred,7,1539
+2225,"mpv, alternating with lendex",1,2126
+2226,"mpv, alternating with revdex",1,2126
+2227,"mpv, then lendex",1,2125
+2228,"mpv, then revdex",1,2125
+2229,mpv/lendex,1,2126
+2230,mpv/revdex,1,2126
+2231,mtp,1,1618
+2232,mtx + mp,7,1472
+2233,mtx/6-mp,7,1472
+2234,"mustargen (mechlorethamine), oncovin (vincristine), procarbazine, prednisone alternating with adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine",1,1612
+2235,"mustargen (mechlorethamine), oncovin (vincristine), procarbazine, prednisone, adriamycin (doxorubicin), bleomycin, vinblastine",1,1610
+2236,mv,1,1591
+2237,mv,7,1591
+2238,mvp,1,1619
+2239,mvp,7,1619
+2240,mvp (vinblastine),1,1619
+2241,mvp (vindesine),1,1619
+2242,"mvp, alternating with lendex",1,2126
+2243,"mvp, alternating with revdex",1,2126
+2244,"mvp, then lendex",1,2125
+2245,"mvp, then revdex",1,2125
+2246,mvp/lendex,1,2126
+2247,mvp/revdex,1,2126
+2248,mxeliri,1,342
+2249,mxeliri and bevacizumab,1,374
+2250,myocet (non-pegylated liposomal doxorubicin) and cyclophosphamide,1,759
+2251,nab-paclitaxel and gemcitabine,1,1241
+2252,nab-paclitaxel followed by dose-dense adriamycin (doxorubicin) and cyclophosphamide,1,1668
+2253,"nab-paclitaxel followed by dose-dense adriamycin (doxorubicin) and cyclophosphamide, with atezolizumab",1,1669
+2254,nab-paclitaxel followed by dose-dense epirubicin and cyclophosphamide,1,1670
+2255,"nanoliposomal irinotecan, fluorouracil, oxaliplatin",1,1644
+2256,navelbine (vinorelbine) and platinol (cisplatin),1,384
+2257,nedaplatin and radiation therapy,1,1646
+2258,ng,1,1241
+2259,nimustine and radiation therapy,1,1655
+2260,ninlaro,1,1413
+2261,ninlaro and dexamethasone,1,1412
+2262,ninlaro dex,1,1412
+2263,ninlaro monotherapy,1,1413
+2264,"ninlaro, revlimid, dex",1,1391
+2265,"ninlaro, revlimid, dexamethasone",1,1391
+2266,ninlaro-lendex,1,1391
+2267,ninlaro-revdex,1,1391
+2268,nivolumab and radiation therapy,1,1660
+2269,"nivolumab, then ipilimumab",1,1662
+2270,noac,1,1278
+2271,non-pegylated liposomal doxorubicin,1,1664
+2272,nordic flox,1,1139
+2273,note,1,1539
+2274,novantrone (mitoxantrone) and ara-c (cytarabine),1,1278
+2275,np,1,384
+2276,npld,1,1664
+2277,npld and bev,1,1663
+2278,npld/bev,1,1663
+2279,"numbering of days is based on pre-phase-&gt;a-&gt;b-&gt;c; however, certain patient populations received different ordering of regimen, see below.",1,1265
+2280,"ofatumumab, cyclophosphamide, hydroxydaunorubicin, oncovin, prednisone",1,1672
+2281,"ofatumumab, dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin)",1,1674
+2282,"ofatumumab, etoposide, solumedrol (methylprednisolone) high-dose ara-c (cytarabine), platinol (cisplatin)",1,1675
+2283,"ofatumumab, fludarabine, cyclophosphamide",1,1676
+2284,"ofatumumab, ifosfamide, carboplatin, etoposide",1,1677
+2285,"ofatumumab, reduced-dose (mini) cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1678
+2286,off,1,1139
+2287,off,7,1139
+2288,olf,1,1139
+2289,omad,7,2119
+2290,"oncovin (vincristine), etoposide, prednisone, adriamycin (doxorubicin)",1,1686
+2291,"oncovin (vincristine), procarbazine, prednisone, adriamycin (doxorubicin)",1,1696
+2292,"oncovin, adriamycin, dex",1,852
+2293,"oncovin, adriamycin, dex, pred",1,2065
+2294,"oncovin, adriamycin, dex, pred, quinine",1,2066
+2295,"oncovin, adriamycin, dexamethasone",1,852
+2296,"oncovin, adriamycin, dexamethasone, prednisone",1,2065
+2297,"oncovin, adriamycin, dexamethasone, prednisone, quinine",1,2066
+2298,"oncovin, doxil, dex",1,852
+2299,"oncovin, doxil, dexamethasone",1,852
+2300,opa,7,125
+2301,oxaliplatin and prednisone,1,1698
+2302,oxaliplatin and radiation therapy,1,1702
+2303,oxaliplatin modified de gramont,1,1139
+2304,"oxaliplatin, fludarabine, ara-c (cytarabine), rituximab",1,1687
+2305,"oxaliplatin, fluorouracil, folinic acid",1,1139
+2306,"oxaliplatin, fluorouracil, folinic acid (leucovorin)",1,1139
+2307,"oxaliplatin, folinic acid (leucovorin), 5-fu (fluorouracil)",1,1699
+2308,"oxaliplatin, leucovorin (folinic acid), fluorouracil",1,1139
+2309,"oxaliplatin, leucovorin, fluorouracil",1,1139
+2310,oxmdg,1,1139
+2311,p,1,338
+2312,p+g,1,1232
+2313,p-vabec,1,2062
+2314,paccbev,1,403
+2315,paclitaxel,1,338
+2316,paclitaxel and carboplatin,1,338
+2317,paclitaxel and cisplatin,1,338
+2318,paclitaxel and gemcitabine,1,391
+2319,paclitaxel and herceptin (trastuzumab),1,338
+2320,paclitaxel and ifosfamide,1,1343
+2321,paclitaxel and radiation therapy,1,1714
+2322,paclitaxel and topotecan,1,338
+2323,paclitaxel and trastuzumab (th),1,338
+2324,paclitaxel monotherapy,1,338
+2325,"paclitaxel, carboplatin, bevacizumab",1,403
+2326,"paclitaxel, carboplatin, etoposide",1,1732
+2327,"paclitaxel, carboplatin, radiation therapy",1,415
+2328,"paclitaxel, cisplatin, fluorouracil",1,1733
+2329,"paclitaxel, cisplatin, gemcitabine",1,1767
+2330,"paclitaxel, gemcitabine, cisplatin",1,1767
+2331,"paclitaxel, ifosfamide",1,1343
+2332,"paclitaxel, pertuzumab, ado-trastuzumab emtansine",1,1718
+2333,"paclitaxel, platinol (cisplatin), fluorouracil",1,1733
+2334,pad,1,852
+2335,pad,7,852
+2336,pad (pegylated liposomal doxorubicin substituted),1,852
+2337,pad doxil,1,852
+2338,"pano, bortezomib, dexamethasone",1,268
+2339,"pano, velcade, dexamethasone",1,268
+2340,pano-bort-dex,1,268
+2341,pano-ld,1,1205
+2342,pano-lendex,1,1205
+2343,pano-rd,1,1205
+2344,pano-revdex,1,1205
+2345,pano-tvd,1,276
+2346,pano-vd,1,268
+2347,pano-velcade-dex,1,268
+2348,pano-vtd,1,276
+2349,panobinostat and carfilzomib,1,453
+2350,panobinostat and kyprolis,1,453
+2351,"panobinostat, bortezomib, dexamethasone",1,268
+2352,"panobinostat, bortezomib, thaldex",1,276
+2353,"panobinostat, bortezomib, thalidomide, dex",1,276
+2354,"panobinostat, bortezomib, thalidomide, dexamethasone",1,276
+2355,"panobinostat, lenalidomide, dexamethasone",1,1205
+2356,"panobinostat, revlimid, dexamethasone",1,1205
+2357,"panobinostat, velcade, dexamethasone",1,268
+2358,"panobinostat, velcade, thaldex",1,276
+2359,"panobinostat, velcade, thalidomide, dex",1,276
+2360,"panobinostat, velcade, thalidomide, dexamethasone",1,276
+2361,panobinostat-bort-dex,1,268
+2362,panobinostat-ld,1,1205
+2363,panobinostat-lendex,1,1205
+2364,panobinostat-rd,1,1205
+2365,panobinostat-revdex,1,1205
+2366,panobinostat-tvd,1,276
+2367,panobinostat-vd,1,268
+2368,panobinostat-velcade-dex,1,268
+2369,panobinostat-vtd,1,276
+2370,pc,1,338
+2371,pc and rt,1,415
+2372,pcb,1,338
+2373,pcd,1,781
+2374,pcg,1,1767
+2375,pd,1,1785
+2376,pdc,1,781
+2377,pe,1,384
+2378,pe,7,384
+2379,pe + rt,1,426
+2380,peb,1,232
+2381,peb,7,232
+2382,pegylated liposomal doxorubicin,1,1746
+2383,pegylated liposomal doxorubicin and carboplatin,1,338
+2384,pei,1,2113
+2385,pem-cis,1,571
+2386,pembro-pd,1,1787
+2387,pembro-pomdex,1,1787
+2388,"pembrolizumab, pomalidomide, dexamethasone",1,1787
+2389,"pembrolizumab, pomalyst, dex",1,1787
+2390,"pembrolizumab, pomalyst, dexamethasone",1,1787
+2391,pembrolizumab-pd,1,1787
+2392,pembrolizumab-pomdex,1,1787
+2393,pemcbev,1,440
+2394,pememetrexed and platinol (cisplatin),1,571
+2395,pemetrexed and cisplatin,1,571
+2396,pemetrexed and gefitinib,1,1232
+2397,"pemetrexed, carboplatin, bevacizumab",1,440
+2398,"pemetrexed, cisplatin, bevacizumab",1,338
+2399,pemp,1,571
+2400,"pentostatin, cyclophosphamide, ofatumumab",1,1734
+2401,"pentostatin, cyclophosphamide, rituximab",1,1736
+2402,"pentostatin, endoxan (cyclophosphamide), rituximab",1,1736
+2403,per,1,1736
+2404,pertuzumab and trastuzumab-dm1 (ado-trastuzumab emtansine),1,1758
+2405,pertuzumab and trastuzumab-dm1 (trastuzumab emtansine),1,1758
+2406,pf,1,543
+2407,pf,7,543
+2408,pfl,7,490
+2409,pg,1,391
+2410,ph,1,338
+2411,phenylalanine mustard (melphalan),1,338
+2412,phenylalanine mustard (melphalan) and fluorouracil,1,543
+2413,"phenylalanine mustard (melphalan), 5-fluorouracil, tamoxifen",1,1766
+2414,"phenylalanine mustard (melphalan), adriamycin (doxorubicin), fluorouracil",1,1722
+2415,pi,1,1343
+2416,plado,1,338
+2417,platinol (cisplatin) and cyclophosphamide,1,338
+2418,platinol (cisplatin) and doxorubicin,1,338
+2419,platinol (cisplatin) and etoposide,1,384
+2420,platinol (cisplatin) and fluorouracil,1,543
+2421,platinol (cisplatin) and taxol (paclitaxel),1,338
+2422,platinol (cisplatin) and vinorelbine,1,384
+2423,"platinol (cisplatin), cyclophosphamide, epidoxorubicin (epirubicin), etoposide",1,1731
+2424,"platinol (cisplatin), epirubicin, fluorouracil, gemcitabine",1,1740
+2425,"platinol (cisplatin), epirubicin, taxol (paclitaxel)",1,1761
+2426,"platinol (cisplatin), etoposide",1,384
+2427,"platinol (cisplatin), etoposide, bleomycin",1,232
+2428,"platinol (cisplatin), etoposide, ifosfamide",1,2113
+2429,"platinol (cisplatin), etoposide, radiation therapy",1,426
+2430,"platinol (cisplatin), etoposide, vinblastine",1,1762
+2431,"platinol (cisplatin), leucovorin (folinic acid), fluorouracil",1,623
+2432,"platinol (cisplatin), leucovorin, fluorouracil",1,623
+2433,"platinol (cisplatin), vinblastine, bleomycin",1,302
+2434,"platinol (cisplatin), vindesine, mitomycin",1,1619
+2435,"platinol (cisplatin), vp-16 (etoposide), bleomycin",1,232
+2436,pld,1,1746
+2437,pld and bev,1,1744
+2438,pld/bev,1,1744
+2439,pldc,1,338
+2440,plf,1,623
+2441,pmb,7,1521
+2442,poc,7,1737
+2443,pola-br,1,229
+2444,"polatuzumab vedotin, bendamustine, rituximab",1,229
+2445,"polatuzumab, rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), prednisone",1,1784
+2446,pom + lodex,1,1785
+2447,pomalidomide,1,338
+2448,pomalidomide and dex,1,1785
+2449,pomalidomide and dexamethasone,1,1785
+2450,pomalidomide and low-dose dexamethasone,1,1785
+2451,pomalidomide monotherapy,1,338
+2452,"pomalidomide, bortezomib, dex",1,1807
+2453,"pomalidomide, bortezomib, dexamethasone",1,1807
+2454,"pomalidomide, cyclophosphamide, dexamethasone",1,781
+2455,"pomalidomide, cyclophosphamide, prednisone",1,1735
+2456,"pomalidomide, dexamethasone, daratumumab",1,849
+2457,"pomalidomide, dexamethasone, keytruda",1,1787
+2458,"pomalidomide, velcade (bortezomib), dexamethasone",1,1807
+2459,pomalidomide-vd,1,1807
+2460,pomalyst,1,338
+2461,pomalyst and dex,1,1785
+2462,pomalyst and dexamethasone,1,1785
+2463,"pomalyst, dexamethasone keytruda",1,1787
+2464,"pomalyst, dexamethasone pembrolizumab",1,1787
+2465,"pomalyst, velcade, dex",1,1807
+2466,"pomalyst, velcade, dexamethasone",1,1807
+2467,pomalyst-vd,1,1807
+2468,pomcyd,1,781
+2469,pomcydex,1,781
+2470,pomcyp,1,1735
+2471,pomdex,1,1785
+2472,ppf,1,1733
+2473,pred,1,1798
+2474,pred monotherapy,1,1798
+2475,prednisolone,1,1796
+2476,"prednisolone, adriamycin (doxorubicin), cyclophosphamide, etoposide, bleomycin, oncovin (vincristine), methotrexate",1,1709
+2477,"prednisolone, mitoxantrone, cyclophosphamide, etoposide, bleomycin, oncovin (vincristine)",1,1781
+2478,prednisone,1,1798
+2479,prednisone and tamoxifen,1,338
+2480,"prednisone, doxorubicin, oncovin (vincristine), cyclophosphamide, etoposide,",1,1706
+2481,"prednisone, etoposide, novantrone (mitoxantrone)",1,1752
+2482,"prednisone, etoposide, procarbazine, cyclophosphamide",1,1757
+2483,"prednisone, vinblastine, adriamycin (doxorubicin), gemcitabine",1,1806
+2484,"prednisone, vincristine, adriamycin (doxorubicin), bleomycin, etoposide, cyclophosphamide",1,2062
+2485,"procarbazine, ccnu (lomustine), vincristine",1,1737
+2486,"procarbazine, ccnu, vincristine",1,1737
+2487,"prolix (prednisone), methotrexate, adriamycin (doxorubicin), cyclophosphamide, etoposide, cytarabine, bleomycin, oncovin (vincristine), methotrexate",1,1803
+2488,"prolix (prednisone), methotrexate, adriamycin (doxorubicin), cyclophosphamide, etoposide, mustargen (mechlorethamine), oncovin (vincristine), procarbazine, prednisone",1,1804
+2489,"ps-341 (bortezomib), adriamycin (doxorubicin), dexamethasone",1,852
+2490,"ps-341 (bortezomib), adriamycin (doxorubicin), low-dose dexamethasone",1,852
+2491,"ps-341 (bortezomib), adriamycin liposomal (doxorubicin liposomal), dexamethasone alternating with velcade (bortezomib), cyclophosphamide, dexamethasone",1,1721
+2492,"ps-341 (bortezomib), adriamycin liposomal (pegylated liposomal doxorubicin), dexamethasone alternating with velcade (bortezomib), cyclophosphamide, dexamethasone",1,1721
+2493,"ps-341 (bortezomib), pegylated liposomal adriamycin (doxorubicin), dexamethasone",1,852
+2494,"ps-341, adriamycin, dexamethasone",1,852
+2495,"ps-341, liposomal adriamycin, dexamethasone",1,1617
+2496,psoralen and ultra-violet a,1,1805
+2497,pt,1,338
+2498,pulsed decadron,1,926
+2499,pulsed dex,1,926
+2500,pulsed dexamethasone,1,926
+2501,"purinethol (mercaptopurine), oncovin (vincristine), methotrexate, prednisone",1,1789
+2502,pv,1,384
+2503,pvb,1,302
+2504,pvda,7,1471
+2505,pvm,1,1619
+2506,pvp16b,1,232
+2507,r,1,1454
+2508,r-b,1,226
+2509,r-beam,1,214
+2510,r-ceop,1,1814
+2511,r-chop (prednisolone),1,1819
+2512,r-chop (sc rituximab),1,1819
+2513,r-chop-14 (prednisolone),1,1820
+2514,r-chop-14 (sc rituximab),1,1820
+2515,r-chop-21,1,1819
+2516,r-chvp+i,1,1823
+2517,r-codox-m (pegylated liposomal doxorubicin substituted),1,1825
+2518,r-codox-m (pld substituted),1,1825
+2519,r-codox-m/r-ivac (pegylated liposomal doxorubicin substituted),1,1826
+2520,r-codox-m/r-ivac (pld substituted),1,1826
+2521,r-cvd,1,1891
+2522,r-cybord,1,1891
+2523,"r-epoch, dose-escalated",1,1837
+2524,r-fc,1,1116
+2525,r-fcm,1,1116
+2526,r-fcm,7,1116
+2527,r-g,1,1243
+2528,r-hd-mtx/ara-c,1,814
+2529,r-mcp (ccnu),1,1850
+2530,r-minichop (sc rituximab),1,1854
+2531,r-thp-cop-14,1,1859
+2532,r-vad+c,1,1860
+2533,r-vcd,1,1891
+2534,r2,1,1452
+2535,r2b,1,1812
+2536,r^2,1,1452
+2537,"rad-001 (everolimus), velcade (bortezomib), rituximab",1,1892
+2538,rb,1,226
+2539,rb-chop,1,2138
+2540,rb/rc,1,278
+2541,rchop,1,1819
+2542,rclb,1,508
+2543,rcvd,1,1891
+2544,rcyd,1,730
+2545,rd,1,1449
+2546,rdc,1,730
+2547,rei,1,1848
+2548,rep,1,728
+2549,retifanlimab monotherapy,1,681
+2550,rev,1,1454
+2551,rev monotherapy,1,1454
+2552,revcydex,1,730
+2553,revdex,1,1449
+2554,revdex-ixa,1,1391
+2555,revlimid,1,1454
+2556,revlimid (lenalidomide) and dexamethasone,1,1449
+2557,revlimid (lenalidomide) and high-dose dexamethasone,1,1449
+2558,revlimid (lenalidomide) and low-dose dexamethasone,1,1449
+2559,revlimid (lenalidomide) and prednisone,1,1451
+2560,"revlimid (lenalidomide), endoxan (cyclophosphamide), prednisone",1,728
+2561,"revlimid (lenalidomide), low-dose dexamethasone, cyclophosphamide",1,730
+2562,"revlimid (lenalidomide), low-dose dexamethasone, low-dose cyclophosphamide",1,730
+2563,"revlimid (lenalidomide), rituximab, bendamustine",1,1812
+2564,"revlimid (lenalidomide), velcade (bortezomib), dexamethasone",1,1890
+2565,"revlimid (lenalidomide), velcade (bortezomib), dexamethasone, cyclophosphamide",1,1891
+2566,revlimid and dexamethasone,1,1449
+2567,revlimid and prednisone,1,1451
+2568,"revlimid, kyprolis, dex",1,730
+2569,"revlimid, kyprolis, dexamethasone",1,730
+2570,"revlimid, mp",1,1617
+2571,"revlimid, velcade, cytoxan, dex",1,1891
+2572,"revlimid, velcade, cytoxan, dexamethasone",1,1891
+2573,"revlimid, velcade, dex",1,1890
+2574,"revlimid, velcade, dexamethasone",1,1890
+2575,revlimid-vd,1,1890
+2576,revpred,1,1451
+2577,ribociclib and tamoxifen,1,1271
+2578,ripad+c,1,1875
+2579,rituximab and bendamustine,1,226
+2580,rituximab and bendamustine alternating with rituximab and cytarabine,1,278
+2581,rituximab and chlorambucil,1,508
+2582,rituximab and gemcitabine,1,1243
+2583,rituximab and high dose ara-c (cytarabine),1,1844
+2584,"rituximab and hyaluronidaase, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone every 14 days",1,1820
+2585,"rituximab and hyaluronidaase, reduced-dose (mini) cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1854
+2586,"rituximab and hyaluronidase, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone",1,1819
+2587,rituximab and revlimid (lenalidomide),1,1452
+2588,"rituximab followed by cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1809
+2589,"rituximab, ""mega"" (high-dose) cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne every 14 days",1,1852
+2590,"rituximab, adriamycin (doxorubicin), bleomycin, vinblastine, dacarbazine",1,1862
+2591,"rituximab, adriamycin (doxorubicin), cyclophosphamide, vindesine, bleomycin, prednisone",1,1810
+2592,"rituximab, bendamustine",1,226
+2593,"rituximab, bendamustine, ara-c (cytarabine)",1,1811
+2594,"rituximab, bendamustine, lenalidomide",1,1812
+2595,"rituximab, bicnu (carmustine), etoposide, ara-c (cytarabine), cyclophosphamide",1,211
+2596,"rituximab, bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,214
+2597,"rituximab, bortezomib, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,2138
+2598,"rituximab, cladribine, cyclophosphamide",1,1868
+2599,"rituximab, cladribine, mitoxantrone, dexamethasone",1,1824
+2600,"rituximab, cyclophosphamide, doxil (pegylated liposomal doxorubicin), oncovin (vincristine), prednisone",1,1813
+2601,"rituximab, cyclophosphamide, epirubicin (70 mg/m^2 dosing), oncovin (vincristine), prednisone",1,1815
+2602,"rituximab, cyclophosphamide, epirubicin (90 mg/m^2 dosing), oncovin (vincristine), prednisone",1,1816
+2603,"rituximab, cyclophosphamide, etoposide, oncovin (vincristine), prednisone",1,1814
+2604,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), marqibo (vincristine liposomal), prednisone",1,1817
+2605,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), etoposide, prednisone, 14-day cycles",1,1818
+2606,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1819
+2607,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne alternating with rituximab, dexamethasone, high-dose ara-c (cytarabine), oxaliplatin",1,1821
+2608,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne alternating with rituximab, dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin)",1,1822
+2609,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone",1,1819
+2610,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisolone every 14 days",1,1820
+2611,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,1819
+2612,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone every 14 days",1,1820
+2613,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone every 21 days",1,1819
+2614,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone given every 21 days",1,1819
+2615,"rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), vp-16 (etoposide), prednisolone, interferon-a2a",1,1823
+2616,"rituximab, cyclophosphamide, hydroxydaunorubicin, oncovin, prednisone",1,1819
+2617,"rituximab, cyclophosphamide, oncovin (vincristine), doxil (pegylated liposomal doxorubicin), methotrexate",1,1825
+2618,"rituximab, cyclophosphamide, oncovin (vincristine), doxil (pegylated liposomal doxorubicin), methotrexate alternating with rituximab, ifosfamide, vepesid (etoposide), ara-c (cytarabine)",1,1826
+2619,"rituximab, cyclophosphamide, oncovin (vincristine), doxorubicin, methotrexate",1,1825
+2620,"rituximab, cyclophosphamide, oncovin (vincristine), doxorubicin, methotrexate alternating with rituximab, ifosfamide, vepesid (etoposide), ara-c (cytarabine)",1,1826
+2621,"rituximab, cyclophosphamide, oncovin (vincristine), prednisone, adriamycin (doxorubicin), methotrexate",1,1827
+2622,"rituximab, cyclophosphamide, prednisone or prednisolone",1,1828
+2623,"rituximab, cyclophosphamide, vincristine, prednisone",1,1830
+2624,"rituximab, cyclophosphamide, vorinostat, etoposide, prednisone",1,1829
+2625,"rituximab, dexamethasone, bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,1831
+2626,"rituximab, dexamethasone, high-dose ara-c (cytarabine), carboplatin",1,1832
+2627,"rituximab, dexamethasone, high-dose ara-c (cytarabine), oxaliplatin",1,1833
+2628,"rituximab, dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin)",1,1834
+2629,"rituximab, dexamethasone, high-dose ara-c (cytarabine), platinol (cisplatin) alternating with rituximab, vp-16 (etoposide), ifosfamide, methotrexate",1,1835
+2630,"rituximab, etoposide, ifosfamide",1,1848
+2631,"rituximab, etoposide, prednisone, oncovin (vincristine), cyclophosphamide, hydroxydaunorubicin (doxorubicin)",1,1837
+2632,"rituximab, etoposide, solumedrol (methylprednisolone) high-dose ara-c (cytarabine), platinol (cisplatin)",1,1838
+2633,"rituximab, fludarabine, cyclophosphamide",1,1116
+2634,"rituximab, fludarabine, cyclophosphamide, mitoxantrone",1,1116
+2635,"rituximab, fludarabine, mitoxantrone",1,1839
+2636,"rituximab, fludarabine, novantrone (mitoxantrone), dexamethasone",1,1840
+2637,"rituximab, fludarabine, novantrone, dexamethasone",1,1840
+2638,"rituximab, gemcitabine, cyclophosphamide, vincristine, prednisolone",1,1841
+2639,"rituximab, gemcitabine, dexamethasone, platinol (cisplatin)",1,1842
+2640,"rituximab, gemcitabine, oxaliplatin",1,1843
+2641,"rituximab, high-dose methotrexate, ara-c (cytarabine)",1,814
+2642,"rituximab, hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone altenating with rituximab, methotrexate, ara-c (cytarabine)",1,1845
+2643,"rituximab, hyperfractionated cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone alternating with rituximab, methotrexate, ara-c (cytarabine)",1,1845
+2644,"rituximab, ifosfamide, carboplatin, etoposide",1,1847
+2645,"rituximab, ifosfamide, carboplatin, etoposide, revlimid (lenalidomide)",1,1873
+2646,"rituximab, ifosfamide, etoposide",1,1848
+2647,"rituximab, inotuzumab ozogamicin",1,1849
+2648,"rituximab, mega, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1851
+2649,"rituximab, methotrexate, ccnu (lomustine), procarbazine",1,1850
+2650,"rituximab, methotrexate, procarbazine",1,1855
+2651,"rituximab, methotrexate, procarbazine, vincristine",1,1856
+2652,"rituximab, mini, cyclophosphamide, epirubicin, o?? (vinblastine), prednisone",1,1853
+2653,"rituximab, mitoxantrone, chlorambucil, prednisolone",1,1850
+2654,"rituximab, navelbine (vinorelbine), ifosfamide, mitoxantrone, prednisone",1,1857
+2655,"rituximab, oxaliplatin, ara-c (cytarabine), dexamethasone",1,1833
+2656,"rituximab, ps-341 (bortezomib), adriamycin (doxorubicin), dexamethasone, chlorambucil",1,1875
+2657,"rituximab, reduced-dose (mini) cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,1854
+2658,"rituximab, revlimid (lenalidomide), cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), prednisone",1,1861
+2659,"rituximab, thalidomide, prednisone, etoposide, procarbazine, cyclophosphamide",1,1886
+2660,"rituximab, thp (pirarubicin), cyclophosphamide, oncovin (vincristine), prednisolone",1,1859
+2661,"rituximab, total, body, irradiation, cyclophosphamide",1,1858
+2662,"rituximab, vincristine, adriamycin (doxorubicin), dexamethasone, chlorambucil",1,1860
+2663,rkd,1,730
+2664,rmp,1,1617
+2665,road,1,1833
+2666,roswell park cancer institute regimen,7,1209
+2667,rp,1,1451
+2668,rvcd,1,1891
+2669,s-1 and oxaliplatin,1,1926
+2670,s-1 and platinol (cisplatin),1,574
+2671,s-1 and radiation therapy,1,1893
+2672,"s-1, oxaliplatin",1,1926
+2673,"s-1, oxaliplatin, bevacizumab",1,1927
+2674,saltz regimen,7,1338
+2675,"sc daratumumab, revlimid (lenalidomide), velcade (bortezomib), dexamethasone",1,851
+2676,sd,1,1901
+2677,selinexor and low-dose dexamethasone,1,1901
+2678,"selinexor, daratumumab, low-dose dexamethasone",1,1900
+2679,"selinexor, kyprolis (carfilzomib), low-dose dexamethasone",1,1919
+2680,"selinexor, velcade (bortezomib), low-dose dexamethasone",1,1936
+2681,"sequential high-dose ara-c (cytarabine), idarubicin",1,1906
+2682,"short course rituximab, etoposide, prednisone, oncovin, cyclophosphamide, hydroxydaunorubicin, with dose-dense rituximab",1,1898
+2683,"simplified leucovorin and 5-fu, two days out of the month",1,1209
+2684,single tremelimumab regular interval durvalumab,1,988
+2685,sjmb 96 protocol average risk,1,1916
+2686,sjmb 96 protocol high risk,1,1917
+2687,slv5fu2,1,1209
+2688,sp,1,574
+2689,stamp-v,1,734
+2690,"steroid (dexamethasone), methotrexate, ifosfamide, l-asparaginase, etoposide",1,1921
+2691,"streptozocin, ccnu (lomustine), adriamycin (doxorubicin), bleomycin",1,1899
+2692,"streptozotocin, mitomycin, 5-fluorouracil",1,1920
+2693,stride,1,988
+2694,super-cm regimen,7,633
+2695,swog cmfvp,7,646
+2696,t,1,338
+2697,t+bev,1,935
+2698,t-ac (paclitaxel),1,1939
+2699,t-cef,1,819
+2700,t-dm1,1,2031
+2701,t-ec (paclitaxel),1,1945
+2702,t-fec,1,1945
+2703,t-h,1,1947
+2704,t-h (paclitaxel),1,1947
+2705,t-t,1,338
+2706,tac,1,66
+2707,tac,7,66
+2708,tac (docetaxel),1,66
+2709,tac (taxotere),1,66
+2710,tad,1,864
+2711,tad,7,864
+2712,tad (tamoxifen),1,864
+2713,tad (thalidomide),1,864
+2714,tad9,1,864
+2715,tam,1,1957
+2716,"tamoxifen, aminoglutethimide, danazol",1,864
+2717,tandem ahct,1,1966
+2718,tandem asct,1,1966
+2719,tandem auto,1,1966
+2720,tandem auto hsct,1,1966
+2721,"tandem melphalan, then auto hsct",1,1966
+2722,tap,1,585
+2723,taxol (paclitaxel),1,338
+2724,taxol (paclitaxel) and carboplatin,1,338
+2725,taxol (paclitaxel) and herceptin (trastuzumab),1,338
+2726,"taxol (paclitaxel) and herceptin (trastuzumab), followed by adriamycin (doxorubicin) and cyclophosphamide",1,1993
+2727,"taxol (paclitaxel) and herceptin (trastuzumab), followed by dose-dense adriamycin (doxorubicin) and cyclophosphamide",1,1994
+2728,"taxol (paclitaxel) and herceptin (trastuzumab), followed by fluorouracil, epirubicin, cyclophosphamide, herceptin (trastuzumab)",1,1996
+2729,taxol (paclitaxel) and ifosfamide,1,1343
+2730,taxol (paclitaxel) and lapatinib,1,1439
+2731,taxol (paclitaxel) and platinol (cisplatin),1,338
+2732,taxol (paclitaxel) and trastuzumab,1,338
+2733,"taxol (paclitaxel) etoposide), carboplatin",1,1732
+2734,taxol (paclitaxel) followed by adriamycin (doxorubicin) and cyclophosphamide,1,1939
+2735,taxol (paclitaxel) followed by dose-dense adriamycin (doxorubicin) and cyclophosphamide,1,1942
+2736,taxol (paclitaxel) followed by dose-dense epirubicin and cyclophosphamide,1,1943
+2737,taxol (paclitaxel) followed by epirubicin and cyclophosphamide,1,1945
+2738,taxol (paclitaxel) followed by herceptin (trastuzumab),1,1947
+2739,"taxol (paclitaxel), adriamycin (doxorubicin), platinol (cisplatin)",1,585
+2740,"taxol (paclitaxel), carboplatin, bevacizumab",1,403
+2741,"taxol (paclitaxel), carboplatin, herceptin (trastuzumab)",1,417
+2742,"taxol (paclitaxel), carboplatin, herceptin (trastuzumab), pertuzumab",1,1973
+2743,"taxol (paclitaxel), carboplatin, nintedanib",1,410
+2744,"taxol (paclitaxel), followed by adriamycin (doxorubicin) and cyclophosphamide",1,1939
+2745,"taxol (paclitaxel), followed by epirubicin and cyclophosphamide",1,1945
+2746,"taxol (paclitaxel), followed by fluorouracil, adriamycin (doxorubicin), cyclophosphamide",1,1946
+2747,"taxol (paclitaxel), followed by fluorouracil, epirubicin, cyclophosphamide",1,1945
+2748,"taxol (paclitaxel), herceptin (trastuzumab)",1,338
+2749,"taxol (paclitaxel), herceptin (trastuzumab), lapatinib",1,2002
+2750,"taxol (paclitaxel), herceptin (trastuzumab), pertuzumab",1,2003
+2751,"taxol (paclitaxel), ifosfamide, carboplatin, etoposide",1,384
+2752,"taxol (paclitaxel), ifosfamide, platinol (cisplatin)",1,2005
+2753,"taxol (paclitaxel), platinol (cisplatin), capecitabine",1,417
+2754,"taxol (paclitaxel), platinol (cisplatin), radiation therapy",1,415
+2755,"taxol (paclitaxel), topotecan, rituximab",1,2040
+2756,"taxol (paclitaxel), xeloda (capecitabine)",1,338
+2757,taxotere (docetaxel),1,338
+2758,taxotere (docetaxel) and bevacizumab,1,935
+2759,taxotere (docetaxel) and cyclophosphamide,1,338
+2760,"taxotere (docetaxel) and cyclophosphamide, followed by herceptin (trastuzumab)",1,1972
+2761,taxotere (docetaxel) and herceptin (trastuzumab),1,338
+2762,"taxotere (docetaxel) and herceptin (trastuzumab), followed by fluorouracil, epirubicin, cyclophosphamide",1,1995
+2763,"taxotere (docetaxel) and herceptin (trastuzumab), followed by fluorouracil, epirubicin, cyclophosphamide, herceptin (trastuzumab)",1,1996
+2764,taxotere (docetaxel) and herceptin hylecta (trastuzumab and hyaluronidase),1,1995
+2765,"taxotere (docetaxel) and herceptin hylecta (trastuzumab and hyaluronidase), followed by fluorouracil, epirubicin, cyclophosphamide",1,1995
+2766,"taxotere (docetaxel) and herceptin hylecta (trastuzumab and hyaluronidase), followed by fluorouracil, epirubicin, cyclophosphamide, herceptin hylecta (trastuzumab and hyaluronidase)",1,1996
+2767,taxotere (docetaxel) and lapatinib,1,57
+2768,taxotere (docetaxel) and platinol (cisplatin),1,338
+2769,taxotere (docetaxel) and xeloda (capecitabine),1,338
+2770,"taxotere (docetaxel) and xeloda (capecitabine) followed by cyclophosphamide, epirubicin, xeloda (capecitabine)",1,2043
+2771,"taxotere (docetaxel) followed by cyclophosphamide, epirubicin, fluorouracil",1,819
+2772,taxotere (docetaxel) followed by herceptin (trastuzumab),1,1947
+2773,"taxotere (docetaxel), adriamycin (doxorubicin), cyclophosphamide",1,66
+2774,"taxotere (docetaxel), carboplatin, herceptin (trastuzumab)",1,417
+2775,"taxotere (docetaxel), carboplatin, herceptin (trastuzumab), pertuzumab",1,1973
+2776,"taxotere (docetaxel), carboplatin, herceptin hylecta (sc trastuzumab), pertuzumab",1,1973
+2777,"taxotere (docetaxel), cisplatin",1,338
+2778,"taxotere (docetaxel), cisplatin, fluorouracil",1,884
+2779,"taxotere (docetaxel), cyclophosphamide, herceptin (trastuzumab)",1,417
+2780,"taxotere (docetaxel), herceptin (trastuzumab), pertuzumab",1,2003
+2781,"taxotere (docetaxel), herceptin (trastuzumab), pyrotinib",1,947
+2782,"taxotere (docetaxel), platinol (cisplatin), fluorouracil",1,884
+2783,"taxotere, cyclophosphamide, herceptin",1,417
+2784,tb,1,1980
+2785,tbc,1,286
+2786,tbi,1,1490
+2787,tbi-cy,1,761
+2788,tc,1,338
+2789,tc and nintedanib,1,410
+2790,tc-bev,1,403
+2791,tc-h,1,1972
+2792,tcbh,1,417
+2793,tcbh (docetaxel),1,417
+2794,tcf,1,884
+2795,tch,1,417
+2796,tch (docetaxel),1,417
+2797,"tch (docetaxel, carboplatin)",1,417
+2798,"tch (docetaxel, cyclophosphamide)",1,417
+2799,"tch (taxotere, carboplatin)",1,417
+2800,"tch (taxotere, cyclophosphamide)",1,417
+2801,tchp,1,1973
+2802,tchp,7,1973
+2803,"tchp (docetaxel, sc trastuzumab)",1,1973
+2804,tchp (paclitaxel),1,1973
+2805,tchp (taxol),1,1973
+2806,tchp (taxotere),1,1973
+2807,tcyh (docetaxel),1,417
+2808,td,1,1997
+2809,tdc,1,735
+2810,tdd,1,864
+2811,tec,1,1732
+2812,temozolomide and ldrt,1,1981
+2813,temozolomide and low-dose radiation therapy,1,1981
+2814,temozolomide and radiation therapy,1,1983
+2815,th,1,338
+2816,th (taxol),1,338
+2817,th (taxotere),1,338
+2818,th (taxotere/sc),1,1995
+2819,th and pyrotinib,1,947
+2820,th-ac,1,1993
+2821,th-ddac,1,1994
+2822,th-fec,1,1995
+2823,"th-fec (docetaxel, sc trastuzumab)",1,1995
+2824,th-fec and h,1,1996
+2825,"th-fec and h (docetaxel, sc trastuzumab)",1,1996
+2826,th-fec and h (paclitaxel),1,1996
+2827,thal,1,338
+2828,thal-dex,1,1997
+2829,thalcydex,1,735
+2830,thaldex,1,1997
+2831,thalidomide,1,338
+2832,thalidomide and alfa-interferon,1,1364
+2833,thalidomide and dex,1,1997
+2834,thalidomide and dexamethasone,1,1997
+2835,thalidomide and ifn,1,1364
+2836,thalidomide and ifn-a,1,1364
+2837,thalidomide and interferon,1,1364
+2838,thalidomide and interferon alfa,1,1364
+2839,thalidomide and intron a,1,1364
+2840,thalidomide and prednisolone,1,1998
+2841,thalidomide and prednisone,1,1999
+2842,thalidomide and velcade (bortezomib),1,2140
+2843,thalidomide monotherapy,1,338
+2844,"thalidomide, adriamycin (doxorubicin), dexamethasone",1,864
+2845,"thalidomide, adriamycin, dex",1,864
+2846,"thalidomide, adriamycin, dexamethasone",1,864
+2847,"thalidomide, cyclophosphamide, prednisone",1,1974
+2848,"thalidomide, dexamethasone",1,1997
+2849,"thalidomide, doxorubicin, dexamethasone",1,864
+2850,"thalidomide, low-dose dexamethasone, low-dose cyclophosphamide",1,735
+2851,"thalidomide, vincristine, adriamycin liposomal (doxil), dexamethasone",1,2042
+2852,"thalidomide, vincristine, pegylated liposomal adriamycin (doxil), dexamethasone",1,2042
+2853,thalomid,1,338
+2854,thalomid and dexamethasone,1,1997
+2855,thalomid and prednisone,1,1999
+2856,"thalomid, adriamycin, dex",1,864
+2857,"thalomid, adriamycin, dexamethasone",1,864
+2858,"thalomid, doxorubicin, dex",1,864
+2859,"thalomid, doxorubicin, dexamethasone",1,864
+2860,thalpred,1,1999
+2861,"thioguanine, ara-c (cytarabine), daunorubicin",1,864
+2862,"thioguanine, ara-c (cytarabine), daunorubicin over 9 days",1,864
+2863,"thiotepa, busulfan, , cyclophosphamide",1,286
+2864,"thiotepa, busulfan, cyclophosphamide",1,286
+2865,"thiotepa, methotrexate, fluorouracil",1,2012
+2866,this regimen is of historical significance,1,1539
+2867,thl,1,2002
+2868,thl (taxol),1,2002
+2869,thp,1,2003
+2870,thp,7,2003
+2871,thp (paclitaxel),1,2003
+2872,thp (taxotere),1,2003
+2873,ti,1,1343
+2874,ti-ce,1,384
+2875,tkd,1,1424
+2876,tl,1,1439
+2877,tl (taxol),1,1439
+2878,tl (taxotere),1,57
+2879,tli and atg,1,2011
+2880,tmc,1,476
+2881,tmc-i,1,477
+2882,topotecan and cisplatin,1,338
+2883,"topotecan, cyclophosphamide followed by ifosfamide, etoposide, then vincristine, doxorubicin, cyclophosphamide, then vincristine, etoposide, cyclophosphamide",1,1971
+2884,"topotecan, paclitaxel",1,338
+2885,"topotecan, paclitaxel, bevacizumab",1,1719
+2886,total body irradiation,1,1490
+2887,total body irradiation and cyclophosphamide,1,761
+2888,total lymphocyte irradiation,1,2011
+2889,total lymphocyte irradiation and anti-thymocyte globulin,1,2011
+2890,"total-body irradiation, ara-c (cytarabine), melphalan",1,1957
+2891,tp,1,338
+2892,tp and rt,1,415
+2893,tp+bev,1,1719
+2894,tpc,1,417
+2895,tpf,1,884
+2896,tpf,7,884
+2897,trans-arterial chemoembolization followed by 5-fluorouracil,1,1950
+2898,trastuzumab and endocrine therapy,1,2028
+2899,"trastuzumab, paclitaxel",1,338
+2900,"trastuzumab, paclitaxel, carboplatin",1,417
+2901,trastuzumab-dm1 (ado-trastuzumab emtansine),1,2031
+2902,trastuzumab-dm1 (ado-trastuzumab emtansine) and endocrine therapy,1,1944
+2903,trastuzumab-dm1 (trastuzumab emtansine),1,2031
+2904,trastuzumab-dm1 (trastuzumab emtansine) and endocrine therapy,1,1944
+2905,triple metronomic chemotherapy,1,476
+2906,"triple metronomic chemotherapy, immunotherapy",1,477
+2907,triple therapy (4?),1,2039
+2908,tv,1,2140
+2909,tvad (pld substituted),1,2042
+2910,tvad doxil,1,2042
+2911,tvd,1,2141
+2912,tx,1,338
+2913,ufh,1,1284
+2914,uft (tegafur and uracil) and leucovorin,1,1978
+2915,uft (tegafur and uracil) and leucovorin (folinic acid),1,1978
+2916,uft (tegafur and uracil) and mitomycin,1,2046
+2917,uft + lv,1,1978
+2918,ugn-101 (mitomycin-containing reverse thermal gel) monotherapy,1,1585
+2919,unfractionated heparin,1,1284
+2920,v,1,275
+2921,v monotherapy,1,275
+2922,vab 4,7,2057
+2923,vab 5,7,2057
+2924,vab 6,7,2057
+2925,vab-vi,7,2057
+2926,vac,1,459
+2927,vacop,1,515
+2928,vacp,1,739
+2929,vad,1,852
+2930,vad,7,852
+2931,vad (pegylated liposomal doxorubicin substituted),1,852
+2932,vad (pld substituted),1,852
+2933,vad doxil,1,852
+2934,vad+c,1,2064
+2935,vad-csa,1,2063
+2936,vad-cyclosporine,1,2063
+2937,vadca,1,2059
+2938,vadca/ie,1,2060
+2939,vadriac/ie,1,2090
+2940,vamp (amethopterin),1,2073
+2941,vamp (methotrexate),1,2073
+2942,vbcmp,1,2084
+2943,vbd,1,302
+2944,vbm,1,2083
+2945,vbr,1,303
+2946,vc,1,384
+2947,vc,7,384
+2948,vc-mp,1,1619
+2949,vcd,1,741
+2950,vcmp,1,2121
+2951,vcmp,7,2121
+2952,vcp,1,746
+2953,vcr-cap,1,2137
+2954,vcrd,1,1891
+2955,vd,1,267
+2956,vd and panobinostat,1,268
+2957,vdc,1,741
+2958,vdc-mod,1,741
+2959,vdcr,1,1891
+2960,vdd,1,852
+2961,vdd,7,852
+2962,vdp,1,1807
+2963,vdp,7,1807
+2964,vdr,1,1890
+2965,vdsc,1,272
+2966,vdt,7,2141
+2967,vdt-pace,1,2142
+2968,vdt-pace,7,2142
+2969,ve,1,1053
+2970,"velban (vinblastine), ifosfamide, platinol (cisplatin)",1,2091
+2971,velcade,1,275
+2972,velcade (bortezomib) and dexamethasone,1,267
+2973,velcade (bortezomib) and low-dose dexamethasone,1,267
+2974,velcade (bortezomib) and prednisone,1,272
+2975,velcade (bortezomib) and rituximab,1,273
+2976,velcade (bortezomib) and thalidomide,1,2140
+2977,"velcade (bortezomib) rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,2138
+2978,"velcade (bortezomib), adriamycin (doxorubicin), dexamethasone",1,852
+2979,"velcade (bortezomib), bendamustine, rituximab",1,303
+2980,"velcade (bortezomib), bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,2048
+2981,"velcade (bortezomib), cyclophosphamide, dexamethasone",1,741
+2982,"velcade (bortezomib), dexamethasone",1,267
+2983,"velcade (bortezomib), dexamethasone, cyclophosphamide",1,741
+2984,"velcade (bortezomib), dexamethasone, cyclophosphamide (modified dose)",1,741
+2985,"velcade (bortezomib), dexamethasone, cyclophosphamide, revlimid (lenalidomide)",1,1891
+2986,"velcade (bortezomib), dexamethasone, revlimid (lenalidomide)",1,1890
+2987,"velcade (bortezomib), doxil (pegylated liposomal doxorubicin), dexamethasone",1,852
+2988,"velcade (bortezomib), hyperfractionated cyclophosphamide, adriamycin (doxorubicin), dexamethasone",1,2050
+2989,"velcade (bortezomib), low-dose dexamethasone",1,267
+2990,"velcade (bortezomib), low-dose dexamethasone, panobinostat",1,268
+2991,"velcade (bortezomib), melphalan, dexamethasone",1,2124
+2992,"velcade (bortezomib), melphalan, prednisone",1,1619
+2993,"velcade (bortezomib), melphalan, prednisone alternating with revlimid (lenalidomide), low dose dexamethasone",1,2126
+2994,"velcade (bortezomib), melphalan, prednisone, followed by revlimid (lenalidomide), low dose dexamethasone",1,2125
+2995,"velcade (bortezomib), melphalan, prednisone, thalidomide",1,2127
+2996,"velcade (bortezomib), revlimid (lenalidomide), dexamethasone",1,1890
+2997,"velcade (bortezomib), revlimid (lenalidomide), low-dose dexamethasone",1,1890
+2998,"velcade (bortezomib), rituximab",1,273
+2999,"velcade (bortezomib), rituximab, cyclophosphamide, adriamycin (doxorubicin), prednisone",1,2137
+3000,"velcade (bortezomib), rituximab, cyclophosphamide, hydroxydaunorubicin (doxorubicin), oncovin (vincristine), predniso(lo)ne",1,2138
+3001,"velcade (bortezomib), rituximab, cyclophosphamide, prednisone",1,2139
+3002,"velcade (bortezomib), rituximab, cyclophosphamide, vincristine, adriamycin (doxorubicin), dexamethasone",1,2089
+3003,"velcade (bortezomib), thalidomide, dexamethasone",1,2141
+3004,"velcade (bortezomib), thalidomide, dexamethasone, platinum (cisplatin), adriamycin (doxorubicin), cyclophosphamide, etoposide",1,2142
+3005,"velcade (bortezomib), thalidomide, prednisone",1,2144
+3006,velcade and dexamethasone,1,267
+3007,velcade and doxil,1,271
+3008,"velcade and melphalan, then auto hsct",1,269
+3009,velcade and pred,1,272
+3010,velcade and prednisone,1,272
+3011,velcade and thalidomide,1,2140
+3012,velcade and thalomid,1,2140
+3013,velcade and vorinostat,1,274
+3014,velcade and zorinza,1,274
+3015,velcade monotherapy,1,275
+3016,"velcade, adriamycin, dex",1,852
+3017,"velcade, adriamycin, dexamethasone",1,852
+3018,"velcade, doxil, dexamethasone",1,1617
+3019,"velcade, doxorubicin, dex",1,852
+3020,"velcade, doxorubicin, dexamethasone",1,852
+3021,"velcade, liposomal adriamycin, dexamethasone",1,1617
+3022,"velcade, melphalan, prednisone",1,1619
+3023,"velcade, melphalan, prednisone, alternating with revlimid and dexamethasone",1,2126
+3024,"velcade, melphalan, prednisone, thalidomide",1,2127
+3025,"velcade, melphalan, prednisone, then revlimid and dexamethasone",1,2125
+3026,"velcade, melphalan, prednisone/revlimid and dexamethasone",1,2126
+3027,"velcade, melphalan, thalidomide, prednisone",1,2127
+3028,"velcade, pomalyst, dex",1,1807
+3029,"velcade, pomalyst, dexamethasone",1,1807
+3030,"velcade, revlimid, dex",1,1890
+3031,"velcade, revlimid, dexamethasone",1,1890
+3032,"velcade, thaldex",1,2141
+3033,"velcade, thalidomide, dex",1,2141
+3034,"velcade, thalidomide, dexamethasone",1,2141
+3035,"velcade, thalidomide, prednisone",1,2144
+3036,"velcade, thalomid, prednisone",1,2144
+3037,"velcade, thalpred",1,2144
+3038,velcade-dex,1,267
+3039,velcade-hdm,1,269
+3040,velcade-lendex,1,1890
+3041,velcade-mp,1,1619
+3042,"velcade-mp, alternating with lendex",1,2126
+3043,"velcade-mp, alternating with revdex",1,2126
+3044,"velcade-mp, then lendex",1,2125
+3045,"velcade-mp, then revdex",1,2125
+3046,velcade-mp/lendex,1,2126
+3047,velcade-mp/revdex,1,2126
+3048,velcade-mpt,1,2127
+3049,velcade-mtp,1,2127
+3050,velcade-pomdex,1,1807
+3051,velcade-revdex,1,1890
+3052,vemurafenib,1,2093
+3053,venetoclax and gazyva (obinutuzumab),1,1248
+3054,venetoclax and obinutuzumab,1,1248
+3055,"venetoclax, kyprolis (carfilzomib), low-dose dexamethasone",1,2094
+3056,venr,1,2095
+3057,ventoclax and ibrutinib,1,1316
+3058,"vepesid (etoposide), adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), prednisone",1,515
+3059,"vepesid (etoposide), adriamycin (doxorubicin), cyclophosphamide, oncovin (vincristine), prednisone, bleomycin",1,2062
+3060,"vepesid (etoposide), ifosfamide, platinol (cisplatin)",1,2113
+3061,"vepesid (etoposide), novantrone (mitoxantrone), cyclophosphamide, oncovin (vincristine), prednisone, bleomycin",1,2130
+3062,vg,1,1248
+3063,vh,1,2111
+3064,vh and everolimus,1,2112
+3065,vi,1,1316
+3066,vinblastine and platinol (cisplatin),1,272
+3067,"vinblastine, adriamycin (doxorubicin), methrotrexate, prednisone",1,2073
+3068,"vinblastine, bleomycin, ddp (cisplatin)",1,302
+3069,"vinblastine, endoxan (cyclophosphamide), procarbazine, etoposide, mitoxantrone, bleomycin",1,2098
+3070,"vinblastine, ifosfamide, platinol (cisplatin)",1,2113
+3071,vincristine and actinomycin d,1,2051
+3072,vincristine and carboplatin,1,384
+3073,vincristine and prednisone,1,272
+3074,"vincristine, actinomycin d, cyclophosphamide",1,459
+3075,"vincristine, actinomycin-d (dactinomycin), ifosfamide",1,2069
+3076,"vincristine, adriamycin (doxorubicin), cyclophosphamide",1,459
+3077,"vincristine, adriamycin (doxorubicin), cyclophosphamide, alternating with ifosfamide and etoposide",1,2090
+3078,"vincristine, adriamycin (doxorubicin), cyclophosphamide, dactinomycin",1,2059
+3079,"vincristine, adriamycin (doxorubicin), cyclophosphamide, dactinomycin alternating with ifosfamide, etoposide",1,2060
+3080,"vincristine, adriamycin (doxorubicin), cyclophosphamide, prednisolone",1,739
+3081,"vincristine, adriamycin (doxorubicin), cyclophosphamide, prednisone",1,739
+3082,"vincristine, adriamycin (doxorubicin), dexamethasone",1,852
+3083,"vincristine, adriamycin (doxorubicin), dexamethasone, chlorambucil",1,2064
+3084,"vincristine, adriamycin (doxorubicin), dexamethasone, cyclosporine",1,2063
+3085,"vincristine, adriamycin (doxorubicin), dexamethasone, prednisone",1,2065
+3086,"vincristine, adriamycin (doxorubicin), dexamethasone, prednisone, quinine",1,2066
+3087,"vincristine, adriamycin (doxorubicin), ifosfamide, actinomycin-d (dactinomycin)",1,2070
+3088,"vincristine, adriamycin (doxorubicin), low-dose dexamethasone",1,852
+3089,"vincristine, adriamycin (doxorubicin), methylprednisolone",1,2073
+3090,"vincristine, adriamycin (doxorubicin), prednisolone",1,2075
+3091,"vincristine, adriamycin liposomal (doxil), dexamethasone",1,852
+3092,"vincristine, amethopterin (methotrexate), mercaptopurine, prednisone",1,2073
+3093,"vincristine, bcnu, melphalan, cyclophosphamide, prednisone alternating with vincristine2c bcnu, adriamycin, dexamethasone",1,2085
+3094,"vincristine, bicnu (carmustine), cyclophosphamide, melphalan, prednisone",1,2084
+3095,"vincristine, bicnu (carmustine), melphalan, cyclophosphamide, prednisone",1,2084
+3096,"vincristine, bicnu (carmustine), melphalan, cyclophosphamide, prednisone alternating with vincristine, bicnu (carmustine), adriamycin (doxorubicin), dexamethasone",1,2085
+3097,"vincristine, bicnu, melphalan, cyclophosphamide, prednisone alternating with vincristine2c bicnu, doxorubicin, dexamethasone",1,2085
+3098,"vincristine, bleomycin, methotrexate",1,2083
+3099,"vincristine, carmustine, melphalan, cyclophosphamide, prednisone alternating with vincristine2c carmustine, doxorubicin, dexamethasone",1,2085
+3100,"vincristine, ccnu (lomustine), prednisone",1,746
+3101,"vincristine, cyclophosphamide, melphalan, prednisone",1,2121
+3102,"vincristine, cyclophosphamide, prednisone",1,746
+3103,"vincristine, dactinomycin, ifosfamide",1,2069
+3104,"vincristine, doxorubicin, cyclophosphamide, alternating with ifosfamide and etoposide",1,2090
+3105,"vincristine, doxorubicin, dex",1,852
+3106,"vincristine, doxorubicin, dex, pred",1,2065
+3107,"vincristine, doxorubicin, dex, pred, quinine",1,2066
+3108,"vincristine, doxorubicin, dexamethasone",1,852
+3109,"vincristine, doxorubicin, dexamethasone, prednisone",1,2065
+3110,"vincristine, doxorubicin, dexamethasone, prednisone, quinine",1,2066
+3111,"vincristine, endoxan (cyclophosphamide), prednisolone, adriamycin (doxorubicin)",1,2097
+3112,"vincristine, ifosfamide, doxorubicin, etoposide",1,2101
+3113,"vincristine, ifosfamide, etoposide",1,2102
+3114,"vincristine, liposomal doxorubicin, dex",1,852
+3115,"vincristine, liposomal doxorubicin, dexamethasone",1,852
+3116,"vincristine, melphalan, cyclophosphamide, prednisone",1,2121
+3117,"vincristine, melphalan, cyclophosphamide, prednisone alternating with vincristine, bicnu (carmustine), adriamycin (doxorubicin), prednisone",1,2122
+3118,"vincristine, melphalan, cyclophosphamide, prednisone alternating with vincristine, cyclophosphamide, adriamycin (doxorubicin), prednisone",1,2123
+3119,"vincristine, methotrexate, vp-16 (etoposide) alternating with vincristine, adriamycin (doxorubicin), cyclophosphamide",1,2129
+3120,"vincristine, methotrexate, vp-16 (etoposide), followed by vincristine, adriamycin (doxorubicin), cyclophosphamide",1,2128
+3121,"vincristine, methotrexate, vp-16 (etoposide), vp-16 (etoposide), adriamycin (doxorubicin), cyclophosphamide",1,2128
+3122,"vincristine, pegylated liposomal adriamycin (doxil), dexamethasone",1,852
+3123,vindesine and cisplatin,1,272
+3124,vindesine and platinol (cisplatin),1,272
+3125,"vindesine, cyclophosphamide, adriamycin (doxorubicin), prednisone",1,2087
+3126,vinorelbine,1,275
+3127,vinorelbine and carboplatin,1,384
+3128,vinorelbine and cisplatin,1,384
+3129,vinorelbine and epirubicin,1,1053
+3130,vinorelbine and gemcitabine,1,1248
+3131,vinorelbine and herceptin (trastuzumab),1,2111
+3132,"vinorelbine and herceptin (trastuzumab), followed by fluorouracil, epirubicin, cyclophosphamide",1,2099
+3133,"vinorelbine followed by fluorouracil, epirubicin, cyclophosphamide",1,2049
+3134,vinorelbine monotherapy,1,275
+3135,"vinorelbine, cisplatin",1,384
+3136,"vinorelbine, herceptin (trastuzumab), everolimus",1,2112
+3137,"vinorelbine, herceptin (trastuzumab), pertuzumab",1,2100
+3138,vmp,1,1619
+3139,"vmp, alternating with lendex",1,2126
+3140,"vmp, alternating with revdex",1,2126
+3141,"vmp, then lendex",1,2125
+3142,"vmp, then revdex",1,2125
+3143,vmp/lendex,1,2126
+3144,vmp/revdex,1,2126
+3145,vmtp,1,2127
+3146,vo,1,1248
+3147,voca,7,1016
+3148,"vorinostat, lenalidomide, dex",1,2151
+3149,"vorinostat, lenalidomide, dexamethasone",1,2151
+3150,vorinostat-ld,1,2151
+3151,vorinostat-lendex,1,2151
+3152,vorinostat-rd,1,2151
+3153,vorinostat-revdex,1,2151
+3154,vorinostat-revlimid and dex,1,2151
+3155,vorinostat-revlimid and dexamethasone,1,2151
+3156,vp,1,272
+3157,"vp-16 (etoposide), ifosfamide, platinol (cisplatin), dexamethasone",1,2115
+3158,vp/cy,7,384
+3159,vpcmf,7,646
+3160,vpd,1,1807
+3161,vpvcp,7,2134
+3162,vr,1,273
+3163,vrcd,1,1891
+3164,vrd,1,1890
+3165,wayne state protocol,7,543
+3166,weekly paclitaxel,1,338
+3167,weekly taxol (paclitaxel),1,338
+3168,wp,1,338
+3169,wt,1,338
+3170,x,1,355
+3171,xec,1,2043
+3172,xeliri,1,342
+3173,xeliri,7,342
+3174,xeliri-bev,1,374
+3175,xeloda (capecitabine),1,355
+3176,xeloda (capecitabine) and herceptin,1,352
+3177,xeloda (capecitabine) and herceptin (trastuzumab),1,352
+3178,xeloda (capecitabine) and irinotecan,1,342
+3179,xeloda (capecitabine) and ixabepilone,1,342
+3180,xeloda (capecitabine) and oxaliplatin,1,365
+3181,xeloda (capecitabine) and platinol (cisplatin),1,332
+3182,xeloda (capecitabine) and taxotere (docetaxel),1,338
+3183,"xeloda (capecitabine), epirubicin, cyclophosphamide",1,2043
+3184,"xeloda (capecitabine), herceptin (trastuzumab), pertuzumab",1,2146
+3185,"xeloda (capecitabine), irinotecan, bevacizumab",1,374
+3186,"xeloda (capecitabine), oxaliplatin",1,365
+3187,"xeloda (capecitabine), platinol (cisplatin)",1,332
+3188,xeloda and oxaliplatin,1,365
+3189,"xeloda, oxaliplatin, bevacizumab",1,366
+3190,xelox,1,365
+3191,xelox,7,365
+3192,xelox (capecitabine) and irinotecan,1,342
+3193,xelox and bevacizumab,1,366
+3194,xh,1,352
+3195,xh and tucatinib,1,353
+3196,xi,1,342
+3197,xp,1,332
+3198,"xpovio (selinexor), velcade (bortezomib), low-dose dexamethasone",1,1936
+3199,xt,1,338
+3200,xvd,1,1936
+3201,zanubrutinib and obinutuzumab (zo),1,2148
+3202,zelboraf,1,2093
+3203,zelboraf monotherapy,1,2093
+3204,"zevalin (ibritumomab tiuxetan), bicnu (carmustine), etoposide, ara-c (cytarabine), melphalan",1,2147
+3205,zld,1,2151
+3206,zo,1,2148
+3207,"zolinza (vorinostat), revlimid (lenalidomide), low-dose dexamethasone",1,2151
+3208,"zorinza, lenalidomide, dex",1,2151
+3209,"zorinza, lenalidomide, dexamethasone",1,2151
+3210,zorinza-ld,1,2151
+3211,zorinza-lendex,1,2151
+3212,zorinza-rd,1,2151
+3213,zorinza-revdex,1,2151
+3214,zorinza-revlimid and dex,1,2151
+3215,zorinza-revlimid and dexamethasone,1,2151

@@ -1,0 +1,5479 @@
+anchor_drug_id,anchor_drug_name
+1,(4-(trifluoromethoxy)phenyl)urea
+2,"(all-z)-4,7,10,13,16-docosapentaenoic acid"
+3,"1,1'-oxybis(2-propanol)"
+4,"1,1,2,2-tetrafluoroethane"
+5,"1,2,6-hexanetriol"
+6,"1,2-dibromo-3-chloropropane"
+7,"1,2-dilinoleoyl-sn-glycero-3-phosphocholine"
+8,"1,2-distearoyllecithin"
+9,"1,2-docosahexanoyl-sn-glycero-3-phosphoserine"
+10,"1,2-hexanediol"
+11,"1,2-icosapentoyl-sn-glycero-3-phosphoserine"
+12,"1,2-octanediol"
+13,"1,3-bis((1-methylethyl)amino)propan-2-ol"
+14,"1,3-butadiene"
+15,"1,3-butylene glycol"
+16,"1,3-propanediol"
+17,"1,4-benzoquinone"
+18,"1,4-sorbitan"
+19,1-(c14-c18 esteroyl)-2-docosahexanoyl-sn-glycero-3-phosphocholine
+20,1-(c14-c18 esteroyl)-2-docosahexanoyl-sn-glycero-3-phosphoethanolamine
+21,1-chloro-2-methyl-1-propene
+22,1-glyceryl monooleate
+23,1-methyl-2-pyrrolidinone
+24,1-o-tetradecylglycerol
+25,1-octacosanol
+26,1-octanol
+27,1-palmitoyl-2-oleoyl-sn-glycero-3-(phospho-rac-(1-glycerol))
+28,1-propanol
+29,17-alpha-hydroxyprogesterone
+30,2'-deoxyadenosine
+31,2'-deoxyguanosine
+32,2'-fucosyllactose
+33,"2,2'-dithiobisbenzothiazole"
+34,"2,2-bis(4-glycidyloxyphenyl)propane"
+35,"2,2-bis(4-hydroxy-3-tert-butylphenyl)propane"
+36,"2,3-dichloro-5,6-dicyanobenzoquinone"
+37,"2,3-dimercapto-1-propanesulfonic acid"
+38,2-(cyclohexylamino)ethanesulfonic acid
+39,2-(l-menthoxy)ethanol
+40,2-(n-morpholino)ethanesulfonic acid
+41,2-amino-5-nitrothiazole
+42,2-aminophenol
+43,"2-chloro-4,5-dimethylphenol"
+44,2-deoxyglucose
+45,2-ethoxyethanol
+46,2-ethylhexyl 4-phenylbenzophenone-2'-carboxylate
+47,2-ethylhexyl benzoate
+48,2-hydroxyethyl methacrylate
+49,2-mercaptobenzothiazole
+50,2-mercaptoethanesulfonic acid
+51,2-methyl-4-isothiazolin-3-one
+52,2-nitropropane
+53,2-octyl cyanoacrylate
+54,2-tert-butylhydroquinone
+55,"3,3'-diindolylmethane"
+56,3-iodobenzylguanidine
+57,3-n-butylphthalide
+58,4-aminobenzoic acid
+59,4-aminohippuric acid
+60,4-aminophenol
+61,4-coumaric acid
+62,4-dimethylaminophenol
+63,4-hydroxybenzoic acid
+64,4-methyl-5-thiazoleethanol
+65,4-phenylenediamine
+66,5-hydroxytryptophan
+67,"5-hydroxytryptophan, dl-"
+68,5-methoxypsoralen
+69,5-methyl-8-hydroxyquinoline
+70,5-methyltetrahydrofolic acid
+71,6-aminocaproic acid
+72,7-aminodesacetoxycephalosporanic acid
+73,8-epi-cyanocobalamin
+74,abacavir
+75,abacavir / dolutegravir / lamivudine
+76,abacavir / lamivudine
+77,abacavir / lamivudine / zidovudine
+78,abaloparatide
+79,abametapir
+80,abarelix
+81,abatacept
+82,abciximab
+83,abemaciclib
+84,abetimus
+85,abiraterone
+86,abiraterone / niraparib
+87,abrocitinib
+88,acalabrutinib
+89,acamprosate
+90,acarbose
+91,acebutolol
+92,acecarbromal
+93,aceclidine
+94,aceclofenac
+95,aceglutamide
+96,acemannan
+97,acemetacin
+98,aceneuramate
+99,acenocoumarol
+100,acepromazine
+101,aceprometazine
+102,acesulfame
+103,acetaldehyde
+104,acetamide
+105,acetaminophen
+106,acetaminophen / aspirin / caffeine
+107,acetaminophen / butalbital / caffeine
+108,acetaminophen / chlorpheniramine / dextromethorphan / phenylpropanolamine
+109,acetaminophen / codeine
+110,acetaminophen / oxycodone
+111,acetaminophen / pamabrom / pyrilamine
+112,acetaminophen / tramadol
+113,acetate
+114,acetazolamide
+115,acetiamine
+116,acetic acid
+117,acetic anhydride
+118,acetohexamide
+119,acetohydroxamic acid
+120,acetone
+121,acetophenazine
+122,acetophenone
+123,acetoxolone
+124,acetyl coenzyme a
+125,acetyl hexapeptide-8
+126,acetylcarnitine
+127,acetylcholine
+128,acetylcysteine
+129,acetyldigitoxin
+130,acetylene
+131,acetyltributyl citrate
+132,acexamic acid
+133,acipimox
+134,acitretin
+135,aclarubicin
+136,aclidinium
+137,aclidinium / formoterol
+138,acoltremon
+139,aconitine
+140,acoramidis
+141,acorus calamus extract
+142,acorus calamus root extract
+143,acremonium strictum allergenic extract
+144,acriflavine
+145,acrisorcin
+146,acrivastine
+147,acrylamide
+148,acrylate
+149,activated attapulgite
+150,activated charcoal
+151,acv tripeptide
+152,acyclovir
+153,adagrasib
+154,adalimumab
+155,"adamts13, recombinant"
+156,adapalene
+157,adefovir
+158,adenine
+159,adenosine
+160,adenosine triphosphate
+161,adenovirus type 4 vaccine live
+162,adenovirus type 7 vaccine live
+163,adiphenine
+164,adipic acid
+165,adrafinil
+166,adrenalone
+167,aducanumab
+168,afamelanotide
+169,afamitresgene autoleucel
+170,afatinib
+171,aficamten
+172,aflibercept
+173,afoxolaner
+174,agalsidase alfa
+175,agalsidase beta
+176,agaric acid
+177,agathosma betulina leaf oil
+178,agatolimod
+179,agkistrodon piscivorus antivenin
+180,agkistrodon piscivorus antivenin / crotalus adamanteus antivenin / crotalus atrox antivenin / crotalus scutulatus antivenin
+181,agrostis gigantea top extract
+182,air
+183,ajmaline
+184,alanine
+185,alanylglutamine
+186,alatrofloxacin
+187,albendazole
+188,albiglutide
+189,"albumin human, usp"
+190,"albumin,aggregated"
+191,"albumin,iodinated i-125 serum"
+192,"albumin,iodinated i-131 serum"
+193,albuterol
+194,albuterol / ipratropium
+195,alcaftadine
+196,alclometasone
+197,alcloxa
+198,alcuronium
+199,aldesleukin
+200,aldioxa
+201,aldosterone
+202,alectinib
+203,alefacept
+204,alemtuzumab
+205,alendronate
+206,alendronate / cholecalciferol
+207,alexitol
+208,alfacalcidol
+209,alfalfa pollen extract
+210,alfatradiol
+211,alfaxalone
+212,alfentanil
+213,alfuzosin
+214,algal fungi allergenic extract
+215,algestone
+216,alginate
+217,alginic acid
+218,alglucerase
+219,alglucosidase alfa
+220,alibendol
+221,alirocumab
+222,aliskiren
+223,alitretinoin
+224,alizapride
+225,alkali blite pollen extract
+226,all-trans-retinol
+227,allantoin
+228,allicin
+229,allobarbital
+230,allogeneic cultured keratinocytes and dermal fibroblasts in murine collagen
+231,allogeneic processed thymus tissue
+232,allogenic bone-marrow-derived mesenchymal stem cells
+233,alloin
+234,allopurinol
+235,allscale pollen extract
+236,allyl sulfide
+237,allylestrenol
+238,allylthiourea
+239,alminoprofen
+240,almitrine
+241,almotriptan
+242,alnus glutinosa bark extract
+243,aloe ferox leaf preparation
+244,aloe vera flower extract
+245,aloe vera leaf extract
+246,aloe vera leaf polysaccharides
+247,alogliptin
+248,aloglutamol
+249,alosetron
+250,aloxiprin
+251,alpelisib
+252,alpha 1-antitrypsin
+253,alpha tocopherol
+254,alpha-amylase
+255,alpha-arbutin
+256,alpha-d-galactosidase enzyme
+257,alpha-d-glucopyranose
+258,alpha-ketoglutaric acid
+259,alpha-pinene
+260,alpha-terpineol
+261,alpha-tocopheryloxyacetate
+262,alpha-tocopherylquinone
+263,alphaprodine
+264,alpinia officinarum leaf extract
+265,alprazolam
+266,alprenolol
+267,alprostadil
+268,alseroxylon
+269,alteplase
+270,althiazide
+271,altrenogest
+272,altretamine
+273,"alum, potassium"
+274,aluminum
+275,aluminum acetate
+276,aluminum cation
+277,aluminum chloride
+278,aluminum chlorohydrate
+279,aluminum chlorohydrex propylene glycol
+280,aluminum hydroxide
+281,aluminum hydroxide / magnesium carbonate
+282,aluminum magnesium silicate
+283,aluminum oxide
+284,aluminum phosphate
+285,aluminum potassium sulfate
+286,aluminum sesquichlorohydrate
+287,aluminum silicate
+288,aluminum stearate
+289,aluminum subacetate
+290,aluminum sulfate
+291,aluminum sulfate / calcium acetate
+292,aluminum zirconium octachlorohydrex gly
+293,aluminum zirconium pentachlorohydrate
+294,aluminum zirconium pentachlorohydrex gly
+295,aluminum zirconium tetrachlorohydrex gly
+296,aluminum zirconium trichlorohydrex gly
+297,alverine
+298,alvimopan
+299,amantadine
+300,amaranthus hybridus pollen extract
+301,ambenonium
+302,amber
+303,ambrisentan
+304,ambroxol
+305,amcinonide
+306,amdinocillin
+307,amdinocillin pivoxil
+308,american basswood pollen extract
+309,american cockroach allergenic extract
+310,american elm pollen extract
+311,amifampridine
+312,amifostine
+313,amikacin
+314,amiloride
+315,amiloride / hydrochlorothiazide / timolol
+316,amiloxate
+317,aminacrine
+318,aminaphthone
+319,amino methacrylate copolymer
+320,aminobenzoate
+321,aminoglutethimide
+322,aminolevulinate
+323,aminolevulinic acid
+324,aminometradine
+325,aminopentamide
+326,aminophylline
+327,aminopromazine
+328,aminopropazine fumarate
+329,aminopterin
+330,aminopyrine
+331,aminoquinuride
+332,aminosalicylic acid
+333,amiodarone
+334,amisulpride
+335,amitraz
+336,amitriptyline
+337,amivantamab
+338,amlexanox
+339,amlodipine
+340,amlodipine / benazepril
+341,amlodipine / olmesartan
+342,ammonia
+343,ammonio methacrylate copolymer type a
+344,ammonium benzoate
+345,ammonium bromide
+346,ammonium carbonate
+347,ammonium chloride
+348,ammonium salicylate
+349,ammonium valerate
+350,amobarbital
+351,amodiaquine
+352,amonafide
+353,amoproxan
+354,amorolfine
+355,amosulalol
+356,amoxapine
+357,amoxicillin
+358,amphetamine
+359,amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate
+360,amphotericin b
+361,ampicillin
+362,amprenavir
+363,amprolium
+364,amsacrine
+365,amygdalin
+366,amyl acetate
+367,amyl cinnamal
+368,amyl nitrite
+369,amylmetacresol
+370,amylocaine
+371,amylopectin
+372,anacardium occidentale fruit extract
+373,anacaulase
+374,anagrelide
+375,anakinra
+376,anastrozole
+377,ancestim
+378,ancrod
+379,andexanet alfa
+380,androstenedione
+381,anethole
+382,anethole trithione
+383,angelica archangelica root extract
+384,angelica dahurica root extract
+385,angelica sinensis root extract
+386,angiotensin ii
+387,anhydrovitamin a
+388,anidulafungin
+389,anifrolumab
+390,anileridine
+391,aniline
+392,aniracetam
+393,anise oil
+394,anisindione
+395,anisotropine
+396,anistreplase
+397,annual bluegrass pollen extract
+398,ansuvimab
+399,antazoline
+400,anthralin
+401,anti-inhibitor coagulant complex
+402,"antihemophilic factor (recombinant), fc-vwf-xten fusion protein"
+403,antimony
+404,antimony cation (5+)
+405,antimony pentasulfide
+406,antimony potassium tartrate
+407,antimony triiodide
+408,antimony trisulfide
+409,antipyrine
+410,antithrombin iii
+411,apalutamide
+412,apazone
+413,apigenin
+414,apixaban
+415,apomorphine
+416,apple cider vinegar
+417,apple fruit oil
+418,apple pectin
+419,apraclonidine
+420,apremilast
+421,aprepitant
+422,apricot kernel oil
+423,aprindine
+424,aprinocarsen
+425,aprobarbital
+426,aprocitentan
+427,aprotinin
+428,arabic gum allergenic extract
+429,arabica coffee bean allergenic extract
+430,arachidate
+431,arachidonate
+432,arbekacin
+433,arbutamine
+434,arbutin
+435,ardeparin
+436,arformoterol
+437,argan oil
+438,argatroban
+439,arginine
+440,arginine glutamate
+441,arginine pyroglutamate
+442,arimoclomol
+443,aripiprazole
+444,aripiprazole lauroxil
+445,arizona ash pollen extract
+446,arizona cypress pollen extract
+447,armodafinil
+448,arnica flowers extract
+449,arnica montana extract
+450,arnica montana flower extract
+451,arroyo willow pollen extract
+452,arsenic trioxide
+453,arsenite ion
+454,artemether
+455,artemisia annua leaf extract
+456,artemisia vulgaris root extract
+457,artemisinin
+458,artesunate
+459,arthrospira platensis
+460,articaine
+461,articaine / epinephrine
+462,asciminib
+463,ascophyllum nodosum extract
+464,ascorbate
+465,ascorbic acid
+466,ascorbic acid / biotin / copper sulfate / docusate / folic acid / iron carbonyl / vitamin b12 / vitamin e
+467,ascorbic acid / polyethylene glycol 3350 / potassium chloride / sodium ascorbate / sodium chloride / sodium sulfate
+468,ascorbyl glucoside
+469,ascorbyl phosphate
+470,asenapine
+471,asfotase alfa
+472,asiatic acid
+473,asiaticoside
+474,asparaginase
+475,asparagine
+476,aspartame
+477,aspartic acid
+478,aspen pollen extract
+479,aspergillus flavus var. oryzae
+480,aspergillus fumigatus
+481,aspirin
+482,aspirin / caffeine
+483,aspirin / caffeine / orphenadrine
+484,aspirin / oxycodone hydrochloride / oxycodone terephthalate
+485,astaxanthin
+486,astemizole
+487,astragalus propinquus root polysaccharides
+488,asunaprevir
+489,atacicept
+490,atazanavir
+491,atazanavir / cobicistat
+492,atenolol
+493,atenolol / chlorthalidone
+494,atezolizumab
+495,atidarsagene autotemcel
+496,atinvicitinib
+497,atipamezole
+498,atlantic halibut preparation
+499,atogepant
+500,atoltivimab
+501,atoltivimab / maftivimab / odesivimab
+502,atomoxetine
+503,atorvastatin
+504,atosiban
+505,atovaquone
+506,atovaquone / proguanil
+507,atractylodes japonica root oil
+508,atractylodes lancea root extract
+509,atracurium
+510,atrasentan
+511,atropine
+512,atropine / difenoxin
+513,atropine / diphenoxylate
+514,atropine / edrophonium
+515,atropine / pralidoxime
+516,attapulgite
+517,auranofin
+518,aurothioglucose
+519,aurothiomalate
+520,australian pine pollen extract
+521,austrian pine pollen extract
+522,avacincaptad pegol
+523,avacopan
+524,avalglucosidase alfa
+525,avanafil
+526,avapritinib
+527,avatrombopag
+528,avelumab
+529,avena sativa flowering top extract
+530,avibactam
+531,avibactam / ceftazidime
+532,avilamycin
+533,aviscumine
+534,avobenzone
+535,avocado oil
+536,avotermin
+537,avutometinib
+538,axatilimab
+539,axicabtagene ciloleucel
+540,axitinib
+541,azacitidine
+542,azadirachta indica flower extract
+543,azadirachta indica leaf extract
+544,azaperone
+545,azatadine
+546,azatadine / pseudoephedrine
+547,azathioprine
+548,azelastine
+549,azelastine / fluticasone
+550,azelate
+551,azficel-t
+552,azidocillin
+553,azilsartan
+554,azilsartan / chlorthalidone
+555,azintamide
+556,azithromycin
+557,azlocillin
+558,azosemide
+559,aztreonam
+560,bacampicillin
+561,bacillus amyloliquefaciens
+562,bacillus anthracis strain v770-np1-r antigens
+563,bacillus clausii
+564,bacillus subtilis
+565,bacitracin
+566,bacitracin methylene disalicylate
+567,baclofen
+568,bacopa monniera whole extract
+569,bahia grass pollen extract
+570,baicalein
+571,bakuchiol
+572,bald cypress pollen extract
+573,bald-faced hornet venom protein
+574,baloxavir
+575,baloxavir marboxil
+576,balsalazide
+577,balsam peru oil
+578,balsam poplar pollen extract
+579,bambermycins
+580,bamboo extract
+581,bambusa vulgaris top extract
+582,bambuterol
+583,bamethan
+584,bamifylline
+585,bamipine
+586,bamlanivimab
+587,barbexaclone
+588,barbital
+589,baricitinib
+590,barium
+591,barium sulfate
+592,barley malt allergenic extract
+593,barley malt syrup
+594,basiliximab
+595,batilol
+596,baxdrostat
+597,bay leaf allergenic extract
+598,bazedoxifene
+599,"bazedoxifene / estrogens, conjugated (usp)"
+600,"bcg, live, connaught strain"
+601,"bcg, live, tice strain"
+602,bebtelovimab
+603,becaplermin
+604,beclamide
+605,beclomethasone
+606,beclomethasone / formoterol / glycopyrronium
+607,bedaquiline
+608,bee pollen
+609,beech pollen extract
+610,beef liver allergenic extract
+611,beeswax
+612,behenate
+613,beheneth-10
+614,belantamab
+615,belantamab mafodotin
+616,belatacept
+617,belimumab
+618,belinostat
+619,bellis perennis flower extract
+620,belumosudil
+621,belzutifan
+622,bemiparin
+623,bemotrizinol
+624,bempedoic acid
+625,bempedoic acid / ezetimibe
+626,benactyzine
+627,benazepril
+628,benazepril / hydrochlorothiazide
+629,bencyclane
+630,bendamustine
+631,bendroflumethiazide
+632,benfluorex
+633,benorilate
+634,benoxinate
+635,benoxinate / fluorescein
+636,benperidol
+637,benphothiamine
+638,benproperine
+639,benralizumab
+640,benserazide
+641,bentiromide
+642,bentonite
+643,bentoquatam
+644,benzalkonium
+645,benzalkonium / lidocaine
+646,benzarone
+647,benzbromarone
+648,benzenesulfinic acid
+649,benzethonium
+650,benzgalantamine
+651,benzhydrocodone
+652,benzimidazole
+653,benznidazole
+654,benzoate
+655,benzoate / phenylacetate
+656,benzocaine
+657,benzocaine / trimethobenzamide
+658,benzoin resin
+659,benzonatate
+660,benzophenone
+661,benzoxiquine
+662,benzoxonium
+663,benzoyl peroxide
+664,benzphetamine
+665,benzquercin
+666,benzquinamide
+667,benzthiazide
+668,benztropine
+669,benzydamine
+670,benzyl alcohol
+671,benzyl benzoate
+672,benzyl chloride
+673,benzylamine
+674,benzylparaben
+675,benzylpenicilloyl polylysine
+676,benzylthiouracil
+677,bepotastine
+678,bepridil
+679,beractant
+680,berahyaluronidase alfa
+681,berberine
+682,berdazimer
+683,beremagene geperpavec
+684,bergamot oil
+685,bermuda grass pollen extract
+686,berotralstat
+687,beryllium
+688,besifloxacin
+689,beta carotene
+690,beta-alanine
+691,beta-escin
+692,beta-pinene
+693,betadex
+694,betahistine
+695,betaine
+696,betamethasone
+697,betamethasone / calcipotriene
+698,betamethasone / clotrimazole / gentamicin
+699,betasizofiran
+700,betaxolol
+701,bethanechol
+702,bethanidine
+703,betibeglogene autotemcel
+704,betrixaban
+705,betula pendula tar oil
+706,betulin
+707,bevacizumab
+708,bexagliflozin
+709,bexarotene
+710,bezafibrate
+711,bezlotoxumab
+712,bicalutamide
+713,bicisate
+714,biclotymol
+715,bictegravir
+716,bictegravir / emtricitabine / tenofovir alafenamide
+717,bifemelane
+718,bifenthrin
+719,bifidobacterium bifidum
+720,bifidobacterium breve
+721,bifidobacterium infantis
+722,bifonazole
+723,biguanide
+724,bimatoprost
+725,bimekizumab
+726,binimetinib
+727,bioallethrin
+728,biotin
+729,biperiden
+730,birch triterpenes
+731,bird pepper extract
+732,bisabolol
+733,bisacodyl
+734,bisdequalinium
+735,bisdisulizole
+736,bismuth aluminate
+737,bismuth carbonate
+738,bismuth cation
+739,bismuth dipropylacetate
+740,bismuth oxide
+741,bismuth subcarbonate
+742,bismuth subcitrate
+743,bismuth subcitrate / metronidazole / tetracycline
+744,bismuth subgallate
+745,bismuth subnitrate
+746,bismuth subsalicylate
+747,bismuth tribromophenate
+748,bisoctrizole
+749,bisoprolol
+750,bisoprolol / hydrochlorothiazide
+751,bisphenol a
+752,bitolterol
+753,bitter dock pollen extract
+754,bitternut hickory pollen extract
+755,bivalirudin
+756,black cottonwood pollen extract
+757,black imported fire ant allergenic extract
+758,black locust pollen extract
+759,black oak pollen extract
+760,black walnut pollen extract
+761,blackberry flavor
+762,bleomycin
+763,blinatumomab
+764,blue beech pollen extract
+765,blue crab preparation
+766,blue spruce pollen extract
+767,blueberry allergenic extract
+768,boceprevir
+769,boldenone
+770,bopindolol
+771,borage oil
+772,borate ion
+773,bordetella pertussis
+774,boric acid
+775,bornaprine
+776,borneol
+777,"borneol, (+)-"
+778,bornyl acetate
+779,boron
+780,bortezomib
+781,bos taurus gallstone preparation
+782,boscalid
+783,bosentan
+784,bosentan monohydrate
+785,bosutinib
+786,bottlebrush pollen extract
+787,botulinum neurotoxin a immune fab2 / botulinum neurotoxin b immune fab2 / botulinum neurotoxin c immune fab2 / botulinum neurotoxin d immune fab2 / botulinum neurotoxin e immune fab2 / botulinum neurotoxin f immune fab2 / botulinum neurotoxin g immune fab2
+788,botulinum toxin type a
+789,botulinum toxin type b
+790,botulism immune globulin iv human
+791,box elder maple pollen extract
+792,bremelanotide
+793,brensocatib
+794,brentuximab vedotin
+795,bretylium
+796,brexanolone
+797,brexpiprazole
+798,brexucabtagene autoleucel
+799,brigatinib
+800,brilliant blue g
+801,brilliant green
+802,brimonidine
+803,brincidofovir
+804,brinzolamide
+805,brivaracetam
+806,brivudine
+807,broad leaved paperbark pollen extract
+808,broadleaf cattail pollen extract
+809,broccoli sprout extract
+810,brodalumab
+811,brodimoprim
+812,brolucizumab
+813,bromazepam
+814,bromelains
+815,bromfenac
+816,bromhexine
+817,bromocriptine
+818,bromodiphenhydramine
+819,bromodiphenhydramine / codeine
+820,bromopride
+821,bromotheophylline
+822,bromperidol
+823,brompheniramine
+824,bronopol
+825,broomweed pollen extract
+826,brotizolam
+827,brovanexine
+828,brown iron oxide
+829,brown rice preparation
+830,bruceantin
+831,brucine
+832,buclizine
+833,budesonide
+834,budipine
+835,bufexamac
+836,buflomedil
+837,bulevirtide
+838,bumadizone
+839,bumetanide
+840,bunazosin
+841,bupivacaine
+842,bupranolol
+843,buprenorphine
+844,bupropion
+845,bupropion / naltrexone
+846,bur oak pollen extract
+847,burning bush pollen extract
+848,burosumab
+849,burrobrush pollen extract
+850,burweed marshelder pollen extract
+851,buserelin
+852,buspirone
+853,busulfan
+854,butabarbital
+855,butacaine
+856,butafosfan
+857,butalamine
+858,butalbital
+859,butamben
+860,butamirate
+861,butane
+862,butedronate
+863,butenafine
+864,butetamate
+865,buthiazide
+866,butibufen
+867,butidrine
+868,butobarbital
+869,butoconazole
+870,butorphanol
+871,butriptyline
+872,button mushroom extract
+873,butyl alcohol
+874,butyl chloride
+875,butyl stearate
+876,butylated hydroxyanisole
+877,butylated hydroxytoluene
+878,butylparaben
+879,butylscopolamine
+880,butyrate
+881,buzepide metiodide
+882,c1 esterase inhibitor
+883,c11-12 isoparaffin
+884,cabazitaxel
+885,cabergoline
+886,cabotegravir
+887,cabozantinib
+888,cadexomer iodine
+889,cadmium
+890,cadmium sulfate
+891,cadmium sulfide
+892,cafedrine
+893,caffeic acid
+894,caffeine
+895,cajuput oil
+896,calamine / pramoxine
+897,calaspargase pegol
+898,calcifediol
+899,calcipotriene
+900,calcitonin
+901,calcitriol
+902,calcium
+903,calcium acetate
+904,calcium alginate
+905,calcium ascorbate
+906,calcium aspartate
+907,calcium carbimide
+908,calcium carbonate
+909,calcium chloride
+910,calcium citrate
+911,calcium fluoride
+912,calcium glubionate
+913,calcium glucarate
+914,calcium gluceptate
+915,calcium gluconate
+916,calcium glycerophosphate
+917,calcium hydroxide
+918,calcium hypophosphite
+919,calcium lactate
+920,calcium lactobionate
+921,calcium levulinate
+922,calcium oxide
+923,calcium oxybate / magnesium oxybate / potassium oxybate / sodium oxybate
+924,calcium phosphate
+925,calcium polycarbophil
+926,calcium pyrophosphate
+927,calcium saccharate
+928,calcium silicate
+929,calcium sulfate
+930,calcium sulfide
+931,calcium threonate
+932,calendula officinalis extract
+933,calendula officinalis flower extract
+934,calendula officinalis whole extract
+935,calfactant
+936,california black oak pollen extract
+937,california black walnut pollen extract
+938,california juniper pollen extract
+939,california mugwort pollen extract
+940,california scrub oak pollen extract
+941,calteridol
+942,cambendazole
+943,camellia japonica seed oil
+944,camphene
+945,camphor
+946,camphor / capsaicin / menthol
+947,camphor / capsicum oleoresin / menthol / methyl salicylate
+948,camphor leaf oil
+949,"camphoric acid, (+)-"
+950,canada goldenrod pollen extract
+951,canadian bluegrass pollen extract
+952,canagliflozin
+953,canakinumab
+954,canary feather extract
+955,canary grass pollen extract
+956,candesartan
+957,candesartan / hydrochlorothiazide
+958,candida albicans
+959,cangrelor
+960,canis lupus familiaris hair extract
+961,cannabichromene
+962,cannabidiol
+963,cannabigerol
+964,cannabinol
+965,cannabis sativa subsp. flowering top extract
+966,canrenoate
+967,canrenoic acid
+968,canrenone
+969,cantharidin
+970,canthaxanthin
+971,canyon ragweed pollen extract
+972,capecitabine
+973,capivasertib
+974,caplacizumab
+975,capmatinib
+976,capreomycin
+977,capromab pendetide
+978,capromorelin
+979,caprylamidopropyl betaine
+980,caprylhydroxamic acid
+981,capsaicin
+982,capsicum annuum whole extract
+983,capsicum extract
+984,capsicum oleoresin
+985,captopril
+986,caramiphen
+987,carazolol
+988,carbachol
+989,carbadox
+990,carbamazepine
+991,carbamide peroxide
+992,carbamoylcholine
+993,carbarson
+994,carbaryl
+995,carbazochrome
+996,carbenicillin
+997,carbenoxolone
+998,carbetapentane
+999,carbetapentane / guaifenesin
+1000,carbidopa
+1001,carbidopa / levodopa
+1002,carbimazole
+1003,carbinoxamine
+1004,carbocysteine
+1005,carbomer
+1006,carbomer homopolymer type b (allyl pentaerythritol or allyl sucrose crosslinked)
+1007,carbomer homopolymer type c
+1008,carbomer-940
+1009,carbomer-974p
+1010,carbon black
+1011,carbon dioxide
+1012,carbon monoxide
+1013,carbon tetrachloride
+1014,carbonate ion
+1015,carboplatin
+1016,carboprost
+1017,carboxymethylcellulose
+1018,carboxypolymethylene
+1019,carbromal
+1020,carbutamide
+1021,cardamom extract
+1022,carduus marianus preparation
+1023,careless weed pollen extract
+1024,carfilzomib
+1025,carglumic acid
+1026,cariprazine
+1027,carisoprodol
+1028,carmustine
+1029,carnitine
+1030,carnosine
+1031,carpipramine
+1032,carprofen
+1033,carteolol
+1034,carthamus tinctorius flower bud extract
+1035,carvacrol
+1036,carvedilol
+1037,caryophyllene
+1038,carzenide
+1039,cascara sagrada
+1040,casein allergenic extract
+1041,cashew nut allergenic extract
+1042,casimersen
+1043,casirivimab
+1044,caspofungin
+1045,cassia fistula fruit extract
+1046,castor oil
+1047,cat flea allergenic extract
+1048,cat hair extract
+1049,cat skin extract
+1050,catechin
+1051,cathine
+1052,caviar preparation
+1053,cayenne pepper allergenic extract
+1054,cedar elm pollen extract
+1055,cedar leaf oil
+1056,cedazuridine
+1057,cedazuridine / decitabine
+1058,cefaclor
+1059,cefadroxil
+1060,cefamandole
+1061,cefatrizine
+1062,cefazolin
+1063,cefdinir
+1064,cefditoren
+1065,cefepime
+1066,cefetamet
+1067,cefiderocol
+1068,cefixime
+1069,cefmetazole
+1070,cefodizime
+1071,cefonicid
+1072,cefoperazone
+1073,ceforanide
+1074,cefotaxime
+1075,cefotetan
+1076,cefotiam
+1077,cefovecin
+1078,cefoxitin
+1079,cefpirome
+1080,cefpodoxime
+1081,cefprozil
+1082,cefsulodin
+1083,ceftaroline
+1084,ceftaroline fosamil
+1085,ceftazidime
+1086,ceftibuten
+1087,ceftiofur
+1088,ceftizoxime
+1089,ceftobiprole
+1090,ceftolozane
+1091,ceftolozane / tazobactam
+1092,ceftriaxone
+1093,cefuroxime
+1094,celecoxib
+1095,celiprolol
+1096,cellulose
+1097,cemiplimab
+1098,cenegermin
+1099,cenobamate
+1100,centella asiatica extract
+1101,centruroides (scorpion) immune f(ab')2 (equine)
+1102,cephalexin
+1103,cephaloridine
+1104,cephalothin
+1105,cephapirin
+1106,cephradine
+1107,ceramide 2
+1108,ceramide 3
+1109,ceramide 6 ii
+1110,ceric oxide
+1111,ceritinib
+1112,cerium oxalate
+1113,cerivastatin
+1114,cerliponase
+1115,certolizumab pegol
+1116,certoparin
+1117,cesium
+1118,cetalkonium chloride
+1119,ceteareth-30
+1120,ceteth-10
+1121,ceteth-20
+1122,cetiedil
+1123,cetirizine
+1124,cetostearyl sulfate
+1125,cetrimide
+1126,cetrimonium
+1127,cetrorelix
+1128,cetuximab
+1129,cetyl alcohol
+1130,cetyl ethylhexanoate
+1131,cetyl octanoate
+1132,cetyl palmitate
+1133,cetylpyridinium
+1134,cevimeline
+1135,chamaecyparis obtusa wood oil
+1136,chamaemelum nobile flower extract
+1137,chamomile extract
+1138,chamomile flowers
+1139,cheat grass pollen extract
+1140,chenodeoxycholate
+1141,cherry birch pollen extract
+1142,chicken feather extract
+1143,chicory leaf extract
+1144,chinese cinnamon extract
+1145,chinese elm pollen extract
+1146,"chiro-inositol, (+)-"
+1147,chitosan
+1148,chitosan medium molecular weight (200-800 mpa.s)
+1149,chlophedianol
+1150,chloral betaine
+1151,chlorambucil
+1152,chloramine-t
+1153,chloramphenicol
+1154,chlorcyclizine
+1155,chlordiazepoxide
+1156,chlordiazepoxide / clidinium
+1157,chlorhexidine
+1158,chlorhexidine / isopropyl alcohol
+1159,chlorhexidine / tolnaftate
+1160,chloric acid
+1161,chloride ion
+1162,chlorine
+1163,chlorine dioxide
+1164,chlormadinone
+1165,chlormezanone
+1166,chlorobutanol
+1167,chlorocresol
+1168,chloroform
+1169,chlorogenic acid
+1170,chloromethyl methyl ether
+1171,chlorophyllin
+1172,chloroprocaine
+1173,chloropyramine
+1174,chloroquine
+1175,chlorothen
+1176,chlorotheophylline
+1177,chlorothiazide
+1178,chlorothymol
+1179,chlorotrianisene
+1180,chloroxine
+1181,chloroxylenol
+1182,chlorozotocin
+1183,chlorphenesin
+1184,chlorpheniramine
+1185,chlorpheniramine / codeine
+1186,chlorpheniramine / hydrocodone
+1187,chlorpheniramine / methscopolamine / phenylephrine
+1188,chlorphenoxamine
+1189,chlorproethazine
+1190,chlorpromazine
+1191,chlorpropamide
+1192,chlorprothixene
+1193,chlorquinaldol
+1194,chlorquinaldol / hydrocortisone
+1195,chlortetracycline
+1196,chlorthalidone
+1197,chlorthalidone / clonidine
+1198,chlortheophylline
+1199,chlorzoxazone
+1200,chocolate allergenic extract
+1201,cholate
+1202,cholecalciferol
+1203,cholecystokinin
+1204,cholesterol
+1205,cholesteryl chloride
+1206,cholestyramine resin
+1207,cholic acid
+1208,choline
+1209,choline fenofibrate
+1210,choline magnesium trisalicylate
+1211,chondroitin sulfates
+1212,chorionic gonadotropin
+1213,chromic cation
+1214,chromic chloride
+1215,chromic phosphate p32
+1216,chromic sulfate
+1217,chromium
+1218,chromium gluconate
+1219,chromium picolinate
+1220,chromium trioxide
+1221,chromonar
+1222,chrysin
+1223,chymopapain
+1224,chymotrypsin
+1225,ciclesonide
+1226,cicletanine
+1227,ciclopirox
+1228,cicloxilic acid
+1229,cidofovir
+1230,cifenline
+1231,cifostodine
+1232,cilastatin
+1233,cilastatin / imipenem
+1234,cilastatin / imipenem / relebactam
+1235,cilazapril
+1236,cilgavimab
+1237,cilostazol
+1238,ciltacabtagene autoleucel
+1239,cimetidine
+1240,cinacalcet
+1241,cinametic acid
+1242,cinitapride
+1243,cinnamate
+1244,cinnamedrine
+1245,cinnamon oil
+1246,cinnamyl alcohol
+1247,cinnarizine
+1248,cinoxacin
+1249,cinoxate
+1250,cipaglucosidase alfa
+1251,ciprofibrate
+1252,ciprofloxacin
+1253,cisapride
+1254,cisatracurium
+1255,cisplatin
+1256,citalopram
+1257,citicoline
+1258,citiolone
+1259,citraconate
+1260,citrate
+1261,citric acid
+1262,citric acid / potassium citrate / sodium citrate
+1263,citronella oil
+1264,citrulline
+1265,citrus aurantium fruit extract
+1266,citrus junos fruit extract
+1267,citrus pectin
+1268,cladribine
+1269,clam allergenic extract
+1270,clarithromycin
+1271,clascoterone
+1272,clavulanate
+1273,clebopride
+1274,clemastine
+1275,clematis vitalba flower extract
+1276,clemizolpenicillin
+1277,clenbuterol
+1278,clerodendranthus spicatus leaf extract
+1279,clevidipine
+1280,clidinium
+1281,climbazole
+1282,clindamycin
+1283,clioquinol
+1284,clobazam
+1285,clobenzorex
+1286,clobetasol
+1287,clobetasone
+1288,clobutinol
+1289,clocinizine
+1290,clocortolone
+1291,clodronic acid
+1292,clofarabine
+1293,clofazimine
+1294,clofexamide
+1295,clofezone
+1296,clofibrate
+1297,clofoctol
+1298,clomiphene
+1299,clomipramine
+1300,clomocycline
+1301,clonazepam
+1302,clonidine
+1303,clonitrate
+1304,clonixin
+1305,clopamide
+1306,cloperastine
+1307,clopidogrel
+1308,clopidol
+1309,cloprednol
+1310,cloprostenol
+1311,clorazepate
+1312,clorophene
+1313,clorsulon
+1314,clostebol
+1315,clostridium botulinum
+1316,clothiapine
+1317,clotiazepam
+1318,clotrimazole
+1319,clove allergenic extract
+1320,clove oil
+1321,cloxacillin
+1322,cloxazolam
+1323,clozapine
+1324,cnidium monnieri fruit extract
+1325,coagulation factor ix recombinant immunoglobulin g1 fusion protein
+1326,coal tar
+1327,coast live oak pollen extract
+1328,coast maple pollen extract
+1329,coast sage pollen extract
+1330,cobalt
+1331,cobalt sulfate
+1332,cobaltous cation
+1333,cobaltous chloride
+1334,cobamamide
+1335,cobicistat
+1336,cobicistat / darunavir
+1337,cobicistat / darunavir / emtricitabine / tenofovir alafenamide
+1338,cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide
+1339,cobicistat / elvitegravir / emtricitabine / tenofovir disoproxil
+1340,cobimetinib
+1341,cocaine
+1342,cocaine / homatropine
+1343,cocamidopropyl betaine
+1344,coccidioides immitis spherule
+1345,cocklebur pollen extract
+1346,cocoa bean allergenic extract
+1347,cocoa butter
+1348,cocoa extract
+1349,coconut oil
+1350,cod liver oil
+1351,"cod, unspecified preparation"
+1352,codeine
+1353,codeine / guaifenesin
+1354,codfish allergenic extract
+1355,coenzyme a
+1356,"coffea arabica seed, roasted, extract"
+1357,coix lacryma-jobi var. ma-yuen seed oil
+1358,colchiceine
+1359,colchicine
+1360,colesevelam
+1361,colestipol
+1362,colfosceril
+1363,colistin
+1364,collagen type i
+1365,"collagen, soluble, fish skin"
+1366,collagenase
+1367,collagenase clostridium histolyticum
+1368,collinsonia extract
+1369,colloidal oatmeal
+1370,common cocklebur pollen extract
+1371,common paper wasp venom protein
+1372,common sagebrush pollen extract
+1373,common wasp venom protein
+1374,common wormwood pollen extract
+1375,concizumab
+1376,condoliase
+1377,coniine
+1378,conivaptan
+1379,cootamundra wattle pollen extract
+1380,copanlisib
+1381,copper
+1382,copper chloride
+1383,copper gluconate
+1384,copper sulfate
+1385,cordycepin
+1386,corn pollen extract
+1387,corn smut allergenic extract
+1388,corn starch
+1389,corticotropin
+1390,corticotropin-releasing hormone
+1391,cortisone
+1392,cortivazol
+1393,corydalis ambigua tuber extract
+1394,cosibelimab
+1395,cosyntropin
+1396,cottonseed oil
+1397,coumaphos
+1398,coumarin
+1399,cow milk allergenic extract
+1400,coxsackievirus a21
+1401,crataegus extract
+1402,creatine
+1403,creatinine
+1404,creeping bentgrass pollen extract
+1405,creosote
+1406,cresatin
+1407,cresol
+1408,cricket allergenic extract
+1409,crinecerfont
+1410,crisaborole
+1411,crizanlizumab
+1412,crizotinib
+1413,crocin
+1414,croconazole
+1415,crofelemer
+1416,cromoglycate
+1417,cromolyn
+1418,cromolyn / xylometazoline
+1419,croscarmellose
+1420,crotalidae immune f(ab')2
+1421,crotalus adamanteus antivenin
+1422,crotalus atrox antivenin
+1423,crotalus scutulatus antivenin
+1424,crotamiton
+1425,croton oil
+1426,crovalimab
+1427,cryptenamine
+1428,crypthecodinium cohnii dha oil
+1429,cucumis melo extract
+1430,culex pipiens preparation
+1431,cultivated barley pollen extract
+1432,cultivated mushroom allergenic extract
+1433,cultivated mushroom extract
+1434,cultivated oat pollen extract
+1435,cultivated rye grass pollen extract
+1436,cupric cation
+1437,cupric chloride
+1438,cupric glycinate
+1439,cupric oxide
+1440,cuprous chloride
+1441,cuprous oxide
+1442,curcuma aromatica root oil
+1443,curcuma xanthorrhiza oil
+1444,curcumin
+1445,curvularia inequalis allergenic extract
+1446,cyamemazine
+1447,cyanide
+1448,cyclacillin
+1449,cyclamate
+1450,cyclandelate
+1451,cyclic amp
+1452,cyclizine
+1453,cyclobarbital
+1454,cyclobenzaprine
+1455,cyclobutyrol
+1456,cyclodextrins
+1457,cyclofenil
+1458,cyclohexanol
+1459,cyclohexanone
+1460,cyclomethicone
+1461,cyclomethicone 5
+1462,cyclomethycaine
+1463,cyclopentamine
+1464,cyclopenthiazide
+1465,cyclopentolate
+1466,cyclopentolate / phenylephrine
+1467,cyclophosphamide
+1468,cycloserine
+1469,cyclosporine
+1470,cyclothiazide
+1471,cycrimine
+1472,cypermethrin
+1473,cyprodenate
+1474,cyproheptadine
+1475,cyproterone
+1476,cystamine
+1477,cysteamine
+1478,cysteine
+1479,cystine
+1480,cytarabine
+1481,cytarabine / daunorubicin
+1482,cytisine
+1483,cytomegalovirus immune globulin
+1484,d&c red no. 28
+1485,d-biotin
+1486,d-glutamic acid
+1487,dabigatran
+1488,dabigatran etexilate
+1489,dabrafenib
+1490,dacarbazine
+1491,daclatasvir
+1492,daclizumab
+1493,dacomitinib
+1494,dactinomycin
+1495,dalbavancin
+1496,dalfampridine
+1497,dalfopristin
+1498,dalotuzumab
+1499,dalteparin
+1500,damiana extract
+1501,damoctocog alfa pegol
+1502,danaparoid
+1503,danazol
+1504,dandelion pollen extract
+1505,danicopan
+1506,danofloxacin
+1507,danthron
+1508,dantrolene
+1509,dapagliflozin
+1510,dapiprazole
+1511,daprodustat
+1512,dapsone
+1513,daptomycin
+1514,daratumumab
+1515,daratumumab / hyaluronidase
+1516,darbepoetin alfa
+1517,daridorexant
+1518,darifenacin
+1519,dark leaved mugwort pollen extract
+1520,darolutamide
+1521,darunavir
+1522,dasabuvir
+1523,dasatinib
+1524,dasiglucagon
+1525,date palm pollen extract
+1526,datopotamab deruxtecan
+1527,daunorubicin
+1528,deacetylbisacodyl
+1529,deanol
+1530,debrisoquin
+1531,decamethrin
+1532,decanoic acid
+1533,decitabine
+1534,decoquinate
+1535,decylamine oxide
+1536,defactinib
+1537,deferasirox
+1538,deferiprone
+1539,deferoxamine
+1540,defibrotide
+1541,deflazacort
+1542,degarelix
+1543,dehydrocholate
+1544,dehydroemetine
+1545,delafloxacin
+1546,delandistrogene moxeparvovec
+1547,delavirdine
+1548,delgocitinib
+1549,demecarium
+1550,demeclocycline
+1551,demegestone
+1552,demelverin
+1553,denatonium
+1554,denatonium benzoate
+1555,denaverine
+1556,denileukin diftitox
+1557,denosumab
+1558,deoxycholate
+1559,dequalinium
+1560,deracoxib
+1561,deserpidine
+1562,desert ragweed pollen extract
+1563,desflurane
+1564,desipramine
+1565,desirudin
+1566,deslanoside
+1567,desloratadine
+1568,deslorelin
+1569,desmeninol
+1570,desmopressin
+1571,desogestrel
+1572,desonide
+1573,desoximetasone
+1574,desoxycorticosterone
+1575,desvenlafaxine
+1576,detajmium bitartrate
+1577,detomidine
+1578,deucravacitinib
+1579,deudextromethorphan
+1580,deuruxolitinib
+1581,deutetrabenazine
+1582,deutivacaftor
+1583,dexamethasone
+1584,dexamethasone / neomycin / polymyxin b
+1585,dexamethasone / tobramycin
+1586,dexbrompheniramine
+1587,dexchlorpheniramine
+1588,dexetimide
+1589,dexfenfluramine
+1590,dexketoprofen
+1591,dexlansoprazole
+1592,dexmedetomidine
+1593,dexmethylphenidate
+1594,dexpanthenol
+1595,dexrazoxane
+1596,dextran
+1597,dextran 1
+1598,dextran 40
+1599,dextran 70
+1600,dextran 75
+1601,dextranomer
+1602,dextrates
+1603,dextroamphetamine
+1604,dextromethorphan
+1605,dextromethorphan / quinidine
+1606,dextromoramide
+1607,dextrothyroxine
+1608,dezocine
+1609,diacetyl benzoyl lathyrol
+1610,diaminohydroxypropanetetraacetic acid
+1611,diatomaceous earth
+1612,diatrizoate
+1613,diatrizoic acid
+1614,diazepam
+1615,diazolidinylurea
+1616,diazoxide
+1617,dibasic potassium phosphate
+1618,dibekacin
+1619,dibenzepin
+1620,dibrompropamidine
+1621,dibucaine
+1622,dibunate
+1623,dibutyl phthalate
+1624,dibutyl sebacate
+1625,dibutyldithiocarbamate
+1626,dichloralphenazone
+1627,dichloroacetate
+1628,dichlorobenzene
+1629,dichlorobenzyl alcohol
+1630,dichlorophen
+1631,dichlorphenamide
+1632,dichromate ion
+1633,diclazuril
+1634,diclofenac
+1635,dicloxacillin
+1636,dicobalt edetate
+1637,dicumarol
+1638,dicyclomine
+1639,didanosine
+1640,didecyldimethylammonium
+1641,dienestrol
+1642,dienogest
+1643,diethadione
+1644,diethanolamine
+1645,diethyl phthalate
+1646,diethyl sulfate
+1647,diethylamino hydroxybenzoyl hexyl benzoate
+1648,diethylcarbamazine
+1649,diethyldithiocarbamate
+1650,diethylene glycol diethyl ether
+1651,diethylene glycol ethyl methyl ether
+1652,diethylpropion
+1653,diethylstilbestrol
+1654,diethyltoluamide
+1655,difamilast
+1656,difebarbamate
+1657,difelikefalin
+1658,difemerine
+1659,difenoxin
+1660,difetarsone
+1661,diflorasone
+1662,diflucortolone
+1663,diflunisal
+1664,difluprednate
+1665,digitalin
+1666,digitoxin
+1667,diglycol stearate
+1668,digoxin
+1669,digoxin antibodies fab fragments
+1670,dihematoporphyrin ether
+1671,dihexyverine
+1672,dihydralazine
+1673,dihydro-alpha-ergocryptine
+1674,dihydro-beta-ergocryptine
+1675,dihydrocapsaicin
+1676,dihydrocodeine
+1677,dihydroergocornine
+1678,dihydroergocristine
+1679,dihydroergocryptine
+1680,dihydroergotamine
+1681,dihydroergotoxine
+1682,dihydrofolic acid
+1683,dihydrostreptomycin
+1684,dihydrotachysterol
+1685,dihydroxyacetone
+1686,dihydroxyaluminum aminoacetate
+1687,dihydroxyaluminum sodium carbonate
+1688,diisopromine
+1689,diisopropanolamine
+1690,diisopropyl adipate
+1691,diloxanide
+1692,diltiazem
+1693,dimenhydrinate
+1694,dimercaprol
+1695,dimercaptosuccinic acid
+1696,dimethicone
+1697,dimethindene
+1698,dimethoxanate
+1699,dimethyl fumarate
+1700,dimethyl sulfate
+1701,dimethyl sulfoxide
+1702,dimethylacetamide
+1703,dimethyldodecylbenzylammonium
+1704,dimetridazole
+1705,dimyristoylphosphatidylcholine
+1706,dimyristoylphosphatidylglycerol
+1707,dinitolmide
+1708,dinoprost
+1709,dinoprostone
+1710,dinutuximab
+1711,dioctyldimonium
+1712,diosmetin
+1713,diosmin
+1714,diosmin / hesperidin
+1715,dioxane
+1716,dioxybenzone
+1717,dipentamethylenethiuram disulfide
+1718,diperodon
+1719,diphemanil
+1720,diphenhydramine
+1721,diphenhydramine / tripelennamine
+1722,diphenidol
+1723,diphenoxylate
+1724,diphenylguanidine
+1725,diphenylpyraline
+1726,"diphtheria toxoid vaccine, inactivated"
+1727,dipipanone
+1728,dipivefrin
+1729,dipropylene glycol
+1730,dipyridamole
+1731,dipyrithione
+1732,dipyrone
+1733,dirithromycin
+1734,dirlotapide
+1735,diroximel fumarate
+1736,disilver oxide
+1737,disopyramide
+1738,disperse blue 106
+1739,distearyldimonium
+1740,distigmine
+1741,disulfiram
+1742,divinylbenzene
+1743,dl-lactic acid
+1744,dobesilic acid
+1745,dobutamine
+1746,docetaxel
+1747,doconexent
+1748,docosanol
+1749,docusate
+1750,"docusate / sennosides, usp"
+1751,dodatate
+1752,dodecanol
+1753,dodecyl sulfate
+1754,dodecyl sulfate / oxyquinoline
+1755,dofetilide
+1756,dog flea allergenic extract
+1757,dog hair extract
+1758,dogfennel pollen extract
+1759,dolasetron
+1760,dolutegravir
+1761,dolutegravir / lamivudine
+1762,dolutegravir / rilpivirine
+1763,domestic cow skin extract
+1764,domestic goat hair extract
+1765,domestic goat skin extract
+1766,domiphen
+1767,domperidone
+1768,donanemab
+1769,donepezil
+1770,donepezil / memantine
+1771,donidalorsen
+1772,donislecel
+1773,dopamine
+1774,dopexamine
+1775,doramectin
+1776,doramectin / levamisole
+1777,doravirine
+1778,doravirine / lamivudine / tenofovir disoproxil
+1779,dordaviprone
+1780,doripenem
+1781,dornase alfa
+1782,dorzolamide
+1783,dostarlimab
+1784,dotatate
+1785,dothiepin
+1786,douglas fir pollen extract
+1787,doxacurium
+1788,doxapram
+1789,doxazosin
+1790,doxepin
+1791,doxercalciferol
+1792,doxorubicin
+1793,doxycycline
+1794,doxylamine
+1795,drometrizole
+1796,drometrizole trisiloxane
+1797,dromostanolone
+1798,dronabinol
+1799,dronedarone
+1800,droperidol
+1801,drospirenone
+1802,drotaverin
+1803,drotrecogin alfa
+1804,droxicam
+1805,droxidopa
+1806,duck feather extract
+1807,dulaglutide
+1808,duloxetine
+1809,dupilumab
+1810,durlobactam
+1811,durvalumab
+1812,dutasteride
+1813,duvelisib
+1814,dyclonine
+1815,dydrogesterone
+1816,dymanthine
+1817,dyphylline
+1818,eastern cottonwood pollen extract
+1819,eastern white pine pollen extract
+1820,ebastine
+1821,ecallantide
+1822,ecamsule
+1823,echinacea angustifolia root extract
+1824,echinacea purpurea aerial parts extract
+1825,echinacea purpurea extract
+1826,econazole
+1827,ecothiopate
+1828,ectoine
+1829,eculizumab
+1830,edaravone
+1831,edetate calcium
+1832,edetic acid
+1833,edetol
+1834,edotreotride
+1835,edoxaban
+1836,edoxudine
+1837,edrecolomab
+1838,edrophonium
+1839,efalizumab
+1840,efavirenz
+1841,efavirenz / emtricitabine / tenofovir disoproxil
+1842,efbemalenograstim alfa
+1843,efetozole
+1844,efgartigimod alfa
+1845,efinaconazole
+1846,eflapegrastim
+1847,eflornithine
+1848,efloxate
+1849,efmoroctocog alfa
+1850,egg white (chicken) allergenic extract
+1851,egg yolk phosphatides
+1852,egg yolk phospholipids
+1853,egtazic acid
+1854,eicosenoic acid
+1855,elacestrant
+1856,eladocagene exuparvovec
+1857,elafibranor
+1858,elagolix
+1859,elamipretide
+1860,elapegademase
+1861,elbasvir
+1862,elbasvir / grazoprevir
+1863,eletriptan
+1864,eleuthero preparation
+1865,elexacaftor
+1866,eliglustat
+1867,elinzanetant
+1868,elivaldogene autotemcel
+1869,ellagic acid
+1870,elosulfase alfa
+1871,elotuzumab
+1872,elranatamab
+1873,eltrombopag
+1874,eluxadoline
+1875,elvitegravir
+1876,emapalumab
+1877,embutramide
+1878,emedastine
+1879,emepronium
+1880,emetine
+1881,emicizumab
+1882,emodepside
+1883,emodin
+1884,empagliflozin
+1885,empagliflozin / linagliptin
+1886,emtricitabine
+1887,emtricitabine / rilpivirine / tenofovir alafenamide
+1888,emtricitabine / rilpivirine / tenofovir disoproxil
+1889,emtricitabine / tenofovir alafenamide
+1890,emtricitabine / tenofovir disoproxil
+1891,enalapril
+1892,enalapril / hydrochlorothiazide
+1893,enalaprilat
+1894,enasidenib
+1895,encainide
+1896,encorafenib
+1897,enflurane
+1898,enfortumab
+1899,enfuvirtide
+1900,english lavender oil
+1901,english plantain pollen extract
+1902,english walnut pollen extract
+1903,enilconazole
+1904,enmetazobactam
+1905,enobosarm
+1906,enoxacin
+1907,enoxaparin
+1908,enoximone
+1909,enrofloxacin
+1910,ensartinib
+1911,ensifentrine
+1912,ensitrelvir
+1913,ensulizole
+1914,entacapone
+1915,entecavir
+1916,enterococcus faecium
+1917,entrectinib
+1918,entsufon
+1919,enzacamene
+1920,enzalutamide
+1921,eosine yellowish
+1922,epcoritamab
+1923,ephedrine
+1924,epicatechin
+1925,epicriptine
+1926,epidermal growth factor
+1927,epigallocatechin gallate
+1928,epimedium grandiflorum top extract
+1929,epinastine
+1930,epinephrine
+1931,epinephrine / etidocaine
+1932,epirubicin
+1933,eplerenone
+1934,eplontersen
+1935,epoetin alfa
+1936,epoetin beta
+1937,epomediol
+1938,epoprostenol
+1939,eprazinone
+1940,eprinomectin
+1941,eprosartan
+1942,eprozinol
+1943,epsiprantel
+1944,eptifibatide
+1945,eptinezumab
+1946,equisetum arvense top extract
+1947,equisetum hyemale extract
+1948,eravacycline
+1949,erdafitinib
+1950,erdosteine
+1951,erenumab
+1952,ergocalciferol
+1953,ergonovine
+1954,ergotamine
+1955,ergothioneine
+1956,eribulin
+1957,erlotinib
+1958,ersofermin
+1959,ertapenem
+1960,ertugliflozin
+1961,erythorbate
+1962,erythritol
+1963,erythrityl tetranitrate
+1964,erythromycin
+1965,erythroxylum catuaba bark extract
+1966,esafoxolaner
+1967,escherichia coli
+1968,escin
+1969,escitalopram
+1970,esculin
+1971,esketamine
+1972,eslicarbazepine
+1973,esmolol
+1974,esomeprazole
+1975,estazolam
+1976,estetrol
+1977,estradiol
+1978,estradiol / medroxyprogesterone
+1979,estradiol / norethindrone
+1980,estradiol / testosterone
+1981,estradiol / trenbolone
+1982,estramustine
+1983,estriol
+1984,estrogens
+1985,"estrogens, conjugated (usp)"
+1986,"estrogens, esterified (usp)"
+1987,estrone
+1988,estropipate
+1989,eszopiclone
+1990,etanercept
+1991,etelcalcetide
+1992,eteplirsen
+1993,etesevimab
+1994,ethacridine
+1995,ethacrynate
+1996,ethambutol
+1997,ethamivan
+1998,ethamsylate
+1999,ethanethiol
+2000,ethanol
+2001,ethanolamine
+2002,ethanolamine oleate
+2003,ethaverine
+2004,ethchlorvynol
+2005,ethenzamide
+2006,ethinamate
+2007,ethinyl estradiol
+2008,ethinyl estradiol / ethynodiol
+2009,ethinyl estradiol / segesterone
+2010,ethiodized oil
+2011,ethionamide
+2012,ethisterone
+2013,ethoglucid
+2014,ethoheptazine
+2015,ethohexadiol
+2016,ethopabate
+2017,ethosuximide
+2018,ethotoin
+2019,ethoxazene
+2020,ethoxyquin
+2021,ethybenztropine
+2022,ethyl acetate
+2023,ethyl chloride
+2024,ethyl ferulate
+2025,ethyl loflazepate
+2026,ethyl macadamiate
+2027,ethyl maltol
+2028,ethyl methoxycinnamate
+2029,ethyl nitrate
+2030,ethyl nitrite
+2031,ethyl oleate
+2032,ethyl pyruvate
+2033,ethyl salicylate
+2034,ethyl sulfate
+2035,ethyl vanillin
+2036,ethyl-p-hydroxybenzoate
+2037,ethylcellulose (7 mpa.s)
+2038,ethylene oxide
+2039,ethylenediamine
+2040,ethylenediaminetetraacetate
+2041,ethylestrenol
+2042,ethylhexyl methoxycrylene
+2043,ethylhexylglycerin
+2044,ethylmercurithiosalicylic acid
+2045,ethylmorphine
+2046,ethylnorepinephrine
+2047,ethynodiol
+2048,etidocaine
+2049,etidronate
+2050,etifoxine
+2051,etilefrine
+2052,etilevodopa
+2053,etodolac
+2054,etofamide
+2055,etofenamate
+2056,etofibrate
+2057,etofylline
+2058,etomidate
+2059,etonogestrel
+2060,etoposide
+2061,etoricoxib
+2062,etorphine
+2063,etranacogene dezaparvovec
+2064,etrasimod
+2065,etravirine
+2066,etretinate
+2067,etripamil
+2068,etuvetidigene autotemcel
+2069,eucalyptol
+2070,eucalyptus alba leaf extract
+2071,eucalyptus extract
+2072,eucalyptus globulus leaf extract
+2073,eucalyptus oil
+2074,eucommia ulmoides bark extract
+2075,eugenol
+2076,european olive pollen extract
+2077,european rabbit hair extract
+2078,european rabbit skin extract
+2079,evans blue
+2080,evening primrose oil
+2081,everlasting extract
+2082,everolimus
+2083,evinacumab
+2084,evolocumab
+2085,exagamglogene autotemcel
+2086,exametazime
+2087,exemestane
+2088,exenatide
+2089,ezetimibe
+2090,ezetimibe / simvastatin
+2091,ezogabine
+2092,factor ix
+2093,factor ix / factor vii / factor x / protein c / protein s / prothrombin
+2094,factor ix complex
+2095,factor vii
+2096,factor viia
+2097,factor viii
+2098,factor viii / von willebrand factor
+2099,factor x
+2100,factor xiii
+2101,fallopia multiflora root extract
+2102,false ragweed pollen extract
+2103,famciclovir
+2104,famotidine
+2105,fanolesomab
+2106,faricimab
+2107,farnesol
+2108,febantel
+2109,febarbamate
+2110,febuprol
+2111,febuxostat
+2112,"fecal microbiota spores, live"
+2113,feclobuzone
+2114,fedratinib
+2115,fedrilate
+2116,felbamate
+2117,felbinac
+2118,felodipine
+2119,felypressin
+2120,fenamiphos
+2121,fenbendazole
+2122,fenbufen
+2123,fenbutrazate
+2124,fendiline
+2125,fenethylline
+2126,fenfluramine
+2127,fenipentol
+2128,fenofibrate
+2129,fenoldopam
+2130,fenoprofen
+2131,fenoterol
+2132,fenoverine
+2133,fenoxazoline
+2134,fenozolone
+2135,fenproporex
+2136,fenspiride
+2137,fentanyl
+2138,fenticonazole
+2139,feprazone
+2140,ferric ammonium citrate
+2141,ferric ammonium ferrocyanide
+2142,ferric cacodylate
+2143,ferric carboxymaltose
+2144,ferric cation
+2145,ferric chloride
+2146,ferric citrate
+2147,ferric derisomaltose
+2148,ferric hexacyanoferrate
+2149,ferric hydroxide
+2150,ferric maltol
+2151,ferric oxide
+2152,ferric pyrophosphate
+2153,ferric sulfate
+2154,ferriclate calcium sodium
+2155,ferrous ascorbate
+2156,ferrous aspartate
+2157,ferrous asparto glycinate
+2158,ferrous bisglycinate
+2159,ferrous carbonate
+2160,ferrous cation
+2161,ferrous chloride
+2162,ferrous cysteine glycinate
+2163,ferrous fumarate
+2164,ferrous gluconate
+2165,ferrous glycine sulfate
+2166,ferrous iodide
+2167,ferrous lactate
+2168,ferrous succinate
+2169,ferrous sulfate
+2170,ferulate
+2171,ferumoxides
+2172,ferumoxsil
+2173,ferumoxytol
+2174,fesoterodine
+2175,fexinidazole
+2176,fexofenadine
+2177,fexofenadine / pseudoephedrine
+2178,fezolinetant
+2179,fiber
+2180,fibrinogen
+2181,fibrinogen / thrombin
+2182,fibrinolysis inhibitor
+2183,fibroblast growth factor-1
+2184,ficusin
+2185,fidanacogene elaparvovec
+2186,fidaxomicin
+2187,filgrastim
+2188,finafloxacin
+2189,finasteride
+2190,finerenone
+2191,fingolimod
+2192,firocoxib
+2193,fisetin
+2194,fish oil (containing omega-3 acids)
+2195,fish oils
+2196,fitusiran
+2197,fivehorn smotherweed pollen extract
+2198,flavin-adenine dinucleotide
+2199,flavodic acid
+2200,flavone
+2201,flavoxate
+2202,flaxseed allergenic extract
+2203,flaxseed extract
+2204,flecainide
+2205,fleroxacin
+2206,flibanserin
+2207,floctafenine
+2208,flopropione
+2209,florbetaben
+2210,florbetapir
+2211,florfenicol
+2212,flortaucipir
+2213,flosequinan
+2214,flotufolastat
+2215,flounder allergenic extract
+2216,floxacillin
+2217,floxuridine
+2218,flubendazole
+2219,fluciclovine
+2220,fluclorolone
+2221,flucloronide
+2222,fluconazole
+2223,flucytosine
+2224,fludarabine
+2225,fludrocortisone
+2226,flufenamate
+2227,flufenamic acid
+2228,fluindione
+2229,flumazenil
+2230,flumequine
+2231,flumethasone
+2232,flumethiazide
+2233,flunarizine
+2234,flunisolide
+2235,flunitrazepam
+2236,flunixin
+2237,fluocinolone
+2238,fluocinonide
+2239,fluocortolone
+2240,fluocortolone caproate / fluocortolone pivalate
+2241,fluorescein
+2242,fluorescein / proparacaine
+2243,fluoride ion
+2244,fluorodopa
+2245,fluorometholone
+2246,fluorometholone / tobramycin
+2247,fluorouracil
+2248,fluoxetine
+2249,fluoxymesterone
+2250,flupenthixol
+2251,fluphenazine
+2252,fluphenazine / nortriptyline
+2253,flupirtine
+2254,fluprednidene
+2255,fluprednisolone
+2256,fluralaner
+2257,flurandrenolide
+2258,flurazepam
+2259,flurbiprofen
+2260,fluspirilene
+2261,flutamide
+2262,flutemetamol
+2263,fluticasone
+2264,flutrimazole
+2265,fluvastatin
+2266,fluvoxamine
+2267,folate
+2268,folic acid
+2269,follicle stimulating hormone
+2270,follitropin alfa
+2271,follitropin beta
+2272,fomepizole
+2273,fominoben
+2274,fomivirsen
+2275,fonazine
+2276,fondaparinux
+2277,"foreskin fibroblast, neonatal"
+2278,"foreskin keratinocyte, neonatal"
+2279,formaldehyde
+2280,formaldehyde sulfoxylate
+2281,formalin
+2282,formestane
+2283,formic acid
+2284,formoterol
+2285,forsythia suspensa fruit extract
+2286,fosamprenavir
+2287,fosaprepitant
+2288,foscarnet
+2289,foscolate
+2290,fosdenopterin
+2291,fosfestrol
+2292,fosfomycin
+2293,fosfructose
+2294,fosinopril
+2295,fosinopril / hydrochlorothiazide
+2296,fosinoprilat
+2297,fosphenytoin
+2298,fospropofol
+2299,fostamatinib
+2300,fostemsavir
+2301,fosveset
+2302,framycetin
+2303,frangula purshiana bark extract
+2304,frankincense extract
+2305,fremanezumab
+2306,fremont cottonwood pollen extract
+2307,frovatriptan
+2308,fructooligosaccharide
+2309,fructose
+2310,fruquintinib
+2311,fucose
+2312,fulvestrant
+2313,fumagillin
+2314,fumarate
+2315,furazolidone
+2316,furosemide
+2317,furterene
+2318,fusidate
+2319,futibatinib
+2320,fuzapladib
+2321,gabapentin
+2322,gadobenate
+2323,gadobutrol
+2324,gadodiamide
+2325,gadofosveset
+2326,gadolinium
+2327,gadolinium cation (3+)
+2328,gadopentetate
+2329,gadopiclenol
+2330,gadoteridol
+2331,gadoversetamide
+2332,gadoxetate
+2333,galactose
+2334,galantamine
+2335,galcanezumab
+2336,gallamine
+2337,gallium
+2338,gallopamil
+2339,galsulfase
+2340,gambels oak pollen extract
+2341,gamithromycin
+2342,gamma-aminobutyrate
+2343,gamma-linolenate
+2344,ganaxolone
+2345,ganciclovir
+2346,ganirelix
+2347,garadacimab
+2348,garcinia cambogia fruit extract
+2349,garden snail mucin preparation
+2350,garrys oak pollen extract
+2351,gatifloxacin
+2352,gefitinib
+2353,gelatin
+2354,gemcitabine
+2355,gemeprost
+2356,gemfibrozil
+2357,gemifloxacin
+2358,gemtuzumab ozogamicin
+2359,genistein
+2360,gentamicin
+2361,gentian violet
+2362,gentisate
+2363,gentisic acid ethanolamide
+2364,gepefrine
+2365,gepirone
+2366,gepotidacin
+2367,geraniol
+2368,geranium extract
+2369,geranylgeranylacetone
+2370,german cockroach allergenic extract
+2371,german wasp venom protein
+2372,gestodene
+2373,gestonorone caproate
+2374,gestrinone
+2375,geum urbanum root extract
+2376,giant ragweed pollen extract
+2377,giant wild rye pollen extract
+2378,gilteritinib
+2379,ginger extract
+2380,ginkgo biloba extract
+2381,ginseng root
+2382,ginsenoside
+2383,gitalin
+2384,givinostat
+2385,givosiran
+2386,glasdegib
+2387,glatiramer
+2388,glecaprevir
+2389,glecaprevir / pibrentasvir
+2390,gleptoferron
+2391,glibornuride
+2392,gliclazide
+2393,glimepiride
+2394,gliocladium allergenic extract
+2395,glipizide
+2396,gliquidone
+2397,glofitamab
+2398,glucagon
+2399,glucametacin
+2400,glucarpidase
+2401,gluceptate
+2402,glucomannan
+2403,gluconate
+2404,gluconolactone
+2405,glucosamine
+2406,glucose
+2407,glucose / potassium chloride
+2408,glucose oxidase
+2409,glucose-6-phosphate
+2410,glucuronate
+2411,glucuronolactone
+2412,glutamate
+2413,glutamine
+2414,glutaral
+2415,glutarate
+2416,glutathione
+2417,glutathione disulfide
+2418,glutethimide
+2419,glyburide
+2420,glycerin
+2421,glycerol phenylbutyrate
+2422,glyceryl behenate
+2423,glyceryl caprate
+2424,glyceryl caprylate
+2425,glyceryl distearate
+2426,glyceryl laurate
+2427,glyceryl monobehenate
+2428,glyceryl monolaurate
+2429,glyceryl palmitate
+2430,glyceryl phosphate
+2431,glyceryl stearate
+2432,glyceryl stearate se
+2433,glycine
+2434,glycogen
+2435,glycol dimethacrylate
+2436,glycol distearate
+2437,glycol salicylate
+2438,glycol stearate
+2439,glycolate
+2440,glycolate / pyruvate
+2441,glycolide
+2442,glycopyrronium
+2443,glycopyrronium / neostigmine
+2444,glycyrrhiza glabra extract
+2445,glycyrrhizic acid
+2446,glymidine
+2447,glyphosate
+2448,gold
+2449,gold cation (1+)
+2450,goldenseal extract
+2451,golimumab
+2452,golodirsen
+2453,golotimod
+2454,gonadorelin
+2455,goose feather extract
+2456,goserelin
+2457,gozetotide
+2458,grama grass pollen extract
+2459,gramicidin
+2460,granisetron
+2461,grape seed extract
+2462,grape seed oil
+2463,grapefruit oil
+2464,grapiprant
+2465,gray birch pollen extract
+2466,grazoprevir
+2467,greasewood pollen extract
+2468,green ash pollen extract
+2469,green tea extract
+2470,green tea leaf extract
+2471,grepafloxacin
+2472,griseofulvin
+2473,groundsel pollen extract
+2474,guaiacol
+2475,guaiacolsulfonate
+2476,guaiazulene
+2477,guaietolin
+2478,guaifenesin
+2479,guanabenz
+2480,guanadrel
+2481,guanethidine
+2482,guanfacine
+2483,guanidine
+2484,guanine
+2485,guanosine
+2486,guar gum
+2487,guinea pig dander
+2488,guinea pig skin extract
+2489,guselkumab
+2490,hackberry pollen extract
+2491,haemophilus influenzae b (ross strain) capsular polysaccharide meningococcal protein conjugate vaccine
+2492,haemophilus influenzae type b
+2493,"haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine"
+2494,halazepam
+2495,halazone
+2496,halcinonide
+2497,halobetasol
+2498,halobetasol / tazarotene
+2499,halofantrine
+2500,halometasone
+2501,haloperidol
+2502,haloprogin
+2503,halothane
+2504,hamster skin extract
+2505,hard fat
+2506,hard maple pollen extract
+2507,hawthorn leaf with flower extract
+2508,hazelnut pollen extract
+2509,heavy mineral oil
+2510,hedera helix leaf extract
+2511,helium
+2512,hematoporphyrin
+2513,heme arginate
+2514,heme iron polypeptide
+2515,hemicellulase
+2516,hemin
+2517,heparin
+2518,hepatitis a vaccine (inactivated) strain hm175
+2519,"hepatitis a virus strain cr 326f antigen, inactivated"
+2520,hepatitis b immune globulin
+2521,hepatitis b surface antigen vaccine
+2522,hepatitis b virus subtype adw2 hbsag surface protein antigen
+2523,heptaminol
+2524,heptanoic acid
+2525,heptyl glucoside
+2526,heroin
+2527,"herpesvirus 1, human"
+2528,hesperetin
+2529,hesperidin
+2530,hetacillin
+2531,hetastarch
+2532,heterotheca inuloides flower extract
+2533,hexachlorophene
+2534,hexacosanoate
+2535,hexadecanal
+2536,hexafluorenium
+2537,hexamethyldisiloxane
+2538,hexamidine
+2539,hexetidine
+2540,hexobarbital
+2541,hexobendine
+2542,hexocyclium
+2543,hexoprenaline
+2544,hexyl 5-aminolevulinate
+2545,hexyl laurate
+2546,hexylcaine
+2547,hexylresorcinol
+2548,high fructose corn syrup
+2549,hippurate
+2550,histamine
+2551,histidine
+2552,histrelin
+2553,hog skin extract
+2554,homatropine
+2555,homatropine / hydrocodone
+2556,homosalate
+2557,honey preparation
+2558,horse hair extract
+2559,house fly allergenic extract
+2560,house fly extract
+2561,house mouse skin extract
+2562,human calcitonin
+2563,human cord blood hematopoietic progenitor cell
+2564,human placenta hydrolysate
+2565,human vaccinia immune globulin
+2566,huperzine a
+2567,hyaluronate
+2568,hyaluronidase
+2569,hyaluronidase / pertuzumab / trastuzumab
+2570,hyaluronidase / rituximab
+2571,hyaluronidase / trastuzumab
+2572,hydracrylic acid
+2573,hydralazine
+2574,hydrastis preparation
+2575,hydrochloric acid
+2576,hydrochlorothiazide
+2577,hydrocodone
+2578,hydrocortisone
+2579,hydrocortisone / neomycin / polymyxin b
+2580,hydrocortisone / pramoxine
+2581,hydroflumethiazide
+2582,hydrofluoric acid
+2583,hydrogen
+2584,hydrogen peroxide
+2585,hydrogen sulfite
+2586,hydrogenated castor oil
+2587,hydrogenated coconut oil
+2588,hydrogenated palm kernel oil
+2589,hydrogenated soybean lecithin
+2590,hydrogenated soybean oil
+2591,hydrogenated soybean phosphatidylcholine
+2592,hydrolyzed soy protein (enzymatic; 2000 mw)
+2593,hydromorphone
+2594,hydroquinidine
+2595,hydroquinine
+2596,hydroquinone
+2597,hydrotalcite
+2598,hydroxide ion
+2599,hydroxocobalamin
+2600,hydroxychloroquine
+2601,hydroxycitronellal
+2602,hydroxyethyl cellulose
+2603,"hydroxyethyl cellulose, unspecified"
+2604,hydroxyethyl ethylcellulose
+2605,hydroxyethylpiperazine ethane sulfonic acid
+2606,hydroxyproline
+2607,hydroxypropyl cellulose (type h)
+2608,"hydroxypropyl cellulose, unspecified"
+2609,hydroxypropyl methylcellulose 2208
+2610,hydroxypropyl methylcellulose 2910
+2611,hydroxypropyl tetrahydropyrantriol
+2612,hydroxypropylcellulose
+2613,hydroxytyrosol
+2614,hydroxyurea
+2615,hydroxyzine
+2616,hygromycin b
+2617,hymecromone
+2618,hyoscyamine
+2619,hyoscyamus extract
+2620,hypericin
+2621,hypericum oil
+2622,hypnea musciformis extract
+2623,hypochlorite
+2624,hypophosphite ion
+2625,hypoxis hemerocallidea root extract
+2626,hypromellose
+2627,hyssop oil
+2628,ibalizumab
+2629,ibandronate
+2630,ibopamine
+2631,ibrexafungerp
+2632,ibritumomab tiuxetan
+2633,ibrutinib
+2634,ibuprofen
+2635,ibutamoren
+2636,ibutilide
+2637,icariin
+2638,icatibant
+2639,ichthammol
+2640,icodextrin
+2641,icosapent ethyl
+2642,idarubicin
+2643,idarucizumab
+2644,idebenone
+2645,idecabtagene vicleucel
+2646,idelalisib
+2647,idoxuridine
+2648,idrocilamide
+2649,idursulfase
+2650,ifenprodil
+2651,ifosfamide
+2652,ilex paraguariensis leaf extract
+2653,ilodecakin
+2654,ilomastat
+2655,iloperidone
+2656,iloprost
+2657,ilunocitinib
+2658,imatinib
+2659,imdevimab
+2660,imepitoin
+2661,imetelstat
+2662,imidacloprid
+2663,imidapril
+2664,imidazole
+2665,imidazole-2-hydroxybenzoate
+2666,imidocarb
+2667,imidurea
+2668,imiglucerase
+2669,imipenem
+2670,imipramine
+2671,imiquimod
+2672,imlunestrant
+2673,immunoglobulin g
+2674,impacarzine
+2675,inamrinone
+2676,inavolisib
+2677,inclisiran
+2678,indacaterol
+2679,indanazoline
+2680,indapamide
+2681,indapamide / perindopril
+2682,indeloxazine
+2683,indian wormwood sage pollen extract
+2684,indican
+2685,indigo
+2686,indigofera tinctoria leaf extract
+2687,indigotindisulfonate
+2688,indinavir
+2689,indium
+2690,indobufen
+2691,indocyanine green
+2692,indole
+2693,indole-3-carbinol
+2694,indomethacin
+2695,indoramin
+2696,inebilizumab
+2697,infigratinib
+2698,infliximab
+2699,influenza a virus (h1n1) antigen
+2700,influenza a virus (h1n1) antigen / influenza a virus (h3n2) antigen / influenza b virus antigen
+2701,influenza a virus (h3n2) antigen
+2702,influenza a virus (h5n8) antigen
+2703,influenza b virus antigen
+2704,ingenol mebutate
+2705,inonotus obliquus fruiting body extract
+2706,inosine
+2707,inosine pranobex
+2708,inosinic acid
+2709,inositol
+2710,inositol / niacin
+2711,inotersen
+2712,inotuzumab ozogamicin
+2713,insulin argine
+2714,"insulin aspart, human"
+2715,insulin degludec
+2716,insulin detemir
+2717,insulin glargine
+2718,"insulin glulisine, human"
+2719,"insulin human, rdna origin"
+2720,insulin icodec
+2721,insulin lispro
+2722,"insulin, regular, pork"
+2723,insulin-like growth factor 2
+2724,interferon alfa-2a
+2725,interferon alfa-2b
+2726,interferon alfa-n1
+2727,interferon alfa-n3
+2728,interferon alfacon-1
+2729,interferon beta-1a
+2730,interferon beta-1b
+2731,interferon gamma-1a
+2732,interferon gamma-1b
+2733,interferon-beta
+2734,interleukin-10
+2735,interleukin-11
+2736,interleukin-12
+2737,interleukin-3
+2738,interleukin-4
+2739,interleukin-6
+2740,interleukin-7
+2741,intrinsic factor
+2742,inula helenium extract
+2743,inula helenium root extract
+2744,inulin
+2745,invert sugar
+2746,iobitridol
+2747,iocetamic acid
+2748,iodamide
+2749,iodide ion
+2750,iodine
+2751,iodine bush pollen extract
+2752,iodine povacrylex
+2753,iodipamide
+2754,iodixanol
+2755,iodoform
+2756,iodohippurate
+2757,iodoquinol
+2758,ioflupane
+2759,iohexol
+2760,iomeprol
+2761,iopamidol
+2762,iopanoic acid
+2763,iopentol
+2764,iophendylate
+2765,iopromide
+2766,iota-carrageenan
+2767,iothalamate
+2768,iothalamic acid
+2769,iotrolan
+2770,ioversol
+2771,ioxaglate
+2772,ioxilan
+2773,ipecac
+2774,ipilimumab
+2775,ipodate
+2776,ipratropium
+2777,iprazochrome
+2778,ipriflavone
+2779,iprindole
+2780,iproniazid
+2781,iptacopan
+2782,irbesartan
+2783,irinotecan
+2784,iron
+2785,iron polysaccharide
+2786,iron protein succinylate
+2787,iron sucrose
+2788,iron-dextran complex
+2789,isatuximab
+2790,isavuconazole
+2791,isavuconazonium
+2792,iscotrizinol
+2793,islatravir
+2794,isoaminile
+2795,isobutane
+2796,isobutyramide
+2797,isocarboxazid
+2798,isoconazole
+2799,isoetharine
+2800,isoeugenol
+2801,isoflupredone
+2802,isoflupredone / neomycin / tetracaine
+2803,isoflurane
+2804,isoflurophate
+2805,isoleucine
+2806,isometheptene
+2807,isoniazid
+2808,isopentane
+2809,isoprene
+2810,isopropamide
+2811,isopropyl alcohol
+2812,isopropyl myristate
+2813,isopropyl palmitate
+2814,isoproterenol
+2815,isosorbide
+2816,isosorbide dinitrate
+2817,isospaglumic acid
+2818,isostearyl alcohol
+2819,isosulfan blue inner salt
+2820,isothipendyl
+2821,isotretinoin
+2822,isoxaflutole
+2823,isoxsuprine
+2824,ispaghula extract
+2825,ispaghula husk
+2826,isradipine
+2827,istradefylline
+2828,italian rye grass pollen extract
+2829,itraconazole
+2830,ivabradine
+2831,ivacaftor
+2832,ivermectin
+2833,ivosidenib
+2834,ixabepilone
+2835,ixazomib
+2836,ixekizumab
+2837,jack pine pollen extract
+2838,japanese black pine pollen extract
+2839,"japanese encephalitis virus vaccine, inactivated"
+2840,jerusalem oak pollen extract
+2841,johnson grass pollen extract
+2842,josamycin
+2843,juglans regia shell extract
+2844,juniper tar
+2845,juniperus sabina leaf
+2846,juniperus virginiana oil
+2847,kaempferia galanga root extract
+2848,kaempferol
+2849,kanamycin
+2850,kanamycin a
+2851,kaolin
+2852,karaya gum
+2853,karaya gum allergenic extract
+2854,karaya gum extract
+2855,kebuzone
+2856,kentucky bluegrass pollen extract
+2857,keracyanin
+2858,ketamine
+2859,ketanserin
+2860,ketazolam
+2861,ketoconazole
+2862,ketoprofen
+2863,ketorolac
+2864,ketotifen
+2865,khellin
+2866,kinetin
+2867,koelers grass pollen extract
+2868,kojic acid
+2869,korean ginseng root
+2870,krill oil
+2871,"l-methionine-s,r-sulfoximine"
+2872,"l1 protein, human papillomavirus type 11 vaccine"
+2873,"l1 protein, human papillomavirus type 11 vaccine / l1 protein, human papillomavirus type 16 vaccine / l1 protein, human papillomavirus type 18 vaccine / l1 protein, human papillomavirus type 31 vaccine / l1 protein, human papillomavirus type 33 vaccine / l1 protein, human papillomavirus type 45 vaccine / l1 protein, human papillomavirus type 52 vaccine / l1 protein, human papillomavirus type 58 vaccine / l1 protein, human papillomavirus type 6 vaccine"
+2874,"l1 protein, human papillomavirus type 11 vaccine / l1 protein, human papillomavirus type 16 vaccine / l1 protein, human papillomavirus type 18 vaccine / l1 protein, human papillomavirus type 6 vaccine"
+2875,"l1 protein, human papillomavirus type 16 vaccine"
+2876,"l1 protein, human papillomavirus type 18 vaccine"
+2877,"l1 protein, human papillomavirus type 31 vaccine"
+2878,"l1 protein, human papillomavirus type 33 vaccine"
+2879,"l1 protein, human papillomavirus type 45 vaccine"
+2880,"l1 protein, human papillomavirus type 52 vaccine"
+2881,"l1 protein, human papillomavirus type 58 vaccine"
+2882,"l1 protein, human papillomavirus type 6 vaccine"
+2883,labetalol
+2884,lachesine
+2885,lacidipine
+2886,lacosamide
+2887,lactase
+2888,lactate
+2889,lactate / pramoxine
+2890,lacticaseibacillus rhamnosus / limosilactobacillus reuteri
+2891,lactitol
+2892,lactobacillus acidophilus
+2893,lactobacillus delbrueckii subsp. bulgaricus
+2894,lactobacillus gasseri
+2895,lactobacillus helveticus
+2896,lactobionate
+2897,lactoferrin
+2898,lactose
+2899,lactulose
+2900,laidlomycin
+2901,laidlomycin propionate
+2902,lamb preparation
+2903,lambs quarters pollen extract
+2904,lamivudine
+2905,lamotrigine
+2906,lanadelumab
+2907,lanatoside c
+2908,landiolol
+2909,lanolin
+2910,lanolin alcohols
+2911,lanolin oil
+2912,lanosterol
+2913,lanreotide
+2914,lansoprazole
+2915,lanthanum
+2916,lanthanum carbonate
+2917,lanthanum cation (3+)
+2918,lapatinib
+2919,lapyrium
+2920,larix sibirica wood extract
+2921,laronidase
+2922,larotrectinib
+2923,lasalocid
+2924,lasmiditan
+2925,latanoprost
+2926,latanoprostene bunod
+2927,latrodectus mactans antivenin
+2928,lauralkonium
+2929,lauramine oxide
+2930,laurate
+2931,laureth-23
+2932,laureth-3
+2933,lauric acid methyl ester
+2934,laurocapram
+2935,laurtrimonium
+2936,lauryl glucoside
+2937,lavender extract
+2938,lavender oil
+2939,lazertinib
+2940,lead
+2941,lebrikizumab
+2942,lecanemab
+2943,lecithin
+2944,ledipasvir
+2945,ledipasvir / sofosbuvir
+2946,lefamulin
+2947,leflunomide
+2948,lemborexant
+2949,lenacapavir
+2950,lenalidomide
+2951,leniolisib
+2952,lenograstim
+2953,lens scale pollen extract
+2954,lentil seed extract
+2955,lenvatinib
+2956,lepirudin
+2957,leptin
+2958,lercanidipine
+2959,lerodalcibep
+2960,lesinurad
+2961,letermovir
+2962,letosteine
+2963,letrozole
+2964,leucanthemum vulgare pollen
+2965,leucine
+2966,leucovorin
+2967,leuprolide
+2968,levalbuterol
+2969,levallorphan
+2970,levamisole
+2971,levamlodipine
+2972,levetiracetam
+2973,levobetaxolol
+2974,levobunolol
+2975,levobupivacaine
+2976,levocabastine
+2977,levocarnitine
+2978,levocetirizine
+2979,levodopa
+2980,levofloxacin
+2981,levoglucose
+2982,levoleucovorin
+2983,levomefolate
+2984,levomenthol
+2985,levomethadone
+2986,levomethadyl
+2987,levomilnacipran
+2988,levonordefrin
+2989,levonorgestrel
+2990,levopropoxyphene
+2991,levorphanol
+2992,levosimendan
+2993,levothyroxine
+2994,levothyroxine / liothyronine
+2995,lexidronam
+2996,licorice
+2997,licorice allergenic extract
+2998,licorice root extract
+2999,lidamidine
+3000,lidocaine
+3001,lidocaine / methylprednisolone
+3002,lidocaine / prilocaine
+3003,lidoflazine
+3004,lifileucel
+3005,lifitegrast
+3006,light green sf yellowish
+3007,lime allergenic extract
+3008,limonene
+3009,linaclotide
+3010,linagliptin
+3011,lincomycin
+3012,lindane
+3013,linden pollen extract
+3014,linerixibat
+3015,linezolid
+3016,linolenate
+3017,linseed oil
+3018,linvoseltamab
+3019,linzagolix
+3020,liothyronine
+3021,lipegfilgrastim
+3022,liprotamase protease
+3023,liquidambar styraciflua resin
+3024,liraglutide
+3025,lisdexamfetamine
+3026,lisinopril
+3027,lisocabtagene maraleucel
+3028,listeria monocytogenes
+3029,lisuride
+3030,lithium carbonate
+3031,lithium cation
+3032,lithium chloride
+3033,lithium citrate
+3034,lithium hydroxide
+3035,lithium succinate
+3036,littleseed canary grass pollen extract
+3037,lixisenatide
+3038,lobeline
+3039,loblolly pine pollen extract
+3040,lobster allergenic extract
+3041,lodgepole pine pollen extract
+3042,lodoxamide
+3043,lofepramine
+3044,lofexidine
+3045,lolium perenne allergenic extract
+3046,lomefloxacin
+3047,lomifylline
+3048,lomitapide
+3049,lomustine
+3050,lonafarnib
+3051,lonapegsomatropin
+3052,lonazolac
+3053,loncastuximab tesirine
+3054,longleaf pine pollen extract
+3055,loperamide
+3056,lopinavir
+3057,lopinavir / ritonavir
+3058,loracarbef
+3059,loratadine
+3060,lorazepam
+3061,lorcaserin
+3062,lorlatinib
+3063,lormetazepam
+3064,lornoxicam
+3065,losartan
+3066,loteprednol
+3067,loteprednol etabonate
+3068,lotilaner
+3069,lovastatin
+3070,lovotibeglogene autotemcel
+3071,loxapine
+3072,loxoprofen
+3073,lubabegron
+3074,lubiprostone
+3075,lucinactant
+3076,lufenuron
+3077,luliconazole
+3078,lumacaftor
+3079,lumasiran
+3080,lumateperone
+3081,lumefantrine
+3082,luprostiol
+3083,lurasidone
+3084,lurbinectedin
+3085,luspatercept
+3086,lusutrombopag
+3087,lutein
+3088,luteinizing hormone
+3089,lutrelin
+3090,lutropin alfa
+3091,lycopene
+3092,lymecycline
+3093,"lymphocyte immune globulin, anti-thymocyte globulin"
+3094,lynestrenol
+3095,lypressin
+3096,lysine
+3097,lysozyme
+3098,macadamia oil
+3099,macadamia seed oil glycereth-8 esters
+3100,macelignan
+3101,macimorelin
+3102,macitentan
+3103,mackerel allergenic extract
+3104,madecassic acid
+3105,mafenide
+3106,maftivimab
+3107,magaldrate
+3108,magnesium
+3109,magnesium acetate
+3110,magnesium ascorbate
+3111,magnesium aspartate
+3112,magnesium carbonate
+3113,magnesium cation
+3114,magnesium chloride
+3115,magnesium citrate
+3116,magnesium gluconate
+3117,magnesium glycinate
+3118,magnesium hydroxide
+3119,magnesium lactate
+3120,magnesium malate
+3121,magnesium orotate
+3122,magnesium oxide
+3123,magnesium peroxide
+3124,magnesium phosphate
+3125,magnesium salicylate
+3126,magnesium silicate
+3127,magnesium sulfate
+3128,magnesium trisilicate
+3129,malachite green
+3130,malathion
+3131,maleate
+3132,malic acid
+3133,malondialdehyde
+3134,malt extract
+3135,maltitol
+3136,maltodextrin
+3137,maltol
+3138,maltose
+3139,maltotetraose
+3140,mandelic acid
+3141,mangafodipir
+3142,manganese
+3143,manganese acetate
+3144,manganese chloride
+3145,manganese citrate
+3146,manganese gluconate
+3147,manganese sulfate
+3148,mango blossom pollen extract
+3149,mangostin
+3150,manidipine
+3151,mannitol
+3152,mannose
+3153,maple leaf sycamore pollen extract
+3154,maprotiline
+3155,maralixibat
+3156,maraviroc
+3157,marbofloxacin
+3158,margaric acid
+3159,margetuximab
+3160,maribavir
+3161,maritime pine extract
+3162,marnetegragene autotemcel
+3163,maropitant
+3164,marstacimab
+3165,masoprocol
+3166,mavacamten
+3167,mavorixafor
+3168,mazindol
+3169,meadow fescue grass pollen extract
+3170,meadowfoam oil
+3171,"measles virus vaccine live, enders' attenuated edmonston strain"
+3172,mebendazole
+3173,mebeverine
+3174,mebrofenin
+3175,mecamylamine
+3176,mecasermin
+3177,mecasermin rinfabate
+3178,mechlorethamine
+3179,meclizine
+3180,meclocycline
+3181,meclofenamate
+3182,meclofenamic acid
+3183,meclofenoxate
+3184,mecobalamin
+3185,mecysteine
+3186,medazepam
+3187,medetomidine
+3188,medetomidine / vatinoxan
+3189,medifoxamine
+3190,medrogestone
+3191,medronate
+3192,medroxyprogesterone
+3193,medrysone
+3194,mefenamate
+3195,mefenidramium
+3196,mefenorex
+3197,mefloquine
+3198,mefruside
+3199,megestrol
+3200,meglumine
+3201,meglumine antimoniate
+3202,melamine
+3203,melarsomine
+3204,melatonin
+3205,melengestrol
+3206,melitracen
+3207,meloxicam
+3208,melphalan
+3209,melphalan flufenamide
+3210,memantine
+3211,menadiol
+3212,menatetrenone
+3213,menfegol
+3214,meningococcal group a polysaccharide
+3215,meningococcal group b vaccine / neisseria meningitidis serogroup a oligosaccharide diphtheria crm197 protein conjugate vaccine / neisseria meningitidis serogroup c oligosaccharide diphtheria crm197 protein conjugate vaccine / neisseria meningitidis serogroup w-135 oligosaccharide diphtheria crm197 protein conjugate vaccine / neisseria meningitidis serogroup y oligosaccharide diphtheria crm197 protein conjugate vaccine
+3216,meningococcal group c polysaccharide
+3217,meningococcal polysaccharide vaccine group w-135
+3218,meningococcal polysaccharide vaccine group y
+3219,mentha arvensis leaf oil
+3220,menthol
+3221,menthyl salicylate
+3222,mepenzolate
+3223,meperidine
+3224,meperidine / promethazine
+3225,mephenesin
+3226,mephentermine
+3227,mephenytoin
+3228,mephobarbital
+3229,mepindolol
+3230,mepirodipine
+3231,mepivacaine
+3232,mepolizumab
+3233,meprednisone
+3234,meprobamate
+3235,meptazinol
+3236,mequinol
+3237,mequitazine
+3238,meradimate
+3239,merbromin
+3240,mercaptopurine
+3241,mercuric chloride
+3242,mercuric iodide
+3243,mercuric sulfide
+3244,meropenem
+3245,meropenem / vaborbactam
+3246,mersalyl
+3247,mesalamine
+3248,mesna
+3249,mesoridazine
+3250,mesquite pollen extract
+3251,mesterolone
+3252,mestranol
+3253,mesulfen
+3254,mesylate
+3255,metaclazepam
+3256,metacresol
+3257,metaproterenol
+3258,metaraminol
+3259,metaxalone
+3260,metenkefalin
+3261,metergoline
+3262,metformin
+3263,metformin / sitagliptin
+3264,methacholine
+3265,methacrylate
+3266,methacrylic acid - ethyl acrylate copolymer (1:1) type a
+3267,methacrylic acid - methyl methacrylate copolymer (1:2)
+3268,methacycline
+3269,methadone
+3270,methadyl acetate
+3271,methamphetamine
+3272,methandriol
+3273,methandrostenolone
+3274,methane
+3275,methanol
+3276,methantheline
+3277,methapyrilene
+3278,methaqualone
+3279,metharbital
+3280,methazolamide
+3281,methdilazine
+3282,methenamine
+3283,"methenamine / sodium phosphate, monobasic"
+3284,methenolone
+3285,methicillin
+3286,methicone (20 cst)
+3287,methimazole
+3288,methionine
+3289,methixene
+3290,methocarbamol
+3291,methohexital
+3292,methoserpidine
+3293,methotrexate
+3294,methotrimeprazine
+3295,methoxamine
+3296,methoxsalen
+3297,methoxy polyethylene glycol-epoetin beta
+3298,methoxyflurane
+3299,methoxyphenamine
+3300,methscopolamine
+3301,methsuximide
+3302,methyclothiazide
+3303,methyl 5-aminolevulinate
+3304,methyl bromide
+3305,methyl chloride
+3306,methyl salicylate
+3307,methyl salicylate 2-ethylbutyrate
+3308,methyl stearate
+3309,methyl undecenoyl leucinate
+3310,methylbenzethonium
+3311,methylcellulose
+3312,methyldibromo glutaronitrile
+3313,methyldopa
+3314,methyldopate
+3315,methylene blue
+3316,methylene chloride
+3317,methylene diphosphonate
+3318,methylergonovine
+3319,methyleugenol
+3320,methylhomatropine
+3321,methylinositol
+3322,methylnaltrexone
+3323,methylnicotinate
+3324,methylparaben
+3325,methylphenidate
+3326,methylprednisolone
+3327,methylsulfonylmethane
+3328,methyltestosterone
+3329,methyprylon
+3330,methysergide
+3331,metipranolol
+3332,metoclopramide
+3333,metocurine
+3334,metolazone
+3335,metopimazine
+3336,metoprolol
+3337,metreleptin
+3338,metricus paper wasp venom protein
+3339,metrizamide
+3340,metronidazole
+3341,metyrapone
+3342,metyrapone tartrate
+3343,metyrosine
+3344,mexican tea pollen extract
+3345,mexiletine
+3346,mezlocillin
+3347,mianserin
+3348,mibefradil
+3349,micafungin
+3350,miconazole
+3351,microcrystalline cellulose
+3352,micronomicin
+3353,midamaline
+3354,midazolam
+3355,midecamycin
+3356,midodrine
+3357,midostaurin
+3358,mifepristone
+3359,migalastat
+3360,miglitol
+3361,miglustat
+3362,milbemycin oxime
+3363,milk thistle extract
+3364,milk thistle seed extract
+3365,millet extract
+3366,milnacipran
+3367,milrinone
+3368,miltefosine
+3369,minaprine
+3370,minaxolone
+3371,mineral oil
+3372,"mineral oil, light"
+3373,minocycline
+3374,minoxidil
+3375,miocamycin
+3376,mipomersen
+3377,mirabegron
+3378,mirdametinib
+3379,mirikizumab
+3380,miristalkonium
+3381,mirtazapine
+3382,mirvetuximab soravtansine
+3383,misoprostol
+3384,mitapivat
+3385,mitobronitol
+3386,mitomycin
+3387,mitotane
+3388,mitoxantrone
+3389,mivacurium
+3390,mizolastine
+3391,mobocertinib
+3392,moclobemide
+3393,modafinil
+3394,moexipril
+3395,moexiprilat
+3396,mofebutazone
+3397,mofezolac
+3398,mogamulizumab
+3399,molgramostim
+3400,molidustat
+3401,molindone
+3402,molnupiravir
+3403,molsidomine
+3404,molybdate ion
+3405,molybdenum
+3406,momelotinib
+3407,mometasone
+3408,mometasone / olopatadine
+3409,momordica charantia fruit extract
+3410,monensin
+3411,mongolian gerbil skin allergenic extract
+3412,monobenzone
+3413,monofluorophosphate
+3414,monomethyl fumarate
+3415,monooctanoin
+3416,monoolein
+3417,montelukast
+3418,montmorrillonite
+3419,morantel
+3420,morazone
+3421,moricizine
+3422,moringa oleifera leaf extract
+3423,morniflumate
+3424,moroxydine
+3425,morphine
+3426,morphine / naltrexone
+3427,morpholine
+3428,morrhuate
+3429,mosapride
+3430,moschus berezovskii musk sac resin
+3431,mosquito allergenic extract
+3432,mosunetuzumab
+3433,motixafortide
+3434,moxalactam
+3435,moxaverine
+3436,moxetumomab pasudotox
+3437,moxidectin
+3438,moxifloxacin
+3439,moxisylyte
+3440,moxonidine
+3441,mucopolysaccharide polysulfate
+3442,mucuna pruriens seed extract
+3443,mugwort sage pollen extract
+3444,mulberry pollen extract
+3445,"mumps virus vaccine live, jeryl lynn strain"
+3446,mupirocin
+3447,muromonab-cd3
+3448,muscadine grape extract
+3449,muskmelon extract
+3450,mustard pollen extract
+3451,mycophenolate
+3452,mycophenolate mofetil
+3453,mycophenolic acid
+3454,myricetin
+3455,myristate
+3456,myristyl alcohol
+3457,myristyl nicotinate
+3458,myrrh oil
+3459,myrtecaine
+3460,"n,n-dimethylglycine"
+3461,"n-(1,3-bis(hydroxymethyl)-2,5-dioxo-4-imidazolidinyl)-n,n'-bis(hydroxymethyl)urea"
+3462,n-(3-(dimethylamino)propyl)octadecanamide
+3463,n-(hydroxyethyl)ethylenediaminetriacetic acid
+3464,n-acetyl-.alpha.-d-glucosamine
+3465,n-acetyl-glucosamine thiazoline
+3466,n-acetylmethionine
+3467,n-acetyltyrosine
+3468,n-alkyl dimethyl benzyl ammonium (c12-c18)
+3469,n-alkyl ethylbenzyl dimethyl ammonium (c12-c14)
+3470,n-cyclohexyl-2-benzothiazosulfenamide
+3471,"n-cyclohexyl-n'-phenyl-1,4-phenylenediamine"
+3472,n-dodecyl .beta.-d-maltoside
+3473,n-methylephedrine
+3474,n-oxydiethylene-2-benzothiazole sulfenamide
+3475,nabilone
+3476,nabumetone
+3477,nadh
+3478,nadofaragene firadenovec
+3479,nadolol
+3480,nadroparin
+3481,nafarelin
+3482,nafcillin
+3483,nafronyl
+3484,naftazone
+3485,naftifine
+3486,nalbuphine
+3487,naldemedine
+3488,nalidixate
+3489,nalmefene
+3490,naloxegol
+3491,naloxone
+3492,naltrexone
+3493,nandrolone
+3494,naphazoline
+3495,naphthalene
+3496,naphthoquine
+3497,naproxen
+3498,narasin
+3499,naratriptan
+3500,naringenin
+3501,naringin
+3502,narrowleaf marshelder pollen extract
+3503,narsoplimab
+3504,natalizumab
+3505,natamycin
+3506,nateglinide
+3507,nattokinase
+3508,navepegritide
+3509,naxitamab
+3510,nebivolol
+3511,necitumumab
+3512,nedocromil
+3513,nedosiran
+3514,nefazodone
+3515,nefopam
+3516,neisseria meningitidis serogroup a capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+3517,neisseria meningitidis serogroup c capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+3518,neisseria meningitidis serogroup w-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+3519,neisseria meningitidis serogroup y capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+3520,nelarabine
+3521,nelfinavir
+3522,nelumbo nucifera flower extract
+3523,nemolizumab
+3524,neodymium
+3525,neomycin
+3526,neon
+3527,neostigmine
+3528,neotame
+3529,nepafenac
+3530,nerandomilast
+3531,neratinib
+3532,nerium oleander flower
+3533,nerve growth factor
+3534,nesiritide
+3535,netarsudil
+3536,netilmicin
+3537,nettle pollen extract
+3538,netupitant
+3539,netupitant / palonosetron
+3540,nevirapine
+3541,niacin
+3542,niacinamide
+3543,niacinamide ascorbate
+3544,nialamide
+3545,niaprazine
+3546,nicarbazin
+3547,nicardipine
+3548,nicergoline
+3549,nickel acetate
+3550,nickel cation
+3551,nickel sulfate
+3552,niclosamide
+3553,nicoboxil
+3554,nicofuranose
+3555,nicorandil
+3556,nicotine
+3557,nicotine bitartrate
+3558,nicotinyl alcohol
+3559,nifedipine
+3560,niflumic acid
+3561,nifuratel
+3562,nifuroxazide
+3563,nifurpipone
+3564,nifurtimox
+3565,nifurzide
+3566,nikethamide
+3567,nilotinib
+3568,nilutamide
+3569,nilvadipine
+3570,nimesulide
+3571,nimodipine
+3572,nimorazole
+3573,nintedanib
+3574,niobium
+3575,nipocalimab
+3576,niraparib
+3577,nirmatrelvir
+3578,nirogacestat
+3579,nirsevimab
+3580,nisoldipine
+3581,nitarsone
+3582,nitazoxanide
+3583,nitenpyram
+3584,nitisinone
+3585,nitrate ion
+3586,nitrazepam
+3587,nitrendipine
+3588,nitric acid
+3589,nitric oxide
+3590,nitrite ion
+3591,nitrofurantoin
+3592,"nitrofurantoin, macrocrystals / nitrofurantoin, monohydrate"
+3593,nitrofurazone
+3594,nitrogen
+3595,nitroglycerin
+3596,nitromersol
+3597,nitroprusside
+3598,nitrous oxide
+3599,nitroxoline
+3600,nivolumab
+3601,nivolumab / relatlimab
+3602,nizatidine
+3603,nogapendekin alfa inbakicept
+3604,nomegestrol
+3605,nomifensine
+3606,nonathymulin
+3607,nonivamide
+3608,nonoxynol-10
+3609,nonoxynol-30
+3610,nonoxynol-4
+3611,nonoxynol-9
+3612,nordazepam
+3613,norelgestromin
+3614,norepinephrine
+3615,norethandrolone
+3616,norethindrone
+3617,norethynodrel
+3618,norfenefrine
+3619,norfloxacin
+3620,norflurane
+3621,norgestimate
+3622,norgestrel
+3623,norgestrienone
+3624,normethadone
+3625,north american coral snake antivenin
+3626,northern paper wasp venom protein
+3627,nortriptyline
+3628,noscapine
+3629,novobiocin
+3630,nusinersen
+3631,nutmeg oil
+3632,nux vomica extract
+3633,nylidrin
+3634,nystatin
+3635,o-cymen-5-ol
+3636,o-phenanthroline
+3637,oat smut allergenic extract
+3638,oats preparation
+3639,obecabtagene autoleucel
+3640,obeticholic acid
+3641,obidoxime
+3642,obiltoxaximab
+3643,obinutuzumab
+3644,oclacitinib
+3645,ocrelizumab
+3646,ocriplasmin
+3647,octanoic acid
+3648,octenidine
+3649,octinoxate
+3650,octisalate
+3651,octocrylene
+3652,octodrine
+3653,octopamine
+3654,octreotide
+3655,octyl dodecanol
+3656,octyl triazone
+3657,octyltriethoxysilane
+3658,odesivimab
+3659,odevixibat
+3660,oenothera biennis seed extract
+3661,ofatumumab
+3662,ofloxacin
+3663,oftasceine
+3664,oil of niaouli
+3665,olaflur
+3666,olanzapine
+3667,olaparib
+3668,olaratumab
+3669,olea europaea leaf extract
+3670,oleandomycin
+3671,oleate
+3672,oleyl alcohol
+3673,oleyl oleate
+3674,olezarsen
+3675,oliceridine
+3676,olipudase alfa
+3677,olive oil
+3678,olmesartan
+3679,olodaterol
+3680,olopatadine
+3681,olsalazine
+3682,olutasidenib
+3683,omacetaxine
+3684,omacetaxine mepesuccinate
+3685,omadacycline
+3686,omalizumab
+3687,omaveloxolone
+3688,ombitasvir
+3689,omega-3 acid ethyl esters (usp)
+3690,omega-3 fatty acids
+3691,omeprazole
+3692,omidenepag
+3693,omidubicel
+3694,omoconazole
+3695,onasemnogene abeparvovec
+3696,ondansetron
+3697,opicapone
+3698,opipramol
+3699,opium
+3700,oprelvekin
+3701,orange pekoe tea allergenic extract
+3702,orange pollen extract
+3703,orbifloxacin
+3704,orchard grass pollen extract
+3705,oregon ash pollen extract
+3706,orforglipron
+3707,orgotein
+3708,oritavancin
+3709,orlistat
+3710,ormetoprim
+3711,ornidazole
+3712,ornipressin
+3713,ornithine
+3714,orotic acid
+3715,orphenadrine
+3716,orthocresol
+3717,osage orange pollen extract
+3718,oseltamivir
+3719,oseltamivir carboxylate
+3720,osilodrostat
+3721,osimertinib
+3722,ospemifene
+3723,oteseconazole
+3724,ouabain
+3725,ovemotide
+3726,oxaceprol
+3727,oxacillin
+3728,oxalate
+3729,oxalic acid
+3730,oxaliplatin
+3731,oxaloacetate
+3732,oxamniquine
+3733,oxandrolone
+3734,oxantel
+3735,oxaprozin
+3736,oxatomide
+3737,oxazepam
+3738,oxcarbazepine
+3739,oxeladin
+3740,oxerutins
+3741,oxetorone
+3742,oxfendazole
+3743,oxibendazole
+3744,oxiconazole
+3745,oxidronate
+3746,oxilofrine
+3747,oxiracetam
+3748,oxitropium
+3749,oxogestone
+3750,oxolamine
+3751,oxolinic acid
+3752,oxothiazolidinecarboxylic acid
+3753,oxprenolol
+3754,oxtriphylline
+3755,oxybate
+3756,oxybenzone
+3757,oxybutynin
+3758,oxychlorosene
+3759,oxycodone
+3760,oxyfedrine
+3761,oxygen
+3762,oxymetazoline
+3763,oxymetholone
+3764,oxymorphone
+3765,oxypertine
+3766,oxyphenbutazone
+3767,oxyphencyclimine
+3768,oxyphenisatin
+3769,oxyphenonium
+3770,oxyquinoline
+3771,oxytetracycline
+3772,oxytocin
+3773,oyster allergenic extract
+3774,ozanimod
+3775,ozenoxacin
+3776,ozone
+3777,p-aminohippurate
+3778,p-hydroxyamphetamine
+3779,p-nitrobiphenyl
+3780,p-tert-butylphenol-formaldehyde resin (low molecular weight)
+3781,paclitaxel
+3782,pacritinib
+3783,padimate a
+3784,padimate-o
+3785,paeonia lactiflora root extract
+3786,pafolacianine
+3787,pafuramidine
+3788,palbociclib
+3789,pale dock pollen extract
+3790,palifermin
+3791,paliperidone
+3792,palivizumab
+3793,palm oil
+3794,palmidrol
+3795,palmitate
+3796,palmitoleate
+3797,palmitoyl oligopeptide
+3798,palmitoyl tetrapeptide-7
+3799,palmitoyl tripeptide-1
+3800,palo verde pollen extract
+3801,palonosetron
+3802,palovarotene
+3803,paltusotine
+3804,pamabrom
+3805,pamidronate
+3806,panax notoginseng root extract
+3807,pancreatin
+3808,pancuronium
+3809,pangamate
+3810,panitumumab
+3811,panobinostat
+3812,pantethine
+3813,panthenol
+3814,pantoprazole
+3815,pantothenate
+3816,pantothenic acid
+3817,papain
+3818,papaverine
+3819,paper birch pollen extract
+3820,para grass pollen extract
+3821,para-cresol
+3822,parachlorophenol
+3823,paraffin
+3824,parakeet feather allergenic extract
+3825,paraldehyde
+3826,paramethadione
+3827,paramethasone
+3828,parasorbate
+3829,parathyroid hormone
+3830,parecoxib
+3831,pareptide
+3832,parethoxycaine
+3833,pargyline
+3834,paricalcitol
+3835,paritaprevir
+3836,parnaparin
+3837,paromomycin
+3838,paroxetine
+3839,parthenolide
+3840,pasireotide
+3841,passiflora incarnata flower extract
+3842,passion flower extract
+3843,patent blue violet
+3844,patiromer
+3845,patisiran
+3846,pazopanib
+3847,peach allergenic extract
+3848,peanut oil
+3849,pecan allergenic extract
+3850,pecan pollen extract
+3851,pectin
+3852,pefloxacin
+3853,peg-100 stearate
+3854,peg-60 sorbitan stearate
+3855,pegademase bovine
+3856,pegaptanib
+3857,pegaspargase
+3858,pegcetacoplan
+3859,pegfilgrastim
+3860,peginesatide
+3861,peginterferon alfa-2a
+3862,peginterferon alfa-2b
+3863,peginterferon beta-1a
+3864,pegloticase
+3865,pegoterate
+3866,pegoxol 7 stearate
+3867,pegunigalsidase alfa
+3868,pegvaliase
+3869,pegvisomant
+3870,pegzilarginase
+3871,pelargonium sidoides root extract
+3872,pembrolizumab
+3873,pemetrexed
+3874,pemigatinib
+3875,pemirolast
+3876,pemoline
+3877,penbutolol
+3878,penciclovir
+3879,penfluridol
+3880,penicillamine
+3881,penicillin g
+3882,penicillin g benzathine / penicillin g procaine
+3883,penicillin v
+3884,penicillium roquefortii allergenic extract
+3885,penpulimab
+3886,pentadecalactone
+3887,pentadecanoic acid
+3888,pentaerythritol
+3889,pentafluoropropane
+3890,pentagastrin
+3891,pentamidine
+3892,pentastarch
+3893,pentazocine
+3894,pentetate
+3895,pentetate calcium
+3896,pentetreotide
+3897,pentifylline
+3898,pentobarbital
+3899,pentobarbital / phenytoin
+3900,pentosan polysulfate
+3901,pentostatin
+3902,pentoxifylline
+3903,peoniflorin
+3904,peppermint oil
+3905,pepsin a
+3906,peracetic acid
+3907,peramivir
+3908,perampanel
+3909,perazine
+3910,perennial rye grass pollen extract
+3911,perflenapent
+3912,perflexane
+3913,perflunafene
+3914,perfluorohexyloctane
+3915,perflutren
+3916,pergolide
+3917,perhexiline
+3918,periciazine
+3919,perindopril
+3920,perindoprilat
+3921,permethrin
+3922,perphenazine
+3923,pertussis vaccine
+3924,pertuzumab
+3925,peruvian balsam
+3926,petrolatum
+3927,peumus boldus leaf extract
+3928,pexidartinib
+3929,phellinus linteus mycelium extract
+3930,phellodendron amurense bark extract
+3931,phenacemide
+3932,phenacetin
+3933,phenazocine
+3934,phenazopyridine
+3935,phendimetrazine
+3936,phenelzine
+3937,phenethylamine
+3938,phenformin
+3939,phenicarbazide
+3940,phenindamine
+3941,phenindione
+3942,pheniramine
+3943,phenmetrazine
+3944,phenobarbital
+3945,phenol
+3946,phenolate
+3947,phenolphthalein
+3948,phenolsulfonate
+3949,phenolsulfonphthalein
+3950,phenoperidine
+3951,phenothrin
+3952,phenoxyacetate
+3953,phenoxybenzamine
+3954,phenoxyethanol
+3955,phenprocoumon
+3956,phensuximide
+3957,phentermine
+3958,phentolamine
+3959,phenyl salicylate
+3960,phenyl trimethicone
+3961,phenylacetaldehyde
+3962,phenylacetate
+3963,phenylalanine
+3964,phenylbutazone
+3965,phenylbutyrate
+3966,phenylephrine
+3967,phenylethyl alcohol
+3968,phenylethyl resorcinol
+3969,phenylmercuric nitrate
+3970,phenylmercury
+3971,phenylpropanolamine
+3972,phenyltoloxamine
+3973,phenytoin
+3974,phloretin
+3975,phlorhizin
+3976,phloroglucinol
+3977,pholcodine
+3978,pholedrine
+3979,phosphate ion
+3980,phosphatidylserine
+3981,phosphocysteamine
+3982,phosphoric acid
+3983,phosphorus
+3984,phthalylsulfacetamide
+3985,phthalylsulfathiazole
+3986,physostigmine
+3987,physostigmine / pilocarpine
+3988,phytic acid
+3989,phytosphingosine
+3990,pibrentasvir
+3991,picaridin
+3992,picolinic acid
+3993,picosulfurate
+3994,picrate
+3995,picrotoxin
+3996,pidotimod
+3997,piflufolastat
+3998,pigment blue 16
+3999,pignut hickory pollen extract
+4000,piketoprofen
+4001,pilocarpine
+4002,pimagedine
+4003,pimavanserin
+4004,pimeclone
+4005,pimecrolimus
+4006,pimethixene
+4007,pimobendan
+4008,pimozide
+4009,pin oak pollen extract
+4010,pinacidil
+4011,pinaverium
+4012,pindolol
+4013,pine bark extract
+4014,pine needle oil (pinus mugo)
+4015,pine tar
+4016,pioglitazone
+4017,pipamperone
+4018,pipazethate
+4019,pipecuronium
+4020,pipemidate
+4021,pipenzolate
+4022,piperacetazine
+4023,piperacillin
+4024,piperazine
+4025,piperidolate
+4026,piperine
+4027,piperonyl butoxide
+4028,piperonyl butoxide / pyrethrins
+4029,pipobroman
+4030,pipothiazine
+4031,pipoxolan
+4032,piprozoline
+4033,piracetam
+4034,pirarubicin
+4035,pirbuterol
+4036,pirenoxine
+4037,pirenzepine
+4038,piretanide
+4039,pirfenidone
+4040,piribedil
+4041,piridocaine
+4042,pirlimycin
+4043,piroctone
+4044,piroctone olamine
+4045,piroxicam
+4046,pirtobrutinib
+4047,pistachio nut allergenic extract
+4048,pisum sativum (pea) extract
+4049,pitavastatin
+4050,pitch pine pollen extract
+4051,pitolisant
+4052,pivampicillin
+4053,pivekimab sunirine
+4054,pizotyline
+4055,plains cottonwood pollen extract
+4056,plantago seed
+4057,plasma protein fraction
+4058,plasminogen
+4059,platinum
+4060,platycodon grandiflorum root extract
+4061,plazomicin
+4062,plecanatide
+4063,plerixafor
+4064,plicamycin
+4065,plozasiran
+4066,podofilox
+4067,podophyllin
+4068,polacrilin
+4069,polaprezinc
+4070,polatuzumab vedotin
+4071,poldine
+4072,policapram
+4073,policresulen
+4074,polidocanol
+4075,polidronium
+4076,polifeprosan 20
+4077,polignate sodium
+4078,polihexanide
+4079,"poliovirus vaccine inactivated, type 1 (mahoney)"
+4080,"poliovirus vaccine inactivated, type 2 (mef-1)"
+4081,"poliovirus vaccine inactivated, type 3 (saukett)"
+4082,polixetonium
+4083,poloxalene
+4084,poloxamer 188
+4085,poloxamer 237
+4086,poloxamer 331
+4087,poloxamer 407
+4088,polyacrylamide (crosslinked; 2 mole percent bisacrylamide)
+4089,polyaminopropyl biguanide
+4090,polybutester
+4091,polydatin
+4092,polydextrose
+4093,polyestradiol
+4094,polyethylene glycol 1450
+4095,polyethylene glycol 1500
+4096,polyethylene glycol 200
+4097,polyethylene glycol 300
+4098,polyethylene glycol 3350
+4099,polyethylene glycol 3500
+4100,polyethylene glycol 400
+4101,polyethylene glycol 4000
+4102,polyethylene glycol 4500
+4103,polyethylene glycol 600
+4104,polyethylene glycol 6000
+4105,polyethylene glycol 800
+4106,polyethylene glycol 900
+4107,polygala senega root extract
+4108,polygeline
+4109,polyglycolate
+4110,polymetaphosphate
+4111,polymyxin b
+4112,polynoxylin
+4113,polyoxyl 35 castor oil
+4114,polyoxyl 40 stearate
+4115,polyquaternium-10 (400 cps at 2%)
+4116,polysaccharide-k
+4117,polysilicone-15
+4118,polysorbate 20
+4119,polysorbate 60
+4120,polysorbate 65
+4121,polysorbate 80
+4122,polysorbate 85
+4123,polystyrene sulfonate
+4124,polysulfated glycosaminoglycan
+4125,polytetrafluoroethylene
+4126,polythiazide
+4127,polyvalent crotalidae antivenin
+4128,polyvinyl alcohol
+4129,pomalidomide
+4130,pomegranate extract
+4131,ponatinib
+4132,ponazuril
+4133,ponesimod
+4134,poractant alfa
+4135,posaconazole
+4136,post oak pollen extract
+4137,potassium
+4138,potassium acetate
+4139,potassium aspartate
+4140,potassium bicarbonate
+4141,potassium bitartrate
+4142,potassium carbonate
+4143,potassium chloride
+4144,potassium citrate
+4145,potassium dichromate
+4146,potassium gluconate
+4147,potassium hydroxide
+4148,potassium iodate
+4149,potassium iodide
+4150,potassium ion
+4151,potassium lactate
+4152,potassium metabisulfite
+4153,potassium nitrate
+4154,potassium perchlorate
+4155,potassium permanganate
+4156,potassium phosphate
+4157,potassium sodium tartrate
+4158,potassium sulfate
+4159,potassium triiodide
+4160,poverty weed pollen extract
+4161,povidone
+4162,povidone k29-32
+4163,povidone-iodine
+4164,pozelimab
+4165,ppg-15 stearyl ether
+4166,practolol
+4167,prademagene zamikeracel
+4168,pradofloxacin
+4169,prairie sagebrush pollen extract
+4170,prajmaline
+4171,pralatrexate
+4172,pralidoxime
+4173,pralmorelin
+4174,pralsetinib
+4175,pramipexole
+4176,pramiverine
+4177,pramlintide
+4178,pramoxine
+4179,prasterone
+4180,prasugrel
+4181,pravastatin
+4182,prazepam
+4183,praziquantel
+4184,praziquantel / pyrantel
+4185,prazosin
+4186,prednazoline
+4187,prednicarbate
+4188,prednimustine
+4189,prednisolone
+4190,prednisolone / sulfacetamide
+4191,prednisolone / trimeprazine
+4192,prednisone
+4193,prednylidene
+4194,pregabalin
+4195,pregnenolone
+4196,prenylamine
+4197,pretomanid
+4198,prezatide
+4199,prezatide copper
+4200,prezatide copper acetate
+4201,pridinol
+4202,prifinium
+4203,prilocaine
+4204,primaquine
+4205,primidone
+4206,primula veris extract
+4207,primycin
+4208,pristinamycin
+4209,privet pollen extract
+4210,probenecid
+4211,probenecid / sulopenem
+4212,probucol
+4213,procainamide
+4214,procaine
+4215,procarbazine
+4216,procaterol
+4217,prochlorperazine
+4218,procyclidine
+4219,profenamine
+4220,proflavine
+4221,progabide
+4222,progesterone
+4223,proglumetacin
+4224,proglumide
+4225,proguanil
+4226,proline
+4227,prolintane
+4228,promazine
+4229,promegestone
+4230,promestriene
+4231,promethazine
+4232,propafenone
+4233,propamidine
+4234,propane
+4235,propanidid
+4236,propantheline
+4237,proparacaine
+4238,propentofylline
+4239,propicillin
+4240,propinox
+4241,propiolactone
+4242,propiomazine
+4243,propionamide
+4244,propionic acid
+4245,propiverine
+4246,propofol
+4247,propolis wax
+4248,propoxur
+4249,propoxyphene
+4250,propranolol
+4251,propyl acetate
+4252,propyl gallate
+4253,propylene carbonate
+4254,propylene glycol
+4255,propylene glycol monolaurate
+4256,propylene glycol monopalmitostearate
+4257,propylene glycol monostearate
+4258,propylene oxide
+4259,propylhexedrine
+4260,propyliodone
+4261,propylparaben
+4262,propylthiouracil
+4263,propyperone
+4264,propyphenazone
+4265,proquazone
+4266,proscillaridin
+4267,protein c
+4268,protein s
+4269,prothionamide
+4270,prothipendyl
+4271,prothrombin
+4272,protocatechualdehyde
+4273,protriptyline
+4274,proxibarbal
+4275,proxigermanium
+4276,proxyphylline
+4277,prucalopride
+4278,prussian blue insoluble
+4279,pseudoephedrine
+4280,pseudoisocytidine
+4281,pseudomonas aeruginosa
+4282,psyllium
+4283,pumice
+4284,purified protein derivative of tuberculin
+4285,pussy willow pollen extract
+4286,pyrantel
+4287,pyrazinamide
+4288,pyrethrins
+4289,pyrethrum extract
+4290,pyridostigmine
+4291,pyridoxal
+4292,pyridoxine
+4293,pyrilamine
+4294,pyrimethamine
+4295,pyrithione
+4296,pyritidium
+4297,pyroglutamate
+4298,pyrophosphate
+4299,pyrrolidine
+4300,pyrrolidone carboxylate
+4301,pyrrolidonecarboxylic acid
+4302,pyruvaldehyde
+4303,pyruvate
+4304,pyrvinium
+4305,qs-21
+4306,quackgrass pollen extract
+4307,quadrosilan
+4308,quaternium-15
+4309,quaternium-18
+4310,quaternium-24
+4311,quazepam
+4312,queen palm pollen extract
+4313,quercetin
+4314,quetiapine
+4315,quinacrine
+4316,quinagolide
+4317,quinapril
+4318,quinaprilat
+4319,quinate
+4320,quinestradol
+4321,quinestrol
+4322,quinethazone
+4323,quinfamide
+4324,quinidine
+4325,quinine
+4326,quinupramine
+4327,quinupristin
+4328,quizartinib
+4329,rabacfosadine
+4330,rabbit bush pollen extract
+4331,rabeprazole
+4332,"rabies immune globulin, human"
+4333,rabies virus vaccine flury-lep strain
+4334,racecadotril
+4335,racementhol
+4336,racemethionine
+4337,racepinephrine
+4338,ractopamine
+4339,radium
+4340,raffinose
+4341,raloxifene
+4342,raltegravir
+4343,raltitrexed
+4344,ramelteon
+4345,ramipril
+4346,ramiprilat
+4347,ramucirumab
+4348,ranibizumab
+4349,ranitidine
+4350,ranolazine
+4351,rapacuronium
+4352,raphanus sativa extract
+4353,rasagiline
+4354,rasburicase
+4355,rat skin extract
+4356,rauwolfia alkaloids
+4357,ravulizumab
+4358,raxibacumab
+4359,razoxane
+4360,rebaudioside a
+4361,reboxetine
+4362,red alder pollen extract
+4363,red cedar pollen extract
+4364,red imported fire ant allergenic extract
+4365,red mulberry pollen extract
+4366,red paper wasp venom protein
+4367,red pine pollen extract
+4368,red yeast rice
+4369,redberry juniper pollen extract
+4370,redwood pollen extract
+4371,regadenoson
+4372,regorafenib
+4373,regrelor
+4374,rehmannia glutinosa root extract
+4375,relacorilant
+4376,relatlimab
+4377,relebactam
+4378,relugolix
+4379,remdesivir
+4380,remestemcel-l
+4381,remibrutinib
+4382,remifentanil
+4383,remimazolam
+4384,remoxipride
+4385,repaglinide
+4386,repotrectinib
+4387,reproterol
+4388,rescinnamine
+4389,reserpine
+4390,reslizumab
+4391,resmetirom
+4392,resorcinol
+4393,resorcinol monoacetate
+4394,resveratrol
+4395,retapamulin
+4396,retatrutide
+4397,reteplase
+4398,retifanlimab
+4399,revakinagene taroretcel
+4400,revefenacin
+4401,reviparin
+4402,revumenib
+4403,rezafungin
+4404,rhamnose
+4405,rho(d) immune globulin
+4406,rhodamine b
+4407,rhubarb allergenic extract
+4408,rhubarb preparation
+4409,ribavirin
+4410,ribociclib
+4411,riboflavin
+4412,riboflavin 5'-phosphate
+4413,riboprine
+4414,ribose
+4415,rice allergenic extract
+4416,rice bran
+4417,rice bran oil
+4418,ricinoleate
+4419,rifabutin
+4420,rifampin
+4421,rifamycin sv
+4422,rifamycins
+4423,rifapentine
+4424,rifaximin
+4425,rilmenidine
+4426,rilonacept
+4427,rilpivirine
+4428,riluzole
+4429,rilzabrutinib
+4430,rimantadine
+4431,rimegepant
+4432,rimexolone
+4433,rimiterol
+4434,riociguat
+4435,ripretinib
+4436,risankizumab
+4437,risdiplam
+4438,risedronate
+4439,risedronic acid
+4440,risperidone
+4441,ritlecitinib
+4442,ritodrine
+4443,ritonavir
+4444,rituximab
+4445,rivaroxaban
+4446,rivastigmine
+4447,river birch pollen extract
+4448,rizatriptan
+4449,rna
+4450,robenacoxib
+4451,robenidine
+4452,rocky mountain juniper pollen extract
+4453,rocuronium
+4454,rofecoxib
+4455,roflumilast
+4456,rolapitant
+4457,rolitetracycline
+4458,romidepsin
+4459,romifidine
+4460,romiplostim
+4461,romosozumab
+4462,ronidazole
+4463,ropeginterferon alfa-2b
+4464,ropinirole
+4465,ropivacaine
+4466,rosa canina fruit extract
+4467,rosa centifolia flower oil
+4468,rose bengal
+4469,rose petal extract
+4470,rosemary oil
+4471,rosiglitazone
+4472,rosin
+4473,rosmarinate
+4474,rosmarinus officinalis preparation
+4475,rosoxacin
+4476,rosuvastatin
+4477,rotenone
+4478,rotigotine
+4479,rough cocklebur pollen extract
+4480,rough marshelder pollen extract
+4481,roxarsone
+4482,roxatidine
+4483,roxithromycin
+4484,royal jelly
+4485,rozanolixizumab
+4486,rubella virus vaccine live (wistar ra 27-3 strain)
+4487,rubidium
+4488,rucaparib
+4489,rufinamide
+4490,rumex crispus root extract
+4491,ruscogenin
+4492,russian olive pollen extract
+4493,russian thistle pollen extract
+4494,ruta graveolens flowering top oil
+4495,rutin
+4496,ruxolitinib
+4497,s-adenosylmethionine
+4498,saccharide isomerate
+4499,saccharin
+4500,saccharomyces cerevisiae
+4501,sacituzumab
+4502,sacrosidase
+4503,sacubitril
+4504,sacubitrilat
+4505,safflower oil
+4506,safflower seed allergenic extract
+4507,safinamide
+4508,safrole
+4509,sage leaf allergenic extract
+4510,sage oil
+4511,sakuranetin
+4512,salcaprozate
+4513,salicyl alcohol
+4514,salicylamide
+4515,salicylic acid
+4516,salicylic acid / thiosulfate
+4517,salinomycin
+4518,salix alba bark volatile oil
+4519,salmeterol
+4520,salmon allergenic extract
+4521,salmon calcitonin
+4522,salmon preparation
+4523,salmonella enterica subsp. enterica serovar typhi
+4524,salmonella typhi ty21a live antigen
+4525,salsalate
+4526,salt cedar pollen extract
+4527,salt grass pollen extract
+4528,saltbush pollen extract
+4529,salvia miltiorrhiza root extract
+4530,samarium
+4531,samarium sm 153 lexidronam
+4532,sambucus nigra flowering top
+4533,samidorphan
+4534,sandbur ragweed pollen extract
+4535,santonin
+4536,sapanisertib
+4537,sapropterin
+4538,saquinavir
+4539,saralasin
+4540,sarcosine
+4541,sardine allergenic extract
+4542,sarecycline
+4543,sargramostim
+4544,sarilumab
+4545,sarolaner
+4546,satralizumab
+4547,satraplatin
+4548,saw palmetto extract
+4549,saw palmetto fruit extract
+4550,saxagliptin
+4551,schisandra chinensis fruit extract
+4552,schizandra preparation
+4553,schizochytrium dha oil
+4554,scopolamine
+4555,scotch pine pollen extract
+4556,scrub pine pollen extract
+4557,scutellaria baicalensis root extract
+4558,sea salt
+4559,sebacate
+4560,sebelipase alfa
+4561,sebetralstat
+4562,secnidazole
+4563,secobarbital
+4564,secretin
+4565,secukinumab
+4566,segesterone
+4567,seladelpar
+4568,selamectin
+4569,selegiline
+4570,selenious acid
+4571,selenium
+4572,selenium sulfide
+4573,selenocysteine
+4574,selenomethionine
+4575,selexipag
+4576,selinexor
+4577,selpercatinib
+4578,selumetinib
+4579,semaglutide
+4580,semduramicin
+4581,semuloparin
+4582,"sennosides, usp"
+4583,sepiapterin
+4584,seractide
+4585,serdexmethylphenidate
+4586,serenoa preparation
+4587,serine
+4588,sermorelin
+4589,serotonin
+4590,serratiopeptidase
+4591,sertaconazole
+4592,sertindole
+4593,sertraline
+4594,sesame oil
+4595,setmelanotide
+4596,sevelamer
+4597,sevoflurane
+4598,shad scale pollen extract
+4599,shagbark hickory pollen extract
+4600,shark liver oil
+4601,shea butter
+4602,sheanut oil
+4603,sheep sorrel pollen extract
+4604,short ragweed pollen extract
+4605,shortleaf pine pollen extract
+4606,shrimp allergenic extract
+4607,siberian elm pollen extract
+4608,siberian ginseng preparation
+4609,siberian ginseng root extract
+4610,sibutramine
+4611,silandrone
+4612,silanol
+4613,sildenafil
+4614,silica dimethyl silylate
+4615,silicon
+4616,silicon dioxide
+4617,"silicon dioxide, colloidal"
+4618,silk allergenic extract
+4619,silk sericin
+4620,silodosin
+4621,silodrate
+4622,siltuximab
+4623,silver
+4624,silver cation
+4625,silver citrate
+4626,silver nitrate
+4627,silver ragweed pollen extract
+4628,silver sulfadiazine
+4629,silymarin
+4630,simaldrate
+4631,simeprevir
+4632,simethicone
+4633,simvastatin
+4634,sinapultide
+4635,sincalide
+4636,sinecatechins
+4637,siponimod
+4638,sipuleucel-t
+4639,sirolimus
+4640,sisomicin
+4641,sitagliptin
+4642,skatole
+4643,skim milk
+4644,slash pine pollen extract
+4645,slender ragweed pollen extract
+4646,smooth brome pollen extract
+4647,smooth sumac pollen extract
+4648,sobrerol
+4649,sodium acetate
+4650,sodium ascorbate
+4651,sodium bicarbonate
+4652,sodium bisulfate
+4653,sodium bisulfite
+4654,sodium bromide
+4655,sodium carbonate
+4656,sodium cation
+4657,sodium chloride
+4658,sodium chlorite
+4659,sodium citrate
+4660,sodium diacetate
+4661,sodium dithionite
+4662,sodium ferric gluconate complex
+4663,sodium fluoride
+4664,sodium gentisate
+4665,sodium gluconate
+4666,sodium gualenate
+4667,sodium hydroxide
+4668,sodium iodide
+4669,sodium ironedetate
+4670,sodium lauryl sulfoacetate
+4671,sodium metabisulfite
+4672,sodium molybdate(vi)
+4673,sodium nitrate
+4674,sodium phosphate
+4675,"sodium phosphate, dibasic"
+4676,"sodium phosphate, monobasic"
+4677,sodium polystyrene sulfonate
+4678,sodium stibogluconate
+4679,sodium succinate
+4680,sodium sulfate
+4681,sodium sulfide
+4682,sodium tartrate
+4683,sodium tetradecyl sulfate
+4684,sodium zirconium cyclosilicate
+4685,sofosbuvir
+4686,sofpironium
+4687,solasulfone
+4688,solifenacin
+4689,solriamfetol
+4690,somapacitan
+4691,somatorelin
+4692,somatostatin
+4693,somatrem
+4694,somatrogon
+4695,somatropin
+4696,sometribove
+4697,sonidegib
+4698,sorafenib
+4699,sorbitan
+4700,sorbitol
+4701,sorghum bicolor pollen extract
+4702,sotagliflozin
+4703,sotalol
+4704,sotatercept
+4705,sotorasib
+4706,sotrovimab
+4707,southern bayberry pollen extract
+4708,southern ragweed pollen extract
+4709,soy sterol
+4710,soybean oil
+4711,soybean seed oil
+4712,sparfloxacin
+4713,sparsentan
+4714,spectinomycin
+4715,spermaceti
+4716,spermidine
+4717,spermine
+4718,spesolimab
+4719,spinosad
+4720,spiny pigweed pollen extract
+4721,spiramycin
+4722,spirapril
+4723,spironolactone
+4724,spirulina
+4725,squalane
+4726,squalene
+4727,standardized senna concentrate
+4728,stannous chloride
+4729,stannous fluoride
+4730,stanozolol
+4731,starch
+4732,"starch, rice"
+4733,"starch, tapioca"
+4734,"starch, wheat"
+4735,stavudine
+4736,stearate
+4737,stearyl alcohol
+4738,stearyl fumarate
+4739,stem bromelain
+4740,stepronin
+4741,stevioside
+4742,stinging nettle extract
+4743,stiripentol
+4744,streptococcus pneumoniae serotype 1 capsular antigen diphtheria crm197 protein conjugate vaccine
+4745,streptococcus pneumoniae serotype 1 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 10a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 11a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 12f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 14 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 15b capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 18c capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 19a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 19f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 22f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 23f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 3 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 33f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 4 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 5 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 6a capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 6b capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 7f capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 8 capsular antigen diphtheria crm197 protein conjugate vaccine / streptococcus pneumoniae serotype 9v capsular antigen diphtheria crm197 protein conjugate vaccine
+4746,streptococcus pneumoniae serotype 14 capsular antigen diphtheria crm197 protein conjugate vaccine
+4747,streptococcus pneumoniae serotype 18c capsular antigen diphtheria crm197 protein conjugate vaccine
+4748,streptococcus pneumoniae serotype 19a capsular antigen diphtheria crm197 protein conjugate vaccine
+4749,streptococcus pneumoniae serotype 19f capsular antigen diphtheria crm197 protein conjugate vaccine
+4750,streptococcus pneumoniae serotype 22f capsular antigen diphtheria crm197 protein conjugate vaccine
+4751,streptococcus pneumoniae serotype 23f capsular antigen diphtheria crm197 protein conjugate vaccine
+4752,streptococcus pneumoniae serotype 3 capsular antigen diphtheria crm197 protein conjugate vaccine
+4753,streptococcus pneumoniae serotype 33f capsular antigen diphtheria crm197 protein conjugate vaccine
+4754,streptococcus pneumoniae serotype 4 capsular antigen diphtheria crm197 protein conjugate vaccine
+4755,streptococcus pneumoniae serotype 5 capsular antigen diphtheria crm197 protein conjugate vaccine
+4756,streptococcus pneumoniae serotype 6a capsular antigen diphtheria crm197 protein conjugate vaccine
+4757,streptococcus pneumoniae serotype 6b capsular antigen diphtheria crm197 protein conjugate vaccine
+4758,streptococcus pneumoniae serotype 7f capsular antigen diphtheria crm197 protein conjugate vaccine
+4759,streptococcus pneumoniae serotype 9v capsular antigen diphtheria crm197 protein conjugate vaccine
+4760,streptococcus pneumoniae type 1 capsular polysaccharide antigen
+4761,streptococcus pneumoniae type 10a capsular polysaccharide antigen
+4762,streptococcus pneumoniae type 11a capsular polysaccharide antigen
+4763,streptococcus pneumoniae type 12f capsular polysaccharide antigen
+4764,streptococcus pneumoniae type 14 capsular polysaccharide antigen
+4765,streptococcus pneumoniae type 15b capsular polysaccharide antigen
+4766,streptococcus pneumoniae type 17f capsular polysaccharide antigen
+4767,streptococcus pneumoniae type 18c capsular polysaccharide antigen
+4768,streptococcus pneumoniae type 19a capsular polysaccharide antigen
+4769,streptococcus pneumoniae type 19f capsular polysaccharide antigen
+4770,streptococcus pneumoniae type 2 capsular polysaccharide antigen
+4771,streptococcus pneumoniae type 20 capsular polysaccharide antigen
+4772,streptococcus pneumoniae type 22f capsular polysaccharide antigen
+4773,streptococcus pneumoniae type 23f capsular polysaccharide antigen
+4774,streptococcus pneumoniae type 3 capsular polysaccharide antigen
+4775,streptococcus pneumoniae type 33f capsular polysaccharide antigen
+4776,streptococcus pneumoniae type 4 capsular polysaccharide antigen
+4777,streptococcus pneumoniae type 5 capsular polysaccharide antigen
+4778,streptococcus pneumoniae type 6b capsular polysaccharide antigen
+4779,streptococcus pneumoniae type 7f capsular polysaccharide antigen
+4780,streptococcus pneumoniae type 8 capsular polysaccharide antigen
+4781,streptococcus pneumoniae type 9n capsular polysaccharide antigen
+4782,streptococcus pneumoniae type 9v capsular polysaccharide antigen
+4783,streptococcus thermophilus
+4784,streptokinase
+4785,streptomycin
+4786,streptozocin
+4787,strontium
+4788,strontium chloride
+4789,strychnine
+4790,styramate
+4791,succimer
+4792,succinate
+4793,succinic acid
+4794,succinylated gelatin
+4795,succinylcholine
+4796,succinylsulfathiazole
+4797,sucralfate
+4798,sucralose
+4799,sucroferric oxyhydroxide
+4800,sucrose
+4801,sudan grass pollen extract
+4802,sufentanil
+4803,sugammadex
+4804,sugar beet allergenic extract
+4805,sugar beet pollen extract
+4806,sulbactam
+4807,sulbenicillin
+4808,sulbutiamine
+4809,sulconazole
+4810,sulfabenzamide
+4811,sulfacetamide
+4812,sulfachlorpyridazine
+4813,sulfachrysoidine
+4814,sulfacytine
+4815,sulfadiazine
+4816,sulfadimethoxine
+4817,sulfadoxine
+4818,sulfaethidole
+4819,sulfaguanidine
+4820,sulfalene
+4821,sulfamerazine
+4822,sulfamethazine
+4823,sulfamethizole
+4824,sulfamethoxazole
+4825,sulfamethoxazole / trimethoprim
+4826,sulfamethoxypyridazine
+4827,sulfametrole
+4828,sulfamoxole
+4829,sulfanilamide
+4830,sulfapyridine
+4831,sulfaquinoxaline
+4832,sulfasalazine
+4833,sulfate ion
+4834,sulfathiazole
+4835,sulfinpyrazone
+4836,sulfisomidine
+4837,sulfisoxazole
+4838,sulfobromophthalein
+4839,sulfur dioxide
+4840,sulfur hexafluoride
+4841,sulfuric acid
+4842,sulfurous acid
+4843,sulindac
+4844,sulisobenzone
+4845,sulopenem
+4846,sulpiride
+4847,sulthiame
+4848,sultopride
+4849,sumatriptan
+4850,sunflower oil
+4851,sunflower pollen extract
+4852,sunitinib
+4853,sunvozertinib
+4854,suprofen
+4855,suramin
+4856,sutimlimab
+4857,suvorexant
+4858,suzetrigine
+4859,sweet gum pollen extract
+4860,sweet vernal grass pollen extract
+4861,swertia japonica extract
+4862,symclosene
+4863,synephrine
+4864,synthetic camphor
+4865,"synthetic conjugated estrogens, a"
+4866,"synthetic conjugated estrogens, b"
+4867,syrian hamster skin extract
+4868,tacalcitol
+4869,tacrine
+4870,tacrolimus
+4871,tadalafil
+4872,tafamidis
+4873,tafasitamab
+4874,tafenoquine
+4875,tafluprost
+4876,tag alder pollen extract
+4877,tagraxofusp
+4878,talampicillin
+4879,talazoparib
+4880,talbutal
+4881,talc
+4882,taletrectinib
+4883,taliglucerase alfa
+4884,talinexomer
+4885,talinolol
+4886,tall oat grass pollen extract
+4887,talniflumate
+4888,talquetamab
+4889,tamarack pollen extract
+4890,tamoxifen
+4891,tamsulosin
+4892,tangeretin
+4893,tannic acid
+4894,tantalum
+4895,tapentadol
+4896,tapinarof
+4897,tapioca starch allergenic extract
+4898,tarlatamab
+4899,tartaric acid
+4900,tartrate
+4901,tasimelteon
+4902,tasonermin
+4903,taurine
+4904,taurolidine
+4905,taurursodiol
+4906,tavaborole
+4907,taxifolin
+4908,tazarotene
+4909,tazemetostat
+4910,tazobactam
+4911,tea tree oil
+4912,tebentafusp
+4913,technetium
+4914,teclistamab
+4915,tecovirimat
+4916,tedizolid
+4917,teduglutide
+4918,tegafur
+4919,tegaserod
+4920,teicoplanin
+4921,telaprevir
+4922,telavancin
+4923,telbivudine
+4924,telisotuzumab
+4925,telithromycin
+4926,telmesteine
+4927,telmisartan
+4928,telotristat
+4929,telotristat ethyl
+4930,temafloxacin
+4931,temazepam
+4932,temocillin
+4933,temoporfin
+4934,temozolomide
+4935,temsavir
+4936,temsirolimus
+4937,tenapanor
+4938,tenecteplase
+4939,teniposide
+4940,tenofovir
+4941,tenofovir alafenamide
+4942,tenofovir disoproxil
+4943,tenonitrozole
+4944,tenoxicam
+4945,teplizumab
+4946,tepotinib
+4947,teprotumumab
+4948,terazosin
+4949,terbinafine
+4950,terbutaline
+4951,terconazole
+4952,terfenadine
+4953,teriflunomide
+4954,teriparatide
+4955,terizidone
+4956,terlipressin
+4957,terodiline
+4958,terpin hydrate
+4959,terpineol
+4960,terpinyl acetate
+4961,tert-butyl alcohol
+4962,tertatolol
+4963,tesamorelin
+4964,testolactone
+4965,testosterone
+4966,tetanus immune globulin
+4967,tetanus toxin
+4968,"tetanus toxoid vaccine, inactivated"
+4969,tetrabenazine
+4970,tetracaine
+4971,tetracycline
+4972,tetradecyl hydrogen sulfate (ester)
+4973,tetrahydrozoline
+4974,tetramethylthiuram monosulfide
+4975,tetraxetan
+4976,tetrazepam
+4977,tetrofosmin
+4978,tetroxoprim
+4979,tezacaftor
+4980,tezepelumab
+4981,thalidomide
+4982,thallium
+4983,theaflavin
+4984,theanine
+4985,thenyldiamine
+4986,theobromine
+4987,theodrenaline
+4988,theofibrate
+4989,theophylline
+4990,thermus thermophilus lysate
+4991,thiabendazole
+4992,thiamine
+4993,thiamphenicol
+4994,thiamylal
+4995,thiethylperazine
+4996,thimerosal
+4997,thiobutabarbital
+4998,thiocolchicoside
+4999,thioctate
+5000,thioctic acid amide
+5001,thioglycerol
+5002,thioglycolate
+5003,thioguanine
+5004,thiopental
+5005,thiopropazate
+5006,thioproperazine
+5007,thioredoxin
+5008,thioridazine
+5009,thiosalicylate
+5010,thiosalicylic acid
+5011,thiostrepton
+5012,thiosulfate
+5013,thiotepa
+5014,thiothixene
+5015,thiphenamil
+5016,thiram
+5017,thonzonium
+5018,thonzylamine
+5019,threonate
+5020,threonine
+5021,thrombin
+5022,thuja occidentalis bark extract
+5023,thymalfasin
+5024,thyme oil
+5025,thymine
+5026,thymol
+5027,thymol iodide
+5028,thymopentin
+5029,thyroglobulin
+5030,thyroid (usp)
+5031,"thyroid, porcine"
+5032,thyrotropin
+5033,thyrotropin alfa
+5034,thyrotropin-releasing hormone
+5035,tiadenol
+5036,tiagabine
+5037,tiamulin
+5038,tiamulin fumarate
+5039,tianeptine
+5040,tiapride
+5041,tiaprofenate
+5042,tibezonium iodide
+5043,tibolone
+5044,ticagrelor
+5045,ticarcillin
+5046,ticlopidine
+5047,tiemonium
+5048,tigecycline
+5049,tigilanol tiglate
+5050,tigolaner
+5051,tilbroquinol
+5052,tildipirosin
+5053,tildrakizumab
+5054,tiletamine
+5055,tilidine
+5056,tilmicosin
+5057,tiludronate
+5058,tiludronic acid
+5059,timolol
+5060,timothy grass pollen extract
+5061,tinidazole
+5062,tinzaparin
+5063,tioclomarol
+5064,tioconazole
+5065,tiopronin
+5066,tiotropium
+5067,tioxolone
+5068,tipiracil
+5069,tipiracil / trifluridine
+5070,tipranavir
+5071,tiratricol
+5072,tirbanibulin
+5073,tirilazad
+5074,tirofiban
+5075,tiropramide
+5076,tirzepatide
+5077,tisagenlecleucel
+5078,tislelizumab
+5079,tisopurine
+5080,tisotumab
+5081,titanium
+5082,titanium dioxide
+5083,tividenofusp alfa
+5084,tivozanib
+5085,tixagevimab
+5086,tixocortol
+5087,tizanidine
+5088,tobramycin
+5089,tocainide
+5090,tocamphyl
+5091,toceranib
+5092,tocilizumab
+5093,tocopherol
+5094,tocophersolan
+5095,"tocopheryl acid succinate,d-alpha"
+5096,tofacitinib
+5097,tofersen
+5098,tofisopam
+5099,tolazamide
+5100,tolazoline
+5101,tolbutamide
+5102,tolcapone
+5103,tolciclate
+5104,toldimfos
+5105,tolfenamic acid
+5106,tolmetin
+5107,tolnaftate
+5108,toloxatone
+5109,tolperisone
+5110,tolrestat
+5111,tolterodine
+5112,toltrazuril
+5113,tolu balsam
+5114,toluene
+5115,tolvaptan
+5116,topiramate
+5117,topotecan
+5118,toremifene
+5119,toripalimab
+5120,torsemide
+5121,tositumomab
+5122,tovorafenib
+5123,trabectedin
+5124,tradipitant
+5125,tragacanth
+5126,tragacanth allergenic extract
+5127,tralokinumab
+5128,tramadol
+5129,tramazoline
+5130,trametinib
+5131,tramiprosate
+5132,trandolapril
+5133,trandolapril / verapamil
+5134,trandolaprilat
+5135,tranexamic acid
+5136,tranilast
+5137,tranylcypromine
+5138,trapidil
+5139,trastuzumab
+5140,travoprost
+5141,trazodone
+5142,trehalose
+5143,tremelimumab
+5144,trenbolone
+5145,treosulfan
+5146,trepibutone
+5147,treprostinil
+5148,tretinoin
+5149,triacetin
+5150,triamcinolone
+5151,triamterene
+5152,triazolam
+5153,triazulenone
+5154,tribasic sodium phosphate
+5155,tribenoside
+5156,tribulus
+5157,tribulus terrestris fruit extract
+5158,tribulus terrestris root extract
+5159,tricaine
+5160,tricaprin
+5161,tricaprylin
+5162,tricetin
+5163,trichlorfon
+5164,trichlormethiazide
+5165,trichloroacetaldehyde
+5166,trichloroacetate
+5167,trichloroethylene
+5168,trichophyton antigen
+5169,trichophyton verrucosum
+5170,triclabendazole
+5171,triclocarban
+5172,triclofos
+5173,triclosan
+5174,tridihexethyl
+5175,trientine
+5176,triethanolamine
+5177,triethanolamine lauryl sulfate
+5178,triethyl citrate
+5179,triethylene glycol
+5180,triethylhexanoin
+5181,trifarotene
+5182,trifluoperazine
+5183,trifluperidol
+5184,triflupromazine
+5185,trifluridine
+5186,triflusal
+5187,triheptanoin
+5188,trihexyphenidyl
+5189,trilaciclib
+5190,trilostane
+5191,trimebutine
+5192,trimeprazine
+5193,trimetazidine
+5194,trimethadione
+5195,trimethaphan
+5196,trimethobenzamide
+5197,trimethoprim
+5198,trimetrexate
+5199,trimipramine
+5200,trimyristin
+5201,triolein
+5202,trioxsalen
+5203,tripelennamine
+5204,triphosphate
+5205,triphosphoric acid
+5206,triprolidine
+5207,triptorelin
+5208,tristearin
+5209,tritoqualine
+5210,troclosene
+5211,trofinetide
+5212,trofosfamide
+5213,troglitazone
+5214,trolamine salicylate
+5215,troleandomycin
+5216,tromantadine
+5217,tromethamine
+5218,tropatepine
+5219,tropicamide
+5220,tropisetron
+5221,trospium
+5222,trospium / xanomeline
+5223,trovafloxacin
+5224,troxerutin
+5225,trypan blue free acid
+5226,trypsin
+5227,tryptophan
+5228,tuberculin
+5229,tubocurarine
+5230,tucatinib
+5231,tulathromycin
+5232,tulathromycin a
+5233,tulobuterol
+5234,tuna allergenic extract
+5235,turmeric extract
+5236,turmeric oil
+5237,turmeric root extract
+5238,turnera diffusa leaf extract
+5239,turpentine
+5240,tybamate
+5241,tylosin
+5242,tylosin phosphate
+5243,tyloxapol
+5244,tylvalosin
+5245,"typhoid vi polysaccharide vaccine, s typhi ty2 strain"
+5246,tyramine
+5247,tyrosine
+5248,tyrothricin
+5249,ubidecarenone
+5250,ubiquinol
+5251,ubiquinone q2
+5252,ublituximab
+5253,ubrogepant
+5254,ulipristal
+5255,ulva lactuca extract
+5256,umbralisib
+5257,umeclidinium
+5258,umirolimus
+5259,undecylenate
+5260,unithiol
+5261,unoprostone
+5262,upadacitinib
+5263,uracil
+5264,uracil mustard
+5265,urapidil
+5266,urea
+5267,urethane
+5268,uric acid
+5269,uridine
+5270,uridine triacetate
+5271,urofollitropin
+5272,urokinase
+5273,ursadiol
+5274,ursodeoxycholate
+5275,ursolate
+5276,ustekinumab
+5277,utah juniper pollen extract
+5278,vaborbactam
+5279,vaccinia virus
+5280,vaccinia virus strain new york city board of health live antigen
+5281,vadadustat
+5282,valacyclovir
+5283,valbenazine
+5284,valdecoxib
+5285,valganciclovir
+5286,valine
+5287,valley oak pollen extract
+5288,valnemulin
+5289,valoctocogene roxaparvovec
+5290,valproate
+5291,valrubicin
+5292,valsartan
+5293,vamorolone
+5294,vanadium
+5295,vancomycin
+5296,vandetanib
+5297,vanilla bean allergenic extract
+5298,vanillin
+5299,vanillyl butyl ether
+5300,vanzacaftor
+5301,vardenafil
+5302,varenicline
+5303,varicella zoster virus glycoprotein e
+5304,varicella-zoster immune globulin
+5305,vasoactive intestinal peptide
+5306,vatinoxan
+5307,vecuronium
+5308,vedolizumab
+5309,velafermin
+5310,velaglucerase alfa
+5311,velmanase alfa
+5312,velpatasvir
+5313,velvet grass pollen extract
+5314,vemurafenib
+5315,venetoclax
+5316,venlafaxine
+5317,vepdegestrant
+5318,veralipride
+5319,verapamil
+5320,verdinexor
+5321,vericiguat
+5322,verteporfin
+5323,vestronidase alfa
+5324,vibegron
+5325,vibrio cholerae cvd 103-hgr strain live antigen
+5326,vidarabine
+5327,vigabatrin
+5328,vilanterol
+5329,vilazodone
+5330,vildagliptin
+5331,vilobelimab
+5332,viloxazine
+5333,viltolarsen
+5334,vimseltinib
+5335,vinbarbital
+5336,vinblastine
+5337,vinburnine
+5338,vincamine
+5339,vincristine
+5340,vindesine
+5341,vinorelbine
+5342,vinpocetine
+5343,vipivotide tetraxetan
+5344,viquidil
+5345,virginiamycin
+5346,vismodegib
+5347,vitamin a
+5348,vitamin b12
+5349,vitamin b6
+5350,vitamin d
+5351,vitamin d3
+5352,vitamin e
+5353,vitamin k
+5354,vitamin k1
+5355,vitamin k2
+5356,vitamin k3
+5357,vitamin k7
+5358,vitexin
+5359,vitis vinifera seed extract
+5360,voclosporin
+5361,volanesorsen
+5362,von willebrand factor
+5363,vonicog alfa
+5364,vonoprazan
+5365,vorapaxar
+5366,vorasidenib
+5367,voretigene neparvovec
+5368,voriconazole
+5369,vorinostat
+5370,vortioxetine
+5371,vosoritide
+5372,voxelotor
+5373,voxilaprevir
+5374,vutrisiran
+5375,warfarin
+5376,water
+5377,water birch pollen extract
+5378,water oak pollen extract
+5379,weakleaf bur ragweed pollen extract
+5380,western black willow pollen extract
+5381,western juniper pollen extract
+5382,western ragweed pollen extract
+5383,western sycamore pollen extract
+5384,western waterhemp pollen extract
+5385,western wheatgrass pollen extract
+5386,western white pine pollen extract
+5387,western yellow jacket venom protein
+5388,wheat germ oil
+5389,wheat pollen extract
+5390,white (mexican) dock pollen extract
+5391,white alder pollen extract
+5392,white ash pollen extract
+5393,white fish allergenic extract
+5394,white hickory pollen extract
+5395,white poplar pollen extract
+5396,white sweet clover pollen extract
+5397,white-tailed deer hair extract
+5398,whole wheat allergenic extract
+5399,wing scale pollen extract
+5400,winterfat pollen extract
+5401,witch hazel
+5402,wormwood extract
+5403,wormwood sage pollen extract
+5404,xamoterol
+5405,xanomeline
+5406,xanthan gum
+5407,xanthine
+5408,xanthinol
+5409,xenon
+5410,xibornol
+5411,xipamide
+5412,xylazine
+5413,xylitol
+5414,xylometazoline
+5415,xylose
+5416,yellow birch pollen extract
+5417,yellow fever virus strain 17d-204 live antigen
+5418,yellow hornet venom protein
+5419,yellow jacket venom protein
+5420,yellow phenolphthalein
+5421,yellow pine pollen extract
+5422,yellow sweet clover pollen extract
+5423,yohimbine
+5424,zafirlukast
+5425,zalcitabine
+5426,zaleplon
+5427,zanamivir
+5428,zanidatamab
+5429,zanubrutinib
+5430,zavegepant
+5431,zeatin
+5432,zeaxanthin
+5433,zenocutuzumab
+5434,zeranol
+5435,ziconotide
+5436,zidebactam
+5437,zidovudine
+5438,ziftomenib
+5439,zileuton
+5440,zilpaterol
+5441,zilucoplan
+5442,zinc
+5443,zinc acetate
+5444,zinc ascorbate
+5445,zinc aspartate
+5446,zinc carbonate
+5447,zinc cation
+5448,zinc chloride
+5449,zinc citrate
+5450,zinc gluconate
+5451,zinc glycinate
+5452,zinc iodide
+5453,zinc orotate
+5454,zinc oxide
+5455,zinc picolinate
+5456,zinc pyrithione
+5457,zinc sulfate
+5458,zinc sulfide
+5459,"zinc, chelated"
+5460,zinc-dtpa
+5461,zingerone
+5462,zipeprol
+5463,ziprasidone
+5464,zirconium oxide
+5465,zofenopril
+5466,zolazepam
+5467,zolbetuximab
+5468,zoledronic acid
+5469,zoliflodacin
+5470,zolmitriptan
+5471,zolpidem
+5472,zomepirac
+5473,zongertinib
+5474,zonisamide
+5475,zopiclone
+5476,zotepine
+5477,zuclopenthixol
+5478,zuranolone

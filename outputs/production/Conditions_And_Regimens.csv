@@ -1,0 +1,3362 @@
+condition_id,condition_name,regimen_id,source_id
+1,acquired coagulopathy,338,1
+2,acquired coagulopathy,760,1
+3,acquired coagulopathy,1796,1
+4,acquired coagulopathy,1798,1
+5,acquired coagulopathy,1878,1
+6,acquired hemophilia a,338,1
+7,acquired hemophilia a,760,1
+8,acquired hemophilia a,1796,1
+9,acquired hemophilia a,1798,1
+10,acquired hemophilia a,1878,1
+11,acquired thrombotic thrombocytopenic purpura,1566,1
+12,acquired thrombotic thrombocytopenic purpura,1878,1
+13,acquired thrombotic thrombocytopenic purpura,2106,1
+14,acute lymphoblastic leukemia infant,259,1
+15,acute lymphoblastic leukemia infant,774,1
+16,acute lymphoblastic leukemia infant,805,1
+17,acute myeloid leukemia,3,1
+18,acute myeloid leukemia,4,1
+19,acute myeloid leukemia,5,1
+20,acute myeloid leukemia,6,1
+21,acute myeloid leukemia,8,1
+22,acute myeloid leukemia,9,1
+23,acute myeloid leukemia,10,1
+24,acute myeloid leukemia,11,1
+25,acute myeloid leukemia,12,1
+26,acute myeloid leukemia,13,1
+27,acute myeloid leukemia,14,1
+28,acute myeloid leukemia,15,1
+29,acute myeloid leukemia,16,1
+30,acute myeloid leukemia,17,1
+31,acute myeloid leukemia,18,1
+32,acute myeloid leukemia,19,1
+33,acute myeloid leukemia,71,1
+34,acute myeloid leukemia,93,1
+35,acute myeloid leukemia,108,1
+36,acute myeloid leukemia,177,1
+37,acute myeloid leukemia,178,1
+38,acute myeloid leukemia,180,1
+39,acute myeloid leukemia,181,1
+40,acute myeloid leukemia,183,1
+41,acute myeloid leukemia,184,1
+42,acute myeloid leukemia,185,1
+43,acute myeloid leukemia,289,1
+44,acute myeloid leukemia,290,1
+45,acute myeloid leukemia,528,1
+46,acute myeloid leukemia,616,1
+47,acute myeloid leukemia,617,1
+48,acute myeloid leukemia,618,1
+49,acute myeloid leukemia,619,1
+50,acute myeloid leukemia,624,1
+51,acute myeloid leukemia,625,1
+52,acute myeloid leukemia,626,1
+53,acute myeloid leukemia,628,1
+54,acute myeloid leukemia,629,1
+55,acute myeloid leukemia,729,1
+56,acute myeloid leukemia,761,1
+57,acute myeloid leukemia,790,1
+58,acute myeloid leukemia,791,1
+59,acute myeloid leukemia,794,1
+60,acute myeloid leukemia,800,1
+61,acute myeloid leukemia,801,1
+62,acute myeloid leukemia,802,1
+63,acute myeloid leukemia,803,1
+64,acute myeloid leukemia,806,1
+65,acute myeloid leukemia,807,1
+66,acute myeloid leukemia,808,1
+67,acute myeloid leukemia,811,1
+68,acute myeloid leukemia,812,1
+69,acute myeloid leukemia,822,1
+70,acute myeloid leukemia,823,1
+71,acute myeloid leukemia,824,1
+72,acute myeloid leukemia,831,1
+73,acute myeloid leukemia,864,1
+74,acute myeloid leukemia,869,1
+75,acute myeloid leukemia,910,1
+76,acute myeloid leukemia,911,1
+77,acute myeloid leukemia,912,1
+78,acute myeloid leukemia,1037,1
+79,acute myeloid leukemia,1069,1
+80,acute myeloid leukemia,1093,1
+81,acute myeloid leukemia,1132,1
+82,acute myeloid leukemia,1134,1
+83,acute myeloid leukemia,1148,1
+84,acute myeloid leukemia,1258,1
+85,acute myeloid leukemia,1260,1
+86,acute myeloid leukemia,1262,1
+87,acute myeloid leukemia,1276,1
+88,acute myeloid leukemia,1277,1
+89,acute myeloid leukemia,1278,1
+90,acute myeloid leukemia,1288,1
+91,acute myeloid leukemia,1289,1
+92,acute myeloid leukemia,1290,1
+93,acute myeloid leukemia,1291,1
+94,acute myeloid leukemia,1292,1
+95,acute myeloid leukemia,1310,1
+96,acute myeloid leukemia,1319,1
+97,acute myeloid leukemia,1320,1
+98,acute myeloid leukemia,1322,1
+99,acute myeloid leukemia,1324,1
+100,acute myeloid leukemia,1410,1
+101,acute myeloid leukemia,1477,1
+102,acute myeloid leukemia,1488,1
+103,acute myeloid leukemia,1490,1
+104,acute myeloid leukemia,1577,1
+105,acute myeloid leukemia,1691,1
+106,acute myeloid leukemia,1726,1
+107,acute myeloid leukemia,1789,1
+108,acute myeloid leukemia,1808,1
+109,acute myeloid leukemia,1889,1
+110,acute myeloid leukemia,1906,1
+111,acute myeloid leukemia,1923,1
+112,acute myeloid leukemia,1986,1
+113,acute myeloid leukemia,2073,1
+114,acute myeloid leukemia,2133,1
+115,acute myeloid leukemia pediatric,71,1
+116,acute myeloid leukemia pediatric,73,1
+117,acute myeloid leukemia pediatric,93,1
+118,acute myeloid leukemia pediatric,289,1
+119,acute myeloid leukemia pediatric,669,1
+120,acute myeloid leukemia pediatric,670,1
+121,acute myeloid leukemia pediatric,761,1
+122,acute myeloid leukemia pediatric,791,1
+123,acute myeloid leukemia pediatric,800,1
+124,acute myeloid leukemia pediatric,808,1
+125,acute myeloid leukemia pediatric,822,1
+126,acute myeloid leukemia pediatric,823,1
+127,acute myeloid leukemia pediatric,864,1
+128,acute myeloid leukemia pediatric,886,1
+129,acute myeloid leukemia pediatric,1132,1
+130,acute myeloid leukemia pediatric,1133,1
+131,acute myeloid leukemia pediatric,1134,1
+132,acute myeloid leukemia pediatric,1507,1
+133,acute myeloid leukemia pediatric,1550,1
+134,acute myeloid leukemia pediatric,1727,1
+135,acute promyelocytic leukemia,72,1
+136,acute promyelocytic leukemia,131,1
+137,acute promyelocytic leukemia,133,1
+138,acute promyelocytic leukemia,134,1
+139,acute promyelocytic leukemia,135,1
+140,acute promyelocytic leukemia,136,1
+141,acute promyelocytic leukemia,137,1
+142,acute promyelocytic leukemia,157,1
+143,acute promyelocytic leukemia,158,1
+144,acute promyelocytic leukemia,159,1
+145,acute promyelocytic leukemia,160,1
+146,acute promyelocytic leukemia,161,1
+147,acute promyelocytic leukemia,162,1
+148,acute promyelocytic leukemia,291,1
+149,acute promyelocytic leukemia,790,1
+150,acute promyelocytic leukemia,794,1
+151,acute promyelocytic leukemia,795,1
+152,acute promyelocytic leukemia,796,1
+153,acute promyelocytic leukemia,797,1
+154,acute promyelocytic leukemia,869,1
+155,acute promyelocytic leukemia,1326,1
+156,acute promyelocytic leukemia,1327,1
+157,acute promyelocytic leukemia,1546,1
+158,acute promyelocytic leukemia,1958,1
+159,adrenocortical carcinoma,570,1
+160,adrenocortical carcinoma,973,1
+161,adrenocortical carcinoma,1586,1
+162,adrenocortical carcinoma,1587,1
+163,adrenocortical carcinoma,1588,1
+164,adult t-cell leukemia-lymphoma,97,1
+165,adult t-cell leukemia-lymphoma,520,1
+166,adult t-cell leukemia-lymphoma,1365,1
+167,adult t-cell leukemia-lymphoma,1454,1
+168,adult t-cell leukemia-lymphoma,1492,1
+169,adult t-cell leukemia-lymphoma,1595,1
+170,adult t-cell leukemia-lymphoma,2071,1
+171,allogeneic hsct,1,1
+172,allogeneic hsct,214,1
+173,allogeneic hsct,242,1
+174,allogeneic hsct,288,1
+175,allogeneic hsct,289,1
+176,allogeneic hsct,290,1
+177,allogeneic hsct,293,1
+178,allogeneic hsct,294,1
+179,allogeneic hsct,296,1
+180,allogeneic hsct,543,1
+181,allogeneic hsct,627,1
+182,allogeneic hsct,761,1
+183,allogeneic hsct,776,1
+184,allogeneic hsct,1071,1
+185,allogeneic hsct,1112,1
+186,allogeneic hsct,1116,1
+187,allogeneic hsct,1142,1
+188,allogeneic hsct,1146,1
+189,allogeneic hsct,1147,1
+190,allogeneic hsct,1150,1
+191,allogeneic hsct,1151,1
+192,allogeneic hsct,2011,1
+193,alveolar soft part sarcoma,148,1
+194,anal cancer,338,1
+195,anal cancer,361,1
+196,anal cancer,543,1
+197,anal cancer,549,1
+198,anal cancer,1166,1
+199,anal cancer,1527,1
+200,anal cancer,1661,1
+201,anal cancer,1748,1
+202,anaplastic glioma,239,1
+203,anaplastic glioma,379,1
+204,anaplastic glioma,457,1
+205,anaplastic glioma,764,1
+206,anaplastic glioma,1073,1
+207,anaplastic glioma,1392,1
+208,anaplastic glioma,1397,1
+209,anaplastic glioma,1737,1
+210,anaplastic glioma,1884,1
+211,anaplastic glioma,1885,1
+212,anaplastic glioma,1983,1
+213,anaplastic glioma,1984,1
+214,anaplastic glioma,1986,1
+215,anaplastic glioma,1987,1
+216,anaplastic large cell lymphoma,281,1
+217,anaplastic large cell lymphoma,299,1
+218,anaplastic large cell lymphoma,515,1
+219,anaplastic large cell lymphoma,516,1
+220,anaplastic large cell lymphoma,825,1
+221,anaplastic large cell lymphoma,928,1
+222,anaplastic large cell lymphoma,1150,1
+223,anaplastic large cell lymphoma,1230,1
+224,anaplastic large cell lymphoma pediatric,125,1
+225,anaplastic large cell lymphoma pediatric,696,1
+226,anaplastic large cell lymphoma pediatric,731,1
+227,anaplastic large cell lymphoma pediatric,1027,1
+228,angiosarcoma,239,1
+229,angiosarcoma,338,1
+230,angiosarcoma,1729,1
+231,antiphospholipid antibody syndrome,144,1
+232,antiphospholipid antibody syndrome,1878,1
+233,antiphospholipid antibody syndrome,1879,1
+234,antiphospholipid antibody syndrome,2145,1
+235,aplastic anemia,149,1
+236,aplastic anemia,151,1
+237,aplastic anemia,152,1
+238,aplastic anemia,153,1
+239,aplastic anemia,154,1
+240,aplastic anemia,783,1
+241,aplastic anemia,1034,1
+242,atypical hemolytic uremic syndrome,1019,1
+243,atypical hemolytic uremic syndrome,1867,1
+244,autoimmune cytopenia,97,1
+245,autoimmune cytopenia,1915,1
+246,autologous hsct,206,1
+247,autologous hsct,211,1
+248,autologous hsct,214,1
+249,autologous hsct,215,1
+250,autologous hsct,269,1
+251,autologous hsct,285,1
+252,autologous hsct,286,1
+253,autologous hsct,289,1
+254,autologous hsct,291,1
+255,autologous hsct,338,1
+256,autologous hsct,463,1
+257,autologous hsct,464,1
+258,autologous hsct,524,1
+259,autologous hsct,734,1
+260,autologous hsct,761,1
+261,autologous hsct,775,1
+262,autologous hsct,1071,1
+263,autologous hsct,1118,1
+264,autologous hsct,1448,1
+265,autologous hsct,1490,1
+266,autologous hsct,1858,1
+267,autologous hsct,1957,1
+268,autologous hsct,2048,1
+269,autologous hsct,2147,1
+270,b-cell acute lymphoblastic leukemia,18,1
+271,b-cell acute lymphoblastic leukemia,24,1
+272,b-cell acute lymphoblastic leukemia,163,1
+273,b-cell acute lymphoblastic leukemia,203,1
+274,b-cell acute lymphoblastic leukemia,259,1
+275,b-cell acute lymphoblastic leukemia,272,1
+276,b-cell acute lymphoblastic leukemia,277,1
+277,b-cell acute lymphoblastic leukemia,282,1
+278,b-cell acute lymphoblastic leukemia,323,1
+279,b-cell acute lymphoblastic leukemia,324,1
+280,b-cell acute lymphoblastic leukemia,629,1
+281,b-cell acute lymphoblastic leukemia,761,1
+282,b-cell acute lymphoblastic leukemia,765,1
+283,b-cell acute lymphoblastic leukemia,768,1
+284,b-cell acute lymphoblastic leukemia,769,1
+285,b-cell acute lymphoblastic leukemia,770,1
+286,b-cell acute lymphoblastic leukemia,771,1
+287,b-cell acute lymphoblastic leukemia,772,1
+288,b-cell acute lymphoblastic leukemia,777,1
+289,b-cell acute lymphoblastic leukemia,794,1
+290,b-cell acute lymphoblastic leukemia,802,1
+291,b-cell acute lymphoblastic leukemia,809,1
+292,b-cell acute lymphoblastic leukemia,810,1
+293,b-cell acute lymphoblastic leukemia,860,1
+294,b-cell acute lymphoblastic leukemia,861,1
+295,b-cell acute lymphoblastic leukemia,862,1
+296,b-cell acute lymphoblastic leukemia,863,1
+297,b-cell acute lymphoblastic leukemia,871,1
+298,b-cell acute lymphoblastic leukemia,872,1
+299,b-cell acute lymphoblastic leukemia,873,1
+300,b-cell acute lymphoblastic leukemia,877,1
+301,b-cell acute lymphoblastic leukemia,956,1
+302,b-cell acute lymphoblastic leukemia,1072,1
+303,b-cell acute lymphoblastic leukemia,1132,1
+304,b-cell acute lymphoblastic leukemia,1279,1
+305,b-cell acute lymphoblastic leukemia,1304,1
+306,b-cell acute lymphoblastic leukemia,1305,1
+307,b-cell acute lymphoblastic leukemia,1306,1
+308,b-cell acute lymphoblastic leukemia,1307,1
+309,b-cell acute lymphoblastic leukemia,1308,1
+310,b-cell acute lymphoblastic leukemia,1325,1
+311,b-cell acute lymphoblastic leukemia,1353,1
+312,b-cell acute lymphoblastic leukemia,1354,1
+313,b-cell acute lymphoblastic leukemia,1355,1
+314,b-cell acute lymphoblastic leukemia,1356,1
+315,b-cell acute lymphoblastic leukemia,1359,1
+316,b-cell acute lymphoblastic leukemia,1370,1
+317,b-cell acute lymphoblastic leukemia,1425,1
+318,b-cell acute lymphoblastic leukemia,1429,1
+319,b-cell acute lymphoblastic leukemia,1470,1
+320,b-cell acute lymphoblastic leukemia,1490,1
+321,b-cell acute lymphoblastic leukemia,1546,1
+322,b-cell acute lymphoblastic leukemia,1552,1
+323,b-cell acute lymphoblastic leukemia,1553,1
+324,b-cell acute lymphoblastic leukemia,1554,1
+325,b-cell acute lymphoblastic leukemia,1556,1
+326,b-cell acute lymphoblastic leukemia,1580,1
+327,b-cell acute lymphoblastic leukemia,1652,1
+328,b-cell acute lymphoblastic leukemia,1653,1
+329,b-cell acute lymphoblastic leukemia,1739,1
+330,b-cell acute lymphoblastic leukemia,1755,1
+331,b-cell acute lymphoblastic leukemia,1789,1
+332,b-cell acute lymphoblastic leukemia,1790,1
+333,b-cell acute lymphoblastic leukemia,1791,1
+334,b-cell acute lymphoblastic leukemia,1792,1
+335,b-cell acute lymphoblastic leukemia,1796,1
+336,b-cell acute lymphoblastic leukemia,1798,1
+337,b-cell acute lymphoblastic leukemia,1845,1
+338,b-cell acute lymphoblastic leukemia,2006,1
+339,b-cell acute lymphoblastic leukemia,2105,1
+340,b-cell acute lymphoblastic leukemia pediatric,24,1
+341,b-cell acute lymphoblastic leukemia pediatric,25,1
+342,b-cell acute lymphoblastic leukemia pediatric,259,1
+343,b-cell acute lymphoblastic leukemia pediatric,272,1
+344,b-cell acute lymphoblastic leukemia pediatric,321,1
+345,b-cell acute lymphoblastic leukemia pediatric,466,1
+346,b-cell acute lymphoblastic leukemia pediatric,629,1
+347,b-cell acute lymphoblastic leukemia pediatric,662,1
+348,b-cell acute lymphoblastic leukemia pediatric,663,1
+349,b-cell acute lymphoblastic leukemia pediatric,664,1
+350,b-cell acute lymphoblastic leukemia pediatric,665,1
+351,b-cell acute lymphoblastic leukemia pediatric,666,1
+352,b-cell acute lymphoblastic leukemia pediatric,667,1
+353,b-cell acute lymphoblastic leukemia pediatric,710,1
+354,b-cell acute lymphoblastic leukemia pediatric,761,1
+355,b-cell acute lymphoblastic leukemia pediatric,764,1
+356,b-cell acute lymphoblastic leukemia pediatric,774,1
+357,b-cell acute lymphoblastic leukemia pediatric,804,1
+358,b-cell acute lymphoblastic leukemia pediatric,805,1
+359,b-cell acute lymphoblastic leukemia pediatric,867,1
+360,b-cell acute lymphoblastic leukemia pediatric,872,1
+361,b-cell acute lymphoblastic leukemia pediatric,873,1
+362,b-cell acute lymphoblastic leukemia pediatric,874,1
+363,b-cell acute lymphoblastic leukemia pediatric,875,1
+364,b-cell acute lymphoblastic leukemia pediatric,876,1
+365,b-cell acute lymphoblastic leukemia pediatric,956,1
+366,b-cell acute lymphoblastic leukemia pediatric,975,1
+367,b-cell acute lymphoblastic leukemia pediatric,977,1
+368,b-cell acute lymphoblastic leukemia pediatric,978,1
+369,b-cell acute lymphoblastic leukemia pediatric,979,1
+370,b-cell acute lymphoblastic leukemia pediatric,980,1
+371,b-cell acute lymphoblastic leukemia pediatric,1072,1
+372,b-cell acute lymphoblastic leukemia pediatric,1074,1
+373,b-cell acute lymphoblastic leukemia pediatric,1359,1
+374,b-cell acute lymphoblastic leukemia pediatric,1427,1
+375,b-cell acute lymphoblastic leukemia pediatric,1428,1
+376,b-cell acute lymphoblastic leukemia pediatric,1429,1
+377,b-cell acute lymphoblastic leukemia pediatric,1546,1
+378,b-cell acute lymphoblastic leukemia pediatric,1547,1
+379,b-cell acute lymphoblastic leukemia pediatric,1548,1
+380,b-cell acute lymphoblastic leukemia pediatric,1552,1
+381,b-cell acute lymphoblastic leukemia pediatric,1561,1
+382,b-cell acute lymphoblastic leukemia pediatric,1562,1
+383,b-cell acute lymphoblastic leukemia pediatric,1566,1
+384,b-cell acute lymphoblastic leukemia pediatric,1593,1
+385,b-cell acute lymphoblastic leukemia pediatric,1594,1
+386,b-cell acute lymphoblastic leukemia pediatric,1741,1
+387,b-cell acute lymphoblastic leukemia pediatric,1798,1
+388,b-cell acute lymphoblastic leukemia pediatric,2006,1
+389,beta thalassemia,1494,1
+390,bladder cancer,148,1
+391,bladder cancer,169,1
+392,bladder cancer,203,1
+393,bladder cancer,338,1
+394,bladder cancer,391,1
+395,bladder cancer,392,1
+396,bladder cancer,396,1
+397,bladder cancer,415,1
+398,bladder cancer,531,1
+399,bladder cancer,549,1
+400,bladder cancer,556,1
+401,bladder cancer,563,1
+402,bladder cancer,568,1
+403,bladder cancer,573,1
+404,bladder cancer,577,1
+405,bladder cancer,944,1
+406,bladder cancer,988,1
+407,bladder cancer,989,1
+408,bladder cancer,1039,1
+409,bladder cancer,1040,1
+410,bladder cancer,1056,1
+411,bladder cancer,1166,1
+412,bladder cancer,1244,1
+413,bladder cancer,1249,1
+414,bladder cancer,1374,1
+415,bladder cancer,1375,1
+416,bladder cancer,1376,1
+417,bladder cancer,1377,1
+418,bladder cancer,1378,1
+419,bladder cancer,1526,1
+420,bladder cancer,1624,1
+421,bladder cancer,1625,1
+422,bladder cancer,1627,1
+423,bladder cancer,1639,1
+424,bladder cancer,1643,1
+425,bladder cancer,1661,1
+426,bladder cancer,1714,1
+427,bladder cancer,1748,1
+428,bladder cancer,1750,1
+429,bladder cancer,1767,1
+430,bladder cancer,1895,1
+431,bladder cancer,2007,1
+432,bladder cancer,2019,1
+433,bladder cancer,2108,1
+434,blastic plasmacytoid dendritic cell neoplasm,1951,1
+435,braf,828,1
+436,braf,2093,1
+437,breast cancer,7,1
+438,breast cancer,23,1
+439,breast cancer,33,1
+440,breast cancer,34,1
+441,breast cancer,35,1
+442,breast cancer,36,1
+443,breast cancer,37,1
+444,breast cancer,49,1
+445,breast cancer,50,1
+446,breast cancer,51,1
+447,breast cancer,52,1
+448,breast cancer,53,1
+449,breast cancer,54,1
+450,breast cancer,55,1
+451,breast cancer,56,1
+452,breast cancer,57,1
+453,breast cancer,62,1
+454,breast cancer,66,1
+455,breast cancer,100,1
+456,breast cancer,103,1
+457,breast cancer,111,1
+458,breast cancer,112,1
+459,breast cancer,113,1
+460,breast cancer,114,1
+461,breast cancer,115,1
+462,breast cancer,116,1
+463,breast cancer,117,1
+464,breast cancer,118,1
+465,breast cancer,146,1
+466,breast cancer,167,1
+467,breast cancer,239,1
+468,breast cancer,275,1
+469,breast cancer,318,1
+470,breast cancer,320,1
+471,breast cancer,325,1
+472,breast cancer,326,1
+473,breast cancer,331,1
+474,breast cancer,338,1
+475,breast cancer,340,1
+476,breast cancer,342,1
+477,breast cancer,343,1
+478,breast cancer,344,1
+479,breast cancer,346,1
+480,breast cancer,348,1
+481,breast cancer,349,1
+482,breast cancer,352,1
+483,breast cancer,353,1
+484,breast cancer,354,1
+485,breast cancer,355,1
+486,breast cancer,356,1
+487,breast cancer,376,1
+488,breast cancer,383,1
+489,breast cancer,384,1
+490,breast cancer,391,1
+491,breast cancer,396,1
+492,breast cancer,400,1
+493,breast cancer,403,1
+494,breast cancer,417,1
+495,breast cancer,424,1
+496,breast cancer,459,1
+497,breast cancer,474,1
+498,breast cancer,491,1
+499,breast cancer,492,1
+500,breast cancer,506,1
+501,breast cancer,524,1
+502,breast cancer,534,1
+503,breast cancer,543,1
+504,breast cancer,577,1
+505,breast cancer,633,1
+506,breast cancer,634,1
+507,breast cancer,635,1
+508,breast cancer,637,1
+509,breast cancer,639,1
+510,breast cancer,641,1
+511,breast cancer,643,1
+512,breast cancer,644,1
+513,breast cancer,646,1
+514,breast cancer,722,1
+515,breast cancer,723,1
+516,breast cancer,724,1
+517,breast cancer,725,1
+518,breast cancer,726,1
+519,breast cancer,734,1
+520,breast cancer,739,1
+521,breast cancer,752,1
+522,breast cancer,753,1
+523,breast cancer,754,1
+524,breast cancer,758,1
+525,breast cancer,759,1
+526,breast cancer,764,1
+527,breast cancer,816,1
+528,breast cancer,817,1
+529,breast cancer,818,1
+530,breast cancer,819,1
+531,breast cancer,820,1
+532,breast cancer,864,1
+533,breast cancer,889,1
+534,breast cancer,890,1
+535,breast cancer,891,1
+536,breast cancer,892,1
+537,breast cancer,893,1
+538,breast cancer,894,1
+539,breast cancer,895,1
+540,breast cancer,896,1
+541,breast cancer,897,1
+542,breast cancer,898,1
+543,breast cancer,899,1
+544,breast cancer,900,1
+545,breast cancer,901,1
+546,breast cancer,902,1
+547,breast cancer,905,1
+548,breast cancer,906,1
+549,breast cancer,917,1
+550,breast cancer,930,1
+551,breast cancer,935,1
+552,breast cancer,937,1
+553,breast cancer,947,1
+554,breast cancer,959,1
+555,breast cancer,960,1
+556,breast cancer,961,1
+557,breast cancer,964,1
+558,breast cancer,973,1
+559,breast cancer,995,1
+560,breast cancer,996,1
+561,breast cancer,998,1
+562,breast cancer,1005,1
+563,breast cancer,1006,1
+564,breast cancer,1007,1
+565,breast cancer,1008,1
+566,breast cancer,1009,1
+567,breast cancer,1010,1
+568,breast cancer,1011,1
+569,breast cancer,1014,1
+570,breast cancer,1015,1
+571,breast cancer,1021,1
+572,breast cancer,1025,1
+573,breast cancer,1028,1
+574,breast cancer,1046,1
+575,breast cancer,1049,1
+576,breast cancer,1053,1
+577,breast cancer,1054,1
+578,breast cancer,1057,1
+579,breast cancer,1058,1
+580,breast cancer,1059,1
+581,breast cancer,1068,1
+582,breast cancer,1080,1
+583,breast cancer,1084,1
+584,breast cancer,1086,1
+585,breast cancer,1087,1
+586,breast cancer,1088,1
+587,breast cancer,1089,1
+588,breast cancer,1090,1
+589,breast cancer,1091,1
+590,breast cancer,1095,1
+591,breast cancer,1096,1
+592,breast cancer,1097,1
+593,breast cancer,1100,1
+594,breast cancer,1101,1
+595,breast cancer,1102,1
+596,breast cancer,1103,1
+597,breast cancer,1119,1
+598,breast cancer,1120,1
+599,breast cancer,1121,1
+600,breast cancer,1122,1
+601,breast cancer,1123,1
+602,breast cancer,1124,1
+603,breast cancer,1125,1
+604,breast cancer,1126,1
+605,breast cancer,1156,1
+606,breast cancer,1163,1
+607,breast cancer,1170,1
+608,breast cancer,1171,1
+609,breast cancer,1179,1
+610,breast cancer,1200,1
+611,breast cancer,1216,1
+612,breast cancer,1217,1
+613,breast cancer,1218,1
+614,breast cancer,1237,1
+615,breast cancer,1239,1
+616,breast cancer,1247,1
+617,breast cancer,1249,1
+618,breast cancer,1259,1
+619,breast cancer,1266,1
+620,breast cancer,1268,1
+621,breast cancer,1269,1
+622,breast cancer,1270,1
+623,breast cancer,1271,1
+624,breast cancer,1328,1
+625,breast cancer,1329,1
+626,breast cancer,1411,1
+627,breast cancer,1438,1
+628,breast cancer,1439,1
+629,breast cancer,1440,1
+630,breast cancer,1441,1
+631,breast cancer,1442,1
+632,breast cancer,1460,1
+633,breast cancer,1461,1
+634,breast cancer,1462,1
+635,breast cancer,1463,1
+636,breast cancer,1464,1
+637,breast cancer,1465,1
+638,breast cancer,1466,1
+639,breast cancer,1468,1
+640,breast cancer,1532,1
+641,breast cancer,1535,1
+642,breast cancer,1584,1
+643,breast cancer,1591,1
+644,breast cancer,1592,1
+645,breast cancer,1596,1
+646,breast cancer,1635,1
+647,breast cancer,1636,1
+648,breast cancer,1637,1
+649,breast cancer,1638,1
+650,breast cancer,1639,1
+651,breast cancer,1640,1
+652,breast cancer,1648,1
+653,breast cancer,1649,1
+654,breast cancer,1650,1
+655,breast cancer,1663,1
+656,breast cancer,1664,1
+657,breast cancer,1668,1
+658,breast cancer,1669,1
+659,breast cancer,1670,1
+660,breast cancer,1671,1
+661,breast cancer,1690,1
+662,breast cancer,1710,1
+663,breast cancer,1712,1
+664,breast cancer,1716,1
+665,breast cancer,1717,1
+666,breast cancer,1718,1
+667,breast cancer,1722,1
+668,breast cancer,1744,1
+669,breast cancer,1746,1
+670,breast cancer,1748,1
+671,breast cancer,1750,1
+672,breast cancer,1758,1
+673,breast cancer,1759,1
+674,breast cancer,1760,1
+675,breast cancer,1761,1
+676,breast cancer,1766,1
+677,breast cancer,1894,1
+678,breast cancer,1895,1
+679,breast cancer,1928,1
+680,breast cancer,1939,1
+681,breast cancer,1942,1
+682,breast cancer,1943,1
+683,breast cancer,1944,1
+684,breast cancer,1945,1
+685,breast cancer,1946,1
+686,breast cancer,1947,1
+687,breast cancer,1952,1
+688,breast cancer,1959,1
+689,breast cancer,1960,1
+690,breast cancer,1961,1
+691,breast cancer,1962,1
+692,breast cancer,1963,1
+693,breast cancer,1964,1
+694,breast cancer,1965,1
+695,breast cancer,1972,1
+696,breast cancer,1973,1
+697,breast cancer,1993,1
+698,breast cancer,1994,1
+699,breast cancer,1995,1
+700,breast cancer,1996,1
+701,breast cancer,2001,1
+702,breast cancer,2002,1
+703,breast cancer,2003,1
+704,breast cancer,2012,1
+705,breast cancer,2017,1
+706,breast cancer,2018,1
+707,breast cancer,2028,1
+708,breast cancer,2029,1
+709,breast cancer,2030,1
+710,breast cancer,2031,1
+711,breast cancer,2032,1
+712,breast cancer,2043,1
+713,breast cancer,2049,1
+714,breast cancer,2075,1
+715,breast cancer,2099,1
+716,breast cancer,2100,1
+717,breast cancer,2109,1
+718,breast cancer,2110,1
+719,breast cancer,2111,1
+720,breast cancer,2112,1
+721,breast cancer,2146,1
+722,burkitt lymphoma,194,1
+723,burkitt lymphoma,322,1
+724,burkitt lymphoma,338,1
+725,burkitt lymphoma,655,1
+726,burkitt lymphoma,656,1
+727,burkitt lymphoma,712,1
+728,burkitt lymphoma,714,1
+729,burkitt lymphoma,715,1
+730,burkitt lymphoma,746,1
+731,burkitt lymphoma,791,1
+732,burkitt lymphoma,799,1
+733,burkitt lymphoma,826,1
+734,burkitt lymphoma,1265,1
+735,burkitt lymphoma,1825,1
+736,burkitt lymphoma,1826,1
+737,burkitt lymphoma,1827,1
+738,burkitt lymphoma,1845,1
+739,carcinoma of unknown primary,232,1
+740,carcinoma of unknown primary,338,1
+741,carcinoma of unknown primary,383,1
+742,carcinoma of unknown primary,391,1
+743,carcinoma of unknown primary,395,1
+744,carcinoma of unknown primary,399,1
+745,carcinoma of unknown primary,577,1
+746,carcinoma of unknown primary,884,1
+747,carcinoma of unknown primary,937,1
+748,carcinoma of unknown primary,1060,1
+749,carcinoma of unknown primary,1238,1
+750,carcinoma of unknown primary,1661,1
+751,carcinoma of unknown primary,1732,1
+752,carcinoma of unknown primary,1733,1
+753,castleman disease,110,1
+754,castleman disease,275,1
+755,castleman disease,783,1
+756,castleman disease,1878,1
+757,castleman disease,1907,1
+758,castleman disease,1915,1
+759,castleman disease,1974,1
+760,castleman disease,2014,1
+761,cellular therapy conditioning regimens,230,1
+762,cellular therapy conditioning regimens,543,1
+763,cellular therapy conditioning regimens,773,1
+764,cellular therapy conditioning regimens,791,1
+765,cervical cancer,30,1
+766,cervical cancer,239,1
+767,cervical cancer,275,1
+768,cervical cancer,338,1
+769,cervical cancer,383,1
+770,cervical cancer,384,1
+771,cervical cancer,391,1
+772,cervical cancer,398,1
+773,cervical cancer,403,1
+774,cervical cancer,413,1
+775,cervical cancer,419,1
+776,cervical cancer,421,1
+777,cervical cancer,424,1
+778,cervical cancer,479,1
+779,cervical cancer,545,1
+780,cervical cancer,549,1
+781,cervical cancer,564,1
+782,cervical cancer,567,1
+783,cervical cancer,569,1
+784,cervical cancer,573,1
+785,cervical cancer,577,1
+786,cervical cancer,592,1
+787,cervical cancer,593,1
+788,cervical cancer,594,1
+789,cervical cancer,597,1
+790,cervical cancer,1160,1
+791,cervical cancer,1166,1
+792,cervical cancer,1209,1
+793,cervical cancer,1249,1
+794,cervical cancer,1300,1
+795,cervical cancer,1345,1
+796,cervical cancer,1397,1
+797,cervical cancer,1646,1
+798,cervical cancer,1719,1
+799,cervical cancer,1748,1
+800,cervical cancer,1750,1
+801,cervical cancer,2008,1
+802,cervical cancer,2016,1
+803,chimeric antigen receptor t cells,230,1
+804,chimeric antigen receptor t cells,543,1
+805,chimeric antigen receptor t cells,791,1
+806,cholangiocarcinoma,341,1
+807,cholangiocarcinoma,345,1
+808,cholangiocarcinoma,350,1
+809,cholangiocarcinoma,355,1
+810,cholangiocarcinoma,365,1
+811,cholangiocarcinoma,391,1
+812,cholangiocarcinoma,559,1
+813,cholangiocarcinoma,560,1
+814,cholangiocarcinoma,563,1
+815,cholangiocarcinoma,1012,1
+816,cholangiocarcinoma,1060,1
+817,cholangiocarcinoma,1128,1
+818,cholangiocarcinoma,1139,1
+819,cholangiocarcinoma,1209,1
+820,cholangiocarcinoma,1212,1
+821,cholangiocarcinoma,1214,1
+822,cholangiocarcinoma,1222,1
+823,cholangiocarcinoma,1240,1
+824,cholangiocarcinoma,1241,1
+825,cholangiocarcinoma,1245,1
+826,cholangiocarcinoma,1249,1
+827,cholangiocarcinoma,1251,1
+828,cholangiocarcinoma,1253,1
+829,cholangiocarcinoma,1255,1
+830,cholangiocarcinoma,1257,1
+831,cholangiocarcinoma,1358,1
+832,cholangiocarcinoma,1410,1
+833,cholangiocarcinoma,1456,1
+834,cholangiocarcinoma,1661,1
+835,cholangiocarcinoma,1748,1
+836,cholangiocarcinoma,1751,1
+837,cholangiocarcinoma,1869,1
+838,chronic lymphocytic leukemia,58,1
+839,chronic lymphocytic leukemia,59,1
+840,chronic lymphocytic leukemia,95,1
+841,chronic lymphocytic leukemia,96,1
+842,chronic lymphocytic leukemia,97,1
+843,chronic lymphocytic leukemia,170,1
+844,chronic lymphocytic leukemia,224,1
+845,chronic lymphocytic leukemia,225,1
+846,chronic lymphocytic leukemia,226,1
+847,chronic lymphocytic leukemia,227,1
+848,chronic lymphocytic leukemia,228,1
+849,chronic lymphocytic leukemia,230,1
+850,chronic lymphocytic leukemia,290,1
+851,chronic lymphocytic leukemia,329,1
+852,chronic lymphocytic leukemia,380,1
+853,chronic lymphocytic leukemia,489,1
+854,chronic lymphocytic leukemia,504,1
+855,chronic lymphocytic leukemia,505,1
+856,chronic lymphocytic leukemia,507,1
+857,chronic lymphocytic leukemia,508,1
+858,chronic lymphocytic leukemia,509,1
+859,chronic lymphocytic leukemia,516,1
+860,chronic lymphocytic leukemia,543,1
+861,chronic lymphocytic leukemia,614,1
+862,chronic lymphocytic leukemia,616,1
+863,chronic lymphocytic leukemia,630,1
+864,chronic lymphocytic leukemia,746,1
+865,chronic lymphocytic leukemia,927,1
+866,chronic lymphocytic leukemia,990,1
+867,chronic lymphocytic leukemia,1113,1
+868,chronic lymphocytic leukemia,1115,1
+869,chronic lymphocytic leukemia,1116,1
+870,chronic lymphocytic leukemia,1140,1
+871,chronic lymphocytic leukemia,1141,1
+872,chronic lymphocytic leukemia,1144,1
+873,chronic lymphocytic leukemia,1145,1
+874,chronic lymphocytic leukemia,1148,1
+875,chronic lymphocytic leukemia,1149,1
+876,chronic lymphocytic leukemia,1227,1
+877,chronic lymphocytic leukemia,1248,1
+878,chronic lymphocytic leukemia,1281,1
+879,chronic lymphocytic leukemia,1312,1
+880,chronic lymphocytic leukemia,1313,1
+881,chronic lymphocytic leukemia,1314,1
+882,chronic lymphocytic leukemia,1315,1
+883,chronic lymphocytic leukemia,1316,1
+884,chronic lymphocytic leukemia,1317,1
+885,chronic lymphocytic leukemia,1318,1
+886,chronic lymphocytic leukemia,1331,1
+887,chronic lymphocytic leukemia,1332,1
+888,chronic lymphocytic leukemia,1333,1
+889,chronic lymphocytic leukemia,1337,1
+890,chronic lymphocytic leukemia,1450,1
+891,chronic lymphocytic leukemia,1452,1
+892,chronic lymphocytic leukemia,1454,1
+893,chronic lymphocytic leukemia,1474,1
+894,chronic lymphocytic leukemia,1581,1
+895,chronic lymphocytic leukemia,1676,1
+896,chronic lymphocytic leukemia,1681,1
+897,chronic lymphocytic leukemia,1687,1
+898,chronic lymphocytic leukemia,1688,1
+899,chronic lymphocytic leukemia,1734,1
+900,chronic lymphocytic leukemia,1736,1
+901,chronic lymphocytic leukemia,1774,1
+902,chronic lymphocytic leukemia,1811,1
+903,chronic lymphocytic leukemia,1868,1
+904,chronic lymphocytic leukemia,1878,1
+905,chronic lymphocytic leukemia,1889,1
+906,chronic lymphocytic leukemia,2006,1
+907,chronic lymphocytic leukemia,2095,1
+908,chronic lymphocytic leukemia,2096,1
+909,chronic lymphocytic leukemia,2148,1
+910,chronic lymphocytic leukemia,2149,1
+911,chronic myeloid leukemia,138,1
+912,chronic myeloid leukemia,272,1
+913,chronic myeloid leukemia,277,1
+914,chronic myeloid leukemia,288,1
+915,chronic myeloid leukemia,292,1
+916,chronic myeloid leukemia,761,1
+917,chronic myeloid leukemia,798,1
+918,chronic myeloid leukemia,862,1
+919,chronic myeloid leukemia,1299,1
+920,chronic myeloid leukemia,1302,1
+921,chronic myeloid leukemia,1350,1
+922,chronic myeloid leukemia,1351,1
+923,chronic myeloid leukemia,1352,1
+924,chronic myeloid leukemia,1354,1
+925,chronic myeloid leukemia,1362,1
+926,chronic myeloid leukemia,1366,1
+927,chronic myeloid leukemia,1368,1
+928,chronic myeloid leukemia,1652,1
+929,chronic myeloid leukemia,1692,1
+930,chronic myeloid leukemia,1791,1
+931,chronic myeloid leukemia,1864,1
+932,chronic myeloid leukemia - historical,272,1
+933,chronic myeloid leukemia - historical,292,1
+934,chronic myeloid leukemia - historical,1299,1
+935,chronic myeloid leukemia pediatric,277,1
+936,chronic myeloid leukemia pediatric,862,1
+937,chronic myeloid leukemia pediatric,1354,1
+938,chronic myeloid leukemia pediatric,1652,1
+939,chronic myelomonocytic leukemia,179,1
+940,chronic myelomonocytic leukemia,182,1
+941,chronic myelomonocytic leukemia,183,1
+942,chronic myelomonocytic leukemia,909,1
+943,chronic myelomonocytic leukemia,912,1
+944,chronic myelomonocytic leukemia,1302,1
+945,classical hodgkin lymphoma,21,1
+946,classical hodgkin lymphoma,32,1
+947,classical hodgkin lymphoma,44,1
+948,classical hodgkin lymphoma,45,1
+949,classical hodgkin lymphoma,46,1
+950,classical hodgkin lymphoma,93,1
+951,classical hodgkin lymphoma,168,1
+952,classical hodgkin lymphoma,186,1
+953,classical hodgkin lymphoma,203,1
+954,classical hodgkin lymphoma,208,1
+955,classical hodgkin lymphoma,212,1
+956,classical hodgkin lymphoma,213,1
+957,classical hodgkin lymphoma,214,1
+958,classical hodgkin lymphoma,215,1
+959,classical hodgkin lymphoma,216,1
+960,classical hodgkin lymphoma,222,1
+961,classical hodgkin lymphoma,230,1
+962,classical hodgkin lymphoma,275,1
+963,classical hodgkin lymphoma,279,1
+964,classical hodgkin lymphoma,280,1
+965,classical hodgkin lymphoma,281,1
+966,classical hodgkin lymphoma,301,1
+967,classical hodgkin lymphoma,305,1
+968,classical hodgkin lymphoma,306,1
+969,classical hodgkin lymphoma,328,1
+970,classical hodgkin lymphoma,384,1
+971,classical hodgkin lymphoma,457,1
+972,classical hodgkin lymphoma,463,1
+973,classical hodgkin lymphoma,464,1
+974,classical hodgkin lymphoma,481,1
+975,classical hodgkin lymphoma,511,1
+976,classical hodgkin lymphoma,512,1
+977,classical hodgkin lymphoma,513,1
+978,classical hodgkin lymphoma,710,1
+979,classical hodgkin lymphoma,721,1
+980,classical hodgkin lymphoma,748,1
+981,classical hodgkin lymphoma,921,1
+982,classical hodgkin lymphoma,928,1
+983,classical hodgkin lymphoma,967,1
+984,classical hodgkin lymphoma,972,1
+985,classical hodgkin lymphoma,1001,1
+986,classical hodgkin lymphoma,1002,1
+987,classical hodgkin lymphoma,1003,1
+988,classical hodgkin lymphoma,1004,1
+989,classical hodgkin lymphoma,1067,1
+990,classical hodgkin lymphoma,1085,1
+991,classical hodgkin lymphoma,1118,1
+992,classical hodgkin lymphoma,1143,1
+993,classical hodgkin lymphoma,1228,1
+994,classical hodgkin lymphoma,1229,1
+995,classical hodgkin lymphoma,1243,1
+996,classical hodgkin lymphoma,1249,1
+997,classical hodgkin lymphoma,1274,1
+998,classical hodgkin lymphoma,1275,1
+999,classical hodgkin lymphoma,1344,1
+1000,classical hodgkin lymphoma,1347,1
+1001,classical hodgkin lymphoma,1454,1
+1002,classical hodgkin lymphoma,1485,1
+1003,classical hodgkin lymphoma,1486,1
+1004,classical hodgkin lymphoma,1578,1
+1005,classical hodgkin lymphoma,1609,1
+1006,classical hodgkin lymphoma,1610,1
+1007,classical hodgkin lymphoma,1612,1
+1008,classical hodgkin lymphoma,1630,1
+1009,classical hodgkin lymphoma,1661,1
+1010,classical hodgkin lymphoma,1667,1
+1011,classical hodgkin lymphoma,1675,1
+1012,classical hodgkin lymphoma,1726,1
+1013,classical hodgkin lymphoma,1748,1
+1014,classical hodgkin lymphoma,1753,1
+1015,classical hodgkin lymphoma,1806,1
+1016,classical hodgkin lymphoma,1862,1
+1017,classical hodgkin lymphoma,1878,1
+1018,classical hodgkin lymphoma,1899,1
+1019,classical hodgkin lymphoma,1911,1
+1020,classical hodgkin lymphoma,1914,1
+1021,classical hodgkin lymphoma,1929,1
+1022,classical hodgkin lymphoma,2007,1
+1023,classical hodgkin lymphoma,2098,1
+1024,classical hodgkin lymphoma,2104,1
+1025,classical hodgkin lymphoma,2150,1
+1026,classical hodgkin lymphoma pediatric,47,1
+1027,classical hodgkin lymphoma pediatric,48,1
+1028,classical hodgkin lymphoma pediatric,298,1
+1029,classical hodgkin lymphoma pediatric,305,1
+1030,classical hodgkin lymphoma pediatric,719,1
+1031,classical hodgkin lymphoma pediatric,907,1
+1032,classical hodgkin lymphoma pediatric,1609,1
+1033,classical hodgkin lymphoma pediatric,1686,1
+1034,classical hodgkin lymphoma pediatric,1696,1
+1035,classical hodgkin lymphoma pediatric,2073,1
+1036,clear cell renal cell carcinoma,172,1
+1037,clear cell renal cell carcinoma,173,1
+1038,clear cell renal cell carcinoma,175,1
+1039,clear cell renal cell carcinoma,176,1
+1040,clear cell renal cell carcinoma,220,1
+1041,clear cell renal cell carcinoma,236,1
+1042,clear cell renal cell carcinoma,239,1
+1043,clear cell renal cell carcinoma,313,1
+1044,clear cell renal cell carcinoma,314,1
+1045,clear cell renal cell carcinoma,315,1
+1046,clear cell renal cell carcinoma,1060,1
+1047,clear cell renal cell carcinoma,1081,1
+1048,clear cell renal cell carcinoma,1085,1
+1049,clear cell renal cell carcinoma,1246,1
+1050,clear cell renal cell carcinoma,1293,1
+1051,clear cell renal cell carcinoma,1362,1
+1052,clear cell renal cell carcinoma,1384,1
+1053,clear cell renal cell carcinoma,1456,1
+1054,clear cell renal cell carcinoma,1458,1
+1055,clear cell renal cell carcinoma,1661,1
+1056,clear cell renal cell carcinoma,1729,1
+1057,clear cell renal cell carcinoma,1748,1
+1058,clear cell renal cell carcinoma,1869,1
+1059,clear cell renal cell carcinoma,1923,1
+1060,clear cell renal cell carcinoma,1932,1
+1061,clear cell renal cell carcinoma,2010,1
+1062,cns leukemia,1549,1
+1063,cns lymphoma,206,1
+1064,cns lymphoma,214,1
+1065,cns lymphoma,285,1
+1066,cns lymphoma,286,1
+1067,cns lymphoma,791,1
+1068,cns lymphoma,799,1
+1069,cns lymphoma,814,1
+1070,cns lymphoma,1292,1
+1071,cns lymphoma,1342,1
+1072,cns lymphoma,1481,1
+1073,cns lymphoma,1482,1
+1074,cns lymphoma,1518,1
+1075,cns lymphoma,1522,1
+1076,cns lymphoma,1558,1
+1077,cns lymphoma,1562,1
+1078,cns lymphoma,1564,1
+1079,cns lymphoma,1565,1
+1080,cns lymphoma,1619,1
+1081,cns lymphoma,1621,1
+1082,cns lymphoma,1626,1
+1083,cns lymphoma,1665,1
+1084,cns lymphoma,1666,1
+1085,cns lymphoma,1801,1
+1086,cns lymphoma,1850,1
+1087,cns lymphoma,1855,1
+1088,cns lymphoma,1856,1
+1089,cns lymphoma,1878,1
+1090,cns lymphoma,1986,1
+1091,cns lymphoma,1990,1
+1092,cns lymphoma,2016,1
+1093,cns melanoma,828,1
+1094,cns melanoma,829,1
+1095,cns melanoma,1203,1
+1096,cns melanoma,1384,1
+1097,cns melanoma,2093,1
+1098,cold agglutinin disease,226,1
+1099,cold agglutinin disease,1019,1
+1100,cold agglutinin disease,1145,1
+1101,cold agglutinin disease,1878,1
+1102,cold agglutinin disease,1935,1
+1103,colon cancer,203,1
+1104,colon cancer,355,1
+1105,colon cancer,365,1
+1106,colon cancer,1023,1
+1107,colon cancer,1139,1
+1108,colon cancer,1155,1
+1109,colon cancer,1163,1
+1110,colon cancer,1195,1
+1111,colon cancer,1196,1
+1112,colon cancer,1209,1
+1113,colon cancer,1213,1
+1114,colon cancer,1604,1
+1115,colon cancer,1894,1
+1116,colon cancer,1926,1
+1117,colon cancer,1978,1
+1118,colorectal cancer,69,1
+1119,colorectal cancer,70,1
+1120,colorectal cancer,148,1
+1121,colorectal cancer,239,1
+1122,colorectal cancer,251,1
+1123,colorectal cancer,331,1
+1124,colorectal cancer,342,1
+1125,colorectal cancer,355,1
+1126,colorectal cancer,365,1
+1127,colorectal cancer,366,1
+1128,colorectal cancer,367,1
+1129,colorectal cancer,369,1
+1130,colorectal cancer,374,1
+1131,colorectal cancer,486,1
+1132,colorectal cancer,830,1
+1133,colorectal cancer,988,1
+1134,colorectal cancer,1038,1
+1135,colorectal cancer,1139,1
+1136,colorectal cancer,1153,1
+1137,colorectal cancer,1156,1
+1138,colorectal cancer,1157,1
+1139,colorectal cancer,1161,1
+1140,colorectal cancer,1163,1
+1141,colorectal cancer,1184,1
+1142,colorectal cancer,1185,1
+1143,colorectal cancer,1186,1
+1144,colorectal cancer,1187,1
+1145,colorectal cancer,1188,1
+1146,colorectal cancer,1189,1
+1147,colorectal cancer,1190,1
+1148,colorectal cancer,1191,1
+1149,colorectal cancer,1193,1
+1150,colorectal cancer,1195,1
+1151,colorectal cancer,1196,1
+1152,colorectal cancer,1197,1
+1153,colorectal cancer,1199,1
+1154,colorectal cancer,1206,1
+1155,colorectal cancer,1207,1
+1156,colorectal cancer,1208,1
+1157,colorectal cancer,1209,1
+1158,colorectal cancer,1210,1
+1159,colorectal cancer,1211,1
+1160,colorectal cancer,1219,1
+1161,colorectal cancer,1338,1
+1162,colorectal cancer,1339,1
+1163,colorectal cancer,1371,1
+1164,colorectal cancer,1372,1
+1165,colorectal cancer,1373,1
+1166,colorectal cancer,1384,1
+1167,colorectal cancer,1393,1
+1168,colorectal cancer,1397,1
+1169,colorectal cancer,1399,1
+1170,colorectal cancer,1400,1
+1171,colorectal cancer,1401,1
+1172,colorectal cancer,1402,1
+1173,colorectal cancer,1440,1
+1174,colorectal cancer,1571,1
+1175,colorectal cancer,1574,1
+1176,colorectal cancer,1661,1
+1177,colorectal cancer,1699,1
+1178,colorectal cancer,1724,1
+1179,colorectal cancer,1748,1
+1180,colorectal cancer,1759,1
+1181,colorectal cancer,1865,1
+1182,colorectal cancer,1869,1
+1183,colorectal cancer,1894,1
+1184,colorectal cancer,1924,1
+1185,colorectal cancer,1926,1
+1186,colorectal cancer,1927,1
+1187,colorectal cancer,1978,1
+1188,colorectal cancer,2030,1
+1189,colorectal cancer,2034,1
+1190,colorectal cancer,2035,1
+1191,colorectal cancer,2041,1
+1192,craniopharyngioma,650,1
+1193,cutaneous basal cell carcinoma,255,1
+1194,cutaneous basal cell carcinoma,338,1
+1195,cutaneous basal cell carcinoma,479,1
+1196,cutaneous basal cell carcinoma,1922,1
+1197,cutaneous basal cell carcinoma,2116,1
+1198,cutaneous squamous cell carcinoma,255,1
+1199,cutaneous squamous cell carcinoma,338,1
+1200,cutaneous squamous cell carcinoma,479,1
+1201,cutaneous squamous cell carcinoma,486,1
+1202,cutaneous squamous cell carcinoma,589,1
+1203,cutaneous squamous cell carcinoma,1748,1
+1204,cutaneous t-cell lymphoma,97,1
+1205,cutaneous t-cell lymphoma,218,1
+1206,cutaneous t-cell lymphoma,230,1
+1207,cutaneous t-cell lymphoma,240,1
+1208,cutaneous t-cell lymphoma,241,1
+1209,cutaneous t-cell lymphoma,281,1
+1210,cutaneous t-cell lymphoma,290,1
+1211,cutaneous t-cell lymphoma,297,1
+1212,cutaneous t-cell lymphoma,914,1
+1213,cutaneous t-cell lymphoma,1143,1
+1214,cutaneous t-cell lymphoma,1454,1
+1215,cutaneous t-cell lymphoma,1562,1
+1216,cutaneous t-cell lymphoma,1606,1
+1217,cutaneous t-cell lymphoma,1793,1
+1218,cutaneous t-cell lymphoma,1805,1
+1219,cutaneous t-cell lymphoma,1881,1
+1220,cutaneous t-cell lymphoma,2133,1
+1221,dermatofibrosarcoma protuberans,1354,1
+1222,desmoid tumor,1354,1
+1223,desmoid tumor,1560,1
+1224,desmoid tumor,1658,1
+1225,desmoid tumor,1729,1
+1226,desmoid tumor,1746,1
+1227,desmoid tumor,1923,1
+1228,diffuse large b-cell lymphoma,42,1
+1229,diffuse large b-cell lymphoma,61,1
+1230,diffuse large b-cell lymphoma,64,1
+1231,diffuse large b-cell lymphoma,68,1
+1232,diffuse large b-cell lymphoma,93,1
+1233,diffuse large b-cell lymphoma,125,1
+1234,diffuse large b-cell lymphoma,171,1
+1235,diffuse large b-cell lymphoma,207,1
+1236,diffuse large b-cell lymphoma,211,1
+1237,diffuse large b-cell lymphoma,214,1
+1238,diffuse large b-cell lymphoma,215,1
+1239,diffuse large b-cell lymphoma,226,1
+1240,diffuse large b-cell lymphoma,229,1
+1241,diffuse large b-cell lymphoma,230,1
+1242,diffuse large b-cell lymphoma,259,1
+1243,diffuse large b-cell lymphoma,272,1
+1244,diffuse large b-cell lymphoma,275,1
+1245,diffuse large b-cell lymphoma,281,1
+1246,diffuse large b-cell lymphoma,295,1
+1247,diffuse large b-cell lymphoma,305,1
+1248,diffuse large b-cell lymphoma,330,1
+1249,diffuse large b-cell lymphoma,463,1
+1250,diffuse large b-cell lymphoma,464,1
+1251,diffuse large b-cell lymphoma,468,1
+1252,diffuse large b-cell lymphoma,473,1
+1253,diffuse large b-cell lymphoma,480,1
+1254,diffuse large b-cell lymphoma,483,1
+1255,diffuse large b-cell lymphoma,515,1
+1256,diffuse large b-cell lymphoma,516,1
+1257,diffuse large b-cell lymphoma,518,1
+1258,diffuse large b-cell lymphoma,520,1
+1259,diffuse large b-cell lymphoma,521,1
+1260,diffuse large b-cell lymphoma,522,1
+1261,diffuse large b-cell lymphoma,525,1
+1262,diffuse large b-cell lymphoma,526,1
+1263,diffuse large b-cell lymphoma,648,1
+1264,diffuse large b-cell lymphoma,710,1
+1265,diffuse large b-cell lymphoma,711,1
+1266,diffuse large b-cell lymphoma,746,1
+1267,diffuse large b-cell lymphoma,761,1
+1268,diffuse large b-cell lymphoma,764,1
+1269,diffuse large b-cell lymphoma,799,1
+1270,diffuse large b-cell lymphoma,802,1
+1271,diffuse large b-cell lymphoma,825,1
+1272,diffuse large b-cell lymphoma,826,1
+1273,diffuse large b-cell lymphoma,928,1
+1274,diffuse large b-cell lymphoma,929,1
+1275,diffuse large b-cell lymphoma,931,1
+1276,diffuse large b-cell lymphoma,1051,1
+1277,diffuse large b-cell lymphoma,1067,1
+1278,diffuse large b-cell lymphoma,1073,1
+1279,diffuse large b-cell lymphoma,1075,1
+1280,diffuse large b-cell lymphoma,1083,1
+1281,diffuse large b-cell lymphoma,1085,1
+1282,diffuse large b-cell lymphoma,1092,1
+1283,diffuse large b-cell lymphoma,1118,1
+1284,diffuse large b-cell lymphoma,1150,1
+1285,diffuse large b-cell lymphoma,1230,1
+1286,diffuse large b-cell lymphoma,1243,1
+1287,diffuse large b-cell lymphoma,1249,1
+1288,diffuse large b-cell lymphoma,1263,1
+1289,diffuse large b-cell lymphoma,1274,1
+1290,diffuse large b-cell lymphoma,1278,1
+1291,diffuse large b-cell lymphoma,1283,1
+1292,diffuse large b-cell lymphoma,1311,1
+1293,diffuse large b-cell lymphoma,1317,1
+1294,diffuse large b-cell lymphoma,1345,1
+1295,diffuse large b-cell lymphoma,1448,1
+1296,diffuse large b-cell lymphoma,1452,1
+1297,diffuse large b-cell lymphoma,1453,1
+1298,diffuse large b-cell lymphoma,1454,1
+1299,diffuse large b-cell lymphoma,1474,1
+1300,diffuse large b-cell lymphoma,1484,1
+1301,diffuse large b-cell lymphoma,1490,1
+1302,diffuse large b-cell lymphoma,1498,1
+1303,diffuse large b-cell lymphoma,1510,1
+1304,diffuse large b-cell lymphoma,1562,1
+1305,diffuse large b-cell lymphoma,1578,1
+1306,diffuse large b-cell lymphoma,1592,1
+1307,diffuse large b-cell lymphoma,1674,1
+1308,diffuse large b-cell lymphoma,1677,1
+1309,diffuse large b-cell lymphoma,1678,1
+1310,diffuse large b-cell lymphoma,1681,1
+1311,diffuse large b-cell lymphoma,1688,1
+1312,diffuse large b-cell lymphoma,1703,1
+1313,diffuse large b-cell lymphoma,1706,1
+1314,diffuse large b-cell lymphoma,1709,1
+1315,diffuse large b-cell lymphoma,1725,1
+1316,diffuse large b-cell lymphoma,1726,1
+1317,diffuse large b-cell lymphoma,1752,1
+1318,diffuse large b-cell lymphoma,1775,1
+1319,diffuse large b-cell lymphoma,1781,1
+1320,diffuse large b-cell lymphoma,1784,1
+1321,diffuse large b-cell lymphoma,1803,1
+1322,diffuse large b-cell lymphoma,1804,1
+1323,diffuse large b-cell lymphoma,1810,1
+1324,diffuse large b-cell lymphoma,1812,1
+1325,diffuse large b-cell lymphoma,1813,1
+1326,diffuse large b-cell lymphoma,1814,1
+1327,diffuse large b-cell lymphoma,1815,1
+1328,diffuse large b-cell lymphoma,1816,1
+1329,diffuse large b-cell lymphoma,1817,1
+1330,diffuse large b-cell lymphoma,1818,1
+1331,diffuse large b-cell lymphoma,1819,1
+1332,diffuse large b-cell lymphoma,1820,1
+1333,diffuse large b-cell lymphoma,1829,1
+1334,diffuse large b-cell lymphoma,1831,1
+1335,diffuse large b-cell lymphoma,1833,1
+1336,diffuse large b-cell lymphoma,1834,1
+1337,diffuse large b-cell lymphoma,1835,1
+1338,diffuse large b-cell lymphoma,1837,1
+1339,diffuse large b-cell lymphoma,1838,1
+1340,diffuse large b-cell lymphoma,1841,1
+1341,diffuse large b-cell lymphoma,1842,1
+1342,diffuse large b-cell lymphoma,1843,1
+1343,diffuse large b-cell lymphoma,1845,1
+1344,diffuse large b-cell lymphoma,1847,1
+1345,diffuse large b-cell lymphoma,1848,1
+1346,diffuse large b-cell lymphoma,1849,1
+1347,diffuse large b-cell lymphoma,1851,1
+1348,diffuse large b-cell lymphoma,1852,1
+1349,diffuse large b-cell lymphoma,1853,1
+1350,diffuse large b-cell lymphoma,1854,1
+1351,diffuse large b-cell lymphoma,1857,1
+1352,diffuse large b-cell lymphoma,1858,1
+1353,diffuse large b-cell lymphoma,1859,1
+1354,diffuse large b-cell lymphoma,1861,1
+1355,diffuse large b-cell lymphoma,1873,1
+1356,diffuse large b-cell lymphoma,1878,1
+1357,diffuse large b-cell lymphoma,1902,1
+1358,diffuse large b-cell lymphoma,1990,1
+1359,diffuse large b-cell lymphoma,2006,1
+1360,diffuse large b-cell lymphoma,2040,1
+1361,diffuse large b-cell lymphoma,2062,1
+1362,diffuse large b-cell lymphoma,2087,1
+1363,diffuse large b-cell lymphoma,2097,1
+1364,diffuse large b-cell lymphoma,2115,1
+1365,diffuse large b-cell lymphoma,2130,1
+1366,diffuse large b-cell lymphoma,2138,1
+1367,diffuse large b-cell lymphoma,2147,1
+1368,egfr,1063,1
+1369,endometrial cancer,116,1
+1370,endometrial cancer,239,1
+1371,endometrial cancer,338,1
+1372,endometrial cancer,406,1
+1373,endometrial cancer,407,1
+1374,endometrial cancer,413,1
+1375,endometrial cancer,417,1
+1376,endometrial cancer,420,1
+1377,endometrial cancer,424,1
+1378,endometrial cancer,530,1
+1379,endometrial cancer,567,1
+1380,endometrial cancer,573,1
+1381,endometrial cancer,585,1
+1382,endometrial cancer,840,1
+1383,endometrial cancer,962,1
+1384,endometrial cancer,973,1
+1385,endometrial cancer,1343,1
+1386,endometrial cancer,1345,1
+1387,endometrial cancer,1456,1
+1388,endometrial cancer,1531,1
+1389,endometrial cancer,1532,1
+1390,endometrial cancer,1534,1
+1391,endometrial cancer,1535,1
+1392,endometrial cancer,1748,1
+1393,endometrial cancer,1962,1
+1394,endometrial cancer,1990,1
+1395,endometrial cancer,2016,1
+1396,epithelioid sarcoma,1969,1
+1397,erbb2,1650,1
+1398,erbb2,1759,1
+1399,erbb2,2031,1
+1400,erbb3,1650,1
+1401,erdheim-chester disease,651,1
+1402,erdheim-chester disease,1913,1
+1403,erdheim-chester disease,2093,1
+1404,esophageal adenocarcinoma,123,1
+1405,esophageal adenocarcinoma,332,1
+1406,esophageal adenocarcinoma,333,1
+1407,esophageal adenocarcinoma,338,1
+1408,esophageal adenocarcinoma,342,1
+1409,esophageal adenocarcinoma,365,1
+1410,esophageal adenocarcinoma,368,1
+1411,esophageal adenocarcinoma,399,1
+1412,esophageal adenocarcinoma,415,1
+1413,esophageal adenocarcinoma,426,1
+1414,esophageal adenocarcinoma,486,1
+1415,esophageal adenocarcinoma,543,1
+1416,esophageal adenocarcinoma,549,1
+1417,esophageal adenocarcinoma,590,1
+1418,esophageal adenocarcinoma,623,1
+1419,esophageal adenocarcinoma,1012,1
+1420,esophageal adenocarcinoma,1013,1
+1421,esophageal adenocarcinoma,1020,1
+1422,esophageal adenocarcinoma,1063,1
+1423,esophageal adenocarcinoma,1138,1
+1424,esophageal adenocarcinoma,1139,1
+1425,esophageal adenocarcinoma,1168,1
+1426,esophageal adenocarcinoma,1184,1
+1427,esophageal adenocarcinoma,1215,1
+1428,esophageal adenocarcinoma,1394,1
+1429,esophageal adenocarcinoma,1396,1
+1430,esophageal adenocarcinoma,1397,1
+1431,esophageal adenocarcinoma,1570,1
+1432,esophageal adenocarcinoma,1661,1
+1433,esophageal adenocarcinoma,1713,1
+1434,esophageal adenocarcinoma,1866,1
+1435,esophageal cancer,332,1
+1436,esophageal cancer,338,1
+1437,esophageal cancer,342,1
+1438,esophageal cancer,357,1
+1439,esophageal cancer,358,1
+1440,esophageal cancer,359,1
+1441,esophageal cancer,360,1
+1442,esophageal cancer,362,1
+1443,esophageal cancer,363,1
+1444,esophageal cancer,399,1
+1445,esophageal cancer,415,1
+1446,esophageal cancer,430,1
+1447,esophageal cancer,543,1
+1448,esophageal cancer,548,1
+1449,esophageal cancer,549,1
+1450,esophageal cancer,584,1
+1451,esophageal cancer,590,1
+1452,esophageal cancer,612,1
+1453,esophageal cancer,938,1
+1454,esophageal cancer,954,1
+1455,esophageal cancer,1012,1
+1456,esophageal cancer,1020,1
+1457,esophageal cancer,1047,1
+1458,esophageal cancer,1048,1
+1459,esophageal cancer,1063,1
+1460,esophageal cancer,1137,1
+1461,esophageal cancer,1139,1
+1462,esophageal cancer,1167,1
+1463,esophageal cancer,1196,1
+1464,esophageal cancer,1198,1
+1465,esophageal cancer,1212,1
+1466,esophageal cancer,1397,1
+1467,esophageal cancer,1400,1
+1468,esophageal cancer,1447,1
+1469,esophageal cancer,1524,1
+1470,esophageal cancer,1661,1
+1471,esophageal cancer,1733,1
+1472,esophageal cancer,1893,1
+1473,esophageal cancer,1894,1
+1474,esophageal squamous cell carcinoma,328,1
+1475,esophageal squamous cell carcinoma,332,1
+1476,esophageal squamous cell carcinoma,335,1
+1477,esophageal squamous cell carcinoma,338,1
+1478,esophageal squamous cell carcinoma,347,1
+1479,esophageal squamous cell carcinoma,365,1
+1480,esophageal squamous cell carcinoma,384,1
+1481,esophageal squamous cell carcinoma,415,1
+1482,esophageal squamous cell carcinoma,543,1
+1483,esophageal squamous cell carcinoma,544,1
+1484,esophageal squamous cell carcinoma,546,1
+1485,esophageal squamous cell carcinoma,548,1
+1486,esophageal squamous cell carcinoma,549,1
+1487,esophageal squamous cell carcinoma,550,1
+1488,esophageal squamous cell carcinoma,551,1
+1489,esophageal squamous cell carcinoma,552,1
+1490,esophageal squamous cell carcinoma,584,1
+1491,esophageal squamous cell carcinoma,595,1
+1492,esophageal squamous cell carcinoma,597,1
+1493,esophageal squamous cell carcinoma,598,1
+1494,esophageal squamous cell carcinoma,599,1
+1495,esophageal squamous cell carcinoma,600,1
+1496,esophageal squamous cell carcinoma,612,1
+1497,esophageal squamous cell carcinoma,1073,1
+1498,esophageal squamous cell carcinoma,1158,1
+1499,esophageal squamous cell carcinoma,1159,1
+1500,esophageal squamous cell carcinoma,1166,1
+1501,esophageal squamous cell carcinoma,1167,1
+1502,esophageal squamous cell carcinoma,1168,1
+1503,esophageal squamous cell carcinoma,1219,1
+1504,esophageal squamous cell carcinoma,1384,1
+1505,esophageal squamous cell carcinoma,1397,1
+1506,esophageal squamous cell carcinoma,1572,1
+1507,esophageal squamous cell carcinoma,1661,1
+1508,esophageal squamous cell carcinoma,1701,1
+1509,esophageal squamous cell carcinoma,1704,1
+1510,esophageal squamous cell carcinoma,1748,1
+1511,esophageal squamous cell carcinoma,1893,1
+1512,esophageal squamous cell carcinoma,2007,1
+1513,essential thrombocythemia,109,1
+1514,essential thrombocythemia,142,1
+1515,essential thrombocythemia,143,1
+1516,essential thrombocythemia,1302,1
+1517,essential thrombocythemia,1742,1
+1518,essential thrombocythemia,1889,1
+1519,ewing sarcoma,93,1
+1520,ewing sarcoma,291,1
+1521,ewing sarcoma,762,1
+1522,ewing sarcoma,937,1
+1523,ewing sarcoma,1078,1
+1524,ewing sarcoma,1336,1
+1525,ewing sarcoma,1395,1
+1526,ewing sarcoma,1971,1
+1527,ewing sarcoma,2059,1
+1528,ewing sarcoma,2060,1
+1529,ewing sarcoma,2069,1
+1530,ewing sarcoma,2070,1
+1531,ewing sarcoma,2090,1
+1532,ewing sarcoma,2101,1
+1533,ewing sarcoma pediatric,682,1
+1534,ewing sarcoma pediatric,683,1
+1535,ewing sarcoma pediatric,684,1
+1536,extranodal nk- and t-cell lymphoma nasal type,573,1
+1537,extranodal nk- and t-cell lymphoma nasal type,918,1
+1538,extranodal nk- and t-cell lymphoma nasal type,1235,1
+1539,extranodal nk- and t-cell lymphoma nasal type,1428,1
+1540,extranodal nk- and t-cell lymphoma nasal type,1555,1
+1541,extranodal nk- and t-cell lymphoma nasal type,1921,1
+1542,extranodal nk- and t-cell lymphoma nasal type,2115,1
+1543,follicular lymphoma,1,1
+1544,follicular lymphoma,2,1
+1545,follicular lymphoma,171,1
+1546,follicular lymphoma,214,1
+1547,follicular lymphoma,224,1
+1548,follicular lymphoma,225,1
+1549,follicular lymphoma,226,1
+1550,follicular lymphoma,230,1
+1551,follicular lymphoma,237,1
+1552,follicular lymphoma,273,1
+1553,follicular lymphoma,275,1
+1554,follicular lymphoma,303,1
+1555,follicular lymphoma,509,1
+1556,follicular lymphoma,516,1
+1557,follicular lymphoma,519,1
+1558,follicular lymphoma,521,1
+1559,follicular lymphoma,526,1
+1560,follicular lymphoma,527,1
+1561,follicular lymphoma,543,1
+1562,follicular lymphoma,712,1
+1563,follicular lymphoma,717,1
+1564,follicular lymphoma,718,1
+1565,follicular lymphoma,746,1
+1566,follicular lymphoma,747,1
+1567,follicular lymphoma,761,1
+1568,follicular lymphoma,764,1
+1569,follicular lymphoma,990,1
+1570,follicular lymphoma,1115,1
+1571,follicular lymphoma,1116,1
+1572,follicular lymphoma,1145,1
+1573,follicular lymphoma,1149,1
+1574,follicular lymphoma,1152,1
+1575,follicular lymphoma,1177,1
+1576,follicular lymphoma,1178,1
+1577,follicular lymphoma,1180,1
+1578,follicular lymphoma,1225,1
+1579,follicular lymphoma,1226,1
+1580,follicular lymphoma,1311,1
+1581,follicular lymphoma,1317,1
+1582,follicular lymphoma,1333,1
+1583,follicular lymphoma,1359,1
+1584,follicular lymphoma,1362,1
+1585,follicular lymphoma,1452,1
+1586,follicular lymphoma,1454,1
+1587,follicular lymphoma,1455,1
+1588,follicular lymphoma,1481,1
+1589,follicular lymphoma,1614,1
+1590,follicular lymphoma,1672,1
+1591,follicular lymphoma,1681,1
+1592,follicular lymphoma,1688,1
+1593,follicular lymphoma,1736,1
+1594,follicular lymphoma,1757,1
+1595,follicular lymphoma,1804,1
+1596,follicular lymphoma,1819,1
+1597,follicular lymphoma,1823,1
+1598,follicular lymphoma,1824,1
+1599,follicular lymphoma,1830,1
+1600,follicular lymphoma,1831,1
+1601,follicular lymphoma,1839,1
+1602,follicular lymphoma,1840,1
+1603,follicular lymphoma,1849,1
+1604,follicular lymphoma,1850,1
+1605,follicular lymphoma,1858,1
+1606,follicular lymphoma,1877,1
+1607,follicular lymphoma,1878,1
+1608,follicular lymphoma,1969,1
+1609,follicular lymphoma,1990,1
+1610,follicular lymphoma,2006,1
+1611,follicular lymphoma,2047,1
+1612,follicular lymphoma,2132,1
+1613,follicular lymphoma,2133,1
+1614,follicular lymphoma,2138,1
+1615,follicular lymphoma,2139,1
+1616,follicular lymphoma,2148,1
+1617,gallbladder cancer,341,1
+1618,gallbladder cancer,342,1
+1619,gallbladder cancer,345,1
+1620,gallbladder cancer,350,1
+1621,gallbladder cancer,355,1
+1622,gallbladder cancer,365,1
+1623,gallbladder cancer,391,1
+1624,gallbladder cancer,560,1
+1625,gallbladder cancer,1012,1
+1626,gallbladder cancer,1060,1
+1627,gallbladder cancer,1128,1
+1628,gallbladder cancer,1209,1
+1629,gallbladder cancer,1212,1
+1630,gallbladder cancer,1214,1
+1631,gallbladder cancer,1240,1
+1632,gallbladder cancer,1245,1
+1633,gallbladder cancer,1249,1
+1634,gallbladder cancer,1251,1
+1635,gallbladder cancer,1255,1
+1636,gallbladder cancer,1257,1
+1637,gallbladder cancer,1397,1
+1638,gallbladder cancer,1869,1
+1639,gallbladder cancer,1894,1
+1640,gastric cancer,123,1
+1641,gastric cancer,332,1
+1642,gastric cancer,334,1
+1643,gastric cancer,336,1
+1644,gastric cancer,337,1
+1645,gastric cancer,338,1
+1646,gastric cancer,347,1
+1647,gastric cancer,355,1
+1648,gastric cancer,365,1
+1649,gastric cancer,368,1
+1650,gastric cancer,370,1
+1651,gastric cancer,371,1
+1652,gastric cancer,373,1
+1653,gastric cancer,383,1
+1654,gastric cancer,543,1
+1655,gastric cancer,548,1
+1656,gastric cancer,552,1
+1657,gastric cancer,553,1
+1658,gastric cancer,555,1
+1659,gastric cancer,574,1
+1660,gastric cancer,623,1
+1661,gastric cancer,884,1
+1662,gastric cancer,946,1
+1663,gastric cancer,958,1
+1664,gastric cancer,963,1
+1665,gastric cancer,1012,1
+1666,gastric cancer,1020,1
+1667,gastric cancer,1047,1
+1668,gastric cancer,1048,1
+1669,gastric cancer,1094,1
+1670,gastric cancer,1106,1
+1671,gastric cancer,1110,1
+1672,gastric cancer,1129,1
+1673,gastric cancer,1138,1
+1674,gastric cancer,1139,1
+1675,gastric cancer,1154,1
+1676,gastric cancer,1157,1
+1677,gastric cancer,1160,1
+1678,gastric cancer,1163,1
+1679,gastric cancer,1164,1
+1680,gastric cancer,1184,1
+1681,gastric cancer,1204,1
+1682,gastric cancer,1209,1
+1683,gastric cancer,1210,1
+1684,gastric cancer,1215,1
+1685,gastric cancer,1394,1
+1686,gastric cancer,1396,1
+1687,gastric cancer,1397,1
+1688,gastric cancer,1527,1
+1689,gastric cancer,1528,1
+1690,gastric cancer,1570,1
+1691,gastric cancer,1639,1
+1692,gastric cancer,1661,1
+1693,gastric cancer,1713,1
+1694,gastric cancer,1715,1
+1695,gastric cancer,1748,1
+1696,gastric cancer,1866,1
+1697,gastric cancer,1869,1
+1698,gastric cancer,1894,1
+1699,gastric cancer,1926,1
+1700,gastric cancer,2030,1
+1701,gastric cancer,2035,1
+1702,gastric cancer,2045,1
+1703,gastric cancer,2046,1
+1704,gastrointestinal stromal tumor,165,1
+1705,gastrointestinal stromal tumor,314,1
+1706,gastrointestinal stromal tumor,1354,1
+1707,gastrointestinal stromal tumor,1473,1
+1708,gastrointestinal stromal tumor,1729,1
+1709,gastrointestinal stromal tumor,1772,1
+1710,gastrointestinal stromal tumor,1869,1
+1711,gastrointestinal stromal tumor,1876,1
+1712,gastrointestinal stromal tumor,1923,1
+1713,gastrointestinal stromal tumor,1932,1
+1714,gestational trophoblastic neoplasia,840,1
+1715,gestational trophoblastic neoplasia,1035,1
+1716,gestational trophoblastic neoplasia,1546,1
+1717,gestational trophoblastic neoplasia,1562,1
+1718,giant-cell tumor of bone,915,1
+1719,glioblastoma,238,1
+1720,glioblastoma,239,1
+1721,glioblastoma,379,1
+1722,glioblastoma,456,1
+1723,glioblastoma,457,1
+1724,glioblastoma,458,1
+1725,glioblastoma,764,1
+1726,glioblastoma,1298,1
+1727,glioblastoma,1302,1
+1728,glioblastoma,1392,1
+1729,glioblastoma,1397,1
+1730,glioblastoma,1479,1
+1731,glioblastoma,1480,1
+1732,glioblastoma,1483,1
+1733,glioblastoma,1655,1
+1734,glioblastoma,1737,1
+1735,glioblastoma,1801,1
+1736,glioblastoma,1884,1
+1737,glioblastoma,1981,1
+1738,glioblastoma,1982,1
+1739,glioblastoma,1983,1
+1740,glioblastoma,1986,1
+1741,graft versus host disease,150,1
+1742,graft versus host disease,782,1
+1743,graft versus host disease,784,1
+1744,graft versus host disease,785,1
+1745,graft versus host disease,1317,1
+1746,graft versus host disease,1559,1
+1747,graft versus host disease,1563,1
+1748,graft versus host disease,1798,1
+1749,graft versus host disease,1889,1
+1750,hairy cell leukemia,226,1
+1751,hairy cell leukemia,615,1
+1752,hairy cell leukemia,616,1
+1753,hairy cell leukemia,1362,1
+1754,hairy cell leukemia,1366,1
+1755,hairy cell leukemia,1615,1
+1756,hairy cell leukemia,1755,1
+1757,hairy cell leukemia,1878,1
+1758,hairy cell leukemia,2093,1
+1759,head and neck cancer,92,1
+1760,head and neck cancer,258,1
+1761,head and neck cancer,311,1
+1762,head and neck cancer,338,1
+1763,head and neck cancer,383,1
+1764,head and neck cancer,390,1
+1765,head and neck cancer,415,1
+1766,head and neck cancer,421,1
+1767,head and neck cancer,427,1
+1768,head and neck cancer,428,1
+1769,head and neck cancer,429,1
+1770,head and neck cancer,430,1
+1771,head and neck cancer,475,1
+1772,head and neck cancer,476,1
+1773,head and neck cancer,477,1
+1774,head and neck cancer,485,1
+1775,head and neck cancer,486,1
+1776,head and neck cancer,535,1
+1777,head and neck cancer,543,1
+1778,head and neck cancer,544,1
+1779,head and neck cancer,547,1
+1780,head and neck cancer,548,1
+1781,head and neck cancer,549,1
+1782,head and neck cancer,573,1
+1783,head and neck cancer,577,1
+1784,head and neck cancer,578,1
+1785,head and neck cancer,884,1
+1786,head and neck cancer,945,1
+1787,head and neck cancer,950,1
+1788,head and neck cancer,953,1
+1789,head and neck cancer,1160,1
+1790,head and neck cancer,1163,1
+1791,head and neck cancer,1165,1
+1792,head and neck cancer,1166,1
+1793,head and neck cancer,1562,1
+1794,head and neck cancer,1661,1
+1795,head and neck cancer,1714,1
+1796,head and neck cancer,1733,1
+1797,head and neck cancer,1748,1
+1798,head and neck cancer,2045,1
+1799,hemophagocytic lymphohistiocytosis,916,1
+1800,hemophagocytic lymphohistiocytosis,1294,1
+1801,hemophagocytic lymphohistiocytosis,1295,1
+1802,heparin-induced thrombocytopenia,130,1
+1803,heparin-induced thrombocytopenia,842,1
+1804,heparin-induced thrombocytopenia,1459,1
+1805,heparin-induced thrombocytopenia,1879,1
+1806,hepatoblastoma,338,1
+1807,hepatoblastoma,554,1
+1808,hepatoblastoma,577,1
+1809,hepatoblastoma,685,1
+1810,hepatoblastoma,686,1
+1811,hepatoblastoma,687,1
+1812,hepatoblastoma,688,1
+1813,hepatoblastoma,689,1
+1814,hepatocellular carcinoma,121,1
+1815,hepatocellular carcinoma,123,1
+1816,hepatocellular carcinoma,147,1
+1817,hepatocellular carcinoma,174,1
+1818,hepatocellular carcinoma,239,1
+1819,hepatocellular carcinoma,314,1
+1820,hepatocellular carcinoma,328,1
+1821,hepatocellular carcinoma,331,1
+1822,hepatocellular carcinoma,355,1
+1823,hepatocellular carcinoma,365,1
+1824,hepatocellular carcinoma,366,1
+1825,hepatocellular carcinoma,957,1
+1826,hepatocellular carcinoma,969,1
+1827,hepatocellular carcinoma,973,1
+1828,hepatocellular carcinoma,988,1
+1829,hepatocellular carcinoma,989,1
+1830,hepatocellular carcinoma,1060,1
+1831,hepatocellular carcinoma,1139,1
+1832,hepatocellular carcinoma,1183,1
+1833,hepatocellular carcinoma,1194,1
+1834,hepatocellular carcinoma,1209,1
+1835,hepatocellular carcinoma,1255,1
+1836,hepatocellular carcinoma,1256,1
+1837,hepatocellular carcinoma,1384,1
+1838,hepatocellular carcinoma,1457,1
+1839,hepatocellular carcinoma,1458,1
+1840,hepatocellular carcinoma,1569,1
+1841,hepatocellular carcinoma,1661,1
+1842,hepatocellular carcinoma,1748,1
+1843,hepatocellular carcinoma,1866,1
+1844,hepatocellular carcinoma,1869,1
+1845,hepatocellular carcinoma,1923,1
+1846,hepatocellular carcinoma,1932,1
+1847,hepatocellular carcinoma,1950,1
+1848,hepatocellular carcinoma,1962,1
+1849,hepatocellular carcinoma,2007,1
+1850,hereditary hemorrhagic telangiectasia,1962,1
+1851,high-grade b-cell lymphoma,171,1
+1852,high-grade b-cell lymphoma,1051,1
+1853,high-grade b-cell lymphoma,1474,1
+1854,high-grade b-cell lymphoma,1484,1
+1855,high-grade b-cell lymphoma,1784,1
+1856,high-grade b-cell lymphoma,1819,1
+1857,high-grade b-cell lymphoma,2006,1
+1858,high-grade glioma pediatric,746,1
+1859,high-grade glioma pediatric,1983,1
+1860,high-grade glioma pediatric,1986,1
+1861,hiv-associated lymphoma,214,1
+1862,hiv-associated lymphoma,515,1
+1863,hiv-associated lymphoma,516,1
+1864,hiv-associated lymphoma,655,1
+1865,hiv-associated lymphoma,656,1
+1866,hiv-associated lymphoma,746,1
+1867,hiv-associated lymphoma,932,1
+1868,hiv-associated lymphoma,933,1
+1869,hiv-associated lymphoma,1265,1
+1870,hiv-associated lymphoma,1498,1
+1871,hiv-associated lymphoma,1813,1
+1872,hiv-associated lymphoma,1819,1
+1873,hiv-associated lymphoma,1825,1
+1874,hiv-associated lymphoma,1826,1
+1875,hiv-associated lymphoma,1837,1
+1876,hiv-associated lymphoma,1878,1
+1877,hiv-associated lymphoma,1898,1
+1878,hiv-associated lymphoma,1929,1
+1879,hodgkin lymphoma,21,1
+1880,hodgkin lymphoma,32,1
+1881,hodgkin lymphoma,44,1
+1882,hodgkin lymphoma,45,1
+1883,hodgkin lymphoma,46,1
+1884,hodgkin lymphoma,93,1
+1885,hodgkin lymphoma,168,1
+1886,hodgkin lymphoma,186,1
+1887,hodgkin lymphoma,203,1
+1888,hodgkin lymphoma,208,1
+1889,hodgkin lymphoma,212,1
+1890,hodgkin lymphoma,213,1
+1891,hodgkin lymphoma,214,1
+1892,hodgkin lymphoma,215,1
+1893,hodgkin lymphoma,216,1
+1894,hodgkin lymphoma,222,1
+1895,hodgkin lymphoma,230,1
+1896,hodgkin lymphoma,275,1
+1897,hodgkin lymphoma,279,1
+1898,hodgkin lymphoma,280,1
+1899,hodgkin lymphoma,281,1
+1900,hodgkin lymphoma,301,1
+1901,hodgkin lymphoma,305,1
+1902,hodgkin lymphoma,306,1
+1903,hodgkin lymphoma,328,1
+1904,hodgkin lymphoma,384,1
+1905,hodgkin lymphoma,457,1
+1906,hodgkin lymphoma,463,1
+1907,hodgkin lymphoma,464,1
+1908,hodgkin lymphoma,481,1
+1909,hodgkin lymphoma,511,1
+1910,hodgkin lymphoma,512,1
+1911,hodgkin lymphoma,513,1
+1912,hodgkin lymphoma,710,1
+1913,hodgkin lymphoma,721,1
+1914,hodgkin lymphoma,748,1
+1915,hodgkin lymphoma,921,1
+1916,hodgkin lymphoma,928,1
+1917,hodgkin lymphoma,967,1
+1918,hodgkin lymphoma,972,1
+1919,hodgkin lymphoma,1001,1
+1920,hodgkin lymphoma,1002,1
+1921,hodgkin lymphoma,1004,1
+1922,hodgkin lymphoma,1067,1
+1923,hodgkin lymphoma,1085,1
+1924,hodgkin lymphoma,1118,1
+1925,hodgkin lymphoma,1228,1
+1926,hodgkin lymphoma,1229,1
+1927,hodgkin lymphoma,1243,1
+1928,hodgkin lymphoma,1249,1
+1929,hodgkin lymphoma,1274,1
+1930,hodgkin lymphoma,1275,1
+1931,hodgkin lymphoma,1344,1
+1932,hodgkin lymphoma,1347,1
+1933,hodgkin lymphoma,1454,1
+1934,hodgkin lymphoma,1485,1
+1935,hodgkin lymphoma,1486,1
+1936,hodgkin lymphoma,1578,1
+1937,hodgkin lymphoma,1609,1
+1938,hodgkin lymphoma,1610,1
+1939,hodgkin lymphoma,1612,1
+1940,hodgkin lymphoma,1630,1
+1941,hodgkin lymphoma,1661,1
+1942,hodgkin lymphoma,1667,1
+1943,hodgkin lymphoma,1675,1
+1944,hodgkin lymphoma,1726,1
+1945,hodgkin lymphoma,1748,1
+1946,hodgkin lymphoma,1753,1
+1947,hodgkin lymphoma,1806,1
+1948,hodgkin lymphoma,1862,1
+1949,hodgkin lymphoma,1878,1
+1950,hodgkin lymphoma,1899,1
+1951,hodgkin lymphoma,1911,1
+1952,hodgkin lymphoma,1914,1
+1953,hodgkin lymphoma,1929,1
+1954,hodgkin lymphoma,2007,1
+1955,hodgkin lymphoma,2098,1
+1956,hodgkin lymphoma,2104,1
+1957,hodgkin lymphoma,2150,1
+1958,hodgkin lymphoma nodular lymphocyte-predominant,44,1
+1959,hodgkin lymphoma nodular lymphocyte-predominant,515,1
+1960,hodgkin lymphoma nodular lymphocyte-predominant,516,1
+1961,hodgkin lymphoma nodular lymphocyte-predominant,746,1
+1962,hodgkin lymphoma nodular lymphocyte-predominant,1819,1
+1963,hodgkin lymphoma nodular lymphocyte-predominant,1830,1
+1964,hodgkin lymphoma nodular lymphocyte-predominant,1837,1
+1965,hodgkin lymphoma nodular lymphocyte-predominant,1878,1
+1966,hodgkin lymphoma pediatric,47,1
+1967,hodgkin lymphoma pediatric,48,1
+1968,hodgkin lymphoma pediatric,298,1
+1969,hodgkin lymphoma pediatric,305,1
+1970,hodgkin lymphoma pediatric,719,1
+1971,hodgkin lymphoma pediatric,907,1
+1972,hodgkin lymphoma pediatric,1609,1
+1973,hodgkin lymphoma pediatric,1686,1
+1974,hodgkin lymphoma pediatric,1696,1
+1975,hodgkin lymphoma pediatric,2073,1
+1976,hypereosinophilic syndrome,97,1
+1977,hypereosinophilic syndrome,231,1
+1978,hypereosinophilic syndrome,613,1
+1979,hypereosinophilic syndrome,1302,1
+1980,hypereosinophilic syndrome,1354,1
+1981,hypereosinophilic syndrome,1545,1
+1982,hypereosinophilic syndrome,1652,1
+1983,hypereosinophilic syndrome,1742,1
+1984,hypereosinophilic syndrome,1889,1
+1985,immune thrombocytopenia,156,1
+1986,immune thrombocytopenia,166,1
+1987,immune thrombocytopenia,783,1
+1988,immune thrombocytopenia,843,1
+1989,immune thrombocytopenia,923,1
+1990,immune thrombocytopenia,924,1
+1991,immune thrombocytopenia,925,1
+1992,immune thrombocytopenia,926,1
+1993,immune thrombocytopenia,1034,1
+1994,immune thrombocytopenia,1202,1
+1995,immune thrombocytopenia,1633,1
+1996,immune thrombocytopenia,1798,1
+1997,immune thrombocytopenia,1878,1
+1998,immune thrombocytopenia,1882,1
+1999,immune thrombocytopenia,2039,1
+2000,inflammatory myofibroblastic tumor,731,1
+2001,inherited coagulopathy,1878,1
+2002,juvenile myelomonocytic leukemia,183,1
+2003,kaposi sarcoma,43,1
+2004,kaposi sarcoma,98,1
+2005,kaposi sarcoma,239,1
+2006,kaposi sarcoma,257,1
+2007,kaposi sarcoma,338,1
+2008,kaposi sarcoma,868,1
+2009,kaposi sarcoma,1073,1
+2010,kaposi sarcoma,1362,1
+2011,kaposi sarcoma,1366,1
+2012,kaposi sarcoma,1746,1
+2013,langerhans cell histiocytosis,613,1
+2014,langerhans cell histiocytosis,616,1
+2015,langerhans cell histiocytosis,651,1
+2016,langerhans cell histiocytosis,799,1
+2017,langerhans cell histiocytosis,1070,1
+2018,langerhans cell histiocytosis,1076,1
+2019,langerhans cell histiocytosis,1551,1
+2020,langerhans cell histiocytosis,2093,1
+2021,langerhans cell histiocytosis,2103,1
+2022,large granular lymphocytic leukemia,338,1
+2023,large granular lymphocytic leukemia,764,1
+2024,large granular lymphocytic leukemia,1557,1
+2025,leiomyosarcoma,832,1
+2026,leiomyosarcoma,837,1
+2027,leiomyosarcoma,937,1
+2028,leiomyosarcoma,971,1
+2029,leiomyosarcoma,973,1
+2030,leiomyosarcoma,1059,1
+2031,leiomyosarcoma,1869,1
+2032,leiomyosarcoma,2025,1
+2033,light-chain (al) amyloidosis,223,1
+2034,light-chain (al) amyloidosis,267,1
+2035,light-chain (al) amyloidosis,269,1
+2036,light-chain (al) amyloidosis,275,1
+2037,light-chain (al) amyloidosis,338,1
+2038,light-chain (al) amyloidosis,706,1
+2039,light-chain (al) amyloidosis,730,1
+2040,light-chain (al) amyloidosis,735,1
+2041,light-chain (al) amyloidosis,741,1
+2042,light-chain (al) amyloidosis,751,1
+2043,light-chain (al) amyloidosis,846,1
+2044,light-chain (al) amyloidosis,856,1
+2045,light-chain (al) amyloidosis,926,1
+2046,light-chain (al) amyloidosis,982,1
+2047,light-chain (al) amyloidosis,1412,1
+2048,light-chain (al) amyloidosis,1413,1
+2049,light-chain (al) amyloidosis,1449,1
+2050,light-chain (al) amyloidosis,1454,1
+2051,light-chain (al) amyloidosis,1537,1
+2052,light-chain (al) amyloidosis,1539,1
+2053,light-chain (al) amyloidosis,1620,1
+2054,light-chain (al) amyloidosis,1785,1
+2055,light-chain (al) amyloidosis,1997,1
+2056,light-chain (al) amyloidosis,2124,1
+2057,liposarcoma,837,1
+2058,liposarcoma,1059,1
+2059,liposarcoma,2025,1
+2060,low-grade glioma,384,1
+2061,low-grade glioma,423,1
+2062,low-grade glioma,424,1
+2063,low-grade glioma,828,1
+2064,low-grade glioma,1737,1
+2065,low-grade glioma,1986,1
+2066,low-grade glioma pediatric,384,1
+2067,low-grade glioma pediatric,828,1
+2068,low-grade glioma pediatric,1986,1
+2069,low-grade glioma pediatric,2021,1
+2070,low-grade serous ovarian cancer,338,1
+2071,low-grade serous ovarian cancer,1464,1
+2072,low-grade serous ovarian cancer,1746,1
+2073,low-grade serous ovarian cancer,1904,1
+2074,low-grade serous ovarian cancer,1962,1
+2075,low-grade serous ovarian cancer,2016,1
+2076,low-grade serous ovarian cancer,2026,1
+2077,malignant peritoneal mesothelioma,147,1
+2078,malignant pleural mesothelioma,275,1
+2079,malignant pleural mesothelioma,338,1
+2080,malignant pleural mesothelioma,391,1
+2081,malignant pleural mesothelioma,440,1
+2082,malignant pleural mesothelioma,445,1
+2083,malignant pleural mesothelioma,571,1
+2084,malignant pleural mesothelioma,572,1
+2085,malignant pleural mesothelioma,577,1
+2086,malignant pleural mesothelioma,605,1
+2087,malignant pleural mesothelioma,609,1
+2088,malignant pleural mesothelioma,973,1
+2089,malignant pleural mesothelioma,1248,1
+2090,malignant pleural mesothelioma,1249,1
+2091,malignant pleural mesothelioma,1384,1
+2092,malignant pleural mesothelioma,1661,1
+2093,malignant pleural mesothelioma,1750,1
+2094,malignant solid neoplasm braf-mutated,828,1
+2095,malignant solid neoplasm braf-mutated,2093,1
+2096,malignant solid neoplasm egfr-mutated,1063,1
+2097,malignant solid neoplasm erbb2-mutated,1650,1
+2098,malignant solid neoplasm erbb2-mutated,1759,1
+2099,malignant solid neoplasm erbb2-mutated,2030,1
+2100,malignant solid neoplasm erbb2-mutated,2031,1
+2101,malignant solid neoplasm erbb3-mutated,1650,1
+2102,malignant solid neoplasm msi-h or dmmr,962,1
+2103,malignant solid neoplasm msi-h or dmmr,1044,1
+2104,malignant solid neoplasm msi-h or dmmr,1748,1
+2105,malignant solid neoplasm msi-h or dmmr,1905,1
+2106,malignant solid neoplasm ntrk-mutated,1043,1
+2107,malignant solid neoplasm ntrk-mutated,1444,1
+2108,malignant solid neoplasm ret-mutated,1903,1
+2109,malignant solid neoplasm smo-mutated or ptch-1-mutated (hedgehog),2116,1
+2110,malignant solid neoplasm tmb-h,1748,1
+2111,malt lymphoma,105,1
+2112,malt lymphoma,106,1
+2113,malt lymphoma,226,1
+2114,malt lymphoma,275,1
+2115,malt lymphoma,508,1
+2116,malt lymphoma,509,1
+2117,malt lymphoma,615,1
+2118,malt lymphoma,616,1
+2119,malt lymphoma,620,1
+2120,malt lymphoma,621,1
+2121,malt lymphoma,622,1
+2122,malt lymphoma,981,1
+2123,malt lymphoma,1145,1
+2124,malt lymphoma,1452,1
+2125,malt lymphoma,1454,1
+2126,malt lymphoma,1481,1
+2127,malt lymphoma,1567,1
+2128,malt lymphoma,1878,1
+2129,mantle cell lymphoma,18,1
+2130,mantle cell lymphoma,59,1
+2131,mantle cell lymphoma,132,1
+2132,mantle cell lymphoma,204,1
+2133,mantle cell lymphoma,210,1
+2134,mantle cell lymphoma,211,1
+2135,mantle cell lymphoma,214,1
+2136,mantle cell lymphoma,226,1
+2137,mantle cell lymphoma,233,1
+2138,mantle cell lymphoma,242,1
+2139,mantle cell lymphoma,273,1
+2140,mantle cell lymphoma,275,1
+2141,mantle cell lymphoma,278,1
+2142,mantle cell lymphoma,282,1
+2143,mantle cell lymphoma,463,1
+2144,mantle cell lymphoma,508,1
+2145,mantle cell lymphoma,509,1
+2146,mantle cell lymphoma,516,1
+2147,mantle cell lymphoma,543,1
+2148,mantle cell lymphoma,615,1
+2149,mantle cell lymphoma,616,1
+2150,mantle cell lymphoma,746,1
+2151,mantle cell lymphoma,761,1
+2152,mantle cell lymphoma,1085,1
+2153,mantle cell lymphoma,1115,1
+2154,mantle cell lymphoma,1116,1
+2155,mantle cell lymphoma,1145,1
+2156,mantle cell lymphoma,1149,1
+2157,mantle cell lymphoma,1150,1
+2158,mantle cell lymphoma,1249,1
+2159,mantle cell lymphoma,1292,1
+2160,mantle cell lymphoma,1311,1
+2161,mantle cell lymphoma,1314,1
+2162,mantle cell lymphoma,1316,1
+2163,mantle cell lymphoma,1317,1
+2164,mantle cell lymphoma,1389,1
+2165,mantle cell lymphoma,1390,1
+2166,mantle cell lymphoma,1452,1
+2167,mantle cell lymphoma,1454,1
+2168,mantle cell lymphoma,1474,1
+2169,mantle cell lymphoma,1481,1
+2170,mantle cell lymphoma,1490,1
+2171,mantle cell lymphoma,1519,1
+2172,mantle cell lymphoma,1681,1
+2173,mantle cell lymphoma,1757,1
+2174,mantle cell lymphoma,1774,1
+2175,mantle cell lymphoma,1811,1
+2176,mantle cell lymphoma,1812,1
+2177,mantle cell lymphoma,1819,1
+2178,mantle cell lymphoma,1820,1
+2179,mantle cell lymphoma,1821,1
+2180,mantle cell lymphoma,1822,1
+2181,mantle cell lymphoma,1826,1
+2182,mantle cell lymphoma,1830,1
+2183,mantle cell lymphoma,1832,1
+2184,mantle cell lymphoma,1833,1
+2185,mantle cell lymphoma,1834,1
+2186,mantle cell lymphoma,1844,1
+2187,mantle cell lymphoma,1845,1
+2188,mantle cell lymphoma,1860,1
+2189,mantle cell lymphoma,1875,1
+2190,mantle cell lymphoma,1878,1
+2191,mantle cell lymphoma,1886,1
+2192,mantle cell lymphoma,1957,1
+2193,mantle cell lymphoma,1989,1
+2194,mantle cell lymphoma,1990,1
+2195,mantle cell lymphoma,2048,1
+2196,mantle cell lymphoma,2064,1
+2197,mantle cell lymphoma,2089,1
+2198,mantle cell lymphoma,2137,1
+2199,mantle cell lymphoma,2138,1
+2200,mantle cell lymphoma,2149,1
+2201,marginal zone lymphoma,226,1
+2202,marginal zone lymphoma,230,1
+2203,marginal zone lymphoma,509,1
+2204,marginal zone lymphoma,718,1
+2205,marginal zone lymphoma,1149,1
+2206,marginal zone lymphoma,1311,1
+2207,marginal zone lymphoma,1317,1
+2208,marginal zone lymphoma,1333,1
+2209,marginal zone lymphoma,1452,1
+2210,marginal zone lymphoma,1698,1
+2211,marginal zone lymphoma,1736,1
+2212,marginal zone lymphoma,1819,1
+2213,marginal zone lymphoma,1830,1
+2214,marginal zone lymphoma,1878,1
+2215,marginal zone lymphoma,2047,1
+2216,marginal zone lymphoma,2133,1
+2217,marginal zone lymphoma,2149,1
+2218,mediastinal gray-zone lymphoma,281,1
+2219,mediastinal gray-zone lymphoma,826,1
+2220,medulloblastoma,188,1
+2221,medulloblastoma,660,1
+2222,medulloblastoma,671,1
+2223,medulloblastoma,672,1
+2224,medulloblastoma,673,1
+2225,medulloblastoma,674,1
+2226,medulloblastoma,675,1
+2227,medulloblastoma,676,1
+2228,medulloblastoma,677,1
+2229,medulloblastoma,678,1
+2230,medulloblastoma,679,1
+2231,medulloblastoma,680,1
+2232,medulloblastoma,681,1
+2233,medulloblastoma,746,1
+2234,medulloblastoma,1282,1
+2235,medulloblastoma,1916,1
+2236,medulloblastoma,1917,1
+2237,melanoma,27,1
+2238,melanoma,197,1
+2239,melanoma,202,1
+2240,melanoma,203,1
+2241,melanoma,239,1
+2242,melanoma,243,1
+2243,melanoma,249,1
+2244,melanoma,250,1
+2245,melanoma,338,1
+2246,melanoma,382,1
+2247,melanoma,400,1
+2248,melanoma,403,1
+2249,melanoma,471,1
+2250,melanoma,536,1
+2251,melanoma,575,1
+2252,melanoma,580,1
+2253,melanoma,581,1
+2254,melanoma,582,1
+2255,melanoma,583,1
+2256,melanoma,650,1
+2257,melanoma,652,1
+2258,melanoma,741,1
+2259,melanoma,742,1
+2260,melanoma,828,1
+2261,melanoma,829,1
+2262,melanoma,833,1
+2263,melanoma,834,1
+2264,melanoma,835,1
+2265,melanoma,836,1
+2266,melanoma,837,1
+2267,melanoma,1203,1
+2268,melanoma,1293,1
+2269,melanoma,1349,1
+2270,melanoma,1354,1
+2271,melanoma,1362,1
+2272,melanoma,1366,1
+2273,melanoma,1384,1
+2274,melanoma,1386,1
+2275,melanoma,1387,1
+2276,melanoma,1469,1
+2277,melanoma,1489,1
+2278,melanoma,1639,1
+2279,melanoma,1659,1
+2280,melanoma,1661,1
+2281,melanoma,1662,1
+2282,melanoma,1743,1
+2283,melanoma,1748,1
+2284,melanoma,1897,1
+2285,melanoma,1953,1
+2286,melanoma,1980,1
+2287,melanoma,1986,1
+2288,melanoma,2019,1
+2289,melanoma,2026,1
+2290,melanoma,2093,1
+2291,merkel cell carcinoma,169,1
+2292,merkel cell carcinoma,681,1
+2293,merkel cell carcinoma,1748,1
+2294,msi-h or dmmr,962,1
+2295,msi-h or dmmr,1044,1
+2296,msi-h or dmmr,1748,1
+2297,multiple myeloma,29,1
+2298,multiple myeloma,197,1
+2299,multiple myeloma,217,1
+2300,multiple myeloma,248,1
+2301,multiple myeloma,252,1
+2302,multiple myeloma,253,1
+2303,multiple myeloma,266,1
+2304,multiple myeloma,267,1
+2305,multiple myeloma,268,1
+2306,multiple myeloma,269,1
+2307,multiple myeloma,271,1
+2308,multiple myeloma,272,1
+2309,multiple myeloma,274,1
+2310,multiple myeloma,275,1
+2311,multiple myeloma,276,1
+2312,multiple myeloma,284,1
+2313,multiple myeloma,308,1
+2314,multiple myeloma,338,1
+2315,multiple myeloma,451,1
+2316,multiple myeloma,452,1
+2317,multiple myeloma,453,1
+2318,multiple myeloma,454,1
+2319,multiple myeloma,455,1
+2320,multiple myeloma,529,1
+2321,multiple myeloma,728,1
+2322,multiple myeloma,730,1
+2323,multiple myeloma,735,1
+2324,multiple myeloma,738,1
+2325,multiple myeloma,741,1
+2326,multiple myeloma,746,1
+2327,multiple myeloma,751,1
+2328,multiple myeloma,764,1
+2329,multiple myeloma,781,1
+2330,multiple myeloma,786,1
+2331,multiple myeloma,847,1
+2332,multiple myeloma,848,1
+2333,multiple myeloma,849,1
+2334,multiple myeloma,850,1
+2335,multiple myeloma,851,1
+2336,multiple myeloma,852,1
+2337,multiple myeloma,853,1
+2338,multiple myeloma,854,1
+2339,multiple myeloma,855,1
+2340,multiple myeloma,856,1
+2341,multiple myeloma,864,1
+2342,multiple myeloma,881,1
+2343,multiple myeloma,907,1
+2344,multiple myeloma,919,1
+2345,multiple myeloma,926,1
+2346,multiple myeloma,987,1
+2347,multiple myeloma,1030,1
+2348,multiple myeloma,1031,1
+2349,multiple myeloma,1032,1
+2350,multiple myeloma,1033,1
+2351,multiple myeloma,1205,1
+2352,multiple myeloma,1303,1
+2353,multiple myeloma,1330,1
+2354,multiple myeloma,1360,1
+2355,multiple myeloma,1362,1
+2356,multiple myeloma,1363,1
+2357,multiple myeloma,1364,1
+2358,multiple myeloma,1366,1
+2359,multiple myeloma,1391,1
+2360,multiple myeloma,1403,1
+2361,multiple myeloma,1404,1
+2362,multiple myeloma,1405,1
+2363,multiple myeloma,1412,1
+2364,multiple myeloma,1413,1
+2365,multiple myeloma,1416,1
+2366,multiple myeloma,1417,1
+2367,multiple myeloma,1421,1
+2368,multiple myeloma,1422,1
+2369,multiple myeloma,1423,1
+2370,multiple myeloma,1424,1
+2371,multiple myeloma,1449,1
+2372,multiple myeloma,1451,1
+2373,multiple myeloma,1454,1
+2374,multiple myeloma,1490,1
+2375,multiple myeloma,1525,1
+2376,multiple myeloma,1536,1
+2377,multiple myeloma,1537,1
+2378,multiple myeloma,1538,1
+2379,multiple myeloma,1539,1
+2380,multiple myeloma,1540,1
+2381,multiple myeloma,1541,1
+2382,multiple myeloma,1542,1
+2383,multiple myeloma,1543,1
+2384,multiple myeloma,1544,1
+2385,multiple myeloma,1617,1
+2386,multiple myeloma,1618,1
+2387,multiple myeloma,1619,1
+2388,multiple myeloma,1735,1
+2389,multiple myeloma,1785,1
+2390,multiple myeloma,1786,1
+2391,multiple myeloma,1787,1
+2392,multiple myeloma,1796,1
+2393,multiple myeloma,1798,1
+2394,multiple myeloma,1807,1
+2395,multiple myeloma,1890,1
+2396,multiple myeloma,1891,1
+2397,multiple myeloma,1900,1
+2398,multiple myeloma,1901,1
+2399,multiple myeloma,1919,1
+2400,multiple myeloma,1936,1
+2401,multiple myeloma,1954,1
+2402,multiple myeloma,1966,1
+2403,multiple myeloma,1976,1
+2404,multiple myeloma,1997,1
+2405,multiple myeloma,1998,1
+2406,multiple myeloma,1999,1
+2407,multiple myeloma,2006,1
+2408,multiple myeloma,2020,1
+2409,multiple myeloma,2042,1
+2410,multiple myeloma,2050,1
+2411,multiple myeloma,2063,1
+2412,multiple myeloma,2065,1
+2413,multiple myeloma,2066,1
+2414,multiple myeloma,2073,1
+2415,multiple myeloma,2084,1
+2416,multiple myeloma,2085,1
+2417,multiple myeloma,2093,1
+2418,multiple myeloma,2094,1
+2419,multiple myeloma,2096,1
+2420,multiple myeloma,2121,1
+2421,multiple myeloma,2122,1
+2422,multiple myeloma,2123,1
+2423,multiple myeloma,2125,1
+2424,multiple myeloma,2126,1
+2425,multiple myeloma,2127,1
+2426,multiple myeloma,2140,1
+2427,multiple myeloma,2141,1
+2428,multiple myeloma,2142,1
+2429,multiple myeloma,2144,1
+2430,multiple myeloma,2151,1
+2431,myelodysplastic syndrome,97,1
+2432,myelodysplastic syndrome,149,1
+2433,myelodysplastic syndrome,150,1
+2434,myelodysplastic syndrome,179,1
+2435,myelodysplastic syndrome,182,1
+2436,myelodysplastic syndrome,183,1
+2437,myelodysplastic syndrome,184,1
+2438,myelodysplastic syndrome,289,1
+2439,myelodysplastic syndrome,290,1
+2440,myelodysplastic syndrome,629,1
+2441,myelodysplastic syndrome,783,1
+2442,myelodysplastic syndrome,857,1
+2443,myelodysplastic syndrome,909,1
+2444,myelodysplastic syndrome,912,1
+2445,myelodysplastic syndrome,1063,1
+2446,myelodysplastic syndrome,1064,1
+2447,myelodysplastic syndrome,1065,1
+2448,myelodysplastic syndrome,1066,1
+2449,myelodysplastic syndrome,1410,1
+2450,myelodysplastic syndrome,1454,1
+2451,myelodysplastic syndrome,1488,1
+2452,myelodysplastic syndrome,1494,1
+2453,myelodysplastic syndrome,1577,1
+2454,myelodysplastic syndrome,1986,1
+2455,myelofibrosis,338,1
+2456,myelofibrosis,843,1
+2457,myelofibrosis,1127,1
+2458,myelofibrosis,1302,1
+2459,myelofibrosis,1454,1
+2460,myelofibrosis,1720,1
+2461,myelofibrosis,1786,1
+2462,myelofibrosis,1798,1
+2463,myelofibrosis,1889,1
+2464,nasopharyngeal carcinoma,338,1
+2465,nasopharyngeal carcinoma,355,1
+2466,nasopharyngeal carcinoma,390,1
+2467,nasopharyngeal carcinoma,391,1
+2468,nasopharyngeal carcinoma,417,1
+2469,nasopharyngeal carcinoma,421,1
+2470,nasopharyngeal carcinoma,539,1
+2471,nasopharyngeal carcinoma,543,1
+2472,nasopharyngeal carcinoma,549,1
+2473,nasopharyngeal carcinoma,557,1
+2474,nasopharyngeal carcinoma,565,1
+2475,nasopharyngeal carcinoma,573,1
+2476,nasopharyngeal carcinoma,884,1
+2477,nasopharyngeal carcinoma,1249,1
+2478,nasopharyngeal carcinoma,1476,1
+2479,nasopharyngeal carcinoma,1646,1
+2480,nasopharyngeal carcinoma,1702,1
+2481,nasopharyngeal carcinoma,2019,1
+2482,neuroblastoma,291,1
+2483,neuroblastoma,657,1
+2484,neuroblastoma,658,1
+2485,neuroblastoma,659,1
+2486,neuroblastoma,690,1
+2487,neuroblastoma,691,1
+2488,neuroblastoma,692,1
+2489,neuroblastoma,693,1
+2490,neuroblastoma,694,1
+2491,neuroblastoma,695,1
+2492,neuroblastoma,703,1
+2493,neuroblastoma,705,1
+2494,neuroblastoma,763,1
+2495,neuroblastoma,764,1
+2496,neuroblastoma,1264,1
+2497,neuroblastoma,1398,1
+2498,neuroblastoma,1406,1
+2499,neuroblastoma,1407,1
+2500,neuroblastoma,1634,1
+2501,neuroblastoma,1645,1
+2502,neuroendocrine carcinoma,384,1
+2503,neuroendocrine carcinoma,399,1
+2504,neuroendocrine tumor,351,1
+2505,neuroendocrine tumor,1082,1
+2506,neuroendocrine tumor,1085,1
+2507,neuroendocrine tumor,1162,1
+2508,neuroendocrine tumor,1366,1
+2509,neuroendocrine tumor,1434,1
+2510,neuroendocrine tumor,1436,1
+2511,neuroendocrine tumor,1437,1
+2512,neuroendocrine tumor,1496,1
+2513,neuroendocrine tumor,1682,1
+2514,neuroendocrine tumor,1684,1
+2515,neuroendocrine tumor,1685,1
+2516,neuroendocrine tumor,1986,1
+2517,nk- and t-cell lymphoma,141,1
+2518,nk- and t-cell lymphoma,903,1
+2519,nk- and t-cell lymphoma,1150,1
+2520,nk- and t-cell lymphoma,1748,1
+2521,nk- and t-cell lymphoma,1921,1
+2522,non-clear cell renal cell carcinoma,1085,1
+2523,non-clear cell renal cell carcinoma,1748,1
+2524,non-clear cell renal cell carcinoma,1932,1
+2525,non-hodgkin lymphoma pediatric,715,1
+2526,non-hodgkin lymphoma pediatric,746,1
+2527,non-hodgkin lymphoma pediatric,1827,1
+2528,non-small cell lung cancer,30,1
+2529,non-small cell lung cancer,70,1
+2530,non-small cell lung cancer,89,1
+2531,non-small cell lung cancer,90,1
+2532,non-small cell lung cancer,91,1
+2533,non-small cell lung cancer,92,1
+2534,non-small cell lung cancer,94,1
+2535,non-small cell lung cancer,104,1
+2536,non-small cell lung cancer,107,1
+2537,non-small cell lung cancer,119,1
+2538,non-small cell lung cancer,122,1
+2539,non-small cell lung cancer,148,1
+2540,non-small cell lung cancer,164,1
+2541,non-small cell lung cancer,203,1
+2542,non-small cell lung cancer,239,1
+2543,non-small cell lung cancer,249,1
+2544,non-small cell lung cancer,272,1
+2545,non-small cell lung cancer,275,1
+2546,non-small cell lung cancer,283,1
+2547,non-small cell lung cancer,312,1
+2548,non-small cell lung cancer,314,1
+2549,non-small cell lung cancer,327,1
+2550,non-small cell lung cancer,338,1
+2551,non-small cell lung cancer,377,1
+2552,non-small cell lung cancer,380,1
+2553,non-small cell lung cancer,383,1
+2554,non-small cell lung cancer,384,1
+2555,non-small cell lung cancer,391,1
+2556,non-small cell lung cancer,395,1
+2557,non-small cell lung cancer,397,1
+2558,non-small cell lung cancer,399,1
+2559,non-small cell lung cancer,400,1
+2560,non-small cell lung cancer,403,1
+2561,non-small cell lung cancer,405,1
+2562,non-small cell lung cancer,408,1
+2563,non-small cell lung cancer,411,1
+2564,non-small cell lung cancer,415,1
+2565,non-small cell lung cancer,421,1
+2566,non-small cell lung cancer,426,1
+2567,non-small cell lung cancer,431,1
+2568,non-small cell lung cancer,433,1
+2569,non-small cell lung cancer,434,1
+2570,non-small cell lung cancer,436,1
+2571,non-small cell lung cancer,438,1
+2572,non-small cell lung cancer,440,1
+2573,non-small cell lung cancer,445,1
+2574,non-small cell lung cancer,449,1
+2575,non-small cell lung cancer,479,1
+2576,non-small cell lung cancer,484,1
+2577,non-small cell lung cancer,531,1
+2578,non-small cell lung cancer,537,1
+2579,non-small cell lung cancer,538,1
+2580,non-small cell lung cancer,558,1
+2581,non-small cell lung cancer,566,1
+2582,non-small cell lung cancer,571,1
+2583,non-small cell lung cancer,573,1
+2584,non-small cell lung cancer,576,1
+2585,non-small cell lung cancer,577,1
+2586,non-small cell lung cancer,584,1
+2587,non-small cell lung cancer,588,1
+2588,non-small cell lung cancer,591,1
+2589,non-small cell lung cancer,596,1
+2590,non-small cell lung cancer,605,1
+2591,non-small cell lung cancer,606,1
+2592,non-small cell lung cancer,610,1
+2593,non-small cell lung cancer,611,1
+2594,non-small cell lung cancer,612,1
+2595,non-small cell lung cancer,731,1
+2596,non-small cell lung cancer,828,1
+2597,non-small cell lung cancer,838,1
+2598,non-small cell lung cancer,926,1
+2599,non-small cell lung cancer,935,1
+2600,non-small cell lung cancer,937,1
+2601,non-small cell lung cancer,940,1
+2602,non-small cell lung cancer,941,1
+2603,non-small cell lung cancer,944,1
+2604,non-small cell lung cancer,948,1
+2605,non-small cell lung cancer,949,1
+2606,non-small cell lung cancer,988,1
+2607,non-small cell lung cancer,989,1
+2608,non-small cell lung cancer,1042,1
+2609,non-small cell lung cancer,1043,1
+2610,non-small cell lung cancer,1060,1
+2611,non-small cell lung cancer,1062,1
+2612,non-small cell lung cancer,1063,1
+2613,non-small cell lung cancer,1209,1
+2614,non-small cell lung cancer,1221,1
+2615,non-small cell lung cancer,1232,1
+2616,non-small cell lung cancer,1233,1
+2617,non-small cell lung cancer,1234,1
+2618,non-small cell lung cancer,1248,1
+2619,non-small cell lung cancer,1249,1
+2620,non-small cell lung cancer,1261,1
+2621,non-small cell lung cancer,1323,1
+2622,non-small cell lung cancer,1341,1
+2623,non-small cell lung cancer,1384,1
+2624,non-small cell lung cancer,1386,1
+2625,non-small cell lung cancer,1446,1
+2626,non-small cell lung cancer,1487,1
+2627,non-small cell lung cancer,1506,1
+2628,non-small cell lung cancer,1576,1
+2629,non-small cell lung cancer,1602,1
+2630,non-small cell lung cancer,1619,1
+2631,non-small cell lung cancer,1629,1
+2632,non-small cell lung cancer,1639,1
+2633,non-small cell lung cancer,1660,1
+2634,non-small cell lung cancer,1661,1
+2635,non-small cell lung cancer,1697,1
+2636,non-small cell lung cancer,1748,1
+2637,non-small cell lung cancer,1749,1
+2638,non-small cell lung cancer,1750,1
+2639,non-small cell lung cancer,1762,1
+2640,non-small cell lung cancer,1794,1
+2641,non-small cell lung cancer,1871,1
+2642,non-small cell lung cancer,1894,1
+2643,non-small cell lung cancer,1903,1
+2644,non-small cell lung cancer,1925,1
+2645,non-small cell lung cancer,1931,1
+2646,non-small cell lung cancer,1991,1
+2647,non-small cell lung cancer,1992,1
+2648,non-small cell lung cancer,2007,1
+2649,non-small cell lung cancer,2030,1
+2650,non-small cell lung cancer,2045,1
+2651,non-small cell lung cancer,2091,1
+2652,non-small cell lung cancer,2107,1
+2653,non-small cell lung cancer,2113,1
+2654,non-small cell lung cancer nonsquamous,30,1
+2655,non-small cell lung cancer nonsquamous,148,1
+2656,non-small cell lung cancer nonsquamous,239,1
+2657,non-small cell lung cancer nonsquamous,338,1
+2658,non-small cell lung cancer nonsquamous,383,1
+2659,non-small cell lung cancer nonsquamous,384,1
+2660,non-small cell lung cancer nonsquamous,391,1
+2661,non-small cell lung cancer nonsquamous,400,1
+2662,non-small cell lung cancer nonsquamous,403,1
+2663,non-small cell lung cancer nonsquamous,418,1
+2664,non-small cell lung cancer nonsquamous,426,1
+2665,non-small cell lung cancer nonsquamous,432,1
+2666,non-small cell lung cancer nonsquamous,439,1
+2667,non-small cell lung cancer nonsquamous,440,1
+2668,non-small cell lung cancer nonsquamous,441,1
+2669,non-small cell lung cancer nonsquamous,442,1
+2670,non-small cell lung cancer nonsquamous,443,1
+2671,non-small cell lung cancer nonsquamous,444,1
+2672,non-small cell lung cancer nonsquamous,445,1
+2673,non-small cell lung cancer nonsquamous,446,1
+2674,non-small cell lung cancer nonsquamous,447,1
+2675,non-small cell lung cancer nonsquamous,448,1
+2676,non-small cell lung cancer nonsquamous,571,1
+2677,non-small cell lung cancer nonsquamous,601,1
+2678,non-small cell lung cancer nonsquamous,602,1
+2679,non-small cell lung cancer nonsquamous,603,1
+2680,non-small cell lung cancer nonsquamous,604,1
+2681,non-small cell lung cancer nonsquamous,605,1
+2682,non-small cell lung cancer nonsquamous,607,1
+2683,non-small cell lung cancer nonsquamous,608,1
+2684,non-small cell lung cancer nonsquamous,1233,1
+2685,non-small cell lung cancer nonsquamous,1249,1
+2686,non-small cell lung cancer nonsquamous,1384,1
+2687,non-small cell lung cancer nonsquamous,1656,1
+2688,non-small cell lung cancer nonsquamous,1661,1
+2689,non-small cell lung cancer nonsquamous,1710,1
+2690,non-small cell lung cancer nonsquamous,1749,1
+2691,non-small cell lung cancer nonsquamous,1750,1
+2692,non-small cell lung cancer nonsquamous,1923,1
+2693,non-small cell lung cancer nonsquamous,2045,1
+2694,non-small cell lung cancer squamous,53,1
+2695,non-small cell lung cancer squamous,92,1
+2696,non-small cell lung cancer squamous,148,1
+2697,non-small cell lung cancer squamous,338,1
+2698,non-small cell lung cancer squamous,391,1
+2699,non-small cell lung cancer squamous,394,1
+2700,non-small cell lung cancer squamous,400,1
+2701,non-small cell lung cancer squamous,401,1
+2702,non-small cell lung cancer squamous,402,1
+2703,non-small cell lung cancer squamous,404,1
+2704,non-small cell lung cancer squamous,407,1
+2705,non-small cell lung cancer squamous,408,1
+2706,non-small cell lung cancer squamous,409,1
+2707,non-small cell lung cancer squamous,413,1
+2708,non-small cell lung cancer squamous,414,1
+2709,non-small cell lung cancer squamous,416,1
+2710,non-small cell lung cancer squamous,422,1
+2711,non-small cell lung cancer squamous,432,1
+2712,non-small cell lung cancer squamous,435,1
+2713,non-small cell lung cancer squamous,559,1
+2714,non-small cell lung cancer squamous,561,1
+2715,non-small cell lung cancer squamous,562,1
+2716,non-small cell lung cancer squamous,563,1
+2717,non-small cell lung cancer squamous,939,1
+2718,non-small cell lung cancer squamous,1384,1
+2719,non-small cell lung cancer squamous,1661,1
+2720,non-small cell lung cancer squamous,1894,1
+2721,non-small cell lung cancer squamous,1911,1
+2722,ntrk,1043,1
+2723,ntrk,1444,1
+2724,oropharyngeal cancer,573,1
+2725,osteosarcoma,93,1
+2726,osteosarcoma,108,1
+2727,osteosarcoma,314,1
+2728,osteosarcoma,338,1
+2729,osteosarcoma,586,1
+2730,osteosarcoma,669,1
+2731,osteosarcoma,755,1
+2732,osteosarcoma,762,1
+2733,osteosarcoma,937,1
+2734,osteosarcoma,973,1
+2735,osteosarcoma,1249,1
+2736,osteosarcoma,1336,1
+2737,osteosarcoma,1382,1
+2738,osteosarcoma,1501,1
+2739,osteosarcoma,1502,1
+2740,osteosarcoma,1504,1
+2741,osteosarcoma,1515,1
+2742,osteosarcoma,1516,1
+2743,osteosarcoma,1517,1
+2744,osteosarcoma,1561,1
+2745,osteosarcoma,1869,1
+2746,osteosarcoma,1923,1
+2747,osteosarcoma pediatric,1515,1
+2748,ovarian cancer,101,1
+2749,ovarian cancer,102,1
+2750,ovarian cancer,239,1
+2751,ovarian cancer,275,1
+2752,ovarian cancer,338,1
+2753,ovarian cancer,381,1
+2754,ovarian cancer,383,1
+2755,ovarian cancer,391,1
+2756,ovarian cancer,393,1
+2757,ovarian cancer,403,1
+2758,ovarian cancer,410,1
+2759,ovarian cancer,412,1
+2760,ovarian cancer,424,1
+2761,ovarian cancer,437,1
+2762,ovarian cancer,481,1
+2763,ovarian cancer,495,1
+2764,ovarian cancer,503,1
+2765,ovarian cancer,531,1
+2766,ovarian cancer,577,1
+2767,ovarian cancer,579,1
+2768,ovarian cancer,1073,1
+2769,ovarian cancer,1242,1
+2770,ovarian cancer,1249,1
+2771,ovarian cancer,1285,1
+2772,ovarian cancer,1379,1
+2773,ovarian cancer,1380,1
+2774,ovarian cancer,1381,1
+2775,ovarian cancer,1582,1
+2776,ovarian cancer,1639,1
+2777,ovarian cancer,1657,1
+2778,ovarian cancer,1689,1
+2779,ovarian cancer,1690,1
+2780,ovarian cancer,1710,1
+2781,ovarian cancer,1711,1
+2782,ovarian cancer,1729,1
+2783,ovarian cancer,1744,1
+2784,ovarian cancer,1745,1
+2785,ovarian cancer,1746,1
+2786,ovarian cancer,1750,1
+2787,ovarian cancer,1888,1
+2788,ovarian cancer,1962,1
+2789,ovarian cancer,2015,1
+2790,ovarian cancer,2016,1
+2791,ovarian cancer,2025,1
+2792,ovarian cancer,2033,1
+2793,pancreatic cancer,339,1
+2794,pancreatic cancer,341,1
+2795,pancreatic cancer,355,1
+2796,pancreatic cancer,365,1
+2797,pancreatic cancer,391,1
+2798,pancreatic cancer,955,1
+2799,pancreatic cancer,1061,1
+2800,pancreatic cancer,1136,1
+2801,pancreatic cancer,1139,1
+2802,pancreatic cancer,1160,1
+2803,pancreatic cancer,1163,1
+2804,pancreatic cancer,1184,1
+2805,pancreatic cancer,1190,1
+2806,pancreatic cancer,1192,1
+2807,pancreatic cancer,1209,1
+2808,pancreatic cancer,1214,1
+2809,pancreatic cancer,1241,1
+2810,pancreatic cancer,1244,1
+2811,pancreatic cancer,1249,1
+2812,pancreatic cancer,1250,1
+2813,pancreatic cancer,1253,1
+2814,pancreatic cancer,1255,1
+2815,pancreatic cancer,1273,1
+2816,pancreatic cancer,1396,1
+2817,pancreatic cancer,1639,1
+2818,pancreatic cancer,1644,1
+2819,pancreatic cancer,1690,1
+2820,pancreatic cancer,1740,1
+2821,pancreatic cancer,1894,1
+2822,pancreatic cancer,1920,1
+2823,pancreatic cancer,1925,1
+2824,pancreatic net,351,1
+2825,pancreatic net,970,1
+2826,pancreatic net,1082,1
+2827,pancreatic net,1085,1
+2828,pancreatic net,1111,1
+2829,pancreatic net,1162,1
+2830,pancreatic net,1434,1
+2831,pancreatic net,1435,1
+2832,pancreatic net,1496,1
+2833,pancreatic net,1682,1
+2834,pancreatic net,1684,1
+2835,pancreatic net,1685,1
+2836,pancreatic net,1932,1
+2837,pancreatic net,1980,1
+2838,pancreatic net,1985,1
+2839,pancreatic net,1986,1
+2840,papillary renal cell carcinoma,314,1
+2841,papillary renal cell carcinoma,1063,1
+2842,papillary renal cell carcinoma,1932,1
+2843,paroxysmal nocturnal hemoglobinuria,1019,1
+2844,paroxysmal nocturnal hemoglobinuria,1388,1
+2845,paroxysmal nocturnal hemoglobinuria,1867,1
+2846,pecoma,1641,1
+2847,penile cancer,260,1
+2848,penile cancer,338,1
+2849,penile cancer,399,1
+2850,penile cancer,543,1
+2851,penile cancer,884,1
+2852,penile cancer,1724,1
+2853,penile cancer,1733,1
+2854,penile cancer,2005,1
+2855,penile cancer,2083,1
+2856,peripheral t-cell lymphoma,22,1
+2857,peripheral t-cell lymphoma,214,1
+2858,peripheral t-cell lymphoma,218,1
+2859,peripheral t-cell lymphoma,230,1
+2860,peripheral t-cell lymphoma,270,1
+2861,peripheral t-cell lymphoma,281,1
+2862,peripheral t-cell lymphoma,299,1
+2863,peripheral t-cell lymphoma,501,1
+2864,peripheral t-cell lymphoma,515,1
+2865,peripheral t-cell lymphoma,516,1
+2866,peripheral t-cell lymphoma,517,1
+2867,peripheral t-cell lymphoma,520,1
+2868,peripheral t-cell lymphoma,632,1
+2869,peripheral t-cell lymphoma,761,1
+2870,peripheral t-cell lymphoma,825,1
+2871,peripheral t-cell lymphoma,858,1
+2872,peripheral t-cell lymphoma,888,1
+2873,peripheral t-cell lymphoma,928,1
+2874,peripheral t-cell lymphoma,990,1
+2875,peripheral t-cell lymphoma,1150,1
+2876,peripheral t-cell lymphoma,1201,1
+2877,peripheral t-cell lymphoma,1230,1
+2878,peripheral t-cell lymphoma,1231,1
+2879,peripheral t-cell lymphoma,1249,1
+2880,peripheral t-cell lymphoma,1309,1
+2881,peripheral t-cell lymphoma,1454,1
+2882,peripheral t-cell lymphoma,1606,1
+2883,peripheral t-cell lymphoma,1793,1
+2884,peripheral t-cell lymphoma,1881,1
+2885,pheochromocytoma,741,1
+2886,pheochromocytoma,1932,1
+2887,plasma cell leukemia,338,1
+2888,plasma cell leukemia,1449,1
+2889,plasma cell leukemia,1454,1
+2890,plasma cell leukemia,1721,1
+2891,poems syndrome,1449,1
+2892,polycythemia vera,109,1
+2893,polycythemia vera,145,1
+2894,polycythemia vera,338,1
+2895,polycythemia vera,1302,1
+2896,polycythemia vera,1454,1
+2897,polycythemia vera,1742,1
+2898,polycythemia vera,1883,1
+2899,polycythemia vera,1889,1
+2900,post-transplant lymphoproliferative disorder,68,1
+2901,post-transplant lymphoproliferative disorder,1809,1
+2902,post-transplant lymphoproliferative disorder,1819,1
+2903,post-transplant lymphoproliferative disorder,1828,1
+2904,post-transplant lymphoproliferative disorder,1878,1
+2905,post-transplant lymphoproliferative disorder,1949,1
+2906,primary mediastinal b-cell lymphoma,171,1
+2907,primary mediastinal b-cell lymphoma,826,1
+2908,primary mediastinal b-cell lymphoma,1150,1
+2909,primary mediastinal b-cell lymphoma,1474,1
+2910,primary mediastinal b-cell lymphoma,1748,1
+2911,primary mediastinal b-cell lymphoma,1819,1
+2912,primary mediastinal b-cell lymphoma,1820,1
+2913,primary mediastinal b-cell lymphoma,1834,1
+2914,primary mediastinal b-cell lymphoma,1842,1
+2915,prostate cancer,7,1
+2916,prostate cancer,26,1
+2917,prostate cancer,38,1
+2918,prostate cancer,39,1
+2919,prostate cancer,40,1
+2920,prostate cancer,41,1
+2921,prostate cancer,77,1
+2922,prostate cancer,78,1
+2923,prostate cancer,79,1
+2924,prostate cancer,80,1
+2925,prostate cancer,81,1
+2926,prostate cancer,82,1
+2927,prostate cancer,83,1
+2928,prostate cancer,84,1
+2929,prostate cancer,85,1
+2930,prostate cancer,86,1
+2931,prostate cancer,87,1
+2932,prostate cancer,88,1
+2933,prostate cancer,120,1
+2934,prostate cancer,195,1
+2935,prostate cancer,244,1
+2936,prostate cancer,245,1
+2937,prostate cancer,246,1
+2938,prostate cancer,247,1
+2939,prostate cancer,309,1
+2940,prostate cancer,310,1
+2941,prostate cancer,314,1
+2942,prostate cancer,338,1
+2943,prostate cancer,383,1
+2944,prostate cancer,425,1
+2945,prostate cancer,633,1
+2946,prostate cancer,764,1
+2947,prostate cancer,781,1
+2948,prostate cancer,787,1
+2949,prostate cancer,913,1
+2950,prostate cancer,917,1
+2951,prostate cancer,936,1
+2952,prostate cancer,942,1
+2953,prostate cancer,943,1
+2954,prostate cancer,951,1
+2955,prostate cancer,952,1
+2956,prostate cancer,973,1
+2957,prostate cancer,1045,1
+2958,prostate cancer,1046,1
+2959,prostate cancer,1172,1
+2960,prostate cancer,1173,1
+2961,prostate cancer,1174,1
+2962,prostate cancer,1175,1
+2963,prostate cancer,1176,1
+2964,prostate cancer,1267,1
+2965,prostate cancer,1269,1
+2966,prostate cancer,1297,1
+2967,prostate cancer,1369,1
+2968,prostate cancer,1385,1
+2969,prostate cancer,1418,1
+2970,prostate cancer,1419,1
+2971,prostate cancer,1466,1
+2972,prostate cancer,1589,1
+2973,prostate cancer,1590,1
+2974,prostate cancer,1654,1
+2975,prostate cancer,1690,1
+2976,prostate cancer,1798,1
+2977,prostate cancer,1870,1
+2978,prostate cancer,1888,1
+2979,prostate cancer,1912,1
+2980,prostate cancer,1933,1
+2981,prostate cancer,1934,1
+2982,prostate cancer,2036,1
+2983,prostate cancer,2037,1
+2984,prostate cancer,2104,1
+2985,rectal cancer,350,1
+2986,rectal cancer,355,1
+2987,rectal cancer,364,1
+2988,rectal cancer,365,1
+2989,rectal cancer,372,1
+2990,rectal cancer,375,1
+2991,rectal cancer,1139,1
+2992,rectal cancer,1160,1
+2993,rectal cancer,1163,1
+2994,rectal cancer,1167,1
+2995,rectal cancer,1190,1
+2996,rectal cancer,1209,1
+2997,rectal cancer,1215,1
+2998,rectal cancer,1573,1
+2999,rectal cancer,1894,1
+3000,rectal cancer,2045,1
+3001,renal cell carcinoma,147,1
+3002,renal cell carcinoma,220,1
+3003,renal cell carcinoma,236,1
+3004,renal cell carcinoma,239,1
+3005,renal cell carcinoma,314,1
+3006,renal cell carcinoma,543,1
+3007,renal cell carcinoma,1060,1
+3008,renal cell carcinoma,1081,1
+3009,renal cell carcinoma,1085,1
+3010,renal cell carcinoma,1246,1
+3011,renal cell carcinoma,1293,1
+3012,renal cell carcinoma,1361,1
+3013,renal cell carcinoma,1362,1
+3014,renal cell carcinoma,1366,1
+3015,renal cell carcinoma,1367,1
+3016,renal cell carcinoma,1456,1
+3017,renal cell carcinoma,1458,1
+3018,renal cell carcinoma,1489,1
+3019,renal cell carcinoma,1532,1
+3020,renal cell carcinoma,1535,1
+3021,renal cell carcinoma,1661,1
+3022,renal cell carcinoma,1729,1
+3023,renal cell carcinoma,1869,1
+3024,renal cell carcinoma,1923,1
+3025,renal cell carcinoma,1932,1
+3026,renal cell carcinoma,1990,1
+3027,renal cell carcinoma,2010,1
+3028,renal cell carcinoma,2104,1
+3029,ret,1903,1
+3030,rhabdomyosarcoma,459,1
+3031,rhabdomyosarcoma,669,1
+3032,rhabdomyosarcoma,681,1
+3033,rhabdomyosarcoma,2051,1
+3034,rhabdomyosarcoma,2069,1
+3035,rhabdomyosarcoma,2102,1
+3036,rhabdomyosarcoma pediatric,681,1
+3037,rhabdomyosarcoma pediatric,697,1
+3038,rhabdomyosarcoma pediatric,698,1
+3039,rhabdomyosarcoma pediatric,699,1
+3040,rhabdomyosarcoma pediatric,700,1
+3041,rhabdomyosarcoma pediatric,701,1
+3042,rhabdomyosarcoma pediatric,702,1
+3043,rhabdomyosarcoma pediatric,840,1
+3044,rosai-dorfman-destombes disease,651,1
+3045,sarcomatoid renal cell carcinoma,965,1
+3046,sarcomatoid renal cell carcinoma,1246,1
+3047,sickle cell anemia,1301,1
+3048,sickle cell anemia,1302,1
+3049,small bowel adenocarcinoma,1748,1
+3050,small cell lung cancer,93,1
+3051,small cell lung cancer,107,1
+3052,small cell lung cancer,190,1
+3053,small cell lung cancer,219,1
+3054,small cell lung cancer,230,1
+3055,small cell lung cancer,239,1
+3056,small cell lung cancer,275,1
+3057,small cell lung cancer,338,1
+3058,small cell lung cancer,384,1
+3059,small cell lung cancer,385,1
+3060,small cell lung cancer,386,1
+3061,small cell lung cancer,387,1
+3062,small cell lung cancer,388,1
+3063,small cell lung cancer,389,1
+3064,small cell lung cancer,399,1
+3065,small cell lung cancer,408,1
+3066,small cell lung cancer,426,1
+3067,small cell lung cancer,459,1
+3068,small cell lung cancer,460,1
+3069,small cell lung cancer,461,1
+3070,small cell lung cancer,462,1
+3071,small cell lung cancer,472,1
+3072,small cell lung cancer,487,1
+3073,small cell lung cancer,488,1
+3074,small cell lung cancer,540,1
+3075,small cell lung cancer,541,1
+3076,small cell lung cancer,542,1
+3077,small cell lung cancer,587,1
+3078,small cell lung cancer,757,1
+3079,small cell lung cancer,778,1
+3080,small cell lung cancer,779,1
+3081,small cell lung cancer,780,1
+3082,small cell lung cancer,1050,1
+3083,small cell lung cancer,1052,1
+3084,small cell lung cancer,1073,1
+3085,small cell lung cancer,1249,1
+3086,small cell lung cancer,1321,1
+3087,small cell lung cancer,1343,1
+3088,small cell lung cancer,1345,1
+3089,small cell lung cancer,1384,1
+3090,small cell lung cancer,1386,1
+3091,small cell lung cancer,1397,1
+3092,small cell lung cancer,1409,1
+3093,small cell lung cancer,1493,1
+3094,small cell lung cancer,1506,1
+3095,small cell lung cancer,1661,1
+3096,small cell lung cancer,1731,1
+3097,small cell lung cancer,1732,1
+3098,small cell lung cancer,1748,1
+3099,small cell lung cancer,1932,1
+3100,small cell lung cancer,1967,1
+3101,small cell lung cancer,1986,1
+3102,small cell lung cancer,1991,1
+3103,small cell lung cancer,2016,1
+3104,small cell lung cancer,2113,1
+3105,small cell lung cancer,2128,1
+3106,small cell lung cancer,2129,1
+3107,smo or ptch-1 (hedgehog),2116,1
+3108,smoldering multiple myeloma,338,1
+3109,smoldering multiple myeloma,1449,1
+3110,smoldering multiple myeloma,1454,1
+3111,smoldering multiple myeloma,1539,1
+3112,soft tissue sarcoma,7,1
+3113,soft tissue sarcoma,577,1
+3114,soft tissue sarcoma,832,1
+3115,soft tissue sarcoma,837,1
+3116,soft tissue sarcoma,937,1
+3117,soft tissue sarcoma,966,1
+3118,soft tissue sarcoma,968,1
+3119,soft tissue sarcoma,973,1
+3120,soft tissue sarcoma,974,1
+3121,soft tissue sarcoma,1026,1
+3122,soft tissue sarcoma,1052,1
+3123,soft tissue sarcoma,1054,1
+3124,soft tissue sarcoma,1248,1
+3125,soft tissue sarcoma,1345,1
+3126,soft tissue sarcoma,1354,1
+3127,soft tissue sarcoma,1514,1
+3128,soft tissue sarcoma,1729,1
+3129,soft tissue sarcoma,1869,1
+3130,soft tissue sarcoma,1986,1
+3131,soft tissue sarcoma,2025,1
+3132,stem cell mobilization,317,1
+3133,stem cell mobilization,756,1
+3134,stem cell mobilization,792,1
+3135,stem cell mobilization,793,1
+3136,stem cell mobilization,813,1
+3137,stem cell mobilization,882,1
+3138,stem cell mobilization,922,1
+3139,stem cell mobilization,999,1
+3140,stem cell mobilization,1348,1
+3141,stem cell mobilization regimens,317,1
+3142,stem cell mobilization regimens,756,1
+3143,stem cell mobilization regimens,792,1
+3144,stem cell mobilization regimens,793,1
+3145,stem cell mobilization regimens,813,1
+3146,stem cell mobilization regimens,882,1
+3147,stem cell mobilization regimens,922,1
+3148,stem cell mobilization regimens,999,1
+3149,stem cell mobilization regimens,1348,1
+3150,subependymal giant cell astrocytoma,1085,1
+3151,systemic mastocytosis,165,1
+3152,systemic mastocytosis,616,1
+3153,systemic mastocytosis,862,1
+3154,systemic mastocytosis,1354,1
+3155,systemic mastocytosis,1366,1
+3156,systemic mastocytosis,1577,1
+3157,systemic mastocytosis,1652,1
+3158,t-cell acute lymphoblastic leukemia,769,1
+3159,t-cell acute lymphoblastic leukemia,872,1
+3160,t-cell acute lymphoblastic leukemia,1072,1
+3161,t-cell acute lymphoblastic leukemia,1647,1
+3162,t-cell acute lymphoblastic leukemia,1798,1
+3163,t-cell acute lymphoblastic leukemia pediatric,661,1
+3164,t-cell acute lymphoblastic leukemia pediatric,668,1
+3165,t-cell acute lymphoblastic leukemia pediatric,766,1
+3166,t-cell acute lymphoblastic leukemia pediatric,767,1
+3167,t-cell acute lymphoblastic leukemia pediatric,870,1
+3168,t-cell acute lymphoblastic leukemia pediatric,872,1
+3169,t-cell acute lymphoblastic leukemia pediatric,873,1
+3170,t-cell acute lymphoblastic leukemia pediatric,956,1
+3171,t-cell acute lymphoblastic leukemia pediatric,976,1
+3172,t-cell acute lymphoblastic leukemia pediatric,978,1
+3173,t-cell acute lymphoblastic leukemia pediatric,1072,1
+3174,t-cell acute lymphoblastic leukemia pediatric,1426,1
+3175,t-cell acute lymphoblastic leukemia pediatric,1552,1
+3176,t-cell acute lymphoblastic leukemia pediatric,1566,1
+3177,t-cell acute lymphoblastic leukemia pediatric,1593,1
+3178,t-cell acute lymphoblastic leukemia pediatric,1594,1
+3179,t-cell acute lymphoblastic leukemia pediatric,1647,1
+3180,t-cell prolymphocytic leukemia,97,1
+3181,t-cell prolymphocytic leukemia,230,1
+3182,t-cell prolymphocytic leukemia,1316,1
+3183,t-cell prolymphocytic leukemia,1754,1
+3184,tenosynovial giant cell tumor,1763,1
+3185,testicular cancer,60,1
+3186,testicular cancer,232,1
+3187,testicular cancer,256,1
+3188,testicular cancer,257,1
+3189,testicular cancer,302,1
+3190,testicular cancer,304,1
+3191,testicular cancer,384,1
+3192,testicular cancer,391,1
+3193,testicular cancer,424,1
+3194,testicular cancer,510,1
+3195,testicular cancer,532,1
+3196,testicular cancer,539,1
+3197,testicular cancer,1073,1
+3198,testicular cancer,1252,1
+3199,testicular cancer,1255,1
+3200,testicular cancer,1261,1
+3201,testicular cancer,1343,1
+3202,testicular cancer,1503,1
+3203,testicular cancer,1700,1
+3204,testicular cancer,1777,1
+3205,testicular cancer,1932,1
+3206,testicular cancer,2005,1
+3207,testicular cancer,2056,1
+3208,testicular cancer,2091,1
+3209,testicular cancer,2113,1
+3210,thrombocytopenia in liver disease,166,1
+3211,thrombocytopenia in liver disease,1495,1
+3212,thrombotic thrombocytopenic purpura,1566,1
+3213,thrombotic thrombocytopenic purpura,1878,1
+3214,thrombotic thrombocytopenic purpura,2106,1
+3215,thymoma,75,1
+3216,thymoma,338,1
+3217,thymoma,341,1
+3218,thymoma,384,1
+3219,thymoma,531,1
+3220,thymoma,1085,1
+3221,thymoma,1345,1
+3222,thymoma,1683,1
+3223,thymoma,1685,1
+3224,thymoma,1708,1
+3225,thymoma,1932,1
+3226,thymoma,2113,1
+3227,thyroid cancer,176,1
+3228,thyroid cancer,828,1
+3229,thyroid cancer,973,1
+3230,thyroid cancer,1794,1
+3231,thyroid cancer,1903,1
+3232,thyroid cancer,1923,1
+3233,thyroid cancer,2093,1
+3234,thyroid cancer differentiated,123,1
+3235,thyroid cancer differentiated,176,1
+3236,thyroid cancer differentiated,314,1
+3237,thyroid cancer differentiated,957,1
+3238,thyroid cancer differentiated,1458,1
+3239,thyroid cancer differentiated,1729,1
+3240,thyroid cancer differentiated,1863,1
+3241,thyroid cancer differentiated,1923,1
+3242,thyroid cancer differentiated,1932,1
+3243,thyroid cancer differentiated,2074,1
+3244,thyroid cancer medullary,176,1
+3245,thyroid cancer medullary,314,1
+3246,thyroid cancer medullary,1903,1
+3247,thyroid cancer medullary,1923,1
+3248,thyroid cancer medullary,1932,1
+3249,thyroid cancer medullary,2074,1
+3250,tmb-h,1748,1
+3251,transformed lymphoma,2,1
+3252,transformed lymphoma,171,1
+3253,transformed lymphoma,230,1
+3254,transformed lymphoma,242,1
+3255,transformed lymphoma,1051,1
+3256,transformed lymphoma,1263,1
+3257,transformed lymphoma,1452,1
+3258,transformed lymphoma,1453,1
+3259,transformed lymphoma,1454,1
+3260,transformed lymphoma,1474,1
+3261,transformed lymphoma,1484,1
+3262,transformed lymphoma,1687,1
+3263,transformed lymphoma,1748,1
+3264,transformed lymphoma,1834,1
+3265,transformed lymphoma,1837,1
+3266,transformed lymphoma,1842,1
+3267,transformed lymphoma,1902,1
+3268,transformed lymphoma,2006,1
+3269,upper tract urothelial carcinoma,391,1
+3270,upper tract urothelial carcinoma,1585,1
+3271,upper tract urothelial carcinoma,1773,1
+3272,urothelial carcinoma,148,1
+3273,urothelial carcinoma,169,1
+3274,urothelial carcinoma,338,1
+3275,urothelial carcinoma,391,1
+3276,urothelial carcinoma,392,1
+3277,urothelial carcinoma,396,1
+3278,urothelial carcinoma,531,1
+3279,urothelial carcinoma,556,1
+3280,urothelial carcinoma,562,1
+3281,urothelial carcinoma,563,1
+3282,urothelial carcinoma,577,1
+3283,urothelial carcinoma,944,1
+3284,urothelial carcinoma,988,1
+3285,urothelial carcinoma,989,1
+3286,urothelial carcinoma,1039,1
+3287,urothelial carcinoma,1040,1
+3288,urothelial carcinoma,1056,1
+3289,urothelial carcinoma,1249,1
+3290,urothelial carcinoma,1624,1
+3291,urothelial carcinoma,1625,1
+3292,urothelial carcinoma,1639,1
+3293,urothelial carcinoma,1661,1
+3294,urothelial carcinoma,1748,1
+3295,urothelial carcinoma,1750,1
+3296,urothelial carcinoma,1767,1
+3297,urothelial carcinoma,1895,1
+3298,urothelial carcinoma,2007,1
+3299,urothelial carcinoma,2019,1
+3300,urothelial carcinoma,2108,1
+3301,uveal melanoma,837,1
+3302,uveal melanoma,1203,1
+3303,uveal melanoma,1384,1
+3304,uveal melanoma,1386,1
+3305,uveal melanoma,1748,1
+3306,uveal melanoma,1904,1
+3307,uveal melanoma,1975,1
+3308,uveal melanoma,1986,1
+3309,vascular sarcoma,239,1
+3310,vascular sarcoma,338,1
+3311,vascular sarcoma,1729,1
+3312,venous thromboembolism,124,1
+3313,venous thromboembolism,130,1
+3314,venous thromboembolism,145,1
+3315,venous thromboembolism,234,1
+3316,venous thromboembolism,827,1
+3317,venous thromboembolism,841,1
+3318,venous thromboembolism,1022,1
+3319,venous thromboembolism,1041,1
+3320,venous thromboembolism,1284,1
+3321,venous thromboembolism,1459,1
+3322,venous thromboembolism,1879,1
+3323,venous thromboembolism,2145,1
+3324,vulvar cancer,338,1
+3325,vulvar cancer,573,1
+3326,waldenstroem macroglobulinemia,97,1
+3327,waldenstroem macroglobulinemia,210,1
+3328,waldenstroem macroglobulinemia,226,1
+3329,waldenstroem macroglobulinemia,273,1
+3330,waldenstroem macroglobulinemia,275,1
+3331,waldenstroem macroglobulinemia,450,1
+3332,waldenstroem macroglobulinemia,509,1
+3333,waldenstroem macroglobulinemia,615,1
+3334,waldenstroem macroglobulinemia,983,1
+3335,waldenstroem macroglobulinemia,984,1
+3336,waldenstroem macroglobulinemia,1085,1
+3337,waldenstroem macroglobulinemia,1116,1
+3338,waldenstroem macroglobulinemia,1145,1
+3339,waldenstroem macroglobulinemia,1149,1
+3340,waldenstroem macroglobulinemia,1314,1
+3341,waldenstroem macroglobulinemia,1317,1
+3342,waldenstroem macroglobulinemia,1333,1
+3343,waldenstroem macroglobulinemia,1335,1
+3344,waldenstroem macroglobulinemia,1454,1
+3345,waldenstroem macroglobulinemia,1688,1
+3346,waldenstroem macroglobulinemia,1726,1
+3347,waldenstroem macroglobulinemia,1736,1
+3348,waldenstroem macroglobulinemia,1819,1
+3349,waldenstroem macroglobulinemia,1878,1
+3350,waldenstroem macroglobulinemia,1892,1
+3351,waldenstroem macroglobulinemia,2000,1
+3352,waldenstroem macroglobulinemia,2096,1
+3353,waldenstroem macroglobulinemia,2149,1
+3354,warm autoimmune hemolytic anemia,1795,1
+3355,warm autoimmune hemolytic anemia,1796,1
+3356,warm autoimmune hemolytic anemia,1797,1
+3357,warm autoimmune hemolytic anemia,1798,1
+3358,whim syndrome,1776,1
+3359,wilms tumor,839,1
+3360,wilms tumor,840,1
+3361,wilms tumor,2106,1

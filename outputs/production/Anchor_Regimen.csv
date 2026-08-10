@@ -1,0 +1,2152 @@
+regimen_id,regimen_name
+1,(90)yfc
+2,131iodine-tositumomab monotherapy
+3,5 plus 2d
+4,5 plus 2i
+5,5 plus 3d
+6,5 plus 3i
+7,7 plus 3d
+8,7 plus 3d and glasdegib
+9,7 plus 3d and go
+10,7 plus 3d and midostaurin
+11,7 plus 3d and quizartinib
+12,7 plus 3d and sorafenib
+13,7 plus 3i
+14,7 plus 3i and panobinostat
+15,7 plus 3i and quizartinib
+16,7 plus 3i and sorafenib
+17,7 plus 3i and vorinostat
+18,7 plus 3m
+19,7 plus 5i
+20,7+3
+21,a-avd
+22,a-chop
+23,a-cmf
+24,aall0232 consolidation
+25,aall0932 delayed intensification
+26,abarelix monotherapy
+27,abc
+28,abcd
+29,abcm
+30,abcp
+31,abd
+32,abdic
+33,abemaciclib and anastrozole
+34,abemaciclib and et
+35,abemaciclib and fulvestrant
+36,abemaciclib and letrozole
+37,abemaciclib monotherapy
+38,abiraterone and apalutamide
+39,abiraterone and niraparib
+40,abiraterone and olaparib
+41,abiraterone monotherapy
+42,abp
+43,abv (vinblastine)
+44,abvd
+45,"abvd, dd-di"
+46,abvdm
+47,abve
+48,abve-pc
+49,ac-cmf
+50,ac-d
+51,ac-h
+52,ac-t
+53,ac-th (docetaxel)
+54,ac-thl (paclitaxel)
+55,ac-thp (docetaxel)
+56,"ac-thp (docetaxel, phesgo)"
+57,ac-tl (paclitaxel)
+58,acalabrutinib and obinutuzumab
+59,acalabrutinib monotherapy
+60,accelerated bep
+61,acep
+62,ach
+63,acoap
+64,acomla
+65,acopp
+66,act
+67,act-fu-cy
+68,acvbp
+69,adagrasib and cetuximab
+70,adagrasib monotherapy
+71,ade (high-dose ara-c)
+72,ade and atra
+73,ade and go
+74,adm
+75,adoc
+76,adria-l-pam
+77,adt
+78,adt and abiraterone
+79,adt and apalutamide
+80,adt and bicalutamide
+81,adt and darolutamide
+82,adt and docetaxel
+83,adt and enzalutamide
+84,adt and flutamide
+85,adt and nilutamide
+86,adt and rt
+87,"adt, darolutamide, docetaxel"
+88,"adt, enzalutamide, talazoparib"
+89,afatinib and bevacizumab
+90,afatinib and cetuximab
+91,afatinib and paclitaxel
+92,afatinib monotherapy
+93,aie
+94,alectinib monotherapy
+95,alemtuzumab and methylprednisolone
+96,alemtuzumab and rituximab
+97,alemtuzumab monotherapy
+98,alitretinoin monotherapy
+99,alomad
+100,alpelisib and fulvestrant
+101,altretamine and cisplatin (hd)
+102,altretamine monotherapy
+103,aminoglutethimide monotherapy
+104,amivantamab monotherapy
+105,amoxicillin and omemprazole
+106,"amoxicillin, clarithromycin, ppi, bismuth"
+107,amrubicin monotherapy
+108,amsacrine and hidac
+109,anagrelide monotherapy
+110,anakinra monotherapy
+111,anastrozole and fulvestrant
+112,anastrozole and goserelin
+113,anastrozole and palbociclib
+114,anastrozole and ribociclib
+115,anastrozole and trastuzumab
+116,anastrozole monotherapy
+117,"anastrozole, goserelin, palbociclib"
+118,"anastrozole, lapatinib, trastuzumab"
+119,anlotinib monotherapy
+120,apalutamide monotherapy
+121,apatinib and camrelizumab
+122,apatinib and gefitinib
+123,apatinib monotherapy
+124,apixaban monotherapy
+125,apo
+126,apo regimen
+127,ara-c + dnr + pred + mp
+128,ara-c-hu
+129,ara-c/mtx
+130,argatroban monotherapy
+131,arsenic trioxide and atra
+132,arsenic trioxide and chlorambucil
+133,arsenic trioxide and idarubicin
+134,arsenic trioxide monotherapy
+135,"arsenic trioxide, atra, gemtuzumab ozogamicin"
+136,"arsenic trioxide, atra, idarubicin"
+137,arsenic trioxide-atra and daunorubicin
+138,asciminib monotherapy
+139,ashap
+140,ashap/m-bacos
+141,aspametdex
+142,aspirin and anagrelide
+143,aspirin and hydroxyurea
+144,aspirin and warfarin
+145,aspirin monotherapy
+146,at-cmf
+147,atezolizumab and bevacizumab
+148,atezolizumab monotherapy
+149,atg (horse) and cyclosporine
+150,atg (horse) monotherapy
+151,"atg (horse), cyclosporine, eltrombopag"
+152,"atg (horse), cyclosporine, g-csf"
+153,"atg (horse), cyclosporine, sirolimus"
+154,atg (rabbit) and cyclosporine
+155,atra (263)
+156,atra and danazol
+157,atra and daunorubicin
+158,atra and idarubicin
+159,atra monotherapy
+160,"atra, cytarabine, daunorubicin"
+161,"atra, cytarabine, idarubicin"
+162,"atra, mercaptopurine, methotrexate"
+163,augmented hyper-cvad/ma and asparaginase
+164,aumolertinib monotherapy
+165,avapritinib monotherapy
+166,avatrombopag monotherapy
+167,avcf
+168,avd
+169,avelumab monotherapy
+170,avo
+171,axicabtagene ciloleucel monotherapy
+172,axitinib and avelumab
+173,axitinib and pembrolizumab
+174,axitinib and tace
+175,axitinib and toripalimab
+176,axitinib monotherapy
+177,azacitidine and gemtuzumab ozogamicin
+178,azacitidine and ivosidenib
+179,azacitidine and lenalidomide
+180,azacitidine and sorafenib
+181,azacitidine and venetoclax
+182,azacitidine and vorinostat
+183,azacitidine monotherapy
+184,azacitidine oral monotherapy
+185,"azacitidine, vorinostat, gemtuzumab ozogamicin"
+186,b-cave
+187,b-dopa
+188,baby pog i protocol
+189,bac
+190,baco
+191,bacod
+192,bacon
+193,bamon
+194,basic
+195,bat
+196,bavip
+197,bbd
+198,bbvp-m
+199,bcap
+200,bcave
+201,bcd
+202,bcg and dacarbazine
+203,bcg vaccine monotherapy
+204,bchop
+205,bcmf
+206,bcnu/tt
+207,bcop
+208,bcvpp
+209,bcvpp-bleo
+210,bdr
+211,beac
+212,beacopp
+213,beacopp-14
+214,beam
+215,beeam
+216,begev
+217,belantamab mafodotin monotherapy
+218,belinostat monotherapy
+219,belotecan and cisplatin
+220,belzutifan monotherapy
+221,bemp
+222,bendamustine and brentuximab vedotin
+223,bendamustine and dexamethasone
+224,bendamustine and obinutuzumab
+225,bendamustine and ofatumumab
+226,bendamustine and rituximab (br)
+227,bendamustine and rituximab (br) and ibrutinib
+228,bendamustine and rituximab (br) and idelalisib
+229,bendamustine and rituximab (br) and polatuzumab vedotin
+230,bendamustine monotherapy
+231,benralizumab monotherapy
+232,bep
+233,bert
+234,betrixaban monotherapy
+235,bevacizumab + ifl
+236,bevacizumab and interferon alfa-2a
+237,bevacizumab and rituximab
+238,bevacizumab and rt
+239,bevacizumab monotherapy
+240,bexarotene and pralatrexate
+241,bexarotene monotherapy
+242,bfr
+243,bhd
+244,bicalutamide and goserelin
+245,bicalutamide and leuprolide
+246,bicalutamide and rt
+247,bicalutamide monotherapy
+248,bid
+249,binimetinib and encorafenib
+250,binimetinib monotherapy
+251,"binimetinib, encorafenib, cetuximab"
+252,bird
+253,bld
+254,bleo-comf
+255,bleomycin and cisplatin
+256,bleomycin and vinblastine
+257,bleomycin and vincristine (bo)
+258,"bleomycin, methotrexate, vinblastine/rt"
+259,blinatumomab monotherapy
+260,bmp
+261,bold
+262,bomp
+263,bonp
+264,bopam
+265,bopp
+266,bortezomib and cyclophosphamide
+267,bortezomib and dexamethasone (vd)
+268,bortezomib and dexamethasone (vd) and panobinostat
+269,bortezomib and melphalan
+270,bortezomib and panobinostat
+271,bortezomib and pegylated liposomal doxorubicin
+272,bortezomib and prednisone (vp)
+273,bortezomib and rituximab (vr)
+274,bortezomib and vorinostat
+275,bortezomib monotherapy
+276,"bortezomib, thalidomide, dexamethasone, panobinostat"
+277,bosutinib monotherapy
+278,br/rc
+279,brentuximab vedotin and dacarbazine
+280,brentuximab vedotin and nivolumab
+281,brentuximab vedotin monotherapy
+282,brexucabtagene autoleucel monotherapy
+283,brigatinib monotherapy
+284,btd
+285,bu/tt
+286,bu/tt/cy
+287,bucye
+288,bucytbi
+289,busulfan and cyclophosphamide
+290,busulfan and fludarabine
+291,busulfan and melphalan
+292,busulfan monotherapy
+293,"busulfan, cyclophosphamide, decitabine, g-csf"
+294,"busulfan, fludarabine, ibritumomab tiuxetan"
+295,"busulfan, fludarabine, ibritumomab tiuxetan, then allo hsct"
+296,"busulfan, fludarabine, thiotepa"
+297,"busulfan, fludarabine, thiotepa, then allo hsct"
+298,bv-avepc
+299,bv-chp
+300,bvam
+301,bvds
+302,bvp
+303,bvr
+304,c-bop
+305,c-mopp
+306,c-mopp/abv
+307,c-tpf
+308,c-vamp
+309,cabazitaxel and prednisolone
+310,cabazitaxel and prednisone
+311,cabo
+312,cabozantinib and erlotinib
+313,cabozantinib and nivolumab
+314,cabozantinib monotherapy
+315,"cabozantinib, ipilimumab, nivolumab"
+316,cac
+317,cad and g-csf
+318,caf and mpa
+319,cafp
+320,cafvp
+321,"calaspargase, daunorubicin, vincristine, prednisone"
+322,calgb 10-002 regimen
+323,calgb 8811 early intensification
+324,calgb 8811 late intensification
+325,camf
+326,camfp
+327,camp
+328,camrelizumab monotherapy
+329,cap
+330,cap-bop
+331,capecitabine and bevacizumab
+332,capecitabine and cisplatin (cx)
+333,capecitabine and cisplatin (cx) and cetuximab
+334,capecitabine and cisplatin (cx) and pembrolizumab
+335,capecitabine and cisplatin (cx) and tislelizumab
+336,capecitabine and cisplatin (cx) and trastuzumab
+337,"capecitabine and cisplatin (cx), pertuzumab, trastuzumab"
+338,capecitabine and docetaxel (tx)
+339,capecitabine and erlotinib
+340,capecitabine and fulvestrant
+341,capecitabine and gemcitabine
+342,capecitabine and ixabepilone
+343,capecitabine and lapatinib
+344,capecitabine and margetuximab
+345,capecitabine and mitomycin
+346,capecitabine and neratinib
+347,capecitabine and oxaliplatin (capeox) and tislelizumab
+348,"capecitabine and paclitaxel, nanoparticle albumin-bound"
+349,capecitabine and pyrotinib
+350,capecitabine and rt
+351,capecitabine and temozolomide
+352,capecitabine and trastuzumab (xh)
+353,capecitabine and trastuzumab (xh) and tucatinib
+354,capecitabine and vinflunine
+355,capecitabine monotherapy
+356,"capecitabine, bevacizumab, trastuzumab"
+357,"capecitabine, carboplatin, paclitaxel, rt"
+358,"capecitabine, cisplatin, rt"
+359,"capecitabine, docetaxel, oxaliplatin, rt"
+360,"capecitabine, docetaxel, rt"
+361,"capecitabine, mitomycin, rt"
+362,"capecitabine, oxaliplatin, rt"
+363,"capecitabine, paclitaxel, rt"
+364,"capecitabine, sorafenib, rt"
+365,capeox
+366,capeox and bevacizumab
+367,capeox and erlotinib
+368,capeox and nivolumab
+369,capeox and panitumumab
+370,capeox and pembrolizumab
+371,capeox and trastuzumab
+372,"capeox, cetuximab, rt"
+373,"capeox, pembrolizumab, trastuzumab"
+374,capiri-bev
+375,capirirt
+376,capivasertib and fulvestrant
+377,capmatinib monotherapy
+378,carbf
+379,carboplatin and bevacizumab
+380,carboplatin and cisplatin
+381,carboplatin and cyclophosphamide
+382,carboplatin and dacarbazine
+383,carboplatin and docetaxel
+384,carboplatin and etoposide (ce)
+385,carboplatin and etoposide (ce) and atezolizumab
+386,carboplatin and etoposide (ce) and bevacizumab
+387,carboplatin and etoposide (ce) and durvalumab
+388,carboplatin and etoposide (ce) and pembrolizumab
+389,carboplatin and etoposide (ce) and serplulimab
+390,carboplatin and fluorouracil
+391,carboplatin and gemcitabine (gcb)
+392,carboplatin and gemcitabine (gcb) and atezolizumab
+393,carboplatin and gemcitabine (gcb) and bevacizumab
+394,carboplatin and gemcitabine (gcb) and durvalumab
+395,carboplatin and gemcitabine (gcb) and paclitaxel
+396,carboplatin and gemcitabine (gcb) and pembrolizumab
+397,carboplatin and gemcitabine/erlotinib
+398,carboplatin and ifosfamide
+399,carboplatin and irinotecan
+400,carboplatin and nab-paclitaxel
+401,carboplatin and nab-paclitaxel (cnp) and serplulimab
+402,carboplatin and nab-paclitaxel (cnp) and tislelizumab
+403,carboplatin and paclitaxel (cp) and bevacizumab
+404,carboplatin and paclitaxel (cp) and camrelizumab
+405,carboplatin and paclitaxel (cp) and cemiplimab
+406,carboplatin and paclitaxel (cp) and dostarlimab
+407,carboplatin and paclitaxel (cp) and durvalumab
+408,carboplatin and paclitaxel (cp) and ipilimumab
+409,"carboplatin and paclitaxel (cp) and ipilimumab, nivolumab"
+410,carboplatin and paclitaxel (cp) and nintedanib
+411,carboplatin and paclitaxel (cp) and nivolumab
+412,carboplatin and paclitaxel (cp) and olaparib
+413,carboplatin and paclitaxel (cp) and pembrolizumab
+414,carboplatin and paclitaxel (cp) and penpulimab
+415,carboplatin and paclitaxel (cp) and rt
+416,carboplatin and paclitaxel (cp) and sugemalimab
+417,carboplatin and paclitaxel (cp) and trastuzumab
+418,"carboplatin and paclitaxel (cp), bevacizumab, nivolumab"
+419,"carboplatin and paclitaxel (cp), bevacizumab, pembrolizumab"
+420,"carboplatin and paclitaxel (cp), olaparib, durvalumab"
+421,carboplatin and rt
+422,carboplatin and s-1
+423,carboplatin and teniposide
+424,carboplatin monotherapy
+425,"carboplatin, docetaxel, prednisone"
+426,"carboplatin, etoposide, rt"
+427,"carboplatin, fluorouracil, cetuximab"
+428,"carboplatin, fluorouracil, cetuximab, rt"
+429,"carboplatin, fluorouracil, pembrolizumab"
+430,"carboplatin, fluorouracil, rt"
+431,"carboplatin, lazertinib, pemetrexed, amivantamab"
+432,"carboplatin, nab-paclitaxel, atezolizumab"
+433,"carboplatin, nab-paclitaxel, durvalumab"
+434,"carboplatin, nab-paclitaxel, durvalumab, tremelimumab"
+435,"carboplatin, nab-paclitaxel, pembrolizumab"
+436,"carboplatin, osimertinib, pemetrexed"
+437,"carboplatin, pegylated liposomal doxorubicin, bevacizumab"
+438,"carboplatin, pemetrexed, amivantamab"
+439,"carboplatin, pemetrexed, atezolizumab"
+440,"carboplatin, pemetrexed, bevacizumab"
+441,"carboplatin, pemetrexed, camrelizumab"
+442,"carboplatin, pemetrexed, cemiplimab"
+443,"carboplatin, pemetrexed, durvalumab"
+444,"carboplatin, pemetrexed, ipilimumab, nivolumab"
+445,"carboplatin, pemetrexed, pembrolizumab"
+446,"carboplatin, pemetrexed, sintilimab"
+447,"carboplatin, pemetrexed, sugemalimab"
+448,"carboplatin, pemetrexed, tislelizumab"
+449,"carboplatin, vinorelbine, rt"
+450,card
+451,carfilzomib and dexamethasone (kd)
+452,carfilzomib and lenalidomide (kr)
+453,carfilzomib and panobinostat
+454,carfilzomib monotherapy
+455,carmustine and doxorubicin
+456,carmustine and rt
+457,carmustine monotherapy
+458,cart-egfrviii monotherapy
+459,cav
+460,cav and rt
+461,cav/pe
+462,cave
+463,cbv
+464,cbv-mx
+465,ccavv
+466,cce
+467,ccnu-op
+468,ccop
+469,ccvv
+470,ccvvp
+471,cdb
+472,cde
+473,ceep
+474,cef/cmf
+475,celecoxib and methotrexate
+476,"celecoxib, erlotinib, methotrexate"
+477,"celecoxib, erlotinib, methotrexate, nivolumab"
+478,cem
+479,cemiplimab monotherapy
+480,ceop
+481,cep
+482,cepp
+483,cepp(b)
+484,ceritinib monotherapy
+485,cetuximab and rt
+486,cetuximab monotherapy
+487,cev (carboplatin/etoposide)
+488,cev and rt
+489,cfar
+490,cfl
+491,cfp
+492,cfp and bilateral oophorectomy
+493,cfpt
+494,cgi
+495,chad
+496,chamoca
+497,chd
+498,chd-r
+499,chex-up
+500,chf
+501,chidamide monotherapy
+502,chl + pred
+503,chlorambucil and cisplatin
+504,chlorambucil and obinutuzumab (gclb)
+505,chlorambucil and ofatumumab
+506,chlorambucil and prednisolone
+507,chlorambucil and prednisone
+508,chlorambucil and rituximab (rclb)
+509,chlorambucil monotherapy
+510,"chlorambucil, dactinomycin, methotrexate"
+511,chlvpp
+512,chlvpp/eva
+513,chlvpp/pabioe
+514,chob
+515,choep-14
+516,chop
+517,chop and everolimus
+518,chop modified
+519,"chop, then 131iodine-tositumomab"
+520,chop-14
+521,chop-b
+522,chop-bcg
+523,chor
+524,chut
+525,chvmp-vb
+526,chvp
+527,chvp-i
+528,cia
+529,ciltacabtagene autoleucel monotherapy
+530,cim
+531,cisca
+532,cisca/vb
+533,ciscaii/bviv
+534,cisplatin and bevacizumab
+535,cisplatin and cetuximab
+536,cisplatin and dacarbazine
+537,cisplatin and docetaxel (dc) and durvalumab
+538,cisplatin and docetaxel (dc) and nivolumab
+539,cisplatin and epirubicin
+540,cisplatin and etoposide (ep) and bevacizumab
+541,cisplatin and etoposide (ep) and durvalumab
+542,cisplatin and etoposide (ep) and pembrolizumab
+543,cisplatin and fluorouracil (cf)
+544,cisplatin and fluorouracil (cf) and cetuximab
+545,"cisplatin and fluorouracil (cf) and hydroxyurea, rt"
+546,cisplatin and fluorouracil (cf) and nivolumab
+547,cisplatin and fluorouracil (cf) and panitumumab
+548,cisplatin and fluorouracil (cf) and pembrolizumab
+549,cisplatin and fluorouracil (cf) and rt
+550,cisplatin and fluorouracil (cf) and sintilimab
+551,cisplatin and fluorouracil (cf) and sugemalimab
+552,cisplatin and fluorouracil (cf) and tislelizumab
+553,cisplatin and fluorouracil (cf) and trastuzumab
+554,cisplatin and fluorouracil (cf) and vincristine
+555,"cisplatin and fluorouracil (cf), pembrolizumab, trastuzumab"
+556,cisplatin and gemcitabine (gc) and atezolizumab
+557,cisplatin and gemcitabine (gc) and camrelizumab
+558,cisplatin and gemcitabine (gc) and cetuximab
+559,cisplatin and gemcitabine (gc) and durvalumab
+560,cisplatin and gemcitabine (gc) and nab-paclitaxel
+561,cisplatin and gemcitabine (gc) and necitumumab
+562,cisplatin and gemcitabine (gc) and nivolumab
+563,cisplatin and gemcitabine (gc) and pembrolizumab
+564,cisplatin and gemcitabine (gc) and rt
+565,cisplatin and gemcitabine (gc) and toripalimab
+566,cisplatin and gemcitabine/erlotinib
+567,cisplatin and ifosfamide
+568,cisplatin and methotrexate
+569,cisplatin and mitomycin
+570,cisplatin and mitotane
+571,cisplatin and pemetrexed
+572,cisplatin and raltitrexed
+573,cisplatin and rt
+574,cisplatin and s-1
+575,cisplatin and temozolomide
+576,cisplatin and vinorelbine (cvb) and nivolumab
+577,cisplatin monotherapy
+578,"cisplatin, cetuximab, rt"
+579,"cisplatin, cyclophosphamide, interferon gamma-1b"
+580,"cisplatin, dacarbazine, il-2, ifn alfa-2b plus /- carmustine"
+581,"cisplatin, dacarbazine, interferon alfa-2b"
+582,"cisplatin, dacarbazine, paclitaxel"
+583,"cisplatin, dacarbazine, tamoxifen"
+584,"cisplatin, docetaxel, rt"
+585,"cisplatin, doxorubicin, paclitaxel"
+586,"cisplatin, epirubicin, ifosfamide"
+587,"cisplatin, etoposide, irinotecan"
+588,"cisplatin, gefitinib, pemetrexed"
+589,"cisplatin, interferon alfa-2a, isotretinoin"
+590,"cisplatin, irinotecan, rt"
+591,"cisplatin, osimertinib, pemetrexed"
+592,"cisplatin, paclitaxel, atezolizumab, bevacizumab"
+593,"cisplatin, paclitaxel, bevacizumab"
+594,"cisplatin, paclitaxel, bevacizumab, pembrolizumab"
+595,"cisplatin, paclitaxel, camrelizumab"
+596,"cisplatin, paclitaxel, cemiplimab"
+597,"cisplatin, paclitaxel, pembrolizumab"
+598,"cisplatin, paclitaxel, sintilimab"
+599,"cisplatin, paclitaxel, tislelizumab"
+600,"cisplatin, paclitaxel, toripalimab"
+601,"cisplatin, pemetrexed, cemiplimab"
+602,"cisplatin, pemetrexed, durvalumab"
+603,"cisplatin, pemetrexed, ipilimumab, nivolumab"
+604,"cisplatin, pemetrexed, nivolumab"
+605,"cisplatin, pemetrexed, pembrolizumab"
+606,"cisplatin, pemetrexed, rt"
+607,"cisplatin, pemetrexed, sintilimab"
+608,"cisplatin, pemetrexed, tislelizumab"
+609,"cisplatin, pemetrexed, ttfields"
+610,"cisplatin, vinblastine, rt"
+611,"cisplatin, vinorelbine, cetuximab"
+612,"cisplatin, vinorelbine, rt"
+613,cladribine and cytarabine
+614,cladribine and prednisone
+615,cladribine and rituximab
+616,cladribine monotherapy
+617,clag
+618,clag-m
+619,clara
+620,clarithromycin monotherapy
+621,"clarithromycin, metronidzole, ppi"
+622,"clarithromycin, tetracycline, ppi, bismuth"
+623,clf
+624,clofarabine and cytarabine
+625,clofarabine and lodac
+626,clofarabine and lodac/decitabine
+627,clofarabine and melphalan
+628,"clofarabine and melphalan, then allo hsct"
+629,clofarabine monotherapy
+630,cmc
+631,cmc-vap
+632,cmed
+633,cmf
+634,cmf and h
+635,cmf-e
+636,cmf-flu
+637,cmf-h
+638,cmfh
+639,cmfp
+640,cmfp-va
+641,cmfpt
+642,cmfpth
+643,cmft
+644,cmfv
+645,cmfvat
+646,cmfvp
+647,cmh
+648,cnop
+649,coap-bleo
+650,cobimetinib and vemurafenib
+651,cobimetinib monotherapy
+652,"cobimetinib, vemurafenib, atezolizumab"
+653,cobmam
+654,codox
+655,codox-m
+656,codox-m/ivac
+657,cog a3961 protocol
+658,cog a3973 with myeloablative therapy
+659,cog a3973 without myeloablative therapy
+660,cog a9961 regimen
+661,cog aall0434 protocol
+662,cog aall0932 protocol for standard-risk
+663,cog aall1131 protocol
+664,cog aall1131 protocol for ds hr b-all
+665,cog aall1131 protocol for hr b-all
+666,cog aall1131 protocol for ph-like b-all (dasatinib arm)
+667,cog aall1131 protocol for vhr b-all
+668,cog aall1231 protocol arm a
+669,cog aaml0531 arm b (gemtuzumab)
+670,cog aaml1421 protocol
+671,cog acns0331 reduced dose csrt with reduced volume boost to tumor bed
+672,cog acns0331 reduced dose csrt with standard volume boost
+673,cog acns0331 standard dose csrt with reduced volume boost to tumor bed
+674,cog acns0331 standard dose csrt with standard volume boost
+675,cog acns0332 protocol a
+676,cog acns0332 protocol b
+677,cog acns0332 regimen c
+678,cog acns0332 regimen d
+679,cog acns0334 protocol a
+680,cog acns0334 protocol b
+681,cog acns1221 protocol
+682,cog aews0031 protocol a
+683,cog aews0031 protocol b
+684,cog aews1031 regimen a
+685,cog ahep0731 protocol f
+686,cog ahep0731 protocol h - non-responders
+687,cog ahep0731 protocol h - responders
+688,cog ahep0731 protocol t
+689,cog ahep0731 protocol w
+690,cog anbl 0032 regimen a
+691,cog anbl0531 group
+692,cog anbl0532 regimen a
+693,cog anbl0532 regimen b
+694,cog anbl0931 post-consolidation
+695,cog anbl17p1 protocol
+696,cog anhl12p1 protocol
+697,cog d9602 subgroup a clinical group 1 protocol
+698,cog d9602 subgroup a clinical group 2 protocol
+699,cog d9602 subgroup a clinical group 3 protocol
+700,cog d9602 subgroup b clinical group 1 protocol
+701,cog d9602 subgroup b clinical group 2 protocol
+702,cog d9602 subgroup b clinical group 3 protocol
+703,cog p9641 protocol
+704,coi
+705,cojec
+706,colchicine monotherapy
+707,coma-a
+708,comet-a
+709,comla
+710,comp
+711,cop-bleo
+712,copa
+713,copac
+714,copad/cyve
+715,copadm
+716,copadri-i
+717,copanlisib and rituximab
+718,copanlisib monotherapy
+719,copdac
+720,cope
+721,copp/abvd
+722,cp-ac
+723,cp-ac and pembrolizumab
+724,cp-ddac
+725,cp-ec
+726,cp-ec and pembrolizumab
+727,cpbba
+728,cpr
+729,cpx-351 monotherapy
+730,crd
+731,crizotinib monotherapy
+732,crop
+733,cropam
+734,ctcb
+735,ctd
+736,ctx-plat
+737,cva-bmp
+738,cvad
+739,cvap
+740,cvbd
+741,cvd (vinblastine)
+742,"cvd, il-2, ifn alfa-2b - sequential biochemotherapy"
+743,cvdd
+744,cveb
+745,cvi
+746,cvp
+747,"cvp, then 131iodine-tositumomab"
+748,cvpp
+749,cybor-d
+750,cyclone
+751,cyclophosphamide and dexamethasone
+752,cyclophosphamide and doxorubicin (ac)
+753,cyclophosphamide and doxorubicin (ac) and bevacizumab
+754,cyclophosphamide and epirubicin (ec) and bevacizumab
+755,cyclophosphamide and etoposide
+756,cyclophosphamide and g-csf
+757,cyclophosphamide and lomustine
+758,cyclophosphamide and methotrexate (cm)
+759,cyclophosphamide and non-pegylated liposomal doxorubicin (mc)
+760,cyclophosphamide and prednisolone
+761,cyclophosphamide and tbi
+762,cyclophosphamide and topotecan
+763,cyclophosphamide and vincristine
+764,cyclophosphamide monotherapy
+765,"cyclophosphamide, cytarabine, mercaptopurine"
+766,"cyclophosphamide, cytarabine, mercaptopurine, nelarabine, pegaspargase, vincristine"
+767,"cyclophosphamide, cytarabine, mercaptopurine, pegaspargase, vincristine"
+768,"cyclophosphamide, cytarabine, pegaspargase, thioguanine, vincristine, dexamethasone"
+769,"cyclophosphamide, daunorubicin, l-asparaginase, vincristine, prednisone"
+770,"cyclophosphamide, daunorubicin, l-asparaginase, vincristine, prednisone, rituximab"
+771,"cyclophosphamide, daunorubicin, vincristine, prednisolone"
+772,"cyclophosphamide, daunorubicin, vincristine, prednisone"
+773,"cyclophosphamide, etoposide, fludarabine"
+774,"cyclophosphamide, etoposide, methotrexate"
+775,"cyclophosphamide, etoposide, tbi"
+776,"cyclophosphamide, fludarabine, thiotepa"
+777,"cyclophosphamide, idarubicin, vincristine, prednisone"
+778,"cyclophosphamide, lomustine, methotrexate"
+779,"cyclophosphamide, lomustine, procarbazine"
+780,"cyclophosphamide, methotrexate, rt"
+781,"cyclophosphamide, prednisone, diethylstilbestrol"
+782,cyclosporine and mycophenolate mofetil
+783,cyclosporine monotherapy
+784,"cyclosporine, corticosteroids, rituximab"
+785,"cyclosporine, mycophenolate mofetil, sirolimus"
+786,cyklone
+787,cyproterone acetate monotherapy
+788,cyta bom
+789,cytabom
+790,cytarabine and daunorubicin
+791,cytarabine and etoposide (cyve)
+792,cytarabine and etoposide (cyve) and g-csf
+793,cytarabine and g-csf
+794,cytarabine and idarubicin
+795,"cytarabine and idarubicin, then etoposide and mitoxantrone, then cytarabine, idarubicin, thioguanine"
+796,"cytarabine and idarubicin, then etoposide and mitoxantrone, then cytarabine, idarubicin, thioguanine, with atra"
+797,"cytarabine and idarubicin, then mitoxantrone, then cytarabine and idarubicin, with atra"
+798,cytarabine and interferon alfa-2b
+799,cytarabine and methotrexate (cym)
+800,cytarabine and thioguanine
+801,cytarabine and vosaroxin
+802,cytarabine monotherapy
+803,"cytarabine, daunorubicin, gemtuzumab ozogamicin"
+804,"cytarabine, daunorubicin, l-asparaginase, teniposide, vincristine, prednisone"
+805,"cytarabine, daunorubicin, l-asparaginase, vincristine, dexamethasone"
+806,"cytarabine, daunorubicin, mercaptopurine, prednisolone"
+807,"cytarabine, daunorubicin, vincristine"
+808,"cytarabine, doxorubicin, vincristine, prednisolone"
+809,"cytarabine, idarubicin, imatinib"
+810,"cytarabine, idarubicin, rituximab"
+811,"cytarabine, idarubicin, sorafenib"
+812,"cytarabine, idarubicin, vorinostat"
+813,"cytarabine, ifosfamide, g-csf"
+814,"cytarabine, methotrexate, rituximab"
+815,cyvadic
+816,d-ac
+817,d-ac plus bev
+818,d-ec
+819,d-fec
+820,d-fec plus bev
+821,d-pace
+822,da 3 plus 10
+823,"da 3 plus 10, go"
+824,da 3 plus 8 and go
+825,da-epoch
+826,da-r-epoch
+827,dabigatran monotherapy
+828,dabrafenib and trametinib
+829,dabrafenib monotherapy
+830,"dabrafenib, trametinib, panitumumab"
+831,dac
+832,dacarbazine and gemcitabine
+833,dacarbazine and interferon alfa-2a
+834,dacarbazine and ipilimumab
+835,dacarbazine and tamoxifen
+836,dacarbazine and vindesine
+837,dacarbazine monotherapy
+838,dacomitinib monotherapy
+839,dactinomycin and vincristine
+840,dactinomycin monotherapy
+841,dalteparin monotherapy
+842,danaparoid monotherapy
+843,danazol monotherapy
+844,dap
+845,dap/tmp
+846,dara-cybord
+847,dara-kd
+848,dara-krd
+849,dara-pd
+850,dara-rvd
+851,dara-rvd (sc daratumumab)
+852,dara-vd
+853,dara-vmp
+854,dara-vtd
+855,daratumumab and hyaluronidase monotherapy
+856,daratumumab monotherapy
+857,darbepoetin alfa monotherapy
+858,darinaparsin monotherapy
+859,dartmouth regimen
+860,dasatinib and blinatumomab
+861,dasatinib and prednisone
+862,dasatinib monotherapy
+863,"dasatinib, vincristine, prednisone"
+864,dat
+865,date
+866,datvp
+867,daunorubicin and prednisone
+868,daunorubicin liposomal monotherapy
+869,daunorubicin monotherapy
+870,"daunorubicin, l-asparaginase, vincristine, dexamethasone"
+871,"daunorubicin, l-asparaginase, vincristine, prednisone, imatinib"
+872,"daunorubicin, pegaspargase, vincristine, dexamethasone"
+873,"daunorubicin, pegaspargase, vincristine, prednisone"
+874,"daunorubicin, pegaspargase, vincristine, prednisone, dasatinib"
+875,"daunorubicin, pegaspargase, vincristine, prednisone, imatinib"
+876,"daunorubicin, vincristine, prednisolone"
+877,"daunorubicin, vincristine, prednisolone, nilotinib"
+878,dav
+879,davh
+880,dccmp
+881,dcep
+882,dcep and g-csf
+883,dcep-t
+884,dcf
+885,dcmp
+886,dcter
+887,dcv
+888,dd-chop
+889,dda-ddt-ddc
+890,ddac-ddt
+891,ddac-ddth (paclitaxel)
+892,ddac-t
+893,ddac-th (docetaxel)
+894,ddac-thp (docetaxel)
+895,"ddac-thp (paclitaxel, phesgo)"
+896,dde-iddcmf
+897,ddec-ddcmf
+898,ddec-t
+899,ddec-th (docetaxel)
+900,ddec-thp (docetaxel)
+901,ddfec-ddd
+902,ddfec-ddth (docetaxel)
+903,ddgp
+904,ddp-mecy
+905,ddt-ddec
+906,ddt-ec
+907,deca
+908,decal
+909,decitabine and cedazuridine monotherapy
+910,decitabine and valproate
+911,decitabine and venetoclax
+912,decitabine monotherapy
+913,degarelix monotherapy
+914,denileukin diftitox monotherapy
+915,denosumab monotherapy
+916,dep
+917,des monotherapy
+918,devic and rt
+919,dex-ifn
+920,dexa-beam
+921,dexabeam
+922,dexabeam and g-csf
+923,dexamethasone and eltrombopag
+924,dexamethasone and prednisone
+925,dexamethasone and rituximab
+926,dexamethasone monotherapy
+927,dfcr
+928,dhap
+929,dhap/vim
+930,di ec
+931,dicep
+932,dmcodox-m - modified magrath
+933,dmcodox-m/ivac - modified magrath
+934,doap
+935,docetaxel and bevacizumab
+936,docetaxel and estramustine
+937,docetaxel and gemcitabine
+938,docetaxel and irinotecan
+939,docetaxel and nedaplatin
+940,docetaxel and nintedanib
+941,docetaxel and nivolumab
+942,docetaxel and prednisolone
+943,docetaxel and prednisone
+944,docetaxel and ramucirumab
+945,docetaxel and rt
+946,docetaxel and s-1
+947,docetaxel and trastuzumab (th) and pyrotinib
+948,docetaxel and vandetanib
+949,docetaxel and vinorelbine
+950,"docetaxel, cetuximab, rt"
+951,"docetaxel, enzalutamide, prednisolone"
+952,"docetaxel, estramustine, goserelin"
+953,"docetaxel, fluorouracil, hydroxyurea, rt"
+954,"docetaxel, fluorouracil, rt"
+955,"docetaxel, gemcitabine, rt"
+956,dolp
+957,donafenib monotherapy
+958,dos
+959,dose-dense cyclophosphamide and doxorubicin (ddac)
+960,dose-dense docetaxel and doxorubicin (ddat)
+961,dose-dense epirubicin monotherapy
+962,dostarlimab monotherapy
+963,doxifluridine and mitomycin
+964,doxorubicin and bevacizumab
+965,doxorubicin and gemcitabine
+966,doxorubicin and ifosfamide
+967,doxorubicin and lomustine
+968,doxorubicin and olaratumab
+969,doxorubicin and sorafenib
+970,doxorubicin and streptozocin
+971,doxorubicin and trabectedin
+972,doxorubicin and vinblastine
+973,doxorubicin monotherapy
+974,"doxorubicin, ifosfamide, rt"
+975,"doxorubicin, l-asparaginase, methotrexate, vincristine, prednisone"
+976,"doxorubicin, mercaptopurine, methotrexate, vincristine, prednisone"
+977,"doxorubicin, mercaptopurine, pegaspargase, vincristine, prednisolone"
+978,"doxorubicin, methotrexate, pegaspargase, vincristine, methylprednisolone"
+979,"doxorubicin, methotrexate, vincristine, prednisone"
+980,"doxorubicin, pegaspargase, vincristine, prednisone"
+981,doxycycline monotherapy
+982,doxycycline-cybord
+983,drc
+984,drc (sc rituximab)
+985,dtic+bcnu+cisplatin
+986,dtic-actd
+987,dtpace
+988,durvalumab and tremelimumab
+989,durvalumab monotherapy
+990,duvelisib monotherapy
+991,dvb
+992,dvd-r
+993,dvm
+994,dzapo
+995,e-cmf
+996,e-d
+997,e-mvac
+998,e-x
+999,ear and g-csf
+1000,ebap
+1001,ebeacopp
+1002,ebeacopp-abvd
+1003,ebeacopp-beacopp
+1004,ebvp
+1005,ec-cmf
+1006,ec-d
+1007,ec-d and bevacizumab
+1008,ec-ddt
+1009,ec-h
+1010,ec-th (docetaxel)
+1011,ec-thp (docetaxel)
+1012,ecf
+1013,ecf/5-fu and rt
+1014,ech
+1015,ech-th (docetaxel)
+1016,echo
+1017,ecmv
+1018,ecog
+1019,eculizumab monotherapy
+1020,ecx
+1021,edc
+1022,edoxaban monotherapy
+1023,edrecolomab monotherapy
+1024,efp
+1025,ehp
+1026,eia
+1027,eicnhl alcl99 protocol
+1028,elacestrant monotherapy
+1029,elf
+1030,elo-pd
+1031,elo-rd
+1032,elo-vd
+1033,elranatamab monotherapy
+1034,eltrombopag monotherapy
+1035,ema/co
+1036,emaco
+1037,enasidenib monotherapy
+1038,encorafenib and cetuximab
+1039,enfortumab vedotin and pembrolizumab
+1040,enfortumab vedotin monotherapy
+1041,enoxaparin monotherapy
+1042,ensartinib monotherapy
+1043,entrectinib monotherapy
+1044,envafolimab monotherapy
+1045,enzalutamide and leuprolide
+1046,enzalutamide monotherapy
+1047,eof
+1048,eox
+1049,ep-ddcmf
+1050,ep-topotecan
+1051,epcoritamab monotherapy
+1052,epirubicin and ifosfamide
+1053,epirubicin and vinorelbine (ve)
+1054,epirubicin monotherapy
+1055,epoch-r
+1056,erdafitinib monotherapy
+1057,eribulin and margetuximab
+1058,eribulin and trastuzumab
+1059,eribulin monotherapy
+1060,erlotinib and bevacizumab
+1061,erlotinib and gemcitabine
+1062,erlotinib and ramucirumab
+1063,erlotinib monotherapy
+1064,erythropoetin alfa and lenalidomide
+1065,erythropoetin beta and lenalidomide
+1066,erythropoietin alfa monotherapy
+1067,eshap
+1068,estradiol monotherapy
+1069,etoposide and mitoxantrone
+1070,etoposide and prednisone
+1071,etoposide and tbi
+1072,"etoposide and tbi, then allo hsct"
+1073,etoposide monotherapy
+1074,"etoposide, ifosfamide, imatinib"
+1075,"etoposide, ifosfamide, methotrexate"
+1076,"etoposide, vinblastine, prednisone"
+1077,eva
+1078,evaia
+1079,evap
+1080,everolimus and exemestane
+1081,everolimus and lenvatinib
+1082,everolimus and octreotide
+1083,everolimus and rituximab
+1084,everolimus and tamoxifen
+1085,everolimus monotherapy
+1086,exemestane and ofs
+1087,exemestane and palbociclib
+1088,exemestane and trastuzumab
+1089,exemestane and tucidinostat
+1090,exemestane monotherapy
+1091,"exemestane, lapatinib, trastuzumab"
+1092,f-machop
+1093,f-shai
+1094,fa
+1095,fac
+1096,fac and bcg
+1097,fac and bevacizumab
+1098,fac-bcg
+1099,fac-lev
+1100,fac-mv
+1101,fac-t
+1102,fac-th (docetaxel)
+1103,fac-thp (docetaxel)
+1104,facs
+1105,facvp
+1106,fam
+1107,fam-cf
+1108,fam-s
+1109,famme
+1110,famtx
+1111,fas
+1112,fbm
+1113,fca
+1114,fcap
+1115,fcm
+1116,fcr
+1117,fct
+1118,feam
+1119,fec
+1120,fec and bevacizumab
+1121,fec and h
+1122,fec-d
+1123,fec-h
+1124,fec-p
+1125,fec-th (docetaxel)
+1126,fec-thp (docetaxel)
+1127,fedratinib monotherapy
+1128,felv
+1129,femtx
+1130,fime
+1131,fl
+1132,flag
+1133,flag-dnx
+1134,flag-ida
+1135,flap
+1136,flec
+1137,flep
+1138,flot
+1139,flox
+1140,fludarabine and alemtuzumab
+1141,fludarabine and ibrutinib
+1142,fludarabine and melphalan
+1143,"fludarabine and melphalan, then allo hsct"
+1144,fludarabine and prednisone
+1145,fludarabine and rituximab (fr)
+1146,fludarabine and tbi
+1147,fludarabine and tbi for haploidentical transplant
+1148,"fludarabine and tbi, then allo hsct"
+1149,fludarabine monotherapy
+1150,"fludarabine, busulfan, cyclophosphamide, then allo hsct"
+1151,"fludarabine, cyclophosphamide, tbi for ducb or haploidentical transplant"
+1152,"fludarabine, then 131iodine-tositumomab"
+1153,fluorouracil and bevacizumab
+1154,fluorouracil and heptaplatin (fh)
+1155,fluorouracil and levamisole
+1156,fluorouracil and methotrexate (mf)
+1157,fluorouracil and mitomycin
+1158,fluorouracil and oxaliplatin (fuox) and tislelizumab
+1159,fluorouracil and paclitaxel
+1160,fluorouracil and rt
+1161,fluorouracil and semustine
+1162,fluorouracil and streptozocin
+1163,fluorouracil monotherapy
+1164,"fluorouracil, folinic acid, mitomycin"
+1165,"fluorouracil, hydroxyurea, rt"
+1166,"fluorouracil, mitomycin, rt"
+1167,"fluorouracil, oxaliplatin, rt"
+1168,"fluorouracil, paclitaxel, rt"
+1169,fluosol/bcnu
+1170,fluoxymesterone and tamoxifen
+1171,fluoxymesterone monotherapy
+1172,flutamide and goserelin
+1173,flutamide and leuprolide
+1174,flutamide monotherapy
+1175,"flutamide, goserelin, rt"
+1176,"flutamide, leuprolide, rt"
+1177,fm
+1178,fmp
+1179,fnc
+1180,fnd
+1181,fnm
+1182,foam
+1183,foflfox-haic and sorafenib
+1184,folfiri
+1185,folfiri and bevacizumab
+1186,folfiri and cetuximab
+1187,folfiri and panitumumab
+1188,folfiri and ramucirumab
+1189,folfiri and ziv-aflibercept
+1190,folfirinox
+1191,folfirinox and bevacizumab
+1192,folfirinox/modified folfirinox plus /- chemoradiation
+1193,folfox 7/slv5fu2
+1194,folfox-haic
+1195,folfox4 and bevacizumab
+1196,folfox4 and cetuximab
+1197,folfox4 and panitumumab
+1198,folfox4 and rt
+1199,folfoxiri and panitumumab
+1200,formestane monotherapy
+1201,forodesine monotherapy
+1202,fostamatinib monotherapy
+1203,fotemustine monotherapy
+1204,fp/capecitabine and rt
+1205,frd
+1206,fruquintinib monotherapy
+1207,fufox
+1208,fuiri
+1209,fulv
+1210,fulv (l-leucovorin)
+1211,fulv and bevacizumab
+1212,fulv and gemcitabine
+1213,fulv and levamisole
+1214,fulv and nanoliposomal irinotecan
+1215,fulv and rt
+1216,fulvestrant and palbociclib
+1217,fulvestrant and ribociclib
+1218,fulvestrant monotherapy
+1219,fuox
+1220,furam
+1221,furmonertinib monotherapy
+1222,futibatinib monotherapy
+1223,fuvac
+1224,fz
+1225,g-chop
+1226,g-cvp
+1227,g-fc
+1228,gcd
+1229,gcd-r
+1230,gdp
+1231,gdpt
+1232,gefitinib and pemetrexed
+1233,gefitinib monotherapy
+1234,"gefitinib, nedaplatin, pemetrexed"
+1235,gelox/rt
+1236,gemcis
+1237,gemcitabine and bevacizumab
+1238,gemcitabine and irinotecan
+1239,gemcitabine and margetuximab
+1240,gemcitabine and mitomycin
+1241,gemcitabine and nab-paclitaxel
+1242,gemcitabine and pegylated liposomal doxorubicin
+1243,gemcitabine and rituximab
+1244,gemcitabine and rt
+1245,gemcitabine and s-1
+1246,gemcitabine and sunitinib
+1247,gemcitabine and trastuzumab
+1248,gemcitabine and vinorelbine
+1249,gemcitabine monotherapy
+1250,"gemcitabine, cetuximab, rt"
+1251,"gemcitabine, cisplatin, s-1"
+1252,"gemcitabine, oxaliplatin, paclitaxel"
+1253,gemcitabine/fluorouracil and rt
+1254,gemiri
+1255,gemox
+1256,gemox and sorafenib
+1257,gemox-b
+1258,gemtuzumab ozogamicin monotherapy
+1259,ghp
+1260,gilteritinib monotherapy
+1261,gip
+1262,glasdegib and lodac
+1263,glofitamab monotherapy
+1264,"gm-csf, il-2, isotretinoin, dinutuximab"
+1265,gmall-r
+1266,goserelin and letrozole
+1267,goserelin and rt
+1268,goserelin and tamoxifen
+1269,goserelin monotherapy
+1270,"goserelin, letrozole, ribociclib"
+1271,"goserelin, ribociclib, tamoxifen"
+1272,gtp
+1273,gtx
+1274,gvd
+1275,gvp
+1276,haa
+1277,had
+1278,ham
+1279,ham and imatinib
+1280,hamp
+1281,hdmp-r
+1282,head start iii protocol d2
+1283,helicobacter pylori eradication therapy
+1284,heparin monotherapy
+1285,hexa-caf
+1286,hi-cdaze
+1287,hic-com
+1288,hidac and atra
+1289,hidac and g-csf
+1290,hidac and midostaurin
+1291,hidac and quizartinib
+1292,high-dose cytarabine monotherapy (hidac)
+1293,high-dose interleukin-2
+1294,hlh-2004 regimen
+1295,hlh-94 regimen
+1296,hoap-bleo
+1297,hydrocortisone monotherapy
+1298,hydroxyurea and imatinib
+1299,hydroxyurea and plicamycin
+1300,hydroxyurea and rt
+1301,hydroxyurea and voxelotor
+1302,hydroxyurea monotherapy
+1303,hyper-cvad
+1304,hyper-cvad/ma
+1305,hyper-cvad/ma and dasatinib
+1306,hyper-cvad/ma and everolimus
+1307,hyper-cvad/ma and imatinib
+1308,hyper-cvad/ma and ponatinib
+1309,hyperchidam
+1310,iap
+1311,ibritumomab tiuxetan protocol
+1312,ibrutinib and obinutuzumab
+1313,ibrutinib and ofatumumab
+1314,ibrutinib and rituximab
+1315,ibrutinib and ublituximab
+1316,ibrutinib and venetoclax
+1317,ibrutinib monotherapy
+1318,"ibrutinib, venetoclax, obinutuzumab"
+1319,"ic and norethandrolone/6-mp, mtx, norethandrolone"
+1320,ice and atra
+1321,ice-v
+1322,icl
+1323,icotinib monotherapy
+1324,idac and sorafenib
+1325,"idarubicin, l-asparaginase, vincristine, prednisone"
+1326,"idarubicin, then mitoxantrone, then idarubicin"
+1327,"idarubicin, then mitoxantrone, then idarubicin, with atra"
+1328,iddenpc
+1329,iddepc
+1330,idecabtagene vicleucel monotherapy
+1331,idelalisib and ofatumumab
+1332,idelalisib and rituximab
+1333,idelalisib monotherapy
+1334,idmtx
+1335,idr
+1336,ie
+1337,ifcr
+1338,ifl
+1339,ifl and bevacizumab
+1340,ifn+dtic
+1341,ifosfamide and gemcitabine
+1342,ifosfamide and methotrexate
+1343,ifosfamide and paclitaxel
+1344,ifosfamide and vinorelbine
+1345,ifosfamide monotherapy
+1346,ifovp
+1347,igev
+1348,igev and g-csf
+1349,il-2 and gm-csf
+1350,imatinib and interferon alfa
+1351,imatinib and lodac
+1352,imatinib and peginterferon alfa-2a
+1353,imatinib and prednisone
+1354,imatinib monotherapy
+1355,"imatinib, vincristine, dexamethasone"
+1356,"imatinib, vincristine, prednisone"
+1357,imf
+1358,infigratinib monotherapy
+1359,inotuzumab ozogamicin monotherapy
+1360,interferon alfa and dexamethasone
+1361,interferon alfa-2a and isotretinoin
+1362,interferon alfa-2a monotherapy
+1363,interferon alfa-2b and prednisone
+1364,interferon alfa-2b and thalidomide
+1365,interferon alfa-2b and zidovudine
+1366,interferon alfa-2b monotherapy
+1367,interferon alfa-2c monotherapy
+1368,interferon alfa-n1 monotherapy
+1369,intermittent adt
+1370,international all trial consolidation
+1371,intraperitoneal 5-fu
+1372,intraperitoneal hyperthermic mitomycin
+1373,intraperitoneal hyperthermic oxaliplatin
+1374,intravesicular doxorubicin monotherapy
+1375,intravesicular gemcitabine monotherapy
+1376,intravesicular mitomycin monotherapy
+1377,intravesicular thiotepa monotherapy
+1378,intravesicular valrubicin monotherapy
+1379,ip carboplatin and paclitaxel
+1380,ip cisplatin and cyclophosphamide
+1381,ip cisplatin and paclitaxel
+1382,ip-bcd
+1383,ipb
+1384,ipilimumab and nivolumab
+1385,ipilimumab and rt
+1386,ipilimumab monotherapy
+1387,ipilimumab-nivolumab
+1388,iptacopan monotherapy
+1389,ir-chop/r-dhaox
+1390,ir-chop/r-dhap
+1391,ird
+1392,irinotecan and bevacizumab
+1393,irinotecan and cetuximab
+1394,irinotecan and mitomycin
+1395,irinotecan and temozolomide
+1396,irinotecan liposomal monotherapy
+1397,irinotecan monotherapy
+1398,"irinotecan, temozolomide, dinutuximab"
+1399,"irinotecan, vemurafenib, cetuximab"
+1400,iris
+1401,iris and bevacizumab
+1402,irox
+1403,isa-kd
+1404,isa-pd
+1405,isa-rvd
+1406,isotretinoin and dinutuximab beta
+1407,isotretinoin monotherapy
+1408,ivac
+1409,ive
+1410,ivosidenib monotherapy
+1411,ixabepilone monotherapy
+1412,ixazomib and dexamethasone
+1413,ixazomib monotherapy
+1414,jeb
+1415,kave
+1416,kcd
+1417,kd-pace
+1418,ketoconazole and hydrocortisone
+1419,"ketoconazole, hydrocortisone, dutasteride"
+1420,kgc
+1421,kmp
+1422,krd-pace
+1423,krdc
+1424,ktd
+1425,l-asparaginase and methotrexate
+1426,l-asparaginase monotherapy
+1427,"l-asparaginase, vincristine, dexamethasone"
+1428,"l-asparaginase, vincristine, prednisolone"
+1429,"l-asparaginase, vincristine, prednisone"
+1430,l-cf
+1431,l-vam
+1432,lam
+1433,lampp
+1434,lanreotide and interferon alfa-2b
+1435,lanreotide depot/autogel monotherapy
+1436,lanreotide lar monotherapy
+1437,lanreotide monotherapy
+1438,lapatinib and letrozole
+1439,lapatinib and paclitaxel (tl)
+1440,lapatinib and trastuzumab
+1441,lapatinib monotherapy
+1442,"lapatinib, letrozole, trastuzumab"
+1443,lapoca
+1444,larotrectinib monotherapy
+1445,larson regimen (245)
+1446,lazertinib monotherapy
+1447,ldcf
+1448,leed
+1449,lenalidomide and dexamethasone (rd)
+1450,lenalidomide and ofatumumab
+1451,lenalidomide and prednisone (rp)
+1452,lenalidomide and rituximab (r2)
+1453,lenalidomide and tafasitamab
+1454,lenalidomide monotherapy
+1455,"lenalidomide, dexamethasone, rituximab"
+1456,lenvatinib and pembrolizumab
+1457,lenvatinib and tace
+1458,lenvatinib monotherapy
+1459,lepirudin monotherapy
+1460,letrozole and bevacizumab
+1461,letrozole and palbociclib
+1462,letrozole and ribociclib
+1463,letrozole and trastuzumab
+1464,letrozole monotherapy
+1465,letrozole-tamoxifen
+1466,leuprolide monotherapy
+1467,lev
+1468,levamisole monotherapy
+1469,lifileucel and il-2
+1470,linker regimen (consolidation)
+1471,linker regimen induction
+1472,linker regimen maintenance
+1473,linsitinib monotherapy
+1474,lisocabtagene maraleucel monotherapy
+1475,lmf
+1476,lobaplatin and fluorouracil
+1477,lodac and venetoclax
+1478,lomac
+1479,lomustine and bevacizumab
+1480,lomustine monotherapy
+1481,"lomustine, methotrexate, procarbazine"
+1482,"lomustine, methotrexate, procarbazine, methylprednisolone"
+1483,"lomustine, temozolomide, rt"
+1484,loncastuximab tesirine monotherapy
+1485,lopp
+1486,lopp/evap
+1487,lorlatinib monotherapy
+1488,low-dose cytarabine monotherapy (lodac)
+1489,low-dose interleukin-2
+1490,"low-dose tbi, then allo hsct"
+1491,lsa2-l2
+1492,lsg15
+1493,lurbinectedin monotherapy
+1494,luspatercept monotherapy
+1495,lusutrombopag monotherapy
+1496,lutetium lu 177 dotatate and octreotide lar
+1497,lvvp
+1498,m-bacod
+1499,m-bacos
+1500,m-bam
+1501,m-bcd
+1502,m-ei
+1503,m-tip
+1504,ma-bcd
+1505,mabop
+1506,macc
+1507,mace
+1508,macho
+1509,machover regimen
+1510,macop-b
+1511,mad
+1512,maddoc
+1513,magrath protocol
+1514,maid
+1515,map
+1516,mapi
+1517,mapifn
+1518,matrix
+1519,maxi-r-chop/r-hidac
+1520,maze
+1521,mbc
+1522,mbvp
+1523,mcbp
+1524,mcf
+1525,mcop/mp
+1526,mcv
+1527,mdcf
+1528,mdcf and bevacizumab
+1529,mdlo
+1530,mecy
+1531,medroxyprogesterone acetate and tamoxifen
+1532,medroxyprogesterone acetate monotherapy
+1533,mefa
+1534,megestrol and tamoxifen
+1535,megestrol monotherapy
+1536,"mel200, then mel220 and dexamethasone"
+1537,melphalan and dexamethasone
+1538,melphalan and methylprednisolone
+1539,melphalan and prednisone (mp)
+1540,melphalan flufenamide and dexamethasone
+1541,"melphalan monotherapy, then busulfan and fludarabine, then allo hsct"
+1542,"melphalan monotherapy, then melphalan and busulfan"
+1543,"melphalan monotherapy, then melphalan and tbi"
+1544,"melphalan monotherapy, then tbi, then allo hsct"
+1545,mepolizumab monotherapy
+1546,mercaptopurine and methotrexate
+1547,mercaptopurine and prednisone
+1548,mercaptopurine and vincristine
+1549,mercaptopurine and wbrt
+1550,mercaptopurine monotherapy
+1551,"mercaptopurine, methotrexate, vinblastine, prednisolone"
+1552,"mercaptopurine, methotrexate, vincristine"
+1553,"mercaptopurine, methotrexate, vincristine, dexamethasone"
+1554,"mercaptopurine, methotrexate, wb-xrt"
+1555,mesa/rt
+1556,methotrexate and pegaspargase
+1557,methotrexate and prednisone
+1558,methotrexate and rituximab
+1559,methotrexate and tacrolimus
+1560,methotrexate and vinblastine
+1561,methotrexate and vincristine
+1562,methotrexate monotherapy
+1563,"methotrexate, tacrolimus, vorinostat"
+1564,methotrexate-cytarabine
+1565,methotrexate-cytarabine and thiotepa
+1566,methylprednisolone monotherapy
+1567,"metronidazole, tetracycline, ppi, bismuth"
+1568,mfl
+1569,mfolfox and sorafenib
+1570,mfolfox6 and nivolumab
+1571,mfolfox6 and panitumumab
+1572,mfolfox6 and pembrolizumab
+1573,mfolfox6 and rt
+1574,mfolfoxiri and cetuximab (l-leucovorin)
+1575,mfp
+1576,mic
+1577,midostaurin monotherapy
+1578,mine
+1579,mine-eshap
+1580,mini-hyper-cvd/ma and inotuzumab ozogamicin
+1581,minichop-f
+1582,mirvetuximab soravtansine monotherapy
+1583,mito-flag
+1584,mitomycin and vinblastine (mv)
+1585,mitomycin pyelocalyceal monotherapy
+1586,mitotane and edp
+1587,mitotane and streptozocin
+1588,mitotane monotherapy
+1589,mitoxantrone and hydrocortisone
+1590,mitoxantrone and prednisone
+1591,mitoxantrone and vinorelbine (mv)
+1592,mitoxantrone monotherapy
+1593,"mitoxantrone, asparaginase erwinia chrysanthemi, vincristine, dexamethasone"
+1594,"mitoxantrone, pegaspargase, vincristine, dexamethasone"
+1595,mlsg15
+1596,mmm
+1597,mmopp
+1598,mmv
+1599,moad
+1600,moap
+1601,mob
+1602,mobocertinib monotherapy
+1603,mobp
+1604,mof
+1605,mof-s
+1606,mogamulizumab monotherapy
+1607,momp
+1608,mop-bap
+1609,mopp
+1610,mopp-abv
+1611,mopp-abvd
+1612,mopp/abvd
+1613,moppldb
+1614,mosunetuzumab monotherapy
+1615,moxetumomab pasudotox monotherapy
+1616,mpfl
+1617,mpr
+1618,mpt
+1619,mpv
+1620,mrd
+1621,mt-r
+1622,mtx-cddpadr
+1623,mtx-cf
+1624,mvac
+1625,"mvac, dose-dense"
+1626,mvbp
+1627,mvec
+1628,mvf
+1629,mvp and rt
+1630,mvpp
+1631,mvt
+1632,mvvpp
+1633,mycophenolate mofetil monotherapy
+1634,n5/n6
+1635,nab-paclitaxel and atezolizumab
+1636,nab-paclitaxel and pembrolizumab
+1637,nab-paclitaxel and toripalimab
+1638,nab-paclitaxel and trastuzumab
+1639,nab-paclitaxel monotherapy
+1640,"nab-paclitaxel, pertuzumab, trastuzumab"
+1641,nab-sirolimus monotherapy
+1642,nac
+1643,nadofaragene firadenovec monotherapy
+1644,nalirifox
+1645,naxitamab monotherapy
+1646,nedaplatin and rt
+1647,nelarabine monotherapy
+1648,"neratinib and paclitaxel, then ac"
+1649,"neratinib and paclitaxel, then ddac"
+1650,neratinib monotherapy
+1651,nfl
+1652,nilotinib monotherapy
+1653,nilotinib-based consolidation
+1654,nilutamide and orchiectomy
+1655,nimustine and rt
+1656,nintedanib and pemetrexed
+1657,niraparib monotherapy
+1658,nirogacestat monotherapy
+1659,nivolumab and relatlimab
+1660,nivolumab and rt
+1661,nivolumab monotherapy
+1662,nivolumab-ipilimumab
+1663,non-pegylated liposomal doxorubicin and bevacizumab
+1664,non-pegylated liposomal doxorubicin monotherapy
+1665,"nordic regimen, older patients"
+1666,"nordic regimen, younger patients"
+1667,novp
+1668,np-ddac
+1669,np-ddac and atezolizumab
+1670,np-ddec
+1671,np-ec
+1672,o-chop
+1673,o-dap
+1674,o-dhap
+1675,o-eshap
+1676,o-fc
+1677,o-ice
+1678,o-minichop
+1679,oap
+1680,oap-bleo
+1681,obinutuzumab monotherapy
+1682,octreotide and interferon alfa
+1683,octreotide and prednisone
+1684,octreotide lar monotherapy
+1685,octreotide monotherapy
+1686,oepa
+1687,ofar
+1688,ofatumumab monotherapy
+1689,olaparib and bevacizumab
+1690,olaparib monotherapy
+1691,olutasidenib monotherapy
+1692,omacetaxine monotherapy
+1693,opdivo + cisplatin + gemcitabine
+1694,open
+1695,opp
+1696,oppa
+1697,osimertinib monotherapy
+1698,ox-p
+1699,oxafafu
+1700,oxaliplatin and bevacizumab
+1701,oxaliplatin and paclitaxel
+1702,oxaliplatin and rt
+1703,oxaliplatin monotherapy
+1704,"oxaliplatin, paclitaxel, tislelizumab"
+1705,p-mvac
+1706,p/doce
+1707,pab-esc-c
+1708,pac-p
+1709,pacebom
+1710,paclitaxel and bevacizumab
+1711,paclitaxel and pazopanib
+1712,paclitaxel and pembrolizumab
+1713,paclitaxel and ramucirumab
+1714,paclitaxel and rt
+1715,paclitaxel and s-1
+1716,paclitaxel and vinorelbine
+1717,"paclitaxel, nanoparticle albumin-bound and bevacizumab"
+1718,"paclitaxel, pertuzumab, trastuzumab emtansine"
+1719,"paclitaxel, topotecan, bevacizumab"
+1720,pacritinib monotherapy
+1721,pad/vcd
+1722,paf
+1723,pan-tpf
+1724,panitumumab monotherapy
+1725,panobinostat and rituximab
+1726,panobinostat monotherapy
+1727,patco
+1728,pave
+1729,pazopanib monotherapy
+1730,pbm
+1731,pcde
+1732,pce
+1733,pcf
+1734,pco
+1735,pcp
+1736,pcr
+1737,pcv
+1738,peba
+1739,pediatric-like graall consolidation
+1740,pefg
+1741,"pegaspargase, vincristine, dexamethasone"
+1742,peginterferon alfa-2a monotherapy
+1743,peginterferon alfa-2b monotherapy
+1744,pegylated liposomal doxorubicin and bevacizumab
+1745,pegylated liposomal doxorubicin and trabectedin
+1746,pegylated liposomal doxorubicin monotherapy
+1747,pelf
+1748,pembrolizumab monotherapy
+1749,pemetrexed and bevacizumab
+1750,pemetrexed monotherapy
+1751,pemigatinib monotherapy
+1752,pen
+1753,penpulimab monotherapy
+1754,pentostatin and alemtuzumab
+1755,pentostatin monotherapy
+1756,pep
+1757,pep-c
+1758,pertuzumab and t-dm1
+1759,pertuzumab and trastuzumab
+1760,pertuzumab and trastuzumab hyaluronidase monotherapy
+1761,pet
+1762,pev
+1763,pexidartinib monotherapy
+1764,pf + e
+1765,pfm
+1766,pft
+1767,pgc
+1768,phesgo
+1769,phrt
+1770,pia
+1771,pie
+1772,pimitespib monotherapy
+1773,pirarubicin monotherapy
+1774,pirtobrutinib monotherapy
+1775,pixantrone monotherapy
+1776,plerixafor monotherapy
+1777,plicamycin monotherapy
+1778,pm
+1779,pmf
+1780,pmfac
+1781,pmitcebo
+1782,poca
+1783,pocc
+1784,pola-r-chp
+1785,pomalidomide and dexamethasone (pd)
+1786,pomalidomide and prednisone
+1787,"pomalidomide, dexamethasone, pembrolizumab"
+1788,pomb
+1789,pomp
+1790,ponatinib and blinatumomab
+1791,ponatinib monotherapy
+1792,"ponatinib, vincristine, dexamethasone"
+1793,pralatrexate monotherapy
+1794,pralsetinib monotherapy
+1795,prednisolone and rituximab
+1796,prednisolone monotherapy
+1797,prednisone and rituximab
+1798,prednisone monotherapy
+1799,prh-e
+1800,prime
+1801,procarbazine monotherapy
+1802,promace
+1803,promace-cytabom
+1804,promace-mopp
+1805,puva
+1806,pvag
+1807,pvd
+1808,quizartinib monotherapy
+1809,"r, then chop"
+1810,r-acvbp
+1811,r-bac
+1812,r-bl
+1813,r-cdop
+1814,r-ceop (etoposide)
+1815,r-ceop70
+1816,r-ceop90
+1817,r-chmp
+1818,r-choep-14
+1819,r-chop
+1820,r-chop-14
+1821,r-chop/r-dhaox
+1822,r-chop/r-dhap
+1823,r-chvp plus i
+1824,r-cmd
+1825,r-codox-m
+1826,r-codox-m/r-ivac
+1827,r-copadm
+1828,r-cp
+1829,r-cvep
+1830,r-cvp
+1831,r-dexabeam
+1832,r-dhac
+1833,r-dhaox
+1834,r-dhap
+1835,r-dhap/r-vim
+1836,r-dhax
+1837,r-epoch
+1838,r-eshap
+1839,r-fm
+1840,r-fnd
+1841,r-gcvp
+1842,r-gdp
+1843,r-gemox
+1844,r-hidac
+1845,r-hyper-cvad/r-ma
+1846,r-hypercvad
+1847,r-ice
+1848,r-ife
+1849,r-ino
+1850,r-mcp
+1851,r-megachop
+1852,r-megachop-14
+1853,r-miniceop
+1854,r-minichop
+1855,r-mp
+1856,r-mpv
+1857,r-nimp
+1858,r-tbi/cy
+1859,r-thp-cop
+1860,r-vad plus c
+1861,r2-chop
+1862,rabvd
+1863,radioiodine and selumetinib
+1864,radotinib monotherapy
+1865,raltitrexed monotherapy
+1866,ramucirumab monotherapy
+1867,ravulizumab monotherapy
+1868,rcc
+1869,regorafenib monotherapy
+1870,relugolix monotherapy
+1871,repotrectinib monotherapy
+1872,rice
+1873,ricer
+1874,ridd
+1875,ripad plus c
+1876,ripretinib monotherapy
+1877,rituximab and hyaluronidase monotherapy
+1878,rituximab monotherapy
+1879,rivaroxaban monotherapy
+1880,roap
+1881,romidepsin monotherapy
+1882,romiplostim monotherapy
+1883,ropeginterferon alfa-2b monotherapy
+1884,"rt, then carmustine"
+1885,"rt, then temozolomide"
+1886,rt-pepc
+1887,rtog chemoradiation
+1888,rucaparib monotherapy
+1889,ruxolitinib monotherapy
+1890,rvd
+1891,rvdc
+1892,rvr
+1893,s-1 and rt
+1894,s-1 monotherapy
+1895,sacituzumab govitecan monotherapy
+1896,sam
+1897,sargramostim monotherapy
+1898,sc-epoch-rr
+1899,scab
+1900,sdd
+1901,selinexor and dexamethasone (sd)
+1902,selinexor monotherapy
+1903,selpercatinib monotherapy
+1904,selumetinib monotherapy
+1905,serplulimab monotherapy
+1906,shai
+1907,siltuximab monotherapy
+1908,simal-bone marrow transplant
+1909,simal-pilot
+1910,simal-second induction/maintenance
+1911,sintilimab monotherapy
+1912,sipuleucel-t monotherapy
+1913,sirolimus and prednisone
+1914,sirolimus and vorinostat
+1915,sirolimus monotherapy
+1916,sjmb-96 protocol average risk
+1917,sjmb-96 protocol high risk
+1918,sk
+1919,skd
+1920,smf
+1921,smile
+1922,sonidegib monotherapy
+1923,sorafenib monotherapy
+1924,sotorasib and panitumumab
+1925,sotorasib monotherapy
+1926,sox
+1927,sox and bevacizumab
+1928,stamp-i
+1929,stanford v
+1930,steam
+1931,sugemalimab monotherapy
+1932,sunitinib monotherapy
+1933,suramin and hydrocortisone
+1934,suramin monotherapy
+1935,sutimlimab monotherapy
+1936,svd
+1937,t-10 protocol
+1938,t-2 protocol
+1939,t-ac
+1940,t-cap
+1941,t-cid
+1942,t-ddac
+1943,t-ddec
+1944,t-dm1 and et
+1945,t-ec
+1946,t-fac
+1947,t-h (docetaxel)
+1948,t-mop
+1949,tabelecleucel monotherapy
+1950,"tace, then 5-fu"
+1951,tagraxofusp monotherapy
+1952,talazoparib monotherapy
+1953,talimogene laherparepvec monotherapy
+1954,talquetamab monotherapy
+1955,tam exemestane
+1956,tam letrozole
+1957,tam6
+1958,tamibarotene monotherapy
+1959,tamoxifen and ofs
+1960,tamoxifen and prednisolone
+1961,tamoxifen and trastuzumab
+1962,tamoxifen monotherapy
+1963,tamoxifen-anastrozole
+1964,tamoxifen-exemestane
+1965,tamoxifen-letrozole
+1966,tandem melphalan
+1967,tarlatamab monotherapy
+1968,taxol/cbdca
+1969,tazemetostat monotherapy
+1970,tbp
+1971,"tc, then ie, vdoxoc, vec"
+1972,tc-h (docetaxel)
+1973,tchp (docetaxel)
+1974,tcp
+1975,tebentafusp monotherapy
+1976,teclistamab monotherapy
+1977,tee
+1978,"tegafur, uracil, folinic acid"
+1979,temozolomide + cra
+1980,temozolomide and bevacizumab
+1981,temozolomide and low-dose rt
+1982,temozolomide and novottf-100a
+1983,temozolomide and rt
+1984,"temozolomide and rt, then temozolomide"
+1985,temozolomide and thalidomide
+1986,temozolomide monotherapy
+1987,"temozolomide, then temozolomide and rt, then temozolomide"
+1988,temp
+1989,temsirolimus and rituximab
+1990,temsirolimus monotherapy
+1991,teniposide monotherapy
+1992,tepotinib monotherapy
+1993,th-ac (paclitaxel)
+1994,th-ddac (paclitaxel)
+1995,th-fec (docetaxel)
+1996,th-fec and h (docetaxel)
+1997,thalidomide and dexamethasone (td)
+1998,thalidomide and prednisolone (tp)
+1999,thalidomide and prednisone (tp)
+2000,thalidomide and rituximab
+2001,thiotepa monotherapy
+2002,thl (paclitaxel)
+2003,thp (docetaxel)
+2004,tic
+2005,tip
+2006,tisagenlecleucel monotherapy
+2007,tislelizumab monotherapy
+2008,tisotumab vedotin monotherapy
+2009,tit
+2010,tivozanib monotherapy
+2011,tli
+2012,tmf
+2013,toap
+2014,tocilizumab monotherapy
+2015,topotecan and bevacizumab
+2016,topotecan monotherapy
+2017,toremifene and trastuzumab
+2018,toremifene monotherapy
+2019,toripalimab monotherapy
+2020,total therapy
+2021,tovorafenib monotherapy
+2022,tpch
+2023,tpdc-fuhu
+2024,tpdcv
+2025,trabectedin monotherapy
+2026,trametinib monotherapy
+2027,trap
+2028,trastuzumab and et
+2029,trastuzumab and hyaluronidase monotherapy
+2030,trastuzumab deruxtecan monotherapy
+2031,trastuzumab emtansine monotherapy
+2032,trastuzumab monotherapy
+2033,treosulfan monotherapy
+2034,trifluridine and tipiracil and bevacizumab
+2035,trifluridine and tipiracil monotherapy
+2036,triptorelin and rt
+2037,triptorelin monotherapy
+2038,tt-r
+2039,tt4
+2040,ttr
+2041,tucatinib and trastuzumab
+2042,tvad (pegylated liposomal doxorubicin substituted)
+2043,tx-cex
+2044,uft
+2045,uft monotherapy
+2046,uftm
+2047,umbralisib monotherapy
+2048,v-beam
+2049,v-fec
+2050,v-hypercad
+2051,va
+2052,vaap
+2053,vab 1
+2054,vab 2
+2055,vab 3
+2056,vab-6
+2057,vab-v
+2058,vabcd
+2059,vaca
+2060,vaca/ie
+2061,vacad
+2062,vacop-b
+2063,vad and cyclosporine
+2064,vad plus c
+2065,vad-p
+2066,vad-p/q
+2067,vad/v
+2068,vafac
+2069,vai
+2070,vaia
+2071,valemetostat monotherapy
+2072,vam
+2073,vamp
+2074,vandetanib monotherapy
+2075,vap
+2076,vap-ii
+2077,vatd
+2078,vath
+2079,vav
+2080,vb
+2081,vba
+2082,vbap
+2083,vbm (vincristine)
+2084,vbmcp
+2085,vbmcp/vbad
+2086,vbmf
+2087,vcap
+2088,vcf
+2089,vcr-cvad
+2090,vdc/ie
+2091,veip
+2092,vemp
+2093,vemurafenib monotherapy
+2094,ven-kd
+2095,venetoclax and rituximab
+2096,venetoclax monotherapy
+2097,vepa
+2098,vepemb
+2099,vh-fec
+2100,vhp
+2101,vide
+2102,vie
+2103,vinblastine and prednisone
+2104,vinblastine monotherapy
+2105,vincristine liposomal monotherapy
+2106,vincristine monotherapy
+2107,vindesine monotherapy
+2108,vinflunine monotherapy
+2109,vinorelbine and bevacizumab
+2110,vinorelbine and margetuximab
+2111,vinorelbine and trastuzumab (vh)
+2112,vinorelbine and trastuzumab (vh) and everolimus
+2113,vip
+2114,vip-b
+2115,vipd
+2116,vismodegib monotherapy
+2117,vm
+2118,vm-26pp
+2119,vmad
+2120,vmc
+2121,vmcp
+2122,vmcp/vbap
+2123,vmcp/vcap
+2124,vmd
+2125,"vmp, then rd"
+2126,vmp/rd
+2127,vmpt
+2128,vmv-vac
+2129,vmv/vac
+2130,vncop-b
+2131,vocap
+2132,vorinostat and rituximab
+2133,vorinostat monotherapy
+2134,vpbcpr
+2135,vpp
+2136,vpv
+2137,vr-cap
+2138,vr-chop
+2139,vr-cp
+2140,vt
+2141,vtd
+2142,vtd-pace
+2143,vtepa
+2144,vtp
+2145,warfarin monotherapy
+2146,xhp
+2147,z-beam
+2148,zanubrutinib and obinutuzumab
+2149,zanubrutinib monotherapy
+2150,zimberelimab monotherapy
+2151,zrd

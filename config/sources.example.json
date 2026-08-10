@@ -1,0 +1,12 @@
+{
+  "files": {
+    "hemonc_zip": "raw/hemonc/dataverse_files.zip",
+    "canmed_ndc": "raw/canmed/ndconc_results.csv",
+    "drugbank_vocabulary": "raw/drugbank/drugbank vocabulary.csv",
+    "ncit_flat_zip": "raw/ncit/Thesaurus_24.05d.FLAT.zip",
+    "aact_interventions": "raw/aact/interventions.txt",
+    "aact_intervention_other_names": "raw/aact/intervention_other_names.txt",
+    "seer_drugs": "raw/seer_rx/drugs.csv",
+    "seer_regimens": "raw/seer_rx/regimens.csv"
+  }
+}

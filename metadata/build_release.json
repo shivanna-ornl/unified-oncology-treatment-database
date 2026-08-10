@@ -1,0 +1,17 @@
+{
+  "build_name": "publication-build-2026-08-09",
+  "build_date": "2026-08-09",
+  "rxnorm_dataset_version": "03-Aug-2026",
+  "rxnorm_api_version": "3.1.354",
+  "source_priority": [
+    "HemOnc",
+    "CanMED",
+    "DrugBank",
+    "RxNorm",
+    "NCI Thesaurus",
+    "SEER*Rx"
+  ],
+  "nonpriority_source": "AACT",
+  "automatic_rxnorm_match": "NFKC-normalized exact surface match",
+  "eligible_canonical_ttys": ["IN", "MIN"]
+}
