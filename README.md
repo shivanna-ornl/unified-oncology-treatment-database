@@ -1,5 +1,7 @@
 # Unified Oncology Treatment Database
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22181331.svg)](https://doi.org/10.5281/zenodo.22181331)
+
 This repository contains the reproducible, end-to-end implementation of the
 multisource oncology treatment database described in the accompanying
 manuscript and technical documentation. It standardizes supported source
@@ -148,3 +150,5 @@ source versions.
 Release citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 Version `1.0.0` is the publication release associated with the manuscript
 "A Unified Multisource Treatment Database for Oncology Drugs and Regimens."
+The frozen release is archived at
+[https://doi.org/10.5281/zenodo.22181331](https://doi.org/10.5281/zenodo.22181331).

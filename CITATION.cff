@@ -4,6 +4,7 @@ title: "Unified Oncology Treatment Database"
 type: dataset
 version: 1.0.0
 date-released: "2026-08-30"
+doi: 10.5281/zenodo.22181331
 authors:
   - given-names: Abhishek
     family-names: Shivanna
