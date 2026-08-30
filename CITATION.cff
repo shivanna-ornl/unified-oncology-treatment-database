@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite the archived release using these metadata."
+title: "Unified Oncology Treatment Database"
+type: dataset
+version: 1.0.0
+date-released: "2026-08-30"
+authors:
+  - given-names: Abhishek
+    family-names: Shivanna
+    affiliation: Oak Ridge National Laboratory
+  - given-names: Jordan
+    family-names: Tschida
+    affiliation: Oak Ridge National Laboratory
+  - given-names: Mayanka
+    family-names: Chandrashekar
+    affiliation: Oak Ridge National Laboratory
+  - given-names: Austin
+    family-names: Fitts
+    affiliation: National Cancer Institute, National Institutes of Health
+  - given-names: Elizabeth
+    family-names: Hsu
+    affiliation: National Cancer Institute, National Institutes of Health
+  - given-names: Heidi A.
+    family-names: Hanson
+    affiliation: Oak Ridge National Laboratory
+abstract: >-
+  A reproducible multisource database that harmonizes oncology drugs, drug
+  synonyms, regimens, regimen synonyms, condition-regimen associations, and
+  clinical-trial intervention names. The release includes 11 production CSV
+  tables, implementation code, source and release manifests, RxNorm mapping
+  audits, and quality-assurance reports.
+keywords:
+  - oncology
+  - treatment database
+  - drug terminology
+  - regimen terminology
+  - RxNorm
+  - clinical informatics
+repository-code: "https://github.com/shivanna-ornl/unified-oncology-treatment-database"
+url: "https://github.com/shivanna-ornl/unified-oncology-treatment-database"

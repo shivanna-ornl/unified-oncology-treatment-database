@@ -1,20 +1,14 @@
 -- Materialize the unchanged public production schema from validated staging.
 
 DROP TABLE IF EXISTS production_Data_Sources;
-CREATE TABLE production_Data_Sources (
-    source_id INTEGER,
-    dataset_name TEXT,
-    dataset_link TEXT,
-    dataset_description TEXT
-);
-INSERT INTO production_Data_Sources VALUES
-    (1, 'HEMOC', 'Datasource Link: hemoc.org/wiki/Main_page', 'HEMOC is the largest freely available medical wiki of interventions, regimens, and general information relevant to hematology and oncology.'),
-    (2, 'CanMED', 'CanMed Link: seer.cancer.gov/oncologytoolbox', 'The Cancer Medications Enquiry Database (CanMED) is a two-part resource for cancer drug treatment studies. It uses National Drug Code (NDC) and Healthcare Common Procedure Coding System (HCPCS).'),
-    (3, 'Drug Bank', 'DrugBank Link: go.drugbank.com/releases/latest#open-data', 'DrugBank identifiers, names and synonyms permit linkage into projects.'),
-    (4, 'RxNorm', 'RxNorm Link: nlm.nih.gov/research/umls/rxnorm/index.html', 'RxNorm provides normalized names for clinical drugs and links drug vocabularies.'),
-    (5, 'NCI Thesaurus', 'NCI Thesaurus Link: evs.nci.nih.gov/ftp1/NCI_Thesaurus', 'The Enterprise Vocabulary Services provides NCI terminology content and tools.'),
-    (6, 'AACT Clinical Trial', 'AACT Link: aact.ctti-clinicaltrials.org/download', 'AACT data files.'),
-    (7, 'SEER*RX', 'SEER*RX Link: seer.cancer.gov/tools/seerrx', 'SEER*RX supports coding oncology drug and regimen treatment categories in cancer registries.');
+CREATE TABLE production_Data_Sources AS
+SELECT
+    CAST(source_id AS INTEGER) AS source_id,
+    dataset_name,
+    dataset_link,
+    dataset_description
+FROM integrated_Data_Sources
+ORDER BY CAST(source_id AS INTEGER);
 
 DROP TABLE IF EXISTS production_Anchor_Drugs;
 CREATE TABLE production_Anchor_Drugs AS

@@ -106,7 +106,10 @@ python3 src/run_pipeline.py
 # Unit tests
 python3 -m unittest discover -s tests -v
 
-# Re-run QA on an existing build
+# Verify the deposited production and audit files from a fresh clone
+make verify
+
+# Re-run database QA after creating a local build database
 make qa
 
 # Intentionally move to a newer RxNorm release
@@ -129,9 +132,19 @@ tables. See [`docs/public_schema.md`](docs/public_schema.md) and
 
 ## Licensing
 
-The code is available under the MIT License. That license does not grant rights
-to third-party source data or override their terms. Users are responsible for
-obtaining and using HemOnc, CanMED, DrugBank, RxNorm, NCIt, AACT, and SEER*Rx
-under the applicable licenses and citation requirements. See `NOTICE` and the
-source manifest before redistributing derived artifacts.
+The code and original documentation are available under the MIT License. The
+production, audit, QA, and release-metadata files are distributed under
+CC BY-NC-SA 4.0 because they incorporate and adapt terminology from the full
+HemOncKB release. The DrugBank input is limited to the CC0 DrugBank Vocabulary
+Open Data dataset; raw source packages are not redistributed.
 
+See [`LICENSE-DATA.md`](LICENSE-DATA.md), `NOTICE`, and
+[`metadata/source_manifest.json`](metadata/source_manifest.json) for the exact
+scope, required HemOnc attribution, modification notice, upstream terms, and
+source versions.
+
+## Citation
+
+Release citation metadata are provided in [`CITATION.cff`](CITATION.cff).
+Version `1.0.0` is the publication release associated with the manuscript
+"A Unified Multisource Treatment Database for Oncology Drugs and Regimens."

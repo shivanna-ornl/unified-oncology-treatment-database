@@ -1,11 +1,32 @@
-The MIT License applies to repository code and documentation only.
+The MIT License applies to repository-authored source code and original
+documentation only. Generated data, audit, QA, and release-metadata files are
+covered by the file-scoped terms in LICENSE-DATA.md.
 
-Source datasets and their contents remain subject to their respective terms,
-including HemOnc release terms, DrugBank access/license conditions, UMLS/RxNorm
-terms where applicable, NCI attribution requirements, and source-specific
-citation guidance. This repository intentionally excludes raw source files.
+HemOncKB attribution: this release incorporates and adapts the 2024-06-20 full
+HemOncKB ontology export produced by HemOnc.org LLC and obtained from the
+HemOnc Dataverse (https://doi.org/10.7910/DVN/FPO4HB). The full release is
+licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International (CC BY-NC-SA 4.0).
 
-Generated production and audit artifacts are derived from multiple sources.
-Before redistribution, users must determine whether their planned use is
-permitted by every applicable upstream license and agreement.
+Changes include selecting source tables and fields; normalizing case,
+spelling, and whitespace; integrating and deduplicating terminology with
+other sources; assigning release-local identifiers; mapping and filtering
+terms using RxNorm; and separating accepted and quarantined records. No
+endorsement by HemOnc.org LLC is implied. See
+https://hemonc.org/wiki/HemOncKB and
+https://creativecommons.org/licenses/by-nc-sa/4.0/.
 
+Requested HemOncKB citation: Warner JL, Dymshyts D, Reich CG, Gurley MJ,
+Hochheiser H, Moldwin ZH, Belenkaya R, Williams AE, Yang PC. HemOnc: A new
+standard vocabulary for chemotherapy regimen representation in the OMOP
+Common Data Model. Journal of Biomedical Informatics. 2019;96:103239.
+https://doi.org/10.1016/j.jbi.2019.103239
+
+The DrugBank input is limited to DrugBank Vocabulary Open Data identifiers,
+names, and synonyms released under CC0 1.0. No separately licensed DrugBank
+full-database content is used. The CC0 status of the underlying DrugBank
+Vocabulary records is unchanged. Raw third-party source packages are
+excluded.
+
+See LICENSE-DATA.md and metadata/source_manifest.json for scope, attribution,
+source versions, checksums, acquisition locations, and other upstream terms.

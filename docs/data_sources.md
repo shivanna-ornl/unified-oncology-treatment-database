@@ -8,9 +8,9 @@ every required file against the SHA-256 value in
 
 | Source | Publication release/snapshot | Obtain from | Access and redistribution | Expected local path |
 |---|---|---|---|---|
-| HemOncKB | 2024-06-20 ontology export; archive assembled 2024-07-10 | [HemOncKB availability and Dataverse link](https://hemonc.org/wiki/HemOncKB) | Full data are available for academic/non-commercial use. Review the release-specific CC BY and CC BY-NC-SA terms. | `raw/hemonc/dataverse_files.zip` |
+| HemOncKB | 2024-06-20 full ontology export; archive assembled 2024-07-10 | [HemOncKB availability and Dataverse link](https://hemonc.org/wiki/HemOncKB) | Full HemOncKB is available for academic/noncommercial use under CC BY-NC-SA 4.0. The derived production/audit tables retain its attribution, noncommercial, modification-notice, and share-alike requirements. | `raw/hemonc/dataverse_files.zip` |
 | CanMED NDC | Version 1.24.0; manuscript access date 2024-10-01 | [CanMED](https://seer.cancer.gov/oncologytoolbox/canmed/) | US Government work/public domain; follow SEER citation guidance. | `raw/canmed/ndconc_results.csv` |
-| DrugBank Vocabulary | 2024 manuscript-build vocabulary export; the file does not encode an internal release number | [DrugBank releases](https://go.drugbank.com/releases/latest#open-data) | Obtain directly from DrugBank. Do not commit or redistribute the downloaded file unless the applicable license permits it. | `raw/drugbank/drugbank vocabulary.csv` |
+| DrugBank Vocabulary | 2024 manuscript-build vocabulary export; the file does not encode an internal release number | [DrugBank releases](https://go.drugbank.com/releases/latest#open-data) | DrugBank Vocabulary Open Data identifiers, names, and synonyms are released under CC0 1.0. The raw download is excluded; integrated vocabulary elements may be redistributed. | `raw/drugbank/drugbank vocabulary.csv` |
 | NCI Thesaurus | 24.05d | [NCI EVS FTP](https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/) | CC BY 4.0 with attribution. | `raw/ncit/Thesaurus_24.05d.FLAT.zip` |
 | AACT interventions | 2024-07-10 snapshot | [AACT snapshots](https://aact.ctti-clinicaltrials.org/downloads/snapshots) | Publicly downloadable; follow AACT and ClinicalTrials.gov citation guidance. | `raw/aact/interventions.txt` |
 | AACT intervention other names | 2024-07-10 snapshot | [AACT snapshots](https://aact.ctti-clinicaltrials.org/downloads/snapshots) | Same as above. | `raw/aact/intervention_other_names.txt` |
@@ -31,6 +31,10 @@ The preprocessor reads these members directly from `dataverse_files.zip`:
 - `Tables/pointer.table.csv`
 
 The archive does not need to be unpacked.
+
+Because this build uses the full HemOncKB export, the deposited production and
+audit tables are distributed under CC BY-NC-SA 4.0. See `LICENSE-DATA.md` and
+`NOTICE` for the required attribution and modification notice.
 
 ## AACT preparation
 
@@ -70,4 +74,3 @@ raw/
   seer_rx/drugs.csv
   seer_rx/regimens.csv
 ```
-

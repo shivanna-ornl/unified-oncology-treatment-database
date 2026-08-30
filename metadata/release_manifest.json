@@ -1,5 +1,6 @@
 {
   "built_at": "2026-08-10T00:16:43.085926+00:00",
+  "archive_note": "Raw third-party source packages and ignored build/cache intermediates are not deposited. Hashes for non-deposited build inputs are retained for provenance.",
   "files": {
     "audit/audit_drug_term_quarantine.csv": {
       "bytes": 9944057,
@@ -74,8 +75,8 @@
       "sha256": "b179b99ab9a0cc320ba44af368e078c120512fb47cc9d1f3214f5140b8ebb09c"
     },
     "outputs/production/Data_Sources.csv": {
-      "bytes": 1170,
-      "sha256": "2f49973d800d3ab3045501933b63acc7cd70288db5ed507c32c14a67a5259e65"
+      "bytes": 780,
+      "sha256": "043b170e5bd76d17ddf083b8279c97ccadafb8d626bf94efbcee6d600f1ea5c4"
     },
     "outputs/production/Regimen_Source.csv": {
       "bytes": 14948,
@@ -92,12 +93,12 @@
       "sha256": "dbfafee6033e3b605f326f8fce1f4b8b838cc585d3b800e2808f0a68e7c1fdea"
     },
     "metadata/build_release.json": {
-      "bytes": 423,
-      "sha256": "cdf6e3231420897e9f3ccee430dbd2cf0d47dd28b386fe3829f6269e11593b09"
+      "bytes": 453,
+      "sha256": "a58cee1bf416b5464db7608dcdc90bcad2ad57c012b9eca8d2a7eb9fa892d468"
     },
     "metadata/source_manifest.json": {
-      "bytes": 5313,
-      "sha256": "1892e9e4026c054d491b807a532a02db5011790569c93cb937e43174e598fa51"
+      "bytes": 5590,
+      "sha256": "6a38652eb6ff5c4fbee1618d96964d789b40d89d1efa3ec36ac799d046fd65f0"
     },
     "sql/pipeline/01_reconstruct_integrated_staging.sql": {
       "bytes": 2233,
@@ -108,8 +109,8 @@
       "sha256": "c045b6139594ebd84a4e8866f688f7f92ae9d6d035ce06a7fab609157c67b47e"
     },
     "sql/pipeline/03_materialize_production.sql": {
-      "bytes": 9924,
-      "sha256": "635bfe762512e4dc6e84d370be49318e498eed0bd7975912e17c50cd6acabf00"
+      "bytes": 8737,
+      "sha256": "ef9e02d5ffb35c9dfa3cde162154556d2ca6c04b8e4f415ff8ff8df58e4bfc6e"
     },
     "sql/reference/drug_combined.sql": {
       "bytes": 43896,
@@ -132,6 +133,11 @@
       "sha256": "6ec49640de83bfe0e7ea9f433834e41a2cfbbafc92ee08d024e1dbaba007fbc6"
     }
   },
+  "non_deposited_inputs": [
+    "cache/rxnorm/surface_resolution.csv",
+    "work/provisional/integration_manifest.json",
+    "work/standardized/preprocess_manifest.json"
+  ],
   "pipeline": "raw source preprocessing -> priority integration -> RxNorm semantic validation -> public materialization",
   "public_schema_version": 1,
   "row_counts": {

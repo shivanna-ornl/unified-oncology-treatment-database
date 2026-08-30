@@ -1,0 +1,42 @@
+{
+  "title": "Unified Oncology Treatment Database",
+  "upload_type": "dataset",
+  "publication_date": "2026-08-30",
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "description": "<p>A reproducible multisource database that harmonizes oncology drugs, drug synonyms, regimens, regimen synonyms, condition-regimen associations, and clinical-trial intervention names. This release includes 11 production CSV tables, implementation code, source and release manifests, RxNorm mapping audits, and quality-assurance reports.</p><p><strong>File-scoped licensing:</strong> the production, audit, QA, and release-metadata files are distributed under CC BY-NC-SA 4.0 because they incorporate and adapt the full HemOncKB release. Repository-authored source code and original documentation are separately licensed under MIT. The DrugBank input is limited to the CC0 DrugBank Vocabulary Open Data dataset. See <code>LICENSE</code>, <code>LICENSE-DATA.md</code>, <code>NOTICE</code>, and <code>metadata/source_manifest.json</code> for the exact scope, attribution, and upstream terms.</p><p>Raw third-party source packages are not included.</p>",
+  "creators": [
+    {
+      "name": "Shivanna, Abhishek",
+      "affiliation": "Oak Ridge National Laboratory"
+    },
+    {
+      "name": "Tschida, Jordan",
+      "affiliation": "Oak Ridge National Laboratory"
+    },
+    {
+      "name": "Chandrashekar, Mayanka",
+      "affiliation": "Oak Ridge National Laboratory"
+    },
+    {
+      "name": "Fitts, Austin",
+      "affiliation": "National Cancer Institute, National Institutes of Health"
+    },
+    {
+      "name": "Hsu, Elizabeth",
+      "affiliation": "National Cancer Institute, National Institutes of Health"
+    },
+    {
+      "name": "Hanson, Heidi A.",
+      "affiliation": "Oak Ridge National Laboratory"
+    }
+  ],
+  "keywords": [
+    "oncology",
+    "treatment database",
+    "drug terminology",
+    "regimen terminology",
+    "RxNorm",
+    "clinical informatics"
+  ]
+}

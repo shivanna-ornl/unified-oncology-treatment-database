@@ -46,8 +46,14 @@ provisional tables, and the temporary SQLite database. The ignored
 
 ```bash
 python3 -m unittest discover -s tests -v
-make qa
+make verify
 ```
+
+`make verify` works from a fresh clone and validates the 11 production CSVs,
+supporting audit CSVs, schemas, row counts, semantic constraints, and release
+hashes. After running the complete raw-to-production pipeline locally, use
+`make qa` to rerun both database-level QA against the ignored SQLite build and
+the exported-file verification.
 
 Review:
 
@@ -84,4 +90,3 @@ Within a fixed set of input checksums and RxNorm API responses, terms and IDs
 are ordered deterministically. Source-priority representatives, public IDs,
 association rows, and exports are sorted before writing. Timestamps in
 manifests will differ between runs; CSV content hashes should remain stable.
-

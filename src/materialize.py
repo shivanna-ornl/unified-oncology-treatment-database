@@ -199,6 +199,16 @@ def run(repo: Path) -> dict[str, object]:
         rxnorm_manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         release_manifest = {
             "built_at": datetime.now(timezone.utc).isoformat(),
+            "archive_note": (
+                "Raw third-party source packages and ignored build/cache intermediates "
+                "are not deposited. Hashes for non-deposited build inputs are retained "
+                "for provenance."
+            ),
+            "non_deposited_inputs": [
+                "cache/rxnorm/surface_resolution.csv",
+                "work/provisional/integration_manifest.json",
+                "work/standardized/preprocess_manifest.json",
+            ],
             "pipeline": "raw source preprocessing -> priority integration -> RxNorm semantic validation -> public materialization",
             "rxnorm_dataset_version": rxnorm_version.get("version", ""),
             "rxnorm_api_version": rxnorm_version.get("apiVersion", ""),

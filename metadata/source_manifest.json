@@ -5,11 +5,13 @@
     {
       "key": "hemonc_zip",
       "source": "HemOncKB",
-      "release_or_snapshot": "2024-06-20 ontology export; archive assembled 2024-07-10",
+      "release_or_snapshot": "2024-06-20 full ontology export; archive assembled 2024-07-10",
       "expected_filename": "dataverse_files.zip",
       "sha256": "0d7c3165a8f32c8e862f9bb1dce845af60b3356fa62a2a7764ac61ab75b60bab",
       "obtain_from": "https://hemonc.org/wiki/HemOncKB",
-      "license_or_access": "Full HemOncKB is available for academic/non-commercial use through HemOnc Dataverse; review the release's CC BY and CC BY-NC-SA terms.",
+      "license_spdx": "CC-BY-NC-SA-4.0",
+      "source_doi": "10.7910/DVN/FPO4HB",
+      "license_or_access": "Full HemOncKB is available for academic/noncommercial use under CC BY-NC-SA 4.0. Deposited production and audit tables retain the license's attribution, noncommercial, modification-notice, and share-alike requirements; see LICENSE-DATA.md.",
       "required": true,
       "used_members": [
         "2024-06-20 20-00-29.concept_stage.csv",
@@ -35,7 +37,8 @@
       "expected_filename": "drugbank vocabulary.csv",
       "sha256": "a2bb327775bd5a8683f67c47c802ac51bfc7fbc8dc8f70bf33db174adea6f856",
       "obtain_from": "https://go.drugbank.com/releases/latest#open-data",
-      "license_or_access": "Do not redistribute the downloaded file. Obtain access directly from DrugBank and comply with the applicable open-data, academic, or commercial license and citation terms.",
+      "license_spdx": "CC0-1.0",
+      "license_or_access": "DrugBank Vocabulary Open Data identifiers, names, and synonyms are released under the CC0 1.0 Universal public-domain dedication. The raw downloaded package is excluded; integrated vocabulary elements may be redistributed.",
       "required": true
     },
     {

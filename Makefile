@@ -1,9 +1,12 @@
 PYTHON ?= python3
 
-.PHONY: all qa test refresh clean
+.PHONY: all verify qa test refresh clean
 
 all:
 	$(PYTHON) src/run_pipeline.py
+
+verify:
+	$(PYTHON) src/verify_exports.py --repo .
 
 qa:
 	$(PYTHON) src/qa_checks.py --repo .
@@ -17,4 +20,3 @@ refresh:
 
 clean:
 	$(PYTHON) src/clean_work.py --repo .
-

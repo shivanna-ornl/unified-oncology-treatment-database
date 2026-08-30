@@ -12,13 +12,13 @@ from common import normalize_surface, read_csv, valid_surface, write_csv, write_
 
 SOURCE_PRIORITY = {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 7: 6}
 DATA_SOURCES = [
-    (1, "HemOnc", "https://hemonc.org/wiki/Ontology", "Oncology drug, regimen, and condition vocabulary."),
+    (1, "HemOncKB", "https://hemonc.org/wiki/HemOncKB", "Oncology drug, regimen, and condition vocabulary."),
     (2, "CanMED", "https://seer.cancer.gov/oncologytoolbox/canmed/", "Cancer Medications Enquiry Database NDC resource."),
-    (3, "DrugBank", "https://go.drugbank.com/releases/latest#open-data", "Licensed drug vocabulary export."),
+    (3, "DrugBank Vocabulary", "https://go.drugbank.com/releases/latest#open-data", "CC0 open-data identifiers, names, and synonyms."),
     (4, "RxNorm", "https://www.nlm.nih.gov/research/umls/rxnorm/", "Normalized clinical drug terminology and relationships."),
     (5, "NCI Thesaurus", "https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/", "NCI reference terminology."),
-    (6, "AACT", "https://aact.ctti-clinicaltrials.org/download", "Aggregate Analysis of ClinicalTrials.gov."),
-    (7, "SEER*Rx", "https://seer.cancer.gov/tools/seerrx/", "Oncology drug and regimen coding resource."),
+    (6, "AACT", "https://aact.ctti-clinicaltrials.org/downloads/snapshots", "Aggregate Analysis of ClinicalTrials.gov."),
+    (7, "SEER*Rx", "https://seer.cancer.gov/seertools/seerrx/", "Oncology drug and regimen coding resource."),
 ]
 
 
@@ -311,4 +311,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
